@@ -4,9 +4,7 @@ Referrals from people who already work at Made Tech are one of the best signals 
 
 Our team understand our needs and what it’s like to work here, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
 
-To incentivise the 
-
-**We offer a referral bonus, which is flights for 2 people to a destination of their choice, for any new hire that comes from an employee referral.**
+**We offer a referral bonus, which is flights for 2 people to a destination of your choice, for any new hire that comes from an employee referral.**
 
 * All employees (except Rory + Chris) are eligible for the referral bonus. 
 * The referral date can’t be earlier than the date the job is posted and the hiring of the referred employee has to happen within 180 days (six months) of the initial referral. 
