@@ -1,6 +1,5 @@
 # Values
-
-* They say that software is eating the world and 
+ 
 * Fail fast
 * Nothing at Made is somebody else's problem
 * Don't mistake motion for progress

@@ -11,12 +11,11 @@ Introduction
 
 Benefits & Perks
 --
-* [Annual Performance Bonus](benefits/peformance_bonus.md)
 * [Unlimited Holiday](benefits/unlimited_holiday.md)
 * Company Credit Cards
 * Friday Lunches & Beers
 * Remote Working
-* Recruitment Referrals
+* [Recruitment Referrals](benefits/recruitment_referrals.md)
 
 Policies
 --
@@ -29,5 +28,6 @@ Compensation
 --
 * Salary & Pay Slips
 * Pay Reviews & Rises
+* [Annual Performance Bonuses](compensation/peformance_bonus.md)
 * Company Pensions
 * Expenses
