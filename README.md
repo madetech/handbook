@@ -1,6 +1,4 @@
-# Made Tech - Handbook
-
-At Made Tech we are working hard to build an company that values complete transparency, individual responsibility, over communication and moving as fast as possible. 
+# Made Tech - Handbook (WIP)
 
 
 Introduction
@@ -23,6 +21,7 @@ Policies
 * [Continuous Feedback](policies/continuous_feedback.md)
 * Sickness
 * Time Off 
+* Hiring
 
 Compensation
 --
