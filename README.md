@@ -6,6 +6,7 @@ Introduction
 * [Our Company](company/company.md)
 * [Our Beliefs & Values](company/beliefs_and_values.md)
 * [Your First Day](company/first_day.md)
+* [New Developer Practices](company/things_we_like.md)
 
 Benefits & Perks
 --
