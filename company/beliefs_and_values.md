@@ -14,6 +14,14 @@
 
 * We believe in running a sustainable company. 
 
+* We believe people are motivated not by a carrot and and a stick, but by education and curiosity. 
+
+* Motivate like open source software
+
+* We believe in a flat structure with self-motivating individuals 
+* Individuals with self direction
+* Creative, interesting and self-directed
+* Short term motivational incentives cause long-term damage by undermining the persons motives to perform an activity 
 
 ## Our Values 
 * Individuals and interactions over processes and tools

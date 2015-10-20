@@ -1,4 +1,5 @@
-#Things we like to see
+#New Developer Practices
+
 
 * Aim to commit frequently (many times per day)
 * Always commit into master, as we favour continuous integration over feature branches. 

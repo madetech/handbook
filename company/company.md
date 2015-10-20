@@ -1,8 +1,8 @@
 # Our Company
 
-Our mission to to provide businesses in London with better software services, through ruthless prioritisation and agile thinking. 
+Our mission to to provide businesses in London with better software services, through agile thinking and ruthless prioritisation of their requirements. 
 
-We will do this by embedding a ninja team, which moves at startup speed into our customers businesses and helping them to transform how they think.
+We do this by embedding a ninja team, which moves at startup pace into our customers organisations and help them to transform the way they think and approach delivery.
 
 ## Our Approach
 

@@ -1,30 +1,32 @@
 # First Day
 
-It's your first day at Made Tech. Welcome to the team! 
+It's your first day at Made Tech. Welcome to the team! There are a few things that we'll need to get you on-boarded: 
 
-Below you'll find a list of tools you will need access to. If you haven't already been provided with a username / password, then please let Rory or Chris know. 
+* [] Signed Contract
+* [] Office Keys
+* [] Passport
+* [] Bank Account
+* [] National Insurance / P60
+* [] Company Pension 
+* [] Website Photo, Blurb & Twitter Account
+* [] Introduction to Continuous Feedback
+* [] Tour of the Building
+* [] Work Buddy
+
+Below you'll find a list of tools that you will need to do you job. If you haven't already been provided with login credentials, then please let Rory or Chris know. 
 
 ### Tools
-* [x] Google Mail
-* [ ] Google Calendar
-* [ ] Google Docs
-* [x] Github
-* [x] Jenkins
-* [x] Xero
-* [x] Harvest
-* [x] Jira
-* [x] Campaign Monitor
-* [x] Slack
-* [x] LastPass
-* [ ] Trello
+* [] Google Mail
+* [] Google Calendar
+* [] Google Docs
+* [] Github
+* [] Jenkins
+* [] Xero
+* [] Harvest
+* [] Jira
+* [] Campaign Monitor
+* [] Slack
+* [] LastPass
+* [] Trello
 
-### Other Things
-* [x] Signed Contract
-* [x] Office Keys
-* [x] Passport
-* [x] Bank Account
-* [x] National Insurance / P60
-* [x] Company Pension 
-* [x] Website Photo, Blurb & Twitter Account
-* [ ] Continuous Feedback Initiation
-* [ ] Tour of the Building
+If you've not worked with Made before, we've got  alist 
