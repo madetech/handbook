@@ -12,10 +12,6 @@ To provide superior software services that: CUSTOMERS recommend to their colleag
 
 To make the world more Agile. We want to transform how organizations attract, engage and delight their customers.
 
-Key market: Who is your target client or customer (generalize if needed)?
-Contribution: What product or service do you provide to that client?
-Distinction: What makes your product or service unique, so that the client would choose you?
-
 ## Why do we exist?
 
 We believe that businesses should be moving much faster than they do and that the adoption of Agile is in its infancy and will underpin all high-performance businesses in years to come. 
