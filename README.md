@@ -16,7 +16,7 @@ Introduction
 
 Benefits & Perks
 --
-* [Unlimited Holiday](benefits/unlimited_holiday.md)
+* Unlimited Holiday
 * Company Credit Cards
 * Friday Lunches & Beers
 * Remote Working
@@ -34,11 +34,11 @@ Compensation
 --
 * Salary & Pay Slips
 * Pay Reviews & Rises
-* [Annual Performance Bonuses](compensation/peformance_bonus.md)
+* [Annual Performance Bonuses](compensation/performance_bonus.md)
 * Company Pensions
 * Expenses
 
 Process
 --
 * [New Developer Practices](process/new_developer_practices.md)
-* [Support & Maintenance](#)
+* Support & Maintenance
