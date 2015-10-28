@@ -1,8 +1,8 @@
 # Company Cards
 
-We don't believe in filing expense claims in triplicate, or that every single company purchase needs to be pre-approved by Chris or I. 
+We don't believe in filing expense claims in triplicate, or that every single company purchase needs to be pre-approved by Chris or Rory. 
 
-We offer everyone at Made Tech a company credit card, that can be used for discretionary spending. If you want a book, some software or you just want to go to a conference, it is on us. We just ask you to be reasonable with your spending.
+We offer everyone a company credit card, that can be used for discretionary spending. If you want a book, some software or you just want to go to a conference, it is on us. We just ask you to be reasonable with your spending.
 
 If there is a problem, we will let you know. We would rather trust people to make reasonable spending decisions than assume people will abuse the privilege by default.
 
