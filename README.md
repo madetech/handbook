@@ -29,7 +29,7 @@ Policies
 * Sickness
 * Time Off 
 * Hiring
-* Paternity Leave
+* Parental Leave
 
 Compensation
 --
