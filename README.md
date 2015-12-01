@@ -37,9 +37,11 @@ Compensation
 * Pay Reviews & Rises
 * [Annual Performance Bonuses](compensation/performance_bonus.md)
 * Company Pensions
-* Expenses
 
 Process
 --
 * [New Developer Practices](process/new_developer_practices.md)
-* Support & Maintenance
+* Creating New Projects in Jira
+* Onboarding new Support & Maintenence customers
+* Filing an Expenses claim
+
