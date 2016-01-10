@@ -15,5 +15,5 @@ Here's some examples of things people have purchased:
 * Stationary i.e post-it notes, notepads etc
 * Conference tickets 
 
-If you would like a card, [download this form](https://drive.google.com/file/d/0B7Zb_9JeCVRkRUlFQWdEVmpEWlE/view?usp=sharing), fill in the first page and email a copy to [Rory](mailto:rory@madetech.com). 
+If you would like a credit card, [download this form](https://drive.google.com/file/d/0B7Zb_9JeCVRkRUlFQWdEVmpEWlE/view?usp=sharing), fill in the first page and email a copy to [Rory](mailto:rory@madetech.com). 
 
