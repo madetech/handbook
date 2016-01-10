@@ -1,17 +1,17 @@
-# Made Manifesto
+# Made Tech Handbook
 
-At Made Tech, we're tying to build an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we try to avoid.
+At Made Tech, we're tying to build an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we try to avoid.
 
-We believe people do their best work and are most fulfilled when they are learning new skills. Our ambition is that **everyone** in the company improves **every single day** and that we create a new model for software services, which other companies will try to replicate in years to come.
+This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies. 
 
-This manifesto should become the starting point for any new starters. It's the place the team should go if they are unsure of how we approach things like expenses, referral bonuses etc. This document was borne out of Continuous Feedback that team members were unclear on some of our company policies. 
+This document was borne out of our [Continuous Feedback](policies/continuous_feedback.md) process, as team members were unclear on some of the incentives that we offer. 
 
-We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Manifesto, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update it. 
+We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update. 
 
 Introduction
 --
 * [Our Company](company/company.md)
-* [Our Beliefs & Values](company/beliefs_and_values.md)
+* [WIP - Our Beliefs & Values](company/beliefs_and_values.md)
 * [Your First Day](company/first_day.md)
 
 Benefits & Perks
@@ -19,24 +19,23 @@ Benefits & Perks
 * [Recruitment Referrals](benefits/recruitment_referrals.md)
 * [Unlimited Holiday](benefits/unlimited_holiday.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
-* Friday Lunches & Beers
-* Remote Working
+* [TODO - Friday Lunches & Beers](benefits/friday_lunch_beers.md)
+* [TODO - Remote Working](benefits/remote_working.md)
 
 Policies
 --
 * [Objectives and Key Results (OKRs)](policies/okrs.md)
 * [Continuous Feedback](policies/continuous_feedback.md)
-* Sickness
-* Time Off 
-* Hiring
-* Parental Leave
+* [TODO - Sickness](policies/sickness.md)
+* [TODO - Parental Leave](policies/parental_leave.md)
 
 Compensation
 --
-* Salary & Pay Slips
-* Pay Reviews & Rises
-* [Annual Performance Bonuses](compensation/performance_bonus.md)
-* Company Pensions
+* [TODO - Salary & Pay Slips](compensation/salary_pay_slips.md)
+* [TODO - Pay Reviews & Rises](compensation/pay_rises.md)
+* [TODO - Annual Performance Bonuses](compensation/performance_bonus.md)
+* [TODO - Company Pensions](compensation/company_pensions.md)
+* [TODO - Expenses](compensation/expenses.md)
 
 Process
 --
