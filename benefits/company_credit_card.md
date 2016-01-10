@@ -1,19 +1,19 @@
-# Company Cards
+# Company Credit Cards
 
-We don't believe in filing expense claims in triplicate, or that every single company purchase needs to be pre-approved by Chris or Rory. 
+We don't want to approve every company purchase. We would rather trust people to make reasonable spending decisions than assume people will abuse the privilege by default.
 
-We offer everyone a company credit card, that can be used for discretionary spending. If you want a book, some software or you just want to go to a conference, it is on us. We just ask you to be reasonable with your spending.
+We offer all our full time staff a company credit card, which can be used for discretionary spending. If you want a book, some software or you just want to go to a conference, it is on us. We just ask you to be reasonable with your spending.
 
-If there is a problem, we will let you know. We would rather trust people to make reasonable spending decisions than assume people will abuse the privilege by default.
+Here's some examples of things people have purchased:
 
-Here's some examples of things people have purchased on their cards:
+* Programming books
+* Computer equipment i.e new monitor
+* Amenities for the office, such as coffee, fruit, biscuits etc
+* Lunch and beers for a customer
+* Taxi back to the office after a meeting
+* Taxi home after working late
+* Stationary i.e post-it notes, notepads etc
+* Conference tickets 
 
-* Some programming books
-* New monitor and computer equipment
-* Some amenities for the office, such as coffee, biscuits etc.
-* Lunch and beers for a customer that we've been working with.
-* Taxi back to the office after a meeting.
-* Taxi home after working really late.
-* Post-it notes, notepads etc.
+If you would like a card, [download this form](https://drive.google.com/file/d/0B7Zb_9JeCVRkRUlFQWdEVmpEWlE/view?usp=sharing), fill in the first page and email a copy to [Rory](mailto:rory@madetech.com). 
 
-If you've not got a card and would like one, [download this form](https://drive.google.com/file/d/0B7Zb_9JeCVRkRUlFQWdEVmpEWlE/view?usp=sharing) and fill in the first page and email a copy to Rory. 
