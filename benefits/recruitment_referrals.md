@@ -1,8 +1,8 @@
 # Recruitment Referrals
 
-Referrals from people who already work at Made Tech are one of the best signals we can get about whether or not a candidate will be successful here. 
+We have found referrals from our team to be one the best signals we can get about whether or not a candidate will be successful here. 
 
-Our team understand our needs and what it’s like to work here, and their relationship with the candidate means they know a lot more than we can learn during an interview process.
+The team understands the business needs and what it is like to work here. Their relationship with the candidate means they know a lot more than we can learn during an interview process.
 
 **We offer a referral bonus, which is flights for 2 people to a destination of your choice, for any new hire that comes from an employee referral.**
 
