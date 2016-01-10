@@ -1,16 +1,16 @@
-#Introduction to OKRs at Made
+#Introduction to OKRs
+
+Objectives & Key Results (OKR) is a technique we use to set and communicate goals and results within our company. Their main purpose is to connect the company, team and personal objectives to measurable results, helping everyone to move together, in the right direction. 
+
+Each quarter we'll share our company OKRs and we'll work together to write  individual OKRs. Below we've provided a short guide to this practice. 
 
 ####How to write an OKR
-OKR stands for Objectives & Key Results.
-
 OKRs are purposefully difficult to write. A well written OKR represents clear thinking and focus on achievable goals. Badly written OKRs represent muddled thinking and will be difficult for your colleagues to understand. Take the time to draft and edit a well written OKR.
 
 ####Time Period
-
 All OKRs are dated and scoped to a specific time period. At Made we scope all OKRs to 3 months.
 
 ####Objectives
-
 Objectives are personal goals you have to move our business forward. In writing an objective you are saying to the team "I will lead Made to achieve this Objective". As a rule of thumb, you should generally have three Objectives per quarter.
 
 Bad objectives are often:
@@ -29,9 +29,7 @@ Good objectives:
 
 If you are having trouble writing an objective, imagine you are standing up in front of the team completing this sentence "Over the next 3 months I will lead the effort at Made to XXXXX".
 
-
 ###Key Results
-
 Key Results are measurable milestones that track progress towards your objective.
 
 Bad key results are often:
