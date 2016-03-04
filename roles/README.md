@@ -46,9 +46,9 @@ as they feel comfortable and ready push in any direction they wish.
 
 ## Roles
 
-* [Engineer+support](roles/engineer.md#support)
-* [Engineer+support+lead](roles/engineer.md#engineersupportlead)
-* [Engineer+aaas](roles/engineer.md#engineeraaas)
-* [Engineer+aaas+lead](roles/engineer.md#engineeraaaslead)
-* [Engineer+marketing](roles/engineer.md#engineermarketing)
-* [Engineer+director](roles/engineer.md#engineerdirector)
+* [Engineer+support](engineer.md#engineersupport)
+* [Engineer+support+lead](engineer.md#engineersupportlead)
+* [Engineer+aaas](engineer.md#engineeraaas)
+* [Engineer+aaas+lead](engineer.md#engineeraaaslead)
+* [Engineer+marketing](engineer.md#engineermarketing)
+* [Engineer+director](engineer.md#engineerdirector)
