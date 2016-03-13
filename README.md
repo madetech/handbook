@@ -49,7 +49,8 @@ Compensation
 
 Process
 --
-* [New Developer Practices](process/new_developer_practices.md)
-* Creating New Projects in Jira
-* Onboarding new Support & Maintenence customers
-* Filing an Expenses claim
+* [Development Practices](process/development_practices.md)
+* [TODO - Blog Posts](process/blog_posts.md)
+* [TODO - Creating New Projects in Jira](process/new_projects_jira.md)
+* [TODO - Onboarding new Support & Maintenence customers](process/onboard_sm.md)
+* [TODO - Filing an Expenses claim](process/filing_expenses.md)
