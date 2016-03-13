@@ -27,7 +27,7 @@ Roles
 Benefits & Perks
 --
 * [Recruitment Referrals](benefits/recruitment_referrals.md)
-* [Untracked Holiday](benefits/untracked_holiday.md)
+* [Untracked Holiday Allowance](benefits/untracked_holiday.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Friday Lunches & Beers](benefits/friday_lunch_beers.md)
 * [Remote Working](benefits/remote_working.md)
@@ -42,8 +42,8 @@ Policies
 Compensation
 --
 * [TODO - Salary & Pay Slips](compensation/salary_pay_slips.md)
-* [TODO - Pay Reviews & Rises](compensation/pay_rises.md)
-* [TODO - Annual Performance Bonuses](compensation/performance_bonus.md)
+* [TODO - Pay Reviews](compensation/pay_review.md)
+* [TODO - Performance Bonus](compensation/performance_bonus.md)
 * [TODO - Company Pensions](compensation/company_pensions.md)
 * [TODO - Expenses](compensation/expenses.md)
 
