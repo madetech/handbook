@@ -16,13 +16,13 @@ Introduction
 
 Roles
 --
-* [About roles](roles/README.md)
-* [Engineer+support](roles/engineer.md#engineersupport)
-* [Engineer+support+lead](roles/engineer.md#engineersupportlead)
-* [Engineer+aaas](roles/engineer.md#engineeraaas)
-* [Engineer+aaas+lead](roles/engineer.md#engineeraaaslead)
-* [Engineer+marketing](roles/engineer.md#engineermarketing)
-* [Engineer+director](roles/engineer.md#engineerdirector)
+* [About Roles](roles/README.md)
+* [Engineer+Support](roles/engineer.md#engineersupport)
+* [Engineer+Support+Lead](roles/engineer.md#engineersupportlead)
+* [Engineer+AaaS](roles/engineer.md#engineeraaas)
+* [Engineer+AaaS+Lead](roles/engineer.md#engineeraaaslead)
+* [Engineer+Marketing](roles/engineer.md#engineermarketing)
+* [Engineer+Director](roles/engineer.md#engineerdirector)
 
 Benefits & Perks
 --

@@ -4,7 +4,7 @@ Currently we see every role at Made Tech as an Engineer role. This will likely
 change as we grow but it works for now! Below you will see the variations of
 our engineer role along with the need for that role and our expectations for it.
 
-## Engineer+support
+## Engineer+Support
 
 We need someone:
 
@@ -17,7 +17,7 @@ We expect someone in the role:
 - to be autonomously delivering features of a small nature within 3 months
 - to be autonomously delivering features of a medium nature within 6 months
 
-## Engineer+support+lead
+## Engineer+Support+Lead
 
 We need someone:
 
@@ -33,7 +33,7 @@ We expect someone in the role:
 - to be selling proactive improvement services to customers within 6 months
 - to achieve and maintain a gross profit margin of 65% after 6 months
 
-## Engineer+aaas
+## Engineer+AaaS
 
 We need someone:
 
@@ -49,7 +49,7 @@ We expect someone in the role:
 - to be involved in practice improvement discussions within 3 months
 - to be actively practicing modern software craftsmanship practices such as TDD within 3 months
 
-## Engineer+aaas+lead
+## Engineer+AaaS+Lead
 
 We need someone:
 
@@ -65,7 +65,7 @@ We expect someone in the role:
 - to be mentoring middleweight developers on their team within 2 months
 - to be improving our practices across the business within 3 months
 
-## Engineer+marketing
+## Engineer+Marketing
 
 We need someone:
 
@@ -82,7 +82,7 @@ We expect someone in the role:
 - to commercially justify investments in marketing activity within 3 months
 - to demonstrate an improved effectiveness in our marketing activity within 6 months
 
-## Engineer+director
+## Engineer+Director
 
 We need someone:
 
