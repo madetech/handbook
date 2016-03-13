@@ -36,7 +36,7 @@ Policies
 --
 * [Objectives and Key Results (OKRs)](policies/okrs.md)
 * [Continuous Feedback](policies/continuous_feedback.md)
-* [TODO - Sickness](policies/sickness.md)
+* [Sick Leave](policies/sick_leave.md)
 * [TODO - Parental Leave](policies/parental_leave.md)
 
 Compensation
