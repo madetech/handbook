@@ -42,7 +42,7 @@ Policies
 Compensation
 --
 * [Salary & Pay Slips](compensation/salary_pay_slips.md)
-* [TODO - Pay Reviews](compensation/pay_review.md)
+* [Salary Review](compensation/salary_review.md)
 * [TODO - Performance Bonus](compensation/performance_bonus.md)
 * [TODO - Company Pensions](compensation/company_pensions.md)
 * [TODO - Expenses](compensation/expenses.md)
