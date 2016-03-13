@@ -1,33 +1,32 @@
-## Our Beliefs
+## Our Beliefs and Values
+We're 
 
-* We believe that doing is more valuable than talking. That's why we hire do'ers and have very few talkers amongst our ranks. 
 
-* We believe that everyone in our company should be learning something new every day. So we invest heavily into initiatives which will help us to cultivate an environment where **everyone** is striving to perform better every day. 
 
-* We believe people need to to use their own initiative and take opportunities, rather than waiting for opportunities to present themselves. 
+* We believe that everyone in our company should be learning something new every day. We invest heavily into initiatives which will help us to cultivate an environment where **everyone** is striving to perform better. 
 
-* We believe that our customers should be moving much faster than they do. 
+* Responsibility is taken, not given. We believe people need to to use their own initiative and take opportunities when they present themselves. 
+
+* We believe that 'doing' is more valuable than 'talking'. That's why we hire do'ers and have very few talkers amongst our ranks. 
+
+* We believe that nearly all organisations can move faster than they do.
 
 * We believe the adoption of Agile is in it's infancy and that agile principles will underpin all high-performance businesses in years to come. 
 
 * We believe that software is transforming the way businesses work.
 
-* We believe in running a sustainable company. 
+* We believe that it's important to run a sustainable company.
 
-* We believe people are motivated not by a carrot and and a stick, but by education and curiosity. 
+* We believe in a flat structure with self-organising teams.  
 
-* Motivate like open source software
-
-* We believe in a flat structure with self-motivating individuals 
-* Individuals with self direction
-* Creative, interesting and self-directed
-* Short term motivational incentives cause long-term damage by undermining the persons motives to perform an activity 
+* We favour creative, interesting and self-direction over top-down management. 
 
 ## Our Values 
 * Individuals and interactions over processes and tools
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
+
 * Ruthless prioritization
 * Responsibility is taken, it isn’t given. 
 * Nothing at Made is somebody else's problem

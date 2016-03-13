@@ -1,30 +1,23 @@
 # Our Company
-
-Our mission to to provide businesses in London with better software services, through agile thinking and ruthless prioritisation of their requirements. 
-
-We do this by embedding a team which moves at 'startup speed' into our customers organisations and help them to transform the way they think and approach delivery.
+[Rory to write]
 
 ## Our Approach
-
-To provide superior software services that: CUSTOMERS recommend to their colleagues and business associates, TECHNOLOGISTS prefer to use and work with, PARTNERS evangelise to their clients, and EMPLOYEES are proud of.
+To provide superior software services that: Customers recommend to their colleagues and business associates, Technologists prefer to work with, Partners evangelise to their clients, and Employees are proud of.
 
 ## Our Mission
+To make organisations more Agile.
 
-To make the world more Agile. We want to transform how organizations attract, engage and delight their customers.
+## Our Exit
+We're in this for the long-term and have no plan to exit. 
 
-## Why do we exist?
-
-We believe that businesses should be moving much faster than they do and that the adoption of Agile is in its infancy and will underpin all high-performance businesses in years to come. 
-
-We believe this will provide a huge competitive advantage which will enables our customers to blow their competition out of the water. 
-
-## Objectives 
-* Turnover 3M in 16/17
+## Commercial Objectives
+* Turnover 3M in 16/17 Financial Year (June 16 to May 17)
 * Team of 30 PPL
 * International Expansion
-* Leading UK Rails Company
-* One SaaS Product >0.5M ARR
-* S&M with 1.2M ARR
-* Thought leaders on Agile
+* Considered leading UK based software consultancy
+* Running a SaaS product with >0.5M ARR
+* Delivering >0.65M ARR via Support & Maintenance
+* Considered Thought leaders on Agile
 * Multiple published books
 * Team of public speakers
+* Popular OSS contributions

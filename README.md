@@ -10,8 +10,8 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 Introduction
 --
-* [Our Company](company/company.md)
-* [WIP - Our Beliefs & Values](company/beliefs_and_values.md)
+* [TODO - Our Company](company/company.md)
+* [TODO - Our Beliefs & Values](company/beliefs_and_values.md)
 * [Your First Day](company/first_day.md)
 
 Roles
