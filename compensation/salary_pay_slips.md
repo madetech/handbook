@@ -1,9 +1,7 @@
 #Salary & Pay Slips
 
-* Made is entirely bootstrapped, with no outside investors, and no debt. 
-* We have a freelance bookkeeper (Mike) who runs payroll each month.
-* Sustainability of the company is very important to us. 
-* Payslips will be sent to you via email
-* We're paid on the 28th of the month or before if this falls on a weekend.
+We're paid on the 28th of the month, or the Friday before if the 28th falls on a weekend or during a bank holiday. Payroll is run by Mike Wheatley, who will issue payslips via email. You will require a password to open your payslips, which Mike can send to you (it's normally your NI number). 
+
+If you've got a query on your salary amounts, please send these to finance@madetech.co.uk.
 
 
