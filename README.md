@@ -29,7 +29,7 @@ Benefits & Perks
 * [Recruitment Referrals](benefits/recruitment_referrals.md)
 * [Unlimited Holiday](benefits/unlimited_holiday.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
-* [TODO - Friday Lunches & Beers](benefits/friday_lunch_beers.md)
+* [Friday Lunches & Beers](benefits/friday_lunch_beers.md)
 * [TODO - Remote Working](benefits/remote_working.md)
 
 Policies

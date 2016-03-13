@@ -1,0 +1,17 @@
+# Friday Lunch & Beers
+
+Every Friday the company pays for a team lunch and post-work beers. 
+
+This weekly ritual provides an opportunity for the team to socialise and share their successes and challenges from the week that's passed. It's important that we continue to set aside the time for this, especially when we have teams working at customers offices regularly. 
+
+Few rules:
+
+* One of the directors will pick-up the tab for lunch. If they are not around, somebody with a company card should be able to cover lunch, or it can be put through as an expense claim. 
+
+* We trust people to use their judgement as to what is a reasonable amount to spend on a team lunch.
+
+* Where possible, encourage customers to join us for lunch and / or beers. 
+
+* When going for Friday beers, the company will cover the tab whilst one of the directors is around (and offering to pay). After that, you'll be on your own. 
+
+* Feel free to invite friends of Made and people we might consider hiring to Friday beers. It's a good opportunity to meet both socially. 
