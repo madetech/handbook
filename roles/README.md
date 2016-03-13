@@ -1,6 +1,6 @@
-# Roles at Made
+# Roles at Made Tech
 
-Roles are a way for us to describe a Made employee's primary purpose and
+Roles are a way for us to describe a Made Tech employee's primary purpose and
 function. It's essentially a job title but really we use it to denote the need
 for the role and the expectations of staff that fill the role. We also use them
 to indicate next steps for staff who have mastered their current role and are
