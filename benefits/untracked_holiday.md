@@ -1,8 +1,8 @@
-# Unlimited Holiday
+# Untracked Holiday
 
 We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at their highest possible level, they need to live a well-balanced life and take regular time-out for rest, relaxation and rejuvenation.
 
-We have adopted an unlimited holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. 
+We have adopted an untracked holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. 
 
 All we ask is that you follow a few guidelines:
 
