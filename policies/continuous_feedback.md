@@ -1,6 +1,6 @@
 #Continuous Feedback
 
-At Made the techniques we use to deliver software tell us to value things like regular, open communication and fast feedback loops. We’re aiming to cultivate a culture where individual performance can be evaluated and coached equally regularly.
+The techniques we use to deliver software tell us to value things like regular, open communication and fast feedback loops. We’re aiming to cultivate a culture where individual performance can be evaluated and coached equally regularly.
 
 There is a growing trend for organisations to throw away the annual / bi-annual review, and move to more informal and more frequent check-ins. Adobe is one such business, and they’ve published much of their collateral online, on which this structure is based.
 
