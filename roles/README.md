@@ -17,13 +17,13 @@ traits and be achieving current traits before taking on more.
 
 ## Our traits
 
-### Engineer
+**Engineer**:
 
 * [+Support](engineer.md#support)
 * [+AaaS](engineer.md#aaas)
 * [+Lead](engineer.md#lead)
 
-### Business
+**Business**:
 
 * [+SupportBiz](business.md#supportbiz)
 * [+Marketing](business.md#marketing)
