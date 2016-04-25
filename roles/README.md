@@ -17,13 +17,13 @@ traits and be achieving current traits before taking on more.
 
 ## Our traits
 
-### Engineer traits
+### Engineer
 
 * [+Support](engineer.md#support)
 * [+AaaS](engineer.md#aaas)
 * [+Lead](engineer.md#lead)
 
-### Business traits
+### Business
 
 * [+SupportBiz](business.md#supportbiz)
 * [+Marketing](business.md#marketing)
@@ -31,7 +31,7 @@ traits and be achieving current traits before taking on more.
 
 ## Defining roles
 
-### Defining a need for a role
+### Needs
 
 In order to justify paying a wage for a role and in order to interview
 candidates for a role we first need to define a commercial need. The need will
@@ -43,7 +43,7 @@ specification in mind. If we didn't have a role defined we may well end up
 hiring someone without a clear picture of what job the candidate will perform
 which can confuse both them and us as a business.
 
-### Defining expectations for a role
+### Expectations
 
 After defining a need for a role we then define expectations. Expectations are
 measurable goals with a time range, e.g. "to be fully billable after 2 weeks
