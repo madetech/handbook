@@ -46,9 +46,18 @@ as they feel comfortable and ready push in any direction they wish.
 
 ## Roles
 
-* [Engineer+Support](engineer.md#engineersupport)
-* [Engineer+Support+Lead](engineer.md#engineersupportlead)
-* [Engineer+AaaS](engineer.md#engineeraaas)
-* [Engineer+AaaS+Lead](engineer.md#engineeraaaslead)
-* [Engineer+Marketing](engineer.md#engineermarketing)
-* [Engineer+Director](engineer.md#engineerdirector)
+* [Engineer](engineer.md#engineer)
+
+## Traits
+
+### Engineer traits
+
+* [+Support](engineer.md#support)
+* [+AaaS](engineer.md#aaas)
+* [+Lead](engineer.md#lead)
+
+### Business traits
+
+* [+SupportBiz](business.md#supportbiz)
+* [+Marketing](business.md#marketing)
+* [+Director](business.md#director)
