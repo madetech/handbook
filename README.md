@@ -17,12 +17,8 @@ Introduction
 Roles
 --
 * [About Roles](roles/README.md)
-* [Engineer+Support](roles/engineer.md#engineersupport)
-* [Engineer+Support+Lead](roles/engineer.md#engineersupportlead)
-* [Engineer+AaaS](roles/engineer.md#engineeraaas)
-* [Engineer+AaaS+Lead](roles/engineer.md#engineeraaaslead)
-* [Engineer+Marketing](roles/engineer.md#engineermarketing)
-* [Engineer+Director](roles/engineer.md#engineerdirector)
+* [Engineer role and traits](roles/engineer.md)
+* [Business traits](roles/business.md)
 
 Benefits & Perks
 --
