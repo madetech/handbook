@@ -11,6 +11,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 Introduction
 --
 * [TODO - Our Company](company/company.md)
+* [Mission Statement](company/mission_statement.md)
 * [TODO - Our Beliefs & Values](company/beliefs_and_values.md)
 * [Your First Day](company/first_day.md)
 
