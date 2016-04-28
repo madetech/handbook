@@ -4,7 +4,20 @@ Currently we see every role at Made Tech as an Engineer role. This will likely
 change as we grow but it works for now! Below you will see the variations of
 our engineer role along with the need for that role and our expectations for it.
 
-## Engineer Traits
+## Engineer role
+
+We need someone:
+
+- to work directly with customers
+
+We expect someone in the role:
+
+- to be involved in practice improvement discussions within 3 months
+- to be actively practicing modern software craftsmanship practices such as TDD within 3 months
+- to be autonomously delivering features of a small nature within 3 months
+- to be autonomously delivering features of a medium nature within 6 months
+
+## Engineer traits
 
 ### +Support
 
@@ -15,16 +28,13 @@ We need someone:
 
 We expect someone in the role:
 
-- to be delivering 22 billable hours per week within 3 months
-- to be autonomously delivering features of a small nature within 3 months
-- to be autonomously delivering features of a medium nature within 6 months
+- to be billable for at least half their time within 3 months
 
 ### +AaaS
 
 We need someone:
 
 - to join a sprint team
-- to work directly with customers
 - to be billed on a day-rate as part of a AaaS team
 
 We expect someone in the role:
@@ -32,8 +42,6 @@ We expect someone in the role:
 - to be fully billable after 2 weeks on-boarding
 - to be able to autonomously deliver features of a mid-level of complexity within 1 month
 - to deliver features of a higher level of complexity with support of more experienced developers within 3 months
-- to be involved in practice improvement discussions within 3 months
-- to be actively practicing modern software craftsmanship practices such as TDD within 3 months
 
 ### +Lead
 
