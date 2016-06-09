@@ -13,17 +13,17 @@ In this document we will outline the techniques required to make the work we do 
   - [ ] Github
   - [ ] Trello
   - [ ] Slack
+- [ ] Print out and store any 2FA backup codes in the Made safe
 
 ### Desktop
 - [ ] [Encrypt your hard drive](https://support.apple.com/en-gb/HT204837)
-- [ ] Add BIOS password
 - [ ] Mac users should add [a firmware password](https://support.apple.com/en-gb/HT204455)
+- [ ] Non Mac users should add a BIOS password
 - [ ] Disable automatic login for OSX
 - [ ] Auto logout after five minutes inactivity
 - [ ] Require password after screensaver or sleep
 - [ ] Only work from company laptops
-- [ ] Install [Undercover](http://orbicule.com/undercover/mac/)
-  - [ ] Create a guest account that a potential thief can auto login to
+- [ ] Install iCloud/Find My Mac
 
 ### Mobile
 We all use personal mobile devices, so your options are either not to add any company accounts to your phone (this includes Slack, Gmail etc), or to follow the checklist below.
