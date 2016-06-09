@@ -14,6 +14,7 @@ In this document we will outline the techniques required to make the work we do 
   - [ ] Trello
   - [ ] Slack
 - [ ] Print out and store any 2FA backup codes in the Made safe
+- [ ] Run the security challenge in Last Pass
 
 ### Desktop
 - [ ] [Encrypt your hard drive](https://support.apple.com/en-gb/HT204837)
