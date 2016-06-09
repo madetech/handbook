@@ -1,6 +1,6 @@
 # What To Do When Your Device is Lost or Stolen
 
-- [ ] Mac users activate the "lock" function via Find My iPhone iCloud app
+- [ ] Mac users activate the "lock" function via [Find My iPhone](https://www.icloud.com) iCloud app
 - [ ] Report it to the police and give them the following details:
   - [ ] Office address
   - [ ] Your address
