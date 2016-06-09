@@ -34,6 +34,8 @@ Policies
 * [Continuous Feedback](policies/continuous_feedback.md)
 * [Sick Leave](policies/sick_leave.md)
 * [Parental Leave](policies/parental_leave.md)
+* [Security Guidelines](security/guidelines.md)
+* [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
 
 Compensation
 --
