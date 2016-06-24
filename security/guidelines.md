@@ -40,4 +40,6 @@ We all use personal mobile devices, so your options are either not to add any co
   - [ ] Google
   - [ ] Slack
   - [ ] Trello
+  - [ ] Jira
+  - [ ] Harvest
 - [ ] Revoke access to any VPNs
