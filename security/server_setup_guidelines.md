@@ -1,16 +1,5 @@
 # Server security guide
 
-## People wise for new starters:
-
-- Setup for AWS account (https://madetech.signin.aws.amazon.com/console)
-- 2FA enabled on AWS
-- User for Mole
-
-## People wise for leavers:
-
-- Delete AWS account
-- Remove key from mole
-
 ## Setting up a new server
 
 - Network access to instances should be restricted to only allow SSH, HTTP and HTTPS traffic; ports 22, 80 and 443 respectively. All other traffic must be rejected.

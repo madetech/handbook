@@ -11,7 +11,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 Introduction
 --
 * [Mission Statement](company/mission_statement.md)
-* [TODO - Our Beliefs & Values](company/beliefs_and_values.md)
+* [Beliefs & Values](company/beliefs_and_values.md)
 * [Your First Day](company/first_day.md)
 
 Roles
@@ -30,11 +30,10 @@ Benefits & Perks
 
 Policies
 --
-* [Objectives and Key Results (OKRs)](policies/okrs.md)
 * [Continuous Feedback](policies/continuous_feedback.md)
 * [Sick Leave](policies/sick_leave.md)
 * [Parental Leave](policies/parental_leave.md)
-* [Security Guidelines](security/guidelines.md)
+* [Laptop & Phone Security](security/protect_the_company.md)
 * [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
 
 Compensation
@@ -48,6 +47,8 @@ Compensation
 Process
 --
 * [Development Practices](process/development_practices.md)
+* [Server Security](security/server_setup_guidelines.md)
+* [Last Day](security/last_day.md)
 * [TODO - Blog Posts](process/blog_posts.md)
 * [TODO - Creating New Projects in Jira](process/new_projects_jira.md)
 * [TODO - Onboarding new Support & Maintenence customers](process/onboard_sm.md)
