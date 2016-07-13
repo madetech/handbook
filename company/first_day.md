@@ -6,7 +6,7 @@ So it's your first day at Made Tech. Welcome to the team! Here are a few things 
 * [ ] Office Keys
 * [ ] Passport
 * [ ] Bank Account
-* [ ] National Insurance / P60
+* [ ] National Insurance / P45
 * [ ] Company Pension 
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Introduction to Continuous Feedback
