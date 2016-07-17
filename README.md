@@ -36,6 +36,10 @@ Policies
 * [Laptop & Phone Security](security/protect_the_company.md)
 * [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
 
+Hiring
+--
+* [Our hiring process](hiring/README.md)
+
 Compensation
 --
 * [Salary & Pay Slips](compensation/salary_pay_slips.md)
