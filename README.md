@@ -40,16 +40,9 @@ Compensation
 --
 * [Salary & Pay Slips](compensation/salary_pay_slips.md)
 * [Salary Reviews](compensation/salary_reviews.md)
-* [TODO - Performance Bonuses](compensation/performance_bonuses.md)
-* [TODO - Company Pensions](compensation/company_pensions.md)
-* [TODO - Expenses](compensation/expenses.md)
 
 Process
 --
 * [Development Practices](process/development_practices.md)
 * [Server Security](security/server_setup_guidelines.md)
 * [Last Day](security/last_day.md)
-* [TODO - Blog Posts](process/blog_posts.md)
-* [TODO - Creating New Projects in Jira](process/new_projects_jira.md)
-* [TODO - Onboarding new Support & Maintenence customers](process/onboard_sm.md)
-* [TODO - Filing an Expenses claim](process/filing_expenses.md)
