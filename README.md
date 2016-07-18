@@ -46,5 +46,5 @@ Process
 * [Development Practices](process/development_practices.md)
 * [Server Security](security/server_setup_guidelines.md)
 * [Last Day](security/last_day.md)
-* [Business Development](process/bizdev.md])
+* [Business Development](process/bizdev.md)
 
