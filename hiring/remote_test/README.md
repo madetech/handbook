@@ -9,6 +9,10 @@ In order to proceed to the next step, a candidate must achieve 80% mark or more.
  - PHP Marking Guide (coming soon)
  - JavaScript Marking Guide (coming soon)
 
+## Things to tell candidate
+
+When sending the remote test to a candidate please make them aware of the following.
+
 A few things to note:
 
  - We ask you to complete this test within 7 days. If you run out of time please get back in touch with us and we can give you an extension (you won't be penalised)
