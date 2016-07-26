@@ -8,7 +8,6 @@ We believe that our hiring process should be [fair and repeatable](rationale.md)
  - Screening
  - Interview & Pairing
  - Hire
- - Nurture
 
 Our pipeline is tracked on a [trello board](https://trello.com/b/0kmnv5Wo/recruitment).
 
@@ -37,7 +36,3 @@ Finally we answer any questions the candidate may have.
 Once we've determined that a candidate is going to be a good hire for us and the candidate thinks we're a good fit for their next role, we hire them. We will prepare a contract and send it to them as soon as possible.
 
 After this the [on-boarding process](../company/first_day.md) begins.
-
-### Nurture
-
-In the case where we see a candidate as promising, but where they do not fulfil our current needs for hiring we will add them to our nurture list so we stay in touch. We will often invite candidates to events or even offer them mentorship. We understand that networking is a powerful tool for our hiring pipeline.
