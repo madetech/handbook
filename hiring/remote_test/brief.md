@@ -39,6 +39,7 @@ As a user:
 
  - Use git to version control the application
  - Install rubocop and ensure it's passing
+ - Rails scaffolding *should not* be used to generate controllers, models or views
  - Each user story should have at least one success case tested with feature tests
  - At least one failure case for posting message should be tested with a feature test
  - Feature tests should be written using RSpec and Capybara (we recommend using our gem to get started quicker - https://github.com/madetech/bdd-rails)

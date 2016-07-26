@@ -1,6 +1,6 @@
 # Marking guide
 
-70 marks in total. There are no half marks. 80% (56 marks) required to pass.
+76 marks in total. There are no half marks. 80% (61 marks) required to pass.
 
  - [2] Is the app built with Rails?
  - [2] The timeline appeared on the homepage
@@ -20,6 +20,9 @@
  - [3] Clicking delete button results in flash message being displayed
  - [3] Git was used to version control
  - [3] Rubocop is installed and is passing
+ - [2] Scaffolding is not used for models
+ - [2] Scaffolding is not used for views
+ - [2] Scaffolding is not used for controllers
  - [2] Feature test: successful submission are passing
  - [2] Feature test: unsuccessful submission are passing
  - [2] Feature test: message display are passing
