@@ -13,8 +13,6 @@ In order to proceed to the next step, a candidate must achieve 80% mark or more.
 
 When sending the remote test to a candidate please make them aware of the following.
 
-A few things to note:
-
  - We ask you to complete this test within 7 days. If you run out of time please get back in touch with us and we can give you an extension (you won't be penalised)
  - Use the marking guide as a checklist before you submit your application
  - There are no trick questions, we just want to see if you can complete the steps in the brief
