@@ -19,8 +19,6 @@ traits and be achieving current traits before taking on more.
 
 **Engineer**:
 
-* [+Support](engineer.md#support)
-* [+AaaS](engineer.md#aaas)
 * [+Lead](engineer.md#lead)
 
 **Business**:
