@@ -12,7 +12,7 @@ We need someone:
 
 We expect someone in the role:
 
-- to be billable for at least half their time after 2 weeks on-boarding
+- to be fully billable after 2 weeks on-boarding
 - to be involved in practice improvement discussions within 3 months
 - to be actively practicing modern software craftsmanship practices such as TDD within 3 months
 - to be autonomously delivering features of a small nature within 3 months
@@ -31,7 +31,6 @@ We need someone:
 
 We expect someone in the role:
 
-- to be fully billable after 2 weeks on-boarding
 - to need less than 1 day per week of Technical Director involvement in their deliveries
 - to be mentoring middleweight developers on their team within 2 months
 - to be improving our practices across the business within 3 months
