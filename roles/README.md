@@ -19,7 +19,12 @@ traits and be achieving current traits before taking on more.
 
 **Engineer**:
 
+* [+Advocate](engineer.md#advocate)
+* [+Architecture](engineer.md#architecture)
+* [+Customer](engineer.md#customer)
+* [+Delivery](engineer.md#delivery)
 * [+Lead](engineer.md#lead)
+* [+Mentor](engineer.md#mentor)
 
 **Business**:
 
