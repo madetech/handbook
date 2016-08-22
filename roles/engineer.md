@@ -55,6 +55,12 @@ We need someone:
  - to become a trusted and valued partner of customers
  - to improve how we communicate with customers
 
+We expect someone exhibiting the trait:
+
+ - to regularly communicate with customers without reminder
+ - to organise planning and showcases with customers
+ - to lead improvements to engagements and communication on behalf of customers
+ - to lead improvements to customer relations across the business
 
 ### +Delivery
 
