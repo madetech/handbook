@@ -20,6 +20,36 @@ We expect someone in the role:
 
 ## Engineer traits
 
+### +Advocate
+
+We need someone:
+
+ - to represent the company by speaking in public
+ - to represent the company on social media
+ - to represent the companies hiring interests publicly
+
+### +Architecture
+
+We need someone:
+
+ - to lead implementations of application and system level design
+ - to actively promote the evolution of existing application architecture
+
+### +Customer
+
+We need someone:
+
+ - to regularly communicate with customers
+ - to facilitate communication between their team and customers
+ - to encourage improvements in how we communicate with customers
+
+### +Delivery
+
+We need someone:
+
+ - to regularly improve our process for delivering software
+ - to ensure the done done completion of tasks
+
 ### +Lead
 
 We need someone:
@@ -34,3 +64,10 @@ We expect someone in the role:
 - to need less than 1 day per week of Technical Director involvement in their deliveries
 - to be mentoring middleweight developers on their team within 2 months
 - to be improving our practices across the business within 3 months
+
+### +Mentor
+
+We need someone:
+
+ - to provide a mentorship role to a colleague
+ - to encourage learning across the company

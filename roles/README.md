@@ -19,7 +19,12 @@ traits and be achieving current traits before taking on more.
 
 **Engineer**:
 
+* [+Advocate](engineer.md#advocate)
+* [+Architecture](engineer.md#architecture)
+* [+Customer](engineer.md#customer)
+* [+Delivery](engineer.md#delivery)
 * [+Lead](engineer.md#lead)
+* [+Mentor](engineer.md#mentor)
 
 **Business**:
 
@@ -66,3 +71,21 @@ to offer up extra activities or even a new role.
 
 We want to foster a culture where everybody feels empowered to do their role and
 as they feel comfortable and ready push in any direction they wish.
+
+## Traits
+
+Traits are additional needs and expectations that staff can take upon themselves
+to fulfill for the company.
+
+> a distinguishing quality or characteristic, typically one belonging to a person.
+
+You can see traits as bolt-ons to a specific role, they may also be seen as
+accolades.
+
+For example if you are an Engineer regularly mentoring and pairing
+with lesser experienced colleagues then it's right that we recognise this.
+
+Traits were also introduced to help with provided longer term goals for staff.
+If you're an Engineer seeking more from your role but unsure of what direction
+to go in then traits are a good starting place to provide more value to the
+company.
