@@ -70,6 +70,14 @@ We need someone:
  - to ensure we deliver our commitments
  - to ensure commercial objectives of engagements are met
 
+We expect someone exhibiting the trait:
+
+ - to facilitate experimentation and improvements to delivery process
+ - to lead retrospectives within teams
+ - to ensure sensible expectations are set with customers
+ - to ensure expectations are met
+ - to lead delivery to a commercially successful completion
+
 ### +Mentor
 
 We need someone:
