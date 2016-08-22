@@ -39,7 +39,13 @@ We expect someone exhibiting the trait:
 We need someone:
 
  - to lead implementations of application and system level design
- - to actively promote the evolution of existing application architecture
+ - to promote the evolution of existing application architecture
+
+We expect someone exhibiting the trait:
+
+ - to need less than 1 day per week of Technical Director involvement in architectural planning and implementation
+ - to lead architectural decisions across two or more teams
+ - to lead improvements to two or more applications
 
 ### +Customer
 
