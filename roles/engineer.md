@@ -50,21 +50,6 @@ We need someone:
  - to regularly improve our process for delivering software
  - to ensure the done done completion of tasks
 
-### +Lead
-
-We need someone:
-
-- to foster good engineering standards on a project
-- to be the primary day-to-day client liaison on technology-lead deliveries
-- to mentor developers on their team
-- to drive process improvements on their team
-
-We expect someone in the role:
-
-- to need less than 1 day per week of Technical Director involvement in their deliveries
-- to be mentoring middleweight developers on their team within 2 months
-- to be improving our practices across the business within 3 months
-
 ### +Mentor
 
 We need someone:
