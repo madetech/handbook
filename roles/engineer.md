@@ -48,8 +48,9 @@ We need someone:
 
 We need someone:
 
- - to regularly improve our process for delivering software
- - to ensure the done done completion of tasks
+ - to improve our process for delivering software
+ - to ensure we deliver our commitments
+ - to ensure commercial objectives of engagements are met
 
 ### +Mentor
 
