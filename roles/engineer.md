@@ -28,6 +28,12 @@ We need someone:
  - to represent the company on social media
  - to represent the company's hiring interests publicly
 
+We expect someone exhibiting the trait:
+
+ - to speak publicly on behalf of the company at least twice a year
+ - to share company content on social media weekly
+ - to represent the company at hiring events such as graduate days at least twice a year
+
 ### +Architecture
 
 We need someone:
