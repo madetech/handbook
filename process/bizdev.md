@@ -19,7 +19,7 @@ Check the working locations of the opportunities to ensure they're not being del
 
 ## Segmenting leads
 
-When a lead gets in touch with us via the website, by calling in, or email, if you perceive them to be a potential lead, you should add them to our Master Contact list.
+When a lead gets in touch with us via the website, by calling in, or email, if you perceive them to be a potential lead, you should add them to our [Master Contact list](https://madetech.createsend.com/subscribers/listDetail.aspx?listID=986BB7E62AE1EC90).
 
 Using tools such as LinkedIn, find out what you can about their job role and company, and based on what they contacted us about, use this to populate their profile in Campaign Monitor, particularly:
 
