@@ -39,9 +39,10 @@ We need someone:
 
 We need someone:
 
- - to regularly communicate with customers
  - to facilitate communication between their team and customers
- - to encourage improvements in how we communicate with customers
+ - to become a trusted and valued partner of customers
+ - to improve how we communicate with customers
+
 
 ### +Delivery
 
