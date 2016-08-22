@@ -85,6 +85,12 @@ We need someone:
  - to provide a mentorship role to a colleague
  - to encourage learning across the company
 
+We expect someone exhibiting the trait:
+
+  - to pair with their team more than half their time
+  - to regularly commit time to mentoring someone inside or outside the company
+  - to help colleagues develop their traits
+
 ## Engineer Leadership
 
 Traits recognise value that Engineers can provide customers and the company. They are hats and as Engineers develop their skills, Engineers will begin to wear more of those hats. Leadership is a quality that emerges out of individual traits. The longer an Engineer wears a trait the more of a leader in that area they will become.
