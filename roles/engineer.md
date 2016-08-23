@@ -26,7 +26,7 @@ We need someone:
 
  - to represent the company by speaking in public
  - to represent the company on social media
- - to represent the companies hiring interests publicly
+ - to represent the company's hiring interests publicly
 
 ### +Architecture
 
