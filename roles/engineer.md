@@ -28,27 +28,55 @@ We need someone:
  - to represent the company on social media
  - to represent the company's hiring interests publicly
 
+We expect someone exhibiting the trait:
+
+ - to speak publicly on behalf of the company at least twice a year
+ - to share company content on social media weekly
+ - to represent the company at hiring events such as graduate days at least twice a year
+
 ### +Architecture
 
 We need someone:
 
  - to lead implementations of application and system level design
- - to actively promote the evolution of existing application architecture
+ - to promote the evolution of existing application architecture
+
+We expect someone exhibiting the trait:
+
+ - to need less than 1 day per week of Technical Director involvement in architectural planning and implementation
+ - to lead architectural decisions across two or more teams
+ - to lead improvements to two or more applications
 
 ### +Customer
 
 We need someone:
 
- - to regularly communicate with customers
  - to facilitate communication between their team and customers
- - to encourage improvements in how we communicate with customers
+ - to become a trusted and valued partner of customers
+ - to improve how we communicate with customers
+
+We expect someone exhibiting the trait:
+
+ - to regularly communicate with customers without reminder
+ - to organise planning and showcases with customers
+ - to lead improvements to engagements and communication on behalf of customers
+ - to lead improvements to customer relations across the business
 
 ### +Delivery
 
 We need someone:
 
- - to regularly improve our process for delivering software
- - to ensure the done done completion of tasks
+ - to improve our process for delivering software
+ - to ensure we deliver our commitments
+ - to ensure commercial objectives of engagements are met
+
+We expect someone exhibiting the trait:
+
+ - to facilitate experimentation and improvements to delivery process
+ - to lead retrospectives within teams
+ - to ensure sensible expectations are set with customers
+ - to ensure expectations are met
+ - to lead delivery to a commercially successful completion
 
 ### +Mentor
 
@@ -56,6 +84,12 @@ We need someone:
 
  - to provide a mentorship role to a colleague
  - to encourage learning across the company
+
+We expect someone exhibiting the trait:
+
+  - to pair with their team more than half their time
+  - to regularly commit time to mentoring someone inside or outside the company
+  - to help colleagues develop their traits
 
 ## Engineer Leadership
 
