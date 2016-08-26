@@ -39,16 +39,18 @@ We need someone:
 
 We need someone:
 
- - to regularly communicate with customers
  - to facilitate communication between their team and customers
- - to encourage improvements in how we communicate with customers
+ - to become a trusted and valued partner of customers
+ - to improve how we communicate with customers
+
 
 ### +Delivery
 
 We need someone:
 
- - to regularly improve our process for delivering software
- - to ensure the done done completion of tasks
+ - to improve our process for delivering software
+ - to ensure we deliver our commitments
+ - to ensure commercial objectives of engagements are met
 
 ### +Mentor
 
