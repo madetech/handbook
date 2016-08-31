@@ -2,7 +2,7 @@
 
 ## Business Traits
 
-### +SupportBiz
+### +Support
 
 We need someone:
 

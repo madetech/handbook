@@ -27,7 +27,7 @@ traits and be achieving current traits before taking on more.
 
 **Business**:
 
-* [+SupportBiz](business.md#supportbiz)
+* [+Support](business.md#support)
 * [+Marketing](business.md#marketing)
 * [+Director](business.md#director)
 
