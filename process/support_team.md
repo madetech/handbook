@@ -36,7 +36,7 @@ By Thursday of each week the Support Epics board will have:
 
 If you're on a Support Pair then it is your responsibility to:
  * Ensure you know at the start of each week what your pair will be working on, and have a goal in mind for the Scrum of Scrums.
- * Book in at least one showcase with the customer that week so they can see what progress ahs been made towards the goal.
+ * Book in at least one showcase with the customer that week so they can see what progress has been made towards the goal.
  * At the end of each day record your time in Harvest against the relevant customer. You should also include a brief description of the work carried out.
  * Communicate regulalarly with the customer especially around deployments so they can plan any testing they may want to do.
 
@@ -46,5 +46,5 @@ If you're working on Team Triage then it is your responsibility to:
  * Know which days you are on Triage duty, and swap days in advance if you're unable to.
  * Work towards the Triage goal of resolving everything within 48 hours (NB. Backlogging an issue is an accepted resolution)
  * Call for help from others if there is more triage work than you can resonably handle
- * Record all time spent in Harvest against the respoective customers
+ * Record all time spent in Harvest against the respective customers
  * Handover any incomplete issues to whoever is on Triage the following day.
