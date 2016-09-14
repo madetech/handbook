@@ -3,8 +3,7 @@
 When a new developer joins our team, we'll often find they need some guidance on 'The Made Way'. Below we've included a list of practices that we encourage new developers to adopt, so they can get up to speed as quickly as possible:
 
 * Commit frequently (5, 10, 15+ times per day)
-* Favour commits into master (we favour frequent continuous integration over feature branches)
-* Only use PR branches when you want to discuss approach with the team. Make sure you delete them the same day. 
+* Favour commits into feature branches which you should aim to merge into Master via PR the same day 
 * Include descriptive commit messages (ideally referencing Jira tickets)
 * Do your best not to break the build. Run the test suit before pushing into origin.
 * Don't mark tasks as 'done' until they have been:
