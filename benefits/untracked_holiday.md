@@ -25,8 +25,6 @@ We trust you'll use your best judgement when taking holidays but in case you wan
 
 * We use the calendar when working out project allocation and the number of days being billed to customers, so it's important that it is always up-to-date and accurate.
 
-* Employees will not “accrue” holiday days under this policy, therefore you will not receive compensation for “unused” holiday time when you leave.  
-
 * Time off due to illness and/or injury are handled separately. Unlimited holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
