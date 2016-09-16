@@ -29,5 +29,5 @@ We trust you'll use your best judgement when taking holidays but in case you wan
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team mates or on the company.
+* Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team members or on the company.
 
