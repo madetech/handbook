@@ -25,7 +25,7 @@ We trust you'll use your best judgement when taking holidays but in case you wan
 
 * We use the calendar when working out project allocation and the number of days being billed to customers, so it's important that it is always up-to-date and accurate.
 
-* Time off due to illness and/or injury are handled separately. Unlimited holiday cannot be used for these types of absences.
+* Time off due to illness and/or injury are handled separately. Untracked holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
