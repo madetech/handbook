@@ -17,9 +17,9 @@ We want to ensure teams own their holidays and that includes thinking about the 
 
 We trust you'll use your best judgement when taking holidays but in case you want some guidance on the kind of notice we expect when you take your holiday:
 
-* **Less than 1 week:**<br>We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
-* **Between 1 and 2 weeks:**<br>We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
-* **Greater than 3 weeks:**<br>Please try and provide at least three months notice, so we can prepare for your absence.
+* **Less than 1 week**<br>We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
+* **Between 1 and 2 weeks**<br>We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
+* **Greater than 3 weeks**<br>Please try to provide at least three months notice, so we can prepare for your absence.
 
 ## Additional considerations
 
