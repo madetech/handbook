@@ -8,7 +8,7 @@ We have adopted an untracked holiday policy, where each team member is given the
 
 We want to ensure teams own their holidays and that includes thinking about the commercial impact of taking them. To that affect we need to make sure you've done the following before booking holiday:
 
-* Ask your team mates if it's okay with them
+* Ask your team members if it's okay with them
 * Ask your customers if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
 * Ensure that the holiday is placed in the [holiday calendar](https://www.google.com/calendar/ical/madebymade.co.uk_83gtf1a3s2ecshli2o6ub4kpmk%40group.calendar.google.com/public/basic.ics)
