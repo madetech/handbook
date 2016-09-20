@@ -11,14 +11,28 @@ There are two elements to retrospectives:
 
 The purpose of retrospectives is to:
 
-* Provide a conduit to allow continuous improvement to be facilitated safely within teams.
 * Examine outcomes from previous retrospective, and understand what went well, and what didn’t.
+* Create action points or decide on problems that the team will tackle
+* Provide a conduit to allow continuous improvement to be facilitated safely within teams.
+
 
 The purpose of the comradrospective is to:
 
 *  Examine previous action points, what went well and what didn’t.
 *  Avoid “localised optimisations” i.e. the action points of one smaller group, hurting the whole.
 *  Set one or two action points, or problems, for the whole company to focus on.
+
+### Action points
+
+Remember that action points are only potential solutions to a problem. In order to aid examining your own achievements, being able to measure the impact of your action points by some form of measurable yard-stick can be quite helpful. Establishing a definition of awesome is one accepted solution to this, or some sort of hard metric can also help.
+
+### Tackling problems
+
+Sometimes it is not immediately obvious how to solve a problem that the team is collectively facing. In these situations it may be wise to have the team attempt to resolve a particularly pressing pain point during normal working time.
+
+Similar to action points, it’s important that the team is able to measure and sense check whether it has made progress towards some goal. 
+
+Make sure the team has awareness on what the outcome of potential solutions would look like.
 
 ## Format
 
@@ -49,4 +63,4 @@ The facilitation role should be seen as a skill that can be improved, and facili
 
 ## Notes
 
-The format is expected to evolutionary, this document serves as living documentation. 
+The format is expected to be evolutionary, this document serves as it's living documentation. 
