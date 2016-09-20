@@ -7,6 +7,8 @@ There are two elements to retrospectives:
 * Retrospective (smaller groups performing retrospectives)
 * Comradrospective (whole company retrospective format)
 
+## Purpose 
+
 The purpose of retrospectives is to:
 
 * Provide a conduit to allow continuous improvement to be facilitated safely within teams.
@@ -31,19 +33,19 @@ Team members should only attend one retrospective, and then the comradrospective
 
 ## Expectations
 
-### Facilitators
-
-Teams are expected to self-manage and elect a facilitator for their individual retrospectives.
-
-The facilitation role should be seen as a skill that can be improved, and facilitators should treat it as such.
-
-**[Unsolved Problem]** There is value in the facilitator of the comradrospective not becoming a static role. The company needs a way to self-manage who takes this role, either changing every two-weekly or changing every 2,3,4 retrospectives??
-
 Teams are expected to self-manage which includes time boxing their retrospectives.
 
 If you wish to perform your retrospective at a different time, or, more or less frequently. You are free to do so, so long as you have sought both agreement and input from your group.
 
 Any improvements, changes to the comradrospective, should be discussed at the comradrospective with everyone it will affect involved.
+
+### Facilitators
+
+Teams are expected to elect a facilitator for their individual retrospectives.
+
+The facilitation role should be seen as a skill that can be improved, and facilitators should treat it as such.
+
+**[Unsolved Problem]** There is value in the facilitator of the comradrospective not becoming a static role. The company needs a way to self-manage who takes this role, either changing every two-weekly or changing every 2,3,4 retrospectives??
 
 ## Notes
 
