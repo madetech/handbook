@@ -1,8 +1,8 @@
 # Retrospectives
 
-These retrospectives occur every 2 weeks on a Friday. There is 2 hours booked for this purpose. 
+These retrospectives occur every 2 weeks on a Friday. There are 2 hours booked for this purpose. 
 
-There are main elements to retrospectives:
+There are two elements to retrospectives:
 
 * Retrospective (smaller groups performing retrospectives)
 * Comradrospective (whole company retrospective format)
@@ -14,7 +14,7 @@ The purpose of retrospectives is to:
 
 The purpose of the comradrospective is to:
 
-*  Examine previous action points, and what went well and what didn’t.
+*  Examine previous action points, what went well and what didn’t.
 *  Avoid “localised optimisations” i.e. the action points of one smaller group, hurting the whole.
 *  Set one or two action points, or problems, for the whole company to focus on.
 
@@ -29,15 +29,15 @@ Team members should only attend one retrospective, and then the comradrospective
 * The first hour is booked for smaller group retrospectives
 * The second hour is booked for the comradrospective
 
-## Facilitators
+## Expectations
+
+### Facilitators
 
 Teams are expected to self-manage and elect a facilitator for their individual retrospectives.
 
 The facilitation role should be seen as a skill that can be improved, and facilitators should treat it as such.
 
 **[Unsolved Problem]** There is value in the facilitator of the comradrospective not becoming a static role. The company needs a way to self-manage who takes this role, either changing every two-weekly or changing every 2,3,4 retrospectives??
-
-## Expectations
 
 Teams are expected to self-manage which includes time boxing their retrospectives.
 
@@ -48,5 +48,3 @@ Any improvements, changes to the comradrospective, should be discussed at the co
 ## Notes
 
 The format is expected to evolutionary, this document serves as living documentation. 
-
-
