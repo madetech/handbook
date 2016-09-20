@@ -55,5 +55,5 @@ Process
 Team norms
 --
 
-* [Retrospectives](term-norms/retrospectives.md)
+* [Retrospectives](team-norms/retrospectives.md)
 * [Continuous Feedback](policies/continuous_feedback.md) 
