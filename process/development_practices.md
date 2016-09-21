@@ -24,3 +24,12 @@ When a new developer joins our team, we'll often find they need some guidance on
     * Talk to the UI designers if unsure about anything visual, behaviour etc.
 * Ask somebody for help if you've run into a problem and can't solve it within ~1hr (it's pretty likely somebody else has encountered it)
 * Client showcases are really important. You should always try to attend these.
+
+
+## Red flags on projects
+
+This is a list of red flags to review every day to improve project delivery:
+
+- [ ] There is no showcase currently planned for the current piece of work
+- [ ] The current epic is longer than a week (it should be broken down in multiple smaller ones)
+- [ ] Customer does not know when the current epic is expected to be finished
