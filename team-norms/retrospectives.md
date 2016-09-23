@@ -1,3 +1,15 @@
+
+# The Prime Directive
+
+The purpose of the Prime Directive is to assure that a retrospective has the right culture to make it a positive and result oriented event. It makes a retrospective become an effective team gathering to learn and find solutions to improve the way of working.
+
+"Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
+
+--Norm Kerth, Project Retrospectives: A Handbook for Team Review
+
+(source: [Retrospective Wiki](http://retrospectivewiki.org/index.php?title=The_Prime_Directive))
+
+
 # Retrospectives
 
 These retrospectives occur every 2 weeks on a Friday. There are 2 hours booked for this purpose. 
@@ -40,6 +52,28 @@ Teams are expected to self-organise into groups that make sense to perform retro
 
 Team members should only attend one retrospective, and then the comradrospective.
 
+### Getting the most out of Retrospectives
+
+Six Thinking Hats is a good discipline for everybody to get the most out of your retrospective experience.
+
+Ensuring that everyone in the retrospective only focusses on one hat at a time, can keep the discussions aligned towards a common direction. 
+
+A common order to move through the hats is:
+
+* **Managing Blue** – what is the subject? what are we thinking about? what is the goal? Can look at the big picture.
+
+* **Information White** – considering purely what information is available, what are the facts?
+
+* **Emotions Red** – intuitive or instinctive gut reactions or statements of emotional feeling (but not any justification)
+
+* **Discernment Black** – logic applied to identifying reasons to be cautious and conservative. Practical, realistic.
+
+* **Optimistic response Yellow** – logic applied to identifying benefits, seeking harmony. Sees the brighter, sunny side of situations.
+
+* **Creativity Green** – statements of provocation and investigation, seeing where a thought goes. Thinks creatively, out of the box.
+
+Source: [Edward de Bono - Six Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats)
+
 ## Timing
 
 * The first hour is booked for smaller group retrospectives
@@ -63,4 +97,7 @@ The facilitation role should be seen as a skill that can be improved, and facili
 
 ## Notes
 
-The format is expected to be evolutionary, this document serves as it's living documentation. 
+The format is expected to be evolutionary, this document serves as it’s living documentation. 
+
+* Some further reading is available on the [Retrospectives Wiki](http://retrospectivewiki.org/)
+* Some common [retrospective ailments & cures](index.php?title=Common_ailments_%26_cures)
