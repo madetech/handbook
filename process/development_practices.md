@@ -33,3 +33,7 @@ This is a list of red flags to review every day to improve project delivery:
 - [ ] There is no showcase currently planned for the current piece of work
 - [ ] The current epic is longer than a week (it should be broken down in multiple smaller ones)
 - [ ] Customer does not know when the current epic is expected to be finished
+- [ ] Huge commits / Huge chunk of work not pushed yet, PRs should be small!
+- [ ] Production Deploy > 1 day ago
+- [ ] Not being clear on who the customer is on the current work
+- [ ] Insufficient information to plan iteration. e.g. missing designs
