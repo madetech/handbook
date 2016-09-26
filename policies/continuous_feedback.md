@@ -1,4 +1,4 @@
-#Continuous Feedback
+# Continuous Feedback
 
 The techniques we use to deliver software tell us to value things like regular, open communication and fast feedback loops. We’re aiming to cultivate a culture where individual performance can be evaluated and coached equally regularly.
 
@@ -12,7 +12,7 @@ Our continuous feedback sessions involve 2 people, yourself and a facilitator. T
 
 When your colleagues have feedback for you they will leave it on a Trello card on our [Continuous Feedback](https://trello.com/b/yM4p07sz/continuous-feedback) board.
 
-![An image of Trello feedback cards](https://www.dropbox.com/s/6xif5of6tisyyi9/Screenshot%202016-09-26%2016.19.12.png?raw=1)
+<img src="https://www.dropbox.com/s/6xif5of6tisyyi9/Screenshot%202016-09-26%2016.19.12.png?raw=1" width="700" alt="An image of feedback within a card" />
 
 You'll notice there is a column for Upcoming and Done. When you create your card make sure you put your face and your facilitators face on the it. Also put a deadline time so everyone is aware.
 
@@ -20,29 +20,31 @@ If you forget to add your latest card for your next session don't worry, your co
 
 When you provide feedback to someone you should create a checklist on their card with the title being your name and each bullet being a piece of feedback.
 
-<img src="https://www.dropbox.com/s/xs96ut7xidwz61x/Screenshot%202016-09-26%2016.41.19.png?raw=1" width="500" alt="An image of feedback within a card" />
+<img src="https://www.dropbox.com/s/xs96ut7xidwz61x/Screenshot%202016-09-26%2016.41.19.png?raw=1" width="700" alt="An image of feedback within a card" />
 
 In your session you will go through each of your feedback one by one discussing with your facilitator and checking them off as you go. If you feel like you need to record the feedback more permanently you can do this in your CF spreadsheet's first tab.
 
-![Feedback tab of CF spreadsheet](https://www.dropbox.com/s/2hdheiodvwt7n5e/Screenshot%202016-09-26%2016.34.06.png?raw=1)
+<img src="https://www.dropbox.com/s/2hdheiodvwt7n5e/Screenshot%202016-09-26%2016.34.06.png?raw=1" width="700" alt="Feedback tab of CF spreadsheet" />
 
 You won't always want to record your feedback, it might just be a nice pat on the back that you can recognise and move on. Something like "thanks for making that great cup of tea" won't always need to be recorded. That said, if it makes you feel better recording it, knock yourself out.
 
 Once you've recorded your feedback it's worth recaping over your Growth & Development Objectives.
 
-![Growth & Development Objectives](https://www.dropbox.com/s/ez8adb71tamhrdf/Screenshot%202016-09-26%2017.24.04.png?raw=1)
+<img src="https://www.dropbox.com/s/ez8adb71tamhrdf/Screenshot%202016-09-26%2017.24.04.png?raw=1" width="700" alt="Growth & Development Objectives" />
 
 These are medium to long term goals. If you are working towards a [Trait](https://github.com/madetech/handbook/blob/master/roles/engineer.md#engineer-traits) you will likely have it listed here. It's worth noting we also highlight our larger goal on the Trello board's people column.
 
-![Trello goal](https://www.dropbox.com/s/0wt9frilfvcr924/Screenshot%202016-09-26%2017.30.22.png?raw=1)
+<img src="https://www.dropbox.com/s/0wt9frilfvcr924/Screenshot%202016-09-26%2017.30.22.png?raw=1" alt="Trello goal" />
 
 We typically only highlight one goal here so people know your focus and are encouraged to provide feedback for it.
 
 After reviewing your feedback and your longer term goals you will then typically have a look at your short term goals, cross out anyones you've recently achieved and then come up with one or two for you to tackle by your next session.
 
-![Short term goals](https://www.dropbox.com/s/ovw6xw5xu7kwo9h/Screenshot%202016-09-26%2017.53.00.png?raw=1)
+<img src="https://www.dropbox.com/s/ovw6xw5xu7kwo9h/Screenshot%202016-09-26%2017.53.00.png?raw=1" width="700" alt="Short term goals" />
 
 At the end of your session don't forget to thank your facilitator :)
+
+## 
 
 ##Frequency
 One of the primary objectives is to give timely feedback, so ‘as often as necessary’ would be the canned answer. As a minimum guide, everyone should have a check-in at least every 2 weeks.
