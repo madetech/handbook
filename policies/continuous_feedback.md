@@ -20,7 +20,6 @@ Our continuous feedback sessions involve 2 people, yourself and a facilitator. T
  - Setting and reviewing longer term goals
  - Setting and reviewing short term goals
 
-
 The facilitator will either be a colleague or a director. Their role is to help you make sense of your feedback and to help you track your progress against goals you've set yourself.
 
 ### Receive and acknowledge feedback
@@ -92,6 +91,8 @@ Feedback should be given with the following principles in mind:
     - What does this person do well that makes them effective? Be specific and share with them why it’s impactful
     - What is one thing, looking forward, they could change or do more of that would make them more effective?
 
+If you have feedback concerning more than one person, submit it to both people. Depending on the issue/feedback, calling a having a separate meeting/discussion outside of CF might be a better solution.
+
 ## How should I receive feedback?
 
  - Listen carefully
@@ -101,6 +102,9 @@ Feedback should be given with the following principles in mind:
  - Don’t become defensive (feedback is hard to give, and we want to encourage everyone to be giving more feedback)
  - Say “thank you”
  - If you choose to implement the feedback, check back in future to validate improvement
+ - Try and make sure you read feedback ahead of your session so you can clarify any uncertainties ahead of your CF session
+ - If you disagree with feedback, have a discussion with your facilitator about why you disagree
+ - If you have any feedback that you do not think is helpful or constructive, bring this up with your facilitator and don't hesitate to raise it with a director or colleague if you feel it necessary
 
 ## What should I consider during my CF session?
 
@@ -111,6 +115,11 @@ Some sample questions you and your facilitator can discuss to have a great sessi
 * What is important context (constraints, history, third parties) that would be useful to know in order to achieve the desired outcome?
 * When and how shall we check-in to review progress?
 * How can the facilitator support you in achieving the expectations?
+
+There can sometimes be sessions with very little, or no feedback received. It's still a good opportunity to review short term and long term goals. The following session might have an influx of feedback, so it's important to keep holding these sessions every two weeks, as we don't want feedback to go stale
+If you have feedback concerning more than one person, submit it to both people.
+
+Depending on the issue/feedback, calling a having a separate meeting/discussion outside of CF might be a better solution.
 
 When driving discussions and planning your development, here are some things to consider:
 
