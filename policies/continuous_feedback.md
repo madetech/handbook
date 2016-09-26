@@ -14,7 +14,16 @@ In contrast to how feedback is delivered at present, which is a largely ‘top-d
 
 ## How does it work?
 
-Our continuous feedback sessions involve 2 people, yourself and a facilitator. The facilitator will either be a colleague or a director. Their role is to help you make sense of your feedback and to help you track your progress against goals you've set yourself.
+Our continuous feedback sessions involve 2 people, yourself and a facilitator. The aim of a continuous feedback session is to:
+
+ - Receive and acknowledge feedback
+ - Setting and reviewing longer term goals
+ - Setting and reviewing short term goals
+
+
+The facilitator will either be a colleague or a director. Their role is to help you make sense of your feedback and to help you track your progress against goals you've set yourself.
+
+### Receive and acknowledge feedback
 
 When your colleagues have feedback for you they will leave it on a Trello card on our [Continuous Feedback](https://trello.com/b/yM4p07sz/continuous-feedback) board.
 
@@ -34,6 +43,8 @@ In your session you will go through each of your feedback one by one discussing 
 
 You won't always want to record your feedback, it might just be a nice pat on the back that you can recognise and move on. Something like "thanks for making that great cup of tea" won't always need to be recorded. That said, if it makes you feel better recording it, knock yourself out.
 
+### Setting and reviewing longer term goals
+
 Once you've recorded your feedback it's worth recaping over your Growth & Development Objectives.
 
 <img src="https://www.dropbox.com/s/ez8adb71tamhrdf/Screenshot%202016-09-26%2017.24.04.png?raw=1" width="700" alt="Growth & Development Objectives" />
@@ -43,6 +54,8 @@ These are medium to long term goals. If you are working towards a [Trait](https:
 <img src="https://www.dropbox.com/s/0wt9frilfvcr924/Screenshot%202016-09-26%2017.30.22.png?raw=1" alt="Trello goal" />
 
 We typically only highlight one goal here so people know your focus and are encouraged to provide feedback for it.
+
+### Setting and reviewing short term goals
 
 After reviewing your feedback and your longer term goals you will then typically have a look at your short term goals, cross out anyones you've recently achieved and then come up with one or two for you to tackle by your next session.
 
