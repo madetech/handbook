@@ -6,6 +6,12 @@ There is a growing trend for organisations to throw away the annual / bi-annual 
 
 In contrast to how feedback is delivered at present, which is a largely ‘top-down’ approach, we would like to shift to a model where each team member is ultimately responsible for pro-actively soliciting feedback on their own performance.
 
+ - [How does it work?](#how-does-it-work)
+ - [How often should I have a session?](#how-often-should-i-have-a-session)
+ - [What kind of feedback should I give?](#what-kind-of-feedback-should-i-give)
+ - [How should I receive feedback?](#how-should-i-receive-feedback)
+ - [What should I consider during my CF session?](#what-should-i-consider-during-my-cf-session)
+
 ## How does it work?
 
 Our continuous feedback sessions involve 2 people, yourself and a facilitator. The facilitator will either be a colleague or a director. Their role is to help you make sense of your feedback and to help you track your progress against goals you've set yourself.
@@ -44,7 +50,7 @@ After reviewing your feedback and your longer term goals you will then typically
 
 At the end of your session don't forget to thank your facilitator :)
 
-## How often should I have one?
+## How often should I have a session?
 
 Seeing as Continuous Feedback sessions are self organised it is mostly up to you to make sure they happen. We do have a few tricks up our sleeves to encourage them though.
 
