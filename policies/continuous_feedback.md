@@ -20,7 +20,7 @@ If you forget to add your latest card for your next session don't worry, your co
 
 When you provide feedback to someone you should create a checklist on their card with the title being your name and each bullet being a piece of feedback.
 
-![An image of feedback within a card](https://www.dropbox.com/s/xs96ut7xidwz61x/Screenshot%202016-09-26%2016.41.19.png?raw=1)
+<img src="https://www.dropbox.com/s/xs96ut7xidwz61x/Screenshot%202016-09-26%2016.41.19.png?raw=1" width="500" alt="An image of feedback within a card" />
 
 In your session you will go through each of your feedback one by one discussing with your facilitator and checking them off as you go. If you feel like you need to record the feedback more permanently you can do this in your CF spreadsheet's first tab.
 
