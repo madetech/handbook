@@ -52,3 +52,8 @@ Process
 * [Last Day](security/last_day.md)
 * [Business Development](process/bizdev.md)
 
+Team norms
+--
+
+* [Retrospectives](team-norms/retrospectives.md)
+* [Continuous Feedback](policies/continuous_feedback.md) 
