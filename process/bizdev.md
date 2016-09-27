@@ -1,18 +1,32 @@
 # Business Development
 
-If you're holding the Business Development mantle, you should check the following resources for opportunities every week and report back during The Board showcase.
+If you're holding the Business Development mantle, there are a handful of chores you'll likely be undertaking on a regular basis.
 
-## Recently funded startups
 
-* [Crunchbase](https://www.crunchbase.com/funding-rounds)
-* [DNGeek](http://dngeek.com/category/newly-funded/)
+## Twitterers (every couple of days)
 
-Look particularly for UK-based companies who have just received Seed funding. If there's anything interesting, find a way to get in direct contact with the founders.
+Check the [suspects](https://twitter.com/madetech/lists/suspects) every couple of days and see if there's an obvious angle to open a friendly conversation.
+
+### Keeping the list fresh
+
+Based on our current business development goals, you might want to consider ensuring we've got the most relevant people on this list about once per month.
+
+
+## Monthly mailings (closest Thursday to 8th of the month)
+
+Pull together some of our most relevant blog content, or indeed, other relevant content you think is particularly pertinent and get both the `less technical` and `technical` mailings out.
+
+In addition, you want to ensure that relationship-holders in the business are personally sending out a piece of our content to people we're having active conversations with.
+
+
+## Booking meetings (weekly)
+
+Check the Hubspot calendar to see if we're due to get in touch with any of our regulat contacts. Coerce the relationship owner to get in touch. Ensure relationship owners are lining up the reminder for the next meeting thereafter.
 
 
 ## Government
 
-* [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities)
+You should make sure you're subscribed to receive [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/digital-outcomes-and-specialists/opportunities) notifications.
 
 Check the working locations of the opportunities to ensure they're not being delivered exclusively from client-sites way out of town. Be aware that opportunities posted will almost certainly be subject to tender.
 
