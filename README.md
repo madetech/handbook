@@ -30,30 +30,23 @@ Benefits & Perks
 
 Policies
 --
-* [Continuous Feedback](policies/continuous_feedback.md)
-* [Sick Leave](policies/sick_leave.md)
-* [Parental Leave](policies/parental_leave.md)
-* [Laptop & Phone Security](security/protect_the_company.md)
-* [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
-
-Hiring
---
-* [Our hiring process](hiring/README.md)
-
-Compensation
---
 * [Salary & Pay Slips](compensation/salary_pay_slips.md)
 * [Salary Reviews](compensation/salary_reviews.md)
+* [Sick Leave](policies/sick_leave.md)
+* [Parental Leave](policies/parental_leave.md)
 
-Process
+Guides
 --
-* [Development Practices](process/development_practices.md)
-* [Server Security](security/server_setup_guidelines.md)
-* [Last Day](security/last_day.md)
 * [Business Development](process/bizdev.md)
+* [Our hiring process](hiring/README.md)
+* [Last Day](security/last_day.md)
+* [Laptop & Phone Security](security/protect_the_company.md)
+* [Server Security](security/server_setup_guidelines.md)
+* [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
 
 Team norms
 --
-
-* [Retrospectives](team-norms/retrospectives.md)
 * [Continuous Feedback](policies/continuous_feedback.md) 
+* [Retrospectives](team-norms/retrospectives.md)
+* [Development Practices](process/development_practices.md)
+
