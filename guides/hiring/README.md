@@ -120,4 +120,4 @@ We will hire a candidate if all interviewers answer yes to all of the following 
 
 Once we've determined that a candidate is going to be a good hire for us and the candidate thinks we're a good fit for their next role, we will offer them the position. We will prepare a contract and send it to them as soon as possible.
 
-After this the [on-boarding process](company/first_day.md) begins.
+After this the [on-boarding process](/company/first_day.md) begins.
