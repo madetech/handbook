@@ -11,7 +11,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Ask your team members if it's okay with them
 * Ask your customers if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
-* Ensure that the holiday is placed in the [holiday calendar](madebymade.co.uk_83gtf1a3s2ecshli2o6ub4kpmk@group.calendar.google.com)
+* Ensure that the holiday is placed in the [holiday calendar](madebymade.co.uk_83gtf1a3s2ecshli2o6ub4kpmk@group.calendar.google.com) (copy and paste the URL into your google calendar, you should then be able to add events to it)
 
 ## How long are you taking?
 
