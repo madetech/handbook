@@ -48,7 +48,7 @@ Once you've recorded your feedback it's worth recaping over your Growth & Develo
 
 <img src="https://www.dropbox.com/s/ez8adb71tamhrdf/Screenshot%202016-09-26%2017.24.04.png?raw=1" width="700" alt="Growth & Development Objectives" />
 
-These are medium to long term goals. If you are working towards a [Trait](roles/engineer.md#engineer-traits) you will likely have it listed here. It's worth noting we also highlight our larger goal on the Trello board's people column.
+These are medium to long term goals. If you are working towards a [Trait](/roles/engineer.md#engineer-traits) you will likely have it listed here. It's worth noting we also highlight our larger goal on the Trello board's people column.
 
 <img src="https://www.dropbox.com/s/0wt9frilfvcr924/Screenshot%202016-09-26%2017.30.22.png?raw=1" alt="Trello goal" />
 
