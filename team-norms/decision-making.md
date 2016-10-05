@@ -9,7 +9,7 @@ Advice received must be taken into consideration.
 
 ## Further clarification
 
-This self-management approach does not require consensus, just that advice is taking into consideration.
+This self-management approach does not require consensus, just that advice is taken into consideration.
 After seeking advice, the advice seeker can still choose to make the decision anyway.
 
 While consensus may appear appealing on the surface, if everybody has a power of veto this may result in a plea for someone to make any decision. 
