@@ -93,7 +93,7 @@ Teams are expected to elect a facilitator for their individual retrospectives.
 
 The facilitation role should be seen as a skill that can be improved, and facilitators should treat it as such.
 
-**[Unsolved Problem]** There is value in the facilitator of the comradrospective not becoming a static role. The company needs a way to self-manage who takes this role, either changing every two-weekly or changing every 2,3,4 retrospectives??
+The comradrospective facilitator should rotate so that everyone performs it.
 
 ## Notes
 
