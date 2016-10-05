@@ -4,7 +4,7 @@ At Made Tech, we're tying to build an open and transparent company, full of peop
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
-This document was borne out of our [Continuous Feedback](policies/continuous_feedback.md) process, as team members were unclear on some of the incentives that we offer.
+This document was borne out of our [Continuous Feedback](team-norms/continuous_feedback.md) process, as team members were unclear on some of the incentives that we offer.
 
 We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update.
 
@@ -28,32 +28,22 @@ Benefits & Perks
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
 
-Policies
+Guides
 --
-* [Continuous Feedback](policies/continuous_feedback.md)
-* [Sick Leave](policies/sick_leave.md)
-* [Parental Leave](policies/parental_leave.md)
-* [Laptop & Phone Security](security/protect_the_company.md)
-* [What To Do If Your Device Is Lost Or Stolen](security/lost_or_stolen.md)
-
-Hiring
---
-* [Our hiring process](hiring/README.md)
-
-Compensation
---
-* [Salary & Pay Slips](compensation/salary_pay_slips.md)
-* [Salary Reviews](compensation/salary_reviews.md)
-
-Process
---
-* [Development Practices](process/development_practices.md)
-* [Server Security](security/server_setup_guidelines.md)
-* [Last Day](security/last_day.md)
-* [Business Development](process/bizdev.md)
+* [Our hiring process](guides/hiring/README.md)
+* [Laptop & Phone Security](guides/security/protect_the_company.md)
+* [Server Security](guides/security/server_setup_guidelines.md)
+* [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
+* [Business Development](guides/process/bizdev.md)
+* [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
+* [Salary Reviews](guides/compensation/salary_reviews.md)
+* [Sick Leave](guides/policies/sick_leave.md)
+* [Parental Leave](guides/policies/parental_leave.md)
+* [Last Day](guides/security/last_day.md)
 
 Team norms
 --
-
+* [Continuous Feedback](team-norms/continuous_feedback.md) 
 * [Retrospectives](team-norms/retrospectives.md)
-* [Continuous Feedback](policies/continuous_feedback.md) 
+* [Development Practices](team-norms/development_practices.md)
+
