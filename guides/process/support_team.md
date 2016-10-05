@@ -2,9 +2,7 @@
 
 ## High level overview
 
-Our Support Team is best thought of as the 'on-demand' equivalent to our AaaS offering. They undertake smaller tactical pieces of work which normally would necessitate the spinning up of a dedicated Sprint team. The length of work undertaken varies from less than an hour, up to about a month. Beyond that our AaaS offering becomes more appropriate.
-
-The Support Team is run by Nick Wood, who oversees day to day operations, and manages relationships with our support customers.  
+Our Support Team is best thought of as the 'on-demand' equivalent to our AaaS offering. They undertake smaller tactical pieces of work which normally would necessitate the spinning up of a dedicated Sprint team. The length of work undertaken varies from less than an hour, up to about a month. Beyond that our AaaS offering becomes more appropriate. 
 
 ## Support Team Structure
 
@@ -26,7 +24,7 @@ Each Customer has their own Trello board for prioritising work. Issues are group
 
 ## Support Planning
 
-During a weekly call (bi-weekly for some) with each customer Nick and the customer will agree to a commitment of work to be completed the following week by the support team. These issues will be moved to the 'Up Next' column, and copied to the Support Epics board.
+During a weekly call (bi-weekly for some) our client will agree to a commitment of work to be completed the following week by the support team. These issues will be moved to the 'Up Next' column, and copied to the Support Epics board.
 
 By Thursday of each week the Support Epics board will have:
  * A list of items that can be reasonably completed by support pairs in the upcoming week, and have a pair assigned to them
