@@ -15,7 +15,7 @@ Our pipeline is tracked on a [Trello board](https://trello.com/b/0kmnv5Wo/recrui
 
 ### Define a need and expectation for hiring
 
-As described in our [Roles at Made Tech](../roles/README.md) document, candidates must be judged against a specific role with the needs and expectations of that role explicitly defined. This allows us to judge candidates like for like and also keeps us focused on the reason for a hire.
+As described in our [Roles at Made Tech](/roles/README.md) document, candidates must be judged against a specific role with the needs and expectations of that role explicitly defined. This allows us to judge candidates like for like and also keeps us focused on the reason for a hire.
 
 ### Candidate
 
@@ -50,7 +50,7 @@ We first review a candidates application to ensure the later steps are worth our
 We then start a phone call with the candidate to give a brief overview of Made and what we stand for. This is an important chance to sell our vision to the candidate. We also describe the role(s) we think they are a good fit for, followed by some questions used for screening:
 
  - Does the candidate like the sound of the role?
- - Can the candidate provide examples of why they would be able to fulfil the expectations of the role and possibly that of traits for the role? (See [engineer expectations](roles/engineer.md#engineer-role) for an example)
+ - Can the candidate provide examples of why they would be able to fulfil the expectations of the role and possibly that of traits for the role? (See [engineer expectations](/roles/engineer.md#engineer-role) for an example)
  - Is the candidate able to work in the UK? (We do not sponsor visas, yet.)
 
 #### Remote test
@@ -66,7 +66,7 @@ A few things to note about the remote test:
  - A remote test will take a lot longer for a less experienced candidate but should still be passable
  - A submission cannot be judged on any other criteria than that of the marking guide
 
-*We currently only have a [remote test](remote_test/README.md) for our [Engineer role](roles/engineer.md#engineer-role).*
+*We currently only have a [remote test](remote_test/README.md) for our [Engineer role](/roles/engineer.md#engineer-role).*
 
 ### Interview & pairing session
 
