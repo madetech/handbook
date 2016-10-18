@@ -27,7 +27,7 @@ At the start we weren't sure on how to begin conversations but throughout the da
 ## Things to try next time
 
  - Name badges with Made Tech logo on them
- - Sweets are very popular like cadburys celebrations
+ - Sweets are very popular like cadburys celebrations but should also provide vegan alternative too (biscuits or something)
  - More leaflets, need around 200 probably
  - Use laptop or two for taking contact details as tablet slow
  - Challenge that takes maximum of a minute to complete
