@@ -31,6 +31,13 @@ At the start we weren't sure on how to begin conversations but throughout the da
  - More leaflets, need around 200 probably
  - Use laptop or two for taking contact details as tablet slow
  - Challenge that takes maximum of a minute to complete
+ 
+## Questions we need to answer
+
+ - How long are internships and when do they start?
+ - What does our graduate scheme look like?
+ - What are the salaries available to interns and graduates?
+ - Do we have any non-technical roles available?
 
 ## Notes for next year
 
