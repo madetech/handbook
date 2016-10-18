@@ -4,7 +4,7 @@
 
 There are many stalls setup as a circuit around in a big hall. Students pass by the stalls asking questions about job opportunities and internships.
 
-Most stalls have two representatives standing to the side or in front of them. Standing behind the desk seemed to put too much of a barrier between students and representatives. Stalls typically had table clothes of the companies colors over them, some with logos. All stalls had big banners behind them with bullet point info about the companies and job opportunities at eye level. A lot of stalls had sweets or chocolate on them along with leaflets and swag ranging from totes, USB sticks, popcorn, pens, paper pads, rubix cubes. Some stalls had challenges like solving a rubix cube with a leaderboard. Some had examples of apps they'd built on laptops. A few stalls had additional podiums they brought a long. Our google glasses were another example of things on tables.
+Most stalls have two representatives standing to the side or in front of them. Standing behind the desk seemed to put too much of a barrier between students and representatives. Stalls typically had table clothes of the companies colors over them, some with logos. All stalls had big banners behind them with bullet point info about the companies and job opportunities at eye level. A lot of stalls had sweets or chocolate on them along with leaflets and swag ranging from totes, USB sticks, popcorn, pens, paper pads, rubix cubes. Some stalls had challenges like solving a rubix cube with a leaderboard. Some had examples of apps they'd built on laptops. A few stalls had additional podiums they brought a long. Our Google Cardboard were another example of things on tables.
 
 Typically the staff at the desks were recruiters or HR managers rather than people who actually work in engineering. Companies like Ford, Army, Navy, solicitors, Bloomberg and BAE systems are there. Many wore suits although some seemed much more down to earth. The big brands were the big hitters with students swarming around them for more information. Thats not to say we didn't also have 5 or so swarms during the day.
 
@@ -20,7 +20,7 @@ At the start we weren't sure on how to begin conversations but throughout the da
  - Describe the fact we primariy build software, from anything like e-commerce stores, to complex warehousing APIs and even back office tools.
  - Highlight the fact we go into other businesses to help their teams deliver better software faster. Several times we described moving organisations from delivering software every 3 months to every day.
  - Go into detail about our code dojos, hack days, retreat, blogging and advise them to read our blog and github to see how we work.
- - Provide google glasses to take a look at the office.
+ - Provide Google Cardboard to take a look at the office.
  - Try and take details or at least give a leaflet to every person who approaches.
  - Also invite people to our office, to code dojos or whatever else if you fancy.
  
