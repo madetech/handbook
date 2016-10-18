@@ -21,7 +21,7 @@ At the start we weren't sure on how to begin conversations but throughout the da
  - Highlight the fact we go into other businesses to help their teams deliver better software faster. Several times we described moving organisations from delivering software every 3 months to every day.
  - Go into detail about our code dojos, hack days, retreat, blogging and advise them to read our blog and github to see how we work.
  - Provide Google Cardboard to take a look at the office.
- - Try and take details or at least give a leaflet to every person who approaches.
+ - Try to take details or at least give a leaflet to every person who approaches.
  - Also invite people to our office, to code dojos or whatever else if you fancy.
  
 ## Things to try next time
