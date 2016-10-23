@@ -4,7 +4,7 @@
 
 * We believe that responsibility is taken, not given. We believe people need to to use their own initiative and take opportunities when they present themselves.
 
-* We believe that 'doing' is more valuable than 'talking'. We don't have account managers or talkers amongst our ranks and everyone we hire are do'ers. We have very few talkers in our ranks.
+* We believe that 'doing' is more valuable than 'talking'. We don't have account managers or talkers amongst our ranks and everyone we hire is a do'er.
 
 * We believe that nearly all organisations can move faster than they do. We try to help them to do this.
 
