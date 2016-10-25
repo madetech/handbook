@@ -17,8 +17,8 @@ Introduction
 Roles
 --
 * [About Roles](roles/README.md)
-* [Engineer role and traits](roles/engineer.md)
-* [Business traits](roles/business.md)
+* [Engineer Role and Traits](roles/engineer.md)
+* [Business Traits](roles/business.md)
 
 Benefits & Perks
 --
@@ -30,7 +30,7 @@ Benefits & Perks
 
 Guides
 --
-* [Our hiring process](guides/hiring/README.md)
+* [Our Hiring Process](guides/hiring/README.md)
 * [Laptop & Phone Security](guides/security/protect_the_company.md)
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
