@@ -9,3 +9,4 @@ Closing out on Friday steps:
 3. Open the taps fully to clear through the last amount of beer (it is normal for the flow to not be reduced to 0%)
 4. Use a sponge to remove any debris from the tap outlets
 5. Cover the taps with a small amount of clingfilm
+6. Leave the drip tray in the sink for the cleaner
