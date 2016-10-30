@@ -40,6 +40,7 @@ Guides
 * [Sick Leave](guides/policies/sick_leave.md)
 * [Parental Leave](guides/policies/parental_leave.md)
 * [Last Day](guides/security/last_day.md)
+* [Tap Guide](guides/taps.md)
 
 Team norms
 --
