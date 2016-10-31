@@ -1,5 +1,6 @@
 # Candidate Scorecard
 
-The scorecard is a document that describes exactly what you want a person to accomplish in a role. It is not a job description, but rather a set of outcomes and competencies that define a job done well. By defining A performance for a role, the scorecard gives you a clear picture of what the person you seek needs to be able to accomplish.
+The first failure point of hiring is not being crystal clear about what you really want the person you hire to accomplish. To address this, we use a candidate scorecard, which is a document that describes exactly what we want a person to accomplish in a role. 
 
-* The first failure point of hiring is not being crystal clear about what you really want the person you hire to accomplish.
+The scorecard is composed of three parts: the job’s mission, outcomes, and competencies. Together, these three pieces describe A* performance in the role, what a person must accomplish, and how. They provide a clear linkage between the people we hire and our business strategy. 
+
