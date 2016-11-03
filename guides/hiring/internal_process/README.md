@@ -17,6 +17,6 @@ In order to improve this, I've been looking at a new internal hiring process, wh
 - [Candidate Scorecard](scorecard.md)
 - [Telephone Screening Guide](screening.md)
 - Who Interview
-- Focused Interview
+- [Focused Interview](focused.md)
 - Reference Interview
 
