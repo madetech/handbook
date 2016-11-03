@@ -44,7 +44,7 @@ The third question captures the other side of the balance sheet. You may have to
 * If you hear too many 6’s and below, screen them out, but be sure to really listen to what is being said. 
 
 ###Getting Curious
-Unless you follow up on the [four primary questions](#four-primary-questions), you won’t get all the answers you need. We use a simple process called “getting curious.” and here’s how it works:
+Unless you follow up on your questions, you won’t get all the answers you need We use a simple process called “getting curious.” and here’s how it works:
 
 After a candidate answers one of the primary questions above, get curious about the answer by asking a follow-up question that begins with “What,” “How,” or “Tell me more.” Keep using this until you are clear about what the person is really saying. 
 
