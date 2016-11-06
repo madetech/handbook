@@ -12,4 +12,4 @@ The scorecard is composed of three parts: the job’s [mission](#mission), [outc
 
 **Competencies - ** Identify as many role-based competencies as you think appropriate to describe the behaviors someone must demonstrate to achieve the outcomes. Next, identify five to eight competencies that describe your culture and place those on every scorecard. For example, “Competencies include efficiency, organisation, honesty and a customer service mentality.”
 
-Pressure-test your scorecard by comparing it with the business plan and scorecards of the people who will interface with the role. Ensure that there is consistency and alignment. Then share the scorecard with relevant parties, including peers and recruiters.
+Pressure-test your scorecard by comparing it with the business objectives and scorecards of the people who will interface with the role. Ensure that there is consistency and alignment. Then share the scorecard with relevant parties, including peers and recruiters.
