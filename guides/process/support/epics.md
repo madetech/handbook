@@ -70,9 +70,11 @@ For this reason, it's really important that the ticket is in the relevant column
 
 Example descriptions:
 
-Before starting: For items that appear out of stock, ensure they can't be ordered. Capture customer emails so we can let them know when it's back in stock.
+Before starting:
+> For items that appear out of stock, ensure they can't be ordered. Capture customer emails so we can let them know when it's back in stock.
 
-After completing: Derek and Mavis added a feature to prevent customers ordering out of stock items. Additionally, they provided the ability to email customers who ask for out of stock alerts.
+After completing:
+> Derek and Mavis added a feature to prevent customers ordering out of stock items. Additionally, they provided the ability to email customers who ask for out of stock alerts.
 
 - [ ] The Customer Roadmap always accurately reflects the current state of play
 
