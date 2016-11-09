@@ -14,6 +14,7 @@ Before starting a piece of work, it is the responsibility of the Pair to ensure 
 4. [ ] The customer is aware of what is needed of them
 5. [ ] Record your time in Harvest in half-day increments
 6. [ ] Keep the Customer Roadmap Trello board accurate
+7. [ ] Deliver that feature to production
 
 ## 1. Planning the next Epic
 
@@ -78,4 +79,10 @@ After completing:
 
 - [ ] The Customer Roadmap always accurately reflects the current state of play
 
+## 7. Deliver that feature to production
 
+We have an aversion to plate spinning or too much Work In Progress (WIP). It needs to be your stated aim when starting an epic to deliver it all the way to production without interruption.
+
+If you find you need to down tools on the current epic without completing it, you should instigate a conversation with the wider team before doing so.
+
+- [ ] You're not starting a new epic before closing out the current
