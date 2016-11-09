@@ -41,6 +41,8 @@ Customers may ask for time estimates for larger pieces of work. This [FAQ answer
 
 We bill support customers based on the hours we spend delivering for them. It's really important timesheets are up to date, as we send regular emails to customers showing how many hours they have remaining for the month. Timely information is key for customers to use this for decision making.
 
+For triage tasks you should start the clock running at 15 minutes, even for smaller tasks. This is to account for the cost in context switching. We should bill for all time we spend servicing that customer, including responding to tickets and on customer calls.
+
 - [ ] You're recording your time in Harvest every time you action a triage ticket
 
 ## 3. Meeting Service Level Agreements
@@ -73,6 +75,6 @@ There are a number of options at this point:
 
 In Zendesk we use three ticket statuses:
 
-* Open: request is in play to be dealt with
+* New/Open: request is in play to be dealt with
 * Pending: request is awaiting input from customer
 * Closed: request has been successfully resolved
