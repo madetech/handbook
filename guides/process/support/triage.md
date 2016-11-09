@@ -35,6 +35,7 @@ Customers may ask for time estimates for larger pieces of work. This [FAQ answer
 
 - [ ] You've [Popped the Why Stack](http://www.mattblodgett.com/2009/01/pop-stack.html) to ensure you understand what commercial goal the customer is trying to solve
 - [ ] You've successfully resolved the request or added to the Customer Roadmap
+- [ ] You can assert that any code change you made has improved the quality of the application
 
 ## 2. Record time in Harvest
 
