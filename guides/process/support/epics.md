@@ -9,11 +9,11 @@ The [Support Epics Trello board](https://trello.com/b/fXZz8YC3/support-epics) sh
 Before starting a piece of work, it is the responsibility of the Pair to ensure that:
 
 1. [ ] The next epic that follows the current epic is planned in with the customer
-2. [ ] You're aware of any time or budget constraints in delivering this epic
-3. [ ] There is a showcase for the first slice of the work booked in with the customer not more than 2 days in to the iteration
-4. [ ] The customer is aware of what is needed of them and when they will be required to provide input and approvals
-5. [ ] Record your time in Harvest in half-day increments so that we can bill the customer fairly and transparently
-6. [ ] Update the Customer Roadmap Trello board to reflect the current state-of-play
+2. [ ] You're aware of any time or budget constraints
+3. [ ] There is a showcase booked no more than 2 days in to the epic
+4. [ ] The customer is aware of what is needed of them
+5. [ ] Record your time in Harvest in half-day increments
+6. [ ] Keep the Customer Roadmap Trello board accurate
 
 ## 1. Planning the next Epic
 
@@ -25,6 +25,7 @@ Before starting the current piece of work, you'll want to ensure the next piece 
 
 To complete planning, you should ensure that:
 
+- [ ] You've had a spoken conversation with the customer
 - [ ] You've [Popped the Why Stack](http://www.mattblodgett.com/2009/01/pop-stack.html) to ensure you understand what commercial goal the customer is trying to solve
 - [ ] You've created a new Trello board for that epic of work, breaking down the high level deliverables
 - [ ] You've given the customer an indication of when we're planning to kick off that piece of work
@@ -35,11 +36,11 @@ To complete planning, you should ensure that:
 
 Often customers may have limited hours left in their support allowance for the current month, they may only be willing to invest a set number of hours to achieve a particular goal, or they may be working to a particular timescale.
 
-- [ ] You've had an internal or external conversation to make yourself aware of time of budget constraints
+- [ ] You've had an internal or external conversation to make yourself aware of time or budget constraints
 
 ## 3. Showcase at least every 2 days
 
-We want to make sure we're solving the right problem. We want to talk to customers as often as possible. At an absolute maximum, you should showcase to the customer every 2 days.
+We want to make sure we're solving the right problem. We want to talk to customers as often as possible to ensure we're on the right course. At an absolute maximum, you should showcase to the customer every 2 days.
 
 - [ ] Throughout the delivery you're never more than 2 days away from a showcase with the customer
 
@@ -53,7 +54,7 @@ To be able to move fast, we need to ensure we've got the information we need, an
 
 ## 5. Record your time in Harvest
 
-We bill support customers based on the hours we spend delivering for them. It's really important timesheets are up to date, as we send regular emails to customers showing how many hours they have remaining for the month. Timely information is really important so customers can use this for decision making.
+We bill support customers based on the hours we spend delivering for them. It's really important timesheets are up to date, as we send regular emails to customers showing how many hours they have remaining for the month. Timely information is key for customers to use this for decision making.
 
 - [ ] You're recording your time in Harvest at least once per day for the duration of the delivery
 
@@ -65,7 +66,7 @@ We use the roadmap Trello boards for a couple of purposes:
 
 * In sending a wider digest email to the customer team to share our progress and the value we've recently delivered for them.
 
-For this reason, it's really important that the ticket is kept up to date in the relevant column in the Trello board, and that the description reflects the current state of play. The description is included in the digest email.
+For this reason, it's really important that the ticket is in the relevant column in the Trello board, and that the description reflects the current state of play. The description is included in the digest email.
 
 Example descriptions:
 
