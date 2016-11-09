@@ -8,7 +8,7 @@ The [Support Epics Trello board](https://trello.com/b/fXZz8YC3/support-epics) sh
 
 Before starting a piece of work, it is the responsibility of the Pair to ensure that:
 
-1. [ ] The next epic that follows the current epic is planned in with the customer
+1. [ ] The epic that follows the epic you're about to start is planned in with the customer
 2. [ ] You're aware of any time or budget constraints
 3. [ ] There is a showcase booked no more than 2 days in to the epic
 4. [ ] The customer is aware of what is needed of them
