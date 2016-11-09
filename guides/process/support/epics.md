@@ -85,4 +85,4 @@ We have an aversion to plate spinning or too much Work In Progress (WIP). It nee
 
 If you find you need to down tools on the current epic without completing it, you should instigate a conversation with the wider team before doing so.
 
-- [ ] You're not starting a new epic before closing out the current
+- [ ] You're not starting a new epic before closing out the current epic
