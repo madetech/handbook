@@ -8,18 +8,18 @@ Pending is for when waiting for a reply which is needed to progress. Closed is f
 
 In most cases whoever is on triage that day: outstanding triage work should be handed over from day to day. Occasionally specific domain knowledge may be required in which case it may be easier/more appropriate for that person to respond instead.
 
-## Who does larger quotations/estimation of work that is requested via groove?
+## Who does larger quotations/estimation of work that is requested via Zendesk?
 
 Ideally whoever is triage, but not everyone has the context of the project to be able to do it, so probably dependent on case. Ask if you're unsure.
 
-## If a Trello ticket is created via slack rather than groove, how do we update customer when task is complete? Groove?
+## If a Trello ticket is created via slack rather than Zendesk, how do we update customer when task is complete? Zendesk?
 
-Generally if someone raises an issue on Slack they should be encouraged to send it into Groove so that it doesn't get lost. If it's literally a 5 minute job though this might not be necessary and issue can be responded to/closed out via Slack.
+Generally if someone raises an issue on Slack they should be encouraged to send it into Zendesk so that it doesn't get lost. If it's literally a 5 minute job though this might not be necessary and issue can be responded to/closed out via Slack.
 
 ## How do I communicate with customer about ticket?
 
 This is dependant on where the issue is in workflow:
- * New issue still open in Groove: all communication ideally to be done via Groove
+ * New issue still open in Zendesk: all communication ideally to be done via Zendesk
  * Issue has been backlogged but not scheduled/started: via Trello comments on the card in the first instance. Or via Slack/email
  * Issue is in progress: via Slack or email
 
