@@ -31,7 +31,7 @@ For less critical requests, if we expect delivering the solution to take more th
 
 Moving the request to the Customer Roadmap should be considered a successful triage resolution, and so the ticket should be closed.
 
-Customers may ask for time estimates for larger pieces of work. This [FAQ answer](process/support/faqs.md) should help.
+Customers may ask for time estimates for larger pieces of work. This [FAQ answer](faqs.md) should help.
 
 - [ ] You've [Popped the Why Stack](http://www.mattblodgett.com/2009/01/pop-stack.html) to ensure you understand what commercial goal the customer is trying to solve
 - [ ] You've successfully resolved the request or added to the Customer Roadmap

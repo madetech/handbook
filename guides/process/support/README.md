@@ -16,12 +16,12 @@ Within the Support Team there are two primary roles. It is a goal for pairs in S
 
 ### Triage Pair
 
-The Triage Pair are responsible for handling incoming support requests, where possible successfully resolving them on the spot, or if they're sufficiently large, booking them in for a Support Pair to pick up. [Read more on the triage process](guides/support/triage.md)
+The Triage Pair are responsible for handling incoming support requests, where possible successfully resolving them on the spot, or if they're sufficiently large, booking them in for a Support Pair to pick up. [Read more on the triage process](triage.md)
 
 ### Epic Pair
 
-Epic Pairs work on larger pieces of work ("epics") that typically take somewhere between half a day and a couple of weeks. [Read more on the support epic process](guides/support/epics.md)
+Epic Pairs work on larger pieces of work ("epics") that typically take somewhere between half a day and a couple of weeks. [Read more on the support epic process](epics.md)
 
 ## FAQs
 
-[Support FAQs](guides/support/faqs.md)
+[Support FAQs](faqs.md)

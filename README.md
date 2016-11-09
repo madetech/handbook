@@ -34,7 +34,7 @@ Guides
 * [Laptop & Phone Security](guides/security/protect_the_company.md)
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
-* [Support Team](guides/process/support.md)
+* [Support Team](guides/process/support/README.md)
 * [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
