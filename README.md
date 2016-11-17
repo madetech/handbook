@@ -27,6 +27,7 @@ Benefits & Perks
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
+* [Season Ticket Loan](benefits/season_ticket_loan.md)
 
 Guides
 --
