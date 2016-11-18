@@ -22,6 +22,10 @@ The Triage Pair are responsible for handling incoming support requests, where po
 
 Epic Pairs work on larger pieces of work ("epics") that typically take somewhere between half a day and a couple of weeks. [Read more on the support epic process](epics.md)
 
+## Roadmap Prioritisation
+
+A number of Customer Partners across the business have prioritisation calls with our various support customers. By the close of play each week, we ensure we've captured customer's latest priorities and have these reflected in the overall roadmap. [Read more on the prioritisation process](roadmap_prioritisation.md).
+
 ## FAQs
 
 [Support FAQs](faqs.md)
