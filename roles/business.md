@@ -18,23 +18,6 @@ We expect someone in the role:
 - to be selling proactive improvement services to customers within 6 months
 - to achieve and maintain a gross profit margin of 65% after 6 months
 
-### +Marketing
-
-We need someone:
-
-- to lead our content marketing effort
-- to inspire and encourage the team to be involved in marketing efforts
-- to report on all marketing activity that we invest in
-- to understand our target customers and the areas in which we can add value to their organisations
-
-We expect someone in the role:
-
-- to be proactively leading multiple marketing efforts on our own channels and on other channels within 3 months
-- to be autonomous in leading the direction of our marketing within 3 months
-- to test and report on upwards of 6 marketing initiatives per month within 3 months
-- to commercially justify investments in marketing activity within 3 months
-- to demonstrate an improved effectiveness in our marketing activity within 6 months
-
 ### +Director
 
 We need someone:
