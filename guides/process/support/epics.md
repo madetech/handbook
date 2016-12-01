@@ -87,10 +87,10 @@ If you find you need to down tools on the current epic without completing it, yo
 
 - [ ] You're not starting a new epic before closing out the current epic
 
-<a name="delayed_epic_deploys"></a>**Note:** Sometimes it's not possible to wrap up a piece of epic work by getting it deployed out to production in the time we originally had scheduled. It may be that the work was left with the client to review on staging, before they were happy for it to go live, and that is taking days instead of hours to get sign off. 
+<a name="delayed_epic_deploys"></a>**Note:** Sometimes it's not possible to wrap up a piece of epic work by getting it deployed out to production in the time we originally had scheduled. It may be that the work was left with the customer to review on staging, before they were happy for it to go live, and that is taking days instead of hours to get sign off. 
 
 If the bulk of the development work has been completed, and all that remains is to get it deployed through the pipeline, then the billing of this additional work needs to be treated differently.
 
 When resuming work on the epic to make it go live, the time logged in Harvest should be done at the triage rate of quarter hour increments.
 
-If there are issues with making a piece of epic work live, and it exceeds beyond more than two hours, alert the wider support team and ask for assistance, while also letting the client know that the work is taking longer to deploy.
+If there are issues with making a piece of epic work live, and it exceeds beyond more than two hours, alert the wider support team and ask for assistance, while also letting the customer know that the work is taking longer to deploy.
