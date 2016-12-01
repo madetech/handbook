@@ -12,7 +12,7 @@ Before starting a piece of work, it is the responsibility of the Pair to ensure 
 2. [ ] You're aware of any time or budget constraints
 3. [ ] There is a customer showcase booked no more than 2 days in to the epic
 4. [ ] The customer is aware of what is needed of them
-5. [ ] Record your time in Harvest in half-day increments
+5. [ ] Record your time in Harvest in half-day increments [\*](#delayed_epic_deploys)
 6. [ ] Keep the Customer Roadmap Trello board accurate
 7. [ ] Deliver that feature to production
 
@@ -86,3 +86,11 @@ We have an aversion to plate spinning or too much Work In Progress (WIP). It nee
 If you find you need to down tools on the current epic without completing it, you should instigate a conversation with the wider team before doing so.
 
 - [ ] You're not starting a new epic before closing out the current epic
+
+<a name="delayed_epic_deploys"></a>**Note:** Sometimes it's not possible to wrap up a piece of epic work by getting it deployed out to production in the time we originally had scheduled. It may be that the work was left with the client to review on staging, before they were happy for it to go live, and that is taking days instead of hours to get sign off. 
+
+If the bulk of the development work has been completed, and all that remains is to get it deployed through the pipeline, then the billing of this additional work needs to be treated differently.
+
+When resuming work on the epic to make it go live, the time logged in Harvest should be done at the triage rate of quarter hour increments.
+
+If there are issues with making a piece of epic work live, and it exceeds beyond more than two hours, alert the wider support team and ask for assistance, while also letting the client know that the work is taking longer to deploy.
