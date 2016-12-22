@@ -90,6 +90,9 @@ We expect someone exhibiting the trait:
   - to pair with their team more than half their time
   - to regularly commit time to mentoring someone inside or outside the company
   - to help colleagues develop their traits
+    - this can include:
+      - helping to onboard new hires to the traits system
+      - checking in with colleagues regarding their progress
 
 ## Engineer Leadership
 
