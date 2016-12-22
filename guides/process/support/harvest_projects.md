@@ -22,7 +22,7 @@ Currently, support teams track time against the default project assigned to each
 
 At the end of each month, we'll need to create new projects for the following month. This can be done by:
 
- 1. Duplicating the current months project
+ 1. Duplicating the current month's project
  2. Adjusting the values for start and end date
  3. Set the monthly budget based on the standard recurring value and adjusting based on the current hourly balance for the client
  4. Updating the description of the project outlining the changes to the budget
