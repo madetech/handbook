@@ -5,7 +5,8 @@ This is our current remote test for screening candidates. We provide a candidate
 In order to proceed to the next step, a candidate must achieve 80% mark or more.
 
  - [Brief](brief.md)
- - [Rails Marking Guide](marking_guide.md)
+ - [Rails Marking Guide](ruby_marking_guide.md)
+ - [Language Agnostic Marking Guide](language_agnostic_marking_guide.md)
  - PHP Marking Guide (coming soon)
  - JavaScript Marking Guide (coming soon)
 

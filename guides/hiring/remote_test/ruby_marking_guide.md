@@ -1,6 +1,6 @@
 # Marking guide
 
-76 marks in total. There are no half marks. 80% (61 marks) required to pass.
+79 marks in total. There are no half marks. 80% (63 marks) required to pass.
 
  - [2] Is the app built with Rails?
  - [2] The timeline appeared on the homepage
@@ -13,11 +13,12 @@
  - [3] The timeline is ordered in descending chronological order
  - [2] Each item in the timeline contains a message
  - [2] Each item in the timeline contains the time of submission
- - [2] Each item in the timeline contains a delete <button>
+ - [2] Each item in the timeline contains a way of deleting a message
+ - [3] Delete functionality is not triggered by a GET request
  - [3] Message can contain newlines
  - [3] Time is displayed in format of "20 minutes ago", "5 days ago"
- - [3] Clicking delete button results in item being deleted
- - [3] Clicking delete button results in flash message being displayed
+ - [3] Clicking delete results in item being deleted
+ - [3] Clicking delete results in flash message being displayed
  - [3] Git was used to version control
  - [3] Rubocop is installed and is passing
  - [2] Scaffolding is not used for models

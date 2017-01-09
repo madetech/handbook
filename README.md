@@ -1,6 +1,6 @@
 # Made Tech Handbook
 
-At Made Tech, we're tying to build an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we try to avoid.
+At Made Tech, we're building an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
@@ -17,8 +17,8 @@ Introduction
 Roles
 --
 * [About Roles](roles/README.md)
-* [Engineer role and traits](roles/engineer.md)
-* [Business traits](roles/business.md)
+* [Engineer Role and Traits](roles/engineer.md)
+* [Business Traits](roles/business.md)
 
 Benefits & Perks
 --
@@ -27,19 +27,22 @@ Benefits & Perks
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
+* [Season Ticket Loan](benefits/season_ticket_loan.md)
 
 Guides
 --
-* [Our hiring process](guides/hiring/README.md)
+* [Our Hiring Process](guides/hiring/README.md)
 * [Laptop & Phone Security](guides/security/protect_the_company.md)
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
+* [Support Team](guides/process/support/README.md)
 * [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Sick Leave](guides/policies/sick_leave.md)
 * [Parental Leave](guides/policies/parental_leave.md)
 * [Last Day](guides/security/last_day.md)
+* [Tap Guide](guides/taps.md)
 
 Team norms
 --

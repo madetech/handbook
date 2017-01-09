@@ -91,7 +91,7 @@ Feedback should be given with the following principles in mind:
     - What does this person do well that makes them effective? Be specific and share with them why it’s impactful
     - What is one thing, looking forward, they could change or do more of that would make them more effective?
 
-If you have feedback concerning more than one person, submit it to both people. Depending on the issue/feedback, calling a having a separate meeting/discussion outside of CF might be a better solution such as a retrospective or comradrospective.
+If you have feedback concerning more than one person, submit it to both people. Depending on the issue/feedback, calling a separate meeting/discussion outside of CF might be a better solution such as a retrospective or comradrospective.
 
 ## How should I receive feedback?
 
