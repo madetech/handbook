@@ -3,7 +3,7 @@
 When a new developer joins our team, we'll often find they need some guidance on 'The Made Way'. Below we've included a list of practices that we encourage new developers to adopt, so they can get up to speed as quickly as possible:
 
 * Commit frequently (5, 10, 15+ times per day)
-* Favour commits into feature branches which you should aim to merge into Master via PR the same day 
+* Favour commits into short-lived, small diff, local branches which you should aim to merge into Master via PR the same day 
 * Include descriptive commit messages (ideally referencing Jira tickets)
 * Do your best not to break the build. Run the test suit before pushing into origin.
 * Don't mark tasks as 'done' until they have been:
@@ -23,7 +23,7 @@ When a new developer joins our team, we'll often find they need some guidance on
     * Don't be scared to speak to the customer.
     * Talk to the UI designers if unsure about anything visual, behaviour etc.
 * Ask somebody for help if you've run into a problem and can't solve it within ~1hr (it's pretty likely somebody else has encountered it)
-* Client showcases are really important. You should always try to attend these.
+* Client showcases are really important. You should always do your best to attend these.
 
 
 ## Red flags on projects
