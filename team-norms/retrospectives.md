@@ -1,7 +1,18 @@
 
+It follows the basic flow:
+
+ * Facilitator asks everyone to put themselves in the shoes of someone who might not feel safe and to note down what those causes might be
+ * Based on the submitted post-it notes, add a separate column where people can think of reasons that might cause these issues
+ * Based on the potential causes, add another column asking for people to submit potential solutions
+ * Read these all out and discuss with the team
+ * Run the safety check again
+
+If the safety level has increased after this point, then you can run the retrospective.
 # The Prime Directive
 
 The purpose of the Prime Directive is to assure that a retrospective has the right culture to make it a positive and result oriented event. It makes a retrospective become an effective team gathering to learn and find solutions to improve the way of working.
+
+The prime directive should be read before a retrospective begins.
 
 "Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."
 
@@ -51,6 +62,31 @@ Make sure the team has awareness on what the outcome of potential solutions woul
 Teams are expected to self-organise into groups that make sense to perform retrospectives with.
 
 Team members should only attend one retrospective, and then the comradrospective.
+
+### Safety Checks
+
+Sharing views can be difficult at times; it's important we recognise this by holding safety checks.
+
+Safety checks should be run before both retrospectives and comradrospectives, our numbering system is outlined below.
+
+5 - I’ll talk about anything
+4 - I’ll talk about almost anything; a few things might be hard
+3 - I’ll talk about some things, but others will be hard to say
+2 - I’m not going to say much, I’ll let others bring up issues
+1 - I’ll smile, claim everything is great and agree with authority figures
+0 - I'm not comfortable talking/I don't want to do this/I want to leave
+
+The facilitator should collect the team's safety numbers anonymously and work out if safety is high or low. If it is low the facilitator should hold an exercise to raise safety and work out what might be causing low safety.
+
+It follows the basic flow:
+
+ * Facilitator asks everyone to put themselves in the shoes of someone who might not feel safe and to note down what those causes might be
+ * Based on the submitted post-it notes, add a separate column where people can think of reasons that might cause these issues
+ * Based on the potential causes, add another column asking for people to submit potential solutions
+ * Read these all out and discuss with the team
+ * Run the safety check again
+
+If the safety level has increased after this point, then you can run the retrospective.
 
 ### Getting the most out of Retrospectives
 
