@@ -12,6 +12,13 @@
 * We believe the adoption of Agile is in it's infancy and that Agile principles (and various spin offs) will underpin all high-performance businesses in years to come.
 
 ###Values
+
+* We take care of the our space and those in it.
+
+* We are willing and open to continuous improvement in our culture
+
+* We take care of those around us and those we talk to.
+
 * No one should feel uncomfortable
 
 * Everyone should feel productive
