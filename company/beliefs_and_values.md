@@ -39,7 +39,7 @@
 
 * Be responsible for our space
 
-* Boy scout attitude to the office
+* Scout attitude to the office
 
 * Prioritise our environment
 
