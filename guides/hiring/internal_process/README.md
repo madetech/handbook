@@ -12,7 +12,7 @@ As a company, we share responsibility for hiring across the team. This is great,
 - We don't have clear commercial objective for a candidate.
 - We don't check references.
 
-In order to improve this, I've been looking at a new internal hiring process, which we should use for screening and face to face interviews. The thinking behind this new approach largely comes from a book called "Who" and some discussions I had at 10kSMB last week.
+In order to improve this, I've been looking at a new internal hiring process, which we should use for screening and face to face interviews. The thinking behind this new approach largely comes from a book called "Who" and some discussion I had at 10kSMB.
 
 - [Candidate Scorecard](scorecard.md)
 - [Telephone Screening Guide](screening.md)

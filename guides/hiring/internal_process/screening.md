@@ -44,10 +44,10 @@ The third question captures the other side of the balance sheet. You may have to
 * If you hear too many 6’s and below, screen them out, but be sure to really listen to what is being said. 
 
 ###Getting Curious
-Unless you follow up on your questions, you won’t get all the answers you need We use a simple process called “getting curious.” and here’s how it works:
+Unless you follow up on your questions, you won’t get all the answers you need. We use a simple process called “getting curious.” and here’s how it works:
 
 After a candidate answers one of the primary questions above, get curious about the answer by asking a follow-up question that begins with “What,” “How,” or “Tell me more.” Keep using this until you are clear about what the person is really saying. 
 
 Sample questions include: What do you mean? What did that look like? What happened? What is a good example of that? What was your role? What did you do? What did your boss say? What were the results? What else? How did you do that? How did that go? How did you feel? How much money did you save? How did you deal with that? 
 
-It can seem like you are probing a lot, but this is a key step in an important who decision that can affect your entire company. You should be pushing candidates to be as clear and precise as possible by asking “what” and “how” questions. When you have no idea what else to ask, just say, “Tell me more.” They will keep talking. We promise.
+It can seem like you are probing a lot, but this is a key step in an important who decision that can affect the entire company. You should be pushing candidates to be as clear and precise as possible by asking “what” and “how” questions. When you have no idea what else to ask, just say, “Tell me more.” They will keep talking. I guarantee it.

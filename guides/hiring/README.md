@@ -15,14 +15,15 @@ Our pipeline is tracked on a [Trello board](https://trello.com/b/0kmnv5Wo/recrui
 
 ### Define a need and expectation for hiring
 
-As described in our [Roles at Made Tech](/roles/README.md) document, candidates must be judged against a specific role with the needs and expectations of that role explicitly defined. This allows us to judge candidates like for like and also keeps us focused on the reason for a hire.
+As described in our [Roles at Made Tech](/roles/README.md) document, candidates must be judged against a specific role with the needs and expectations of that role explicitly defined. This allows us to judge candidates like for like and also keeps us focused on the reason for a hire. Internally, the person leading the hiring should create a [candidate scorecard](internal_process/scorecard.md) to detail the specific [mission](internal_process/scorecard.md#mission), [outcomes](internal_process/scorecard.md#outcomes) and [competencies](internal_process/scorecard.md#competencies) that we are looking for, which should enable us to compare candidates like-for-like.  
 
 ### Candidate
 
-Once we have a need and expectation for a role we will then reach out our marketing efforts to advertise the role on our site and elsewhere. We will also hand the role to trusted recruiters and spread the word amongst our existing staff.
+Once we have a need and expectation for a role and a [candidate scorecard](internal_process/scorecard.md), we will then reach out our marketing efforts to advertise the role on our site and elsewhere. We will also hand the role to trusted recruiters and spread the word amongst our existing staff.
 
 When a candidate gets in touch we place them in our Trello board. We then use this Trello board to track the candidate across our pipeline. The Trello card should contain all details we have on the candidate including but not limited to:
 
+ - Candidate scorecard (as Google Doc)
  - Email address
  - GitHub profile
  - Covering letter
@@ -36,7 +37,7 @@ We then need to screen the candidate in order to determine what role they are a 
 We use the following steps in order to determine a role for the candidate:
 
  - Review application (CV, GitHub, LinkedIn, covering letter)
- - 20 minute phone conversation
+ - Telephone screening
  - Remote test
 
 #### Review application
@@ -45,17 +46,13 @@ We first review a candidates application to ensure the later steps are worth our
 
 > Does their application contain experience to indicate that they may be able to meet our expectations of one or more roles?
 
-#### 20 minute phone conversation
+#### Telephone screening
 
-We then start a phone call with the candidate to give a brief overview of Made and what we stand for. This is an important chance to sell our vision to the candidate. We also describe the role(s) we think they are a good fit for, followed by some questions used for screening:
-
- - Does the candidate like the sound of the role?
- - Can the candidate provide examples of why they would be able to fulfil the expectations of the role and possibly that of traits for the role? (See [engineer expectations](/roles/engineer.md#engineer-role) for an example)
- - Is the candidate able to work in the UK? (We do not sponsor visas, yet.)
+Next we should organise a telephone interview with the candidate. This will be the first opportunity to speak with the candidate and should follow our [telephone screening](internal_process/screening.md) process.
 
 #### Remote test
 
-Provided all went well during the phone conversation we will provide a remote test. We provide remote tests for each role. They test the extent of a candidate's exposure to common practices we expect from them. In other words they check a minimum level of expectations we have for any particular role.
+Provided all went well during the [telephone screening](internal_process/screening.md) we may ask the candidate to take a remote test. 
 
 The remote test will have a marking guide so that applications can be judged objectively against a set of criteria. We will also provide the marking guide to candidates so that they can see exactly what we are looking for.
 
@@ -68,17 +65,17 @@ A few things to note about the remote test:
 
 *We currently only have a [remote test](remote_test/README.md) for our [Engineer role](/roles/engineer.md#engineer-role).*
 
-### Interview & pairing session
+### Interview
 
 The candidate is invited into our offices for an hour and a half. We split this time as follows:
 
- - Further introduction to Made (10 minutes)
- - Discussion of previous experience (20 minutes)
+ - Introduction to Made (10 minutes)
+ - [Discussion of previous experience](internal_process/who.md) (30 minutes)
  - Pairing session (30 minutes)
  - Problem solving (20 minutes)
  - Questions (10 minutes)
 
-#### Further introduction to Made
+#### Introduction to Made
 
 We usually ask the candidate if they have any more questions about what we do, and what the role looks like. It also helps break the ice of the interview conditions.
 
