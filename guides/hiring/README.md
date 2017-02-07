@@ -81,15 +81,7 @@ We usually ask the candidate if they have any more questions about what we do, a
 
 #### Discussion of previous experience
 
-We then ask the candidate to explain how they got to where they are now. We dig into examples of challenges, what their process looked like and how that differs from their ideal process.
-
-We are particularly looking for strong indications that they:
-
- - can meet our expectations for the role
- - can meet our expectations for any traits we see them immediately tackling
- - can grow with us
- - are proactive and problem solvers
- - take responsibility for past failings rather than blame others
+We then ask the candidate to explain how they got to where they are now. We should follow our [experience assessment](internal_process/who.md) process.
 
 #### Pairing session
 
