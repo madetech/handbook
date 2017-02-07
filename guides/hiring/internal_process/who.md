@@ -1,9 +1,9 @@
 # Experience Interview
 
-So what is the Experience Interview? It’s a chronological walk-through of a person’s career. You begin by asking about the highs and lows of a person’s educational experience to gain insight into his or her background. Then you ask five simple questions, for each job, beginning with the earliest and working your way forward to the present day.
+The experience interview is a chronological walk-through of a person’s career. You begin by asking about the highs and lows of a person’s educational experience to gain insight into his or her background. Then you ask five simple questions, for each job, beginning with the earliest and working your way forward to the present day.
 
 #####1. What were you hired to do? 
-This first question is a clear window into candidates’ goals and targets for a specific job. In a way, you are trying to discover what their scorecard might have been if they had had one. They might not know off the top of their head, so coach them by asking how they thought their success was measured in the role. Build a mental image of what their scorecard should have been. What were their mission and key outcomes? What competencies might have mattered?
+This first question is a clear window into candidates’ goals and targets for a specific job. They might not know off the top of their head, so coach them by asking how they thought their success was measured in the role. Build a mental image of what their scorecard should have been. What were their mission and key outcomes? What competencies might have mattered?
 
 #####2. What accomplishments are you most proud of? 
 Question number two generates discussions about the peaks of a person’s career. This is where you will hear the stories behind the polished statements on a resume. In our experience, most candidates naturally focus on what really mattered to them at that time in their career rather than regurgitate what they put on their resume.
