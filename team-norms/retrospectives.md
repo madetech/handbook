@@ -63,10 +63,15 @@ Sharing views can be difficult at times; it's important we recognise this by hol
 Safety checks should be run before both retrospectives and comradrospectives, our numbering system is outlined below.
 
 5 - I’ll talk about anything
+
 4 - I’ll talk about almost anything; a few things might be hard
+
 3 - I’ll talk about some things, but others will be hard to say
+
 2 - I’m not going to say much, I’ll let others bring up issues
+
 1 - I’ll smile, claim everything is great and agree with authority figures
+
 0 - I'm not comfortable talking/I don't want to do this/I want to leave
 
 The facilitator should collect the team's safety numbers anonymously, this can be done using either the same pen and paper or digitally, and work out if safety is high or low. If it is low the facilitator should hold an exercise to raise safety and work out what might be causing low safety.
