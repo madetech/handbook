@@ -13,34 +13,8 @@
 
 ###Values
 
-* We take care of the our space and those in it.
+- **People:** We value and respect the people we work with, both within the company and without, and want them to feel able to express their opinions safely and without fear.
 
-* We are willing and open to continuous improvement in our culture
+- **Space:** We value the space in which we work, and want it to be a place in which everyone can pursue and share knowledge whilst feeling respected, comfortable and productive.
 
-* We take care of those around us and those we talk to.
-
-* No one should feel uncomfortable
-
-* Everyone should feel productive
-
-* Be aware of ego
-
-* Actions over words
-
-* Don't be submissive
-
-* Know your audience
-
-* Awareness of culture
-
-* Adapt and iterate culture
-
-* Seek diversity
-
-* Be responsible for our space
-
-* Scout attitude to the office
-
-* Prioritise our environment
-
-* Respect others environments
+- **Culture:** We value a positive and diverse company culture, and will always strive to adapt our culture in order to make this a more welcoming place to be.
