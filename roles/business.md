@@ -7,7 +7,7 @@
 We need someone:
 
 - to prepare and deliver the weekly learning programmes
-- to provide appropriate feedback and coaching, to help academy members to succeed  
+- to provide appropriate feedback and coaching, to help the cohort to succeed  
 - to use a variety of teaching methods to challenge and engage academy members
 - to be the PO for the greenfield project
 
