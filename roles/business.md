@@ -2,6 +2,22 @@
 
 ## Business Traits
 
+### +Academy
+
+We need someone:
+
+- to prepare and deliver the weekly learning programmes
+- to provide appropriate feedback and coaching, to help academy members to succeed  
+- to use a variety of teaching methods to challenge and engage academy members
+- to be the PO for the greenfield project
+
+We expect someone in the role:
+
+- to be autonomous during the day-to-day leading of the academy
+- to be well organised and comfortable prioritising the academy needs over company perks  
+- to be accountable for the commercial success of the academy and to showcase progress via bizops
+- to implement proactive improvements to the academy for use by future cohorts and POs
+
 ### +Support
 
 We need someone:
