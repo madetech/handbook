@@ -14,8 +14,8 @@ We need someone:
 We expect someone in the role:
 
 - to be autonomous during the day-to-day leading of the academy
-- to be well organised and committed
-- to be accountable for progress and showcases back to the business
+- to be well organised and comfortable prioritising the academy needs over company perks  
+- to be accountable for the commercial success of the academy and to showcase progress via bizops
 - to implement proactive improvements to the academy for use by future cohorts and POs
 
 ### +Support
