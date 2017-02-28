@@ -13,7 +13,7 @@ We need someone:
 
 We expect someone in the role:
 
-- to be autonomous in leading the academy
+- to be autonomous during the day-to-day leading of the academy
 - to be well organised and committed
 - to be accountable for progress and showcases back to the business
 - to implement proactive improvements to the academy for use by future cohorts and POs
