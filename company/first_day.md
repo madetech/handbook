@@ -1,6 +1,6 @@
 # First Day
 
-So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded:
+So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded: 
 
 * [ ] Signed Contract
 * [ ] Office Keys
