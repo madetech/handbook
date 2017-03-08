@@ -1,6 +1,6 @@
 # First Day
 
-So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded: 
+So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded:
 
 * [ ] Signed Contract
 * [ ] Office Keys
@@ -11,7 +11,7 @@ So it's your first day at Made Tech. Welcome to the team! Here are a few things 
 * [ ] 2FA enabled on AWS
 * [ ] User for Mole
 
-Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com) or [Chris](chris@madetech.com) know.
+Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com) or [Chris](chris@madetech.com) know. 
 
 ### Tools
 * [ ] Google Mail
