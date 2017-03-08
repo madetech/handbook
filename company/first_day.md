@@ -29,3 +29,8 @@ Below you'll find a list of tools that you will need to do your job. If you have
 * [ ] Slack
 * [ ] LastPass
 * [ ] Trello
+
+### Setting up your machine
+
+To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot). First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
+
