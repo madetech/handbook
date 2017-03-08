@@ -4,9 +4,6 @@ So it's your first day at Made Tech. Welcome to the team! Here are a few things 
 
 * [ ] Signed Contract
 * [ ] Office Keys
-* [ ] Passport
-* [ ] Bank Account
-* [ ] National Insurance / P45
 * [ ] Company Pension
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Introduction to Continuous Feedback
@@ -36,4 +33,4 @@ To get your machine set up with some essentials we've created [First Boot](https
 
 ### Payroll and HR  
 
-To get setup on Payroll and within our HR systems, we'll need a few details from you. If you [can fill in this form with your details](https://madetech.typeform.com/to/neqgrr). 
+To get setup on Payroll and within our HR systems, we'll need a few details from you. If you [can fill in this form with your details](https://madetech.typeform.com/to/neqgrr).
