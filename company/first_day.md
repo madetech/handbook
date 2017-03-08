@@ -1,10 +1,9 @@
 # First Day
 
-So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded:
+So it's your first day at Made Tech. Welcome to the team! Here are a few things that we'll need to get you on-boarded: 
 
 * [ ] Signed Contract
 * [ ] Office Keys
-* [ ] Company Pension
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Introduction to Continuous Feedback
 * [ ] Tour of the Building
