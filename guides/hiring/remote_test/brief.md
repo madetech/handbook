@@ -39,10 +39,10 @@ As a user:
 
  - Use git to version control the application
  - Install a code linter and ensure it's passing
- - Framework scaffolding *should not* be used to generate any code
+ - Scaffolding *should not* be used to generate any MVC code
  - Each user story should have at least one success case tested with feature tests
  - At least one failure case for posting message should be tested with a feature test
- - Write some browser based feature tests
+ - Write some feature tests for both happy and sad paths
  - Unit test validation rules
  - Include instructions in a README on how to run the application and how to run the test suite
 
