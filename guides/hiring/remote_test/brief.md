@@ -38,12 +38,12 @@ As a user:
 ## Coding standards
 
  - Use git to version control the application
- - Install rubocop and ensure it's passing
- - Rails scaffolding *should not* be used to generate controllers, models or views
+ - Install a code linter and ensure it's passing
+ - Scaffolding *should not* be used to generate any MVC code
  - Each user story should have at least one success case tested with feature tests
  - At least one failure case for posting message should be tested with a feature test
- - Feature tests should be written using RSpec and Capybara (we recommend using our gem to get started quicker - https://github.com/madetech/bdd-rails)
- - Unit test your model validation with RSpec and shoulda-matchers
+ - Write some feature tests for both happy and sad paths
+ - Unit test validation rules
  - Include instructions in a README on how to run the application and how to run the test suite
 
 ## Submission
