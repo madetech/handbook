@@ -1,6 +1,6 @@
-## Beliefs & Values
+# Beliefs & Values
 
-###Beliefs
+## Beliefs
 * We believe that everyone in our company should be learning something new every day. We invest heavily in initiatives which will help us cultivate an environment where **everyone** is striving to perform better.
 
 * We believe that responsibility is taken, not given. We believe people need to to use their own initiative and take opportunities when they present themselves.
@@ -11,7 +11,7 @@
 
 * We believe the adoption of Agile is in its infancy and that Agile principles (and various spin offs) will underpin all high-performance businesses in years to come.
 
-###Values
+## Values
 
 - **People:** We value and respect the people we work with, both within the company and without, and want them to feel able to express their opinions safely and without fear.
 
