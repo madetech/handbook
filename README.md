@@ -28,6 +28,7 @@ Benefits & Perks
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
+* [Pensions](benefits/pensions.md)
 
 Guides
 --
