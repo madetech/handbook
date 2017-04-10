@@ -2,7 +2,9 @@
 
 We provide a pension plan which everyone is automatically enrolled on.
 
-You will be enrolled as soon as you pass your probation period which will be stated your employment contract.
+You will be enrolled as soon as you pass your probation period, which will be stated in your employment contract.
+
+Our current pension plan is provided by Royal London.
 
 ## Contributions
 
