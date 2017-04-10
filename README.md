@@ -28,7 +28,6 @@ Benefits & Perks
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
-* [Pensions](benefits/pensions.md)
 
 Guides
 --
@@ -40,6 +39,7 @@ Guides
 * [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
+* [Pensions](guides/policies/pensions.md)
 * [Sick Leave](guides/policies/sick_leave.md)
 * [Parental Leave](guides/policies/parental_leave.md)
 * [Last Day](guides/security/last_day.md)
