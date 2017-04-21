@@ -21,7 +21,6 @@ Below you'll find a list of tools that you will need to do your job. If you have
 * [ ] Jenkins
 * [ ] Xero
 * [ ] Harvest
-* [ ] Jira
 * [ ] Slack
 * [ ] LastPass
 * [ ] Trello
