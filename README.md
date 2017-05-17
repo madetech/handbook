@@ -14,7 +14,7 @@ This handbook should be the starting point for any new team members. It provides
 
 ## Contributing to our handbook
 
-We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update.
+We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not :)
 
 ## Table of contents
 
