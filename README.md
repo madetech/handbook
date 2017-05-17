@@ -4,11 +4,7 @@ At Made Tech, we're building an open and transparent company, full of people who
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
-[Table of contents](#table-of-contents)
-
-## Our mission
-
-> ### Improving software delivery in every organisation
+## Improving software delivery in every organisation
 
 We've seen many organisations constrained by poor choices when it comes to software. Whether it's keeping a slow legacy system around, or neglecting a team that needs help, these decisions impede an organisation's ability to compete in a competitive world.
 
@@ -22,7 +18,7 @@ We believe there's a better way, one that encourages an open and collaborative r
 
 * **Culture:** We value a positive and diverse company culture, and will always strive to adapt our culture in order to make this a more welcoming place to be.
 
-## Contributing
+## Contributing to our handbook
 
 We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update.
 
