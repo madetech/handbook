@@ -10,6 +10,7 @@ Things to note:
 - If you want to opt out there are now [Government guidelines](https://www.gov.uk/workplace-pensions/if-you-want-to-leave-your-workplace-pension-scheme) on doing so
 - You can opt to contribute more to your employee contribution, feel free to ask about this
 - You can read more about Workplace pensions on [gov.uk](https://www.gov.uk/workplace-pensions/about-workplace-pensions)
+- You can read more about Pensions and some third party advice on [MoneySavingExpert](http://www.moneysavingexpert.com/savings/discount-pensions)
 
 ## Contributions
 
