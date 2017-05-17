@@ -22,7 +22,6 @@ Roles
 
 Benefits & Perks
 --
-* [Recruitment Referrals](benefits/recruitment_referrals.md)
 * [Untracked Holiday Allowance](benefits/untracked_holiday.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
