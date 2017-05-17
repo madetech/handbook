@@ -47,7 +47,7 @@ Guides
 
 Team norms
 --
-* [Continuous Feedback](team-norms/continuous_feedback.md)
+* [Decision Making](team-norms/decision-making.md)
+* [Continuous Feedback](team-norms/continuous_feedback.md) 
 * [Retrospectives](team-norms/retrospectives.md)
 * [Development Practices](team-norms/development_practices.md)
-
