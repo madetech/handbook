@@ -20,7 +20,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 ### Introduction to Made Tech
 
-* [Our mission](company/mission.md)
+* [Our Mission](company/mission.md)
 * [Your First Day](company/first_day.md)
 
 ### Roles
@@ -54,7 +54,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Tap Guide](guides/taps.md)
 * [Blogging](https://github.com/madetech/blog)
 
-### Team norms
+### Team Norms
 
 * [Continuous Feedback](team-norms/continuous_feedback.md)
 * [Retrospectives](team-norms/retrospectives.md)
