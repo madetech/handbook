@@ -4,32 +4,41 @@ At Made Tech, we're building an open and transparent company, full of people who
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
-This document was borne out of our [Continuous Feedback](team-norms/continuous_feedback.md) process, as team members were unclear on some of the incentives that we offer.
+## Our values
 
-We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook, add it to the document. If you see something that doesn't represent our current thinking, gather feedback and update.
+* **People:** We value and respect the people we work with, both within the company and without, and want them to feel able to express their opinions safely and without fear.
 
-Introduction
---
-* [Mission Statement](company/mission_statement.md)
-* [Beliefs & Values](company/beliefs_and_values.md)
+* **Space:** We value the space in which we work, and want it to be a place in which everyone can pursue and share knowledge whilst feeling respected, comfortable and productive.
+
+* **Culture:** We value a positive and diverse company culture, and will always strive to adapt our culture in order to make this a more welcoming place to be.
+
+## Contributing to our handbook
+
+We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not :)
+
+## Table of contents
+
+### Introduction to Made Tech
+
+* [Our Mission](company/mission.md)
 * [Your First Day](company/first_day.md)
 
-Roles
---
+### Roles
+
 * [About Roles](roles/README.md)
 * [Engineer Role and Traits](roles/engineer.md)
 * [Business Traits](roles/business.md)
 
-Benefits & Perks
---
+### Benefits & Perks
+
 * [Untracked Holiday Allowance](benefits/untracked_holiday.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
 
-Guides
---
+### Guides
+
 * [Our Hiring Process](guides/hiring/README.md)
 * [Laptop & Phone Security](guides/security/protect_the_company.md)
 * [Server Security](guides/security/server_setup_guidelines.md)
@@ -45,8 +54,8 @@ Guides
 * [Tap Guide](guides/taps.md)
 * [Blogging](https://github.com/madetech/blog)
 
-Team norms
---
+### Team Norms
+
 * [Continuous Feedback](team-norms/continuous_feedback.md)
 * [Retrospectives](team-norms/retrospectives.md)
 * [Development Practices](team-norms/development_practices.md)
