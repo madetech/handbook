@@ -44,10 +44,10 @@ Guides
 * [Parental Leave](guides/policies/parental_leave.md)
 * [Last Day](guides/security/last_day.md)
 * [Tap Guide](guides/taps.md)
+* [Blogging](https://github.com/madetech/blog)
 
 Team norms
 --
 * [Continuous Feedback](team-norms/continuous_feedback.md)
 * [Retrospectives](team-norms/retrospectives.md)
 * [Development Practices](team-norms/development_practices.md)
-
