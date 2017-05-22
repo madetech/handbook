@@ -14,4 +14,4 @@ Wherever possible we aim to accommodate this.
 
 - As your salary is reduced, so too will your individual and employer pension contributions. You may consider increasing your individual contribution to account for this.
 
-- As per our (remote_working.md)[remote working policy], we encourage Fridays to be spent in the office wherever possible.
+- As per our [remote_working.md](remote working policy), we encourage Fridays to be spent in the office wherever possible.
