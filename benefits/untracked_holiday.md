@@ -4,11 +4,9 @@ We're building a high-performance organisation that delivers great software prod
 
 We have adopted an untracked holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. 
 
-It is important that you and your colleagues feel as though that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. 
+It is important that you and your colleagues feel as though that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. We intend untracked holiday to prevent burn-out in situations, where individuals feel that they need to "save up" holiday days, or plan elaborate strategies around using your holiday allowance "effectively" later in the year, rather than taking holiday when needed most.
 
-Untracked holiday is intended to avoid situations where individuals burn-out because they are saving up holiday days or thinking up elaborate strategies around using your holiday allowance "effectively" later in the year.
-
-Untracked Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [flexible working policy as an alternative to Untracked Holiday.
+Untracked Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [Flexible Working](flexible_working.md) as the alternative to Untracked Holiday in those situations.
 
 ## Who approves holiday?
 
