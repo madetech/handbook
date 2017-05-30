@@ -1,6 +1,8 @@
 # Sick Leave
 
-We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at the highest possible level, they need to be healthy.
+We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at the highest possible level, they need to be healthy in mind and body.
+
+Often when we think of sickness we think of colds, stomach bugs, and perhaps even broken limbs. We don't think so much about sickness in the mind. As an organisation we want to challenge common thinking around this. We want you to feel okay taking a day when you feel down, when you're suffering from depression, after you've had a bad argument with a loved one and need some space to recover, or suffering from bereavement.
 
 When people get sick we ask that they follow these guidelines:
 
