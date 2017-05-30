@@ -38,6 +38,12 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
 
+### Welfare
+
+* [Sick Leave](guides/welfare/sick_leave.md)
+* [State of Mind](guides/welfare/state_of_mind.md)
+* [Parental Leave](guides/welfare/parental_leave.md)
+
 ### Guides
 
 * [Our Hiring Process](guides/hiring/README.md)
@@ -49,8 +55,6 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Pensions](guides/policies/pensions.md)
-* [Sick Leave](guides/policies/sick_leave.md)
-* [Parental Leave](guides/policies/parental_leave.md)
 * [Last Day](guides/security/last_day.md)
 * [Tap Guide](guides/taps.md)
 * [Blogging](https://github.com/madetech/blog)
