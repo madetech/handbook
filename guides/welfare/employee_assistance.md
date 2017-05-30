@@ -10,7 +10,7 @@ We have setup an employee assistance programme to provide our team self-service 
 - Older people (bereavement, elderly care, support)
 - Financial advice (pay, pensions, tax, debt help, benefits)
 - Relationships (divorce & separation, counselling, bullying)
-- Addiction (substance and gambling, support for family, rehabillitation
+- Addiction (substance and gambling, support for family, rehabilitation
 
 ## Getting assistance
 
