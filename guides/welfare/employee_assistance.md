@@ -1,6 +1,6 @@
 # Employee Assistance
 
-We have setup an employee assistance programme to provide our team self-service access to all kinds of help. The service provides:
+We have setup an employee assistance programme to provide our team self-service access to all kinds of help. The confidential service provides:
 
 - Legal advice (for personal and work)
 - Emotional help and counselling
@@ -16,3 +16,7 @@ We have setup an employee assistance programme to provide our team self-service 
 
 - **Online:** You can visit http://employeeassistance.org.uk to access help via the website. You'll find the password for access in LastPass.
 - **By phone:** You can call the 24/7 help line on 0800 328 1437
+
+## Confidentiality
+
+We will be informed when the phone line and online service is used, and we will be alerted to what category of query/advice was made. We will not be provided any other details on the contents of your call or use of the service, nor will we be told who accessed the service.
