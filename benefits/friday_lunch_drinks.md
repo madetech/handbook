@@ -8,6 +8,8 @@ Few rules:
 
 * One of the directors will pick-up the tab for lunch. If we're not around, somebody with a company card should be able to cover lunch, or it can be put through as an expense claim.
 
+* Whoever is involved in organising team lunch is responsible for ensuring that it is an inclusive activity for all of the team. 
+
 * We trust people to use their judgement as to what is a reasonable amount to spend on a team lunch.
 
 * Where possible, encourage customers to join us for lunch and / or drinks. 
