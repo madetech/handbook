@@ -94,6 +94,8 @@ We expect someone exhibiting the trait:
       - helping to onboard new hires to the traits system
       - checking in with colleagues regarding their progress
 
+### Achieving a trait
+
 ## Engineer Leadership
 
 Traits recognise value that Engineers can provide customers and the company. They are hats and as Engineers develop their skills, Engineers will begin to wear more of those hats. Leadership is a quality that emerges out of individual traits. The longer an Engineer wears a trait the more of a leader in that area they will become.
