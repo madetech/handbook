@@ -8,6 +8,8 @@ When people get sick we ask that they follow these guidelines:
 
 * Don't be a martyr. If you're sick, take the time off. We'd rather you stayed at home than came into the office and infected other people.
 
+* We can provide support if you need help with your [state of mind](state_of_mind)
+
 * On your first day off, send an email to your team and the company directors letting them know that you'll be away and what you had planned for that day. Aim to let them know as early as possible, so they can factor your absence into their tasks for the day.
 
 * Provide regular updates and an expected return date, as soon as you have one.
