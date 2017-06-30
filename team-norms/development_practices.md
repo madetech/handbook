@@ -34,7 +34,7 @@ This is a list of red flags to review every day to improve project delivery:
 - [ ] Work items are not broken down as small as they can (Follow [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic))
 - [ ] Customer is not kept up to date on current progress, or given a ranged estimate
 - [ ] When ranged estimates become more or less accurate / precise customer has not been informed
-- [ ] Customer has not been informed that work is taking longer than usual case estimate 
+- [ ] Customer has not been informed that work is taking longer than the <75% wrong estimate 
 - [ ] Huge commits / Huge chunk of work not pushed yet, PRs should be small!
 - [ ] Production Deploy > 1 day ago
 - [ ] Not being clear on who the actors are for the current piece of work
