@@ -7,7 +7,7 @@ As a highly collaborative agile team we recognise there are tradeoffs when choos
 ## General ettiquette
 
 - Check and clear it with the rest of your team before the end of the previous working day
-- Once agree with your team and customers add an event in the remote working calendar
+- Once agreed with your team and customers add an event in the remote working calendar
 - Check that you're not needed on-site by a customer
 - Ensure you're available for a daily standup with your team
 - Be a good slack citizen and check in with your team throughout your working day if possible
