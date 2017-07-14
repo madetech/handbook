@@ -2,7 +2,7 @@
 
 We take part in Cyclescheme as we wish to support those who wish to cycle to work whether it's for pleasure, aiming to be healthier, trying to be more green or any other reasons.
 
-Cyclescheme allows you to get up to £1,000 worth of bike and accessories. You then pay a monthly ‘salary sacrifice’ to effectively 'hire' the bike and kit, over a 12 month period.
+Cyclescheme allows you to get up to £1,000 worth of bike and accessories. You then pay a monthly ‘salary sacrifice’ to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options by Cyclescheme around owning your bike.
 
 You can calculate savings from Cyclescheme using their [calculator](https://www.cyclescheme.co.uk/calculator)
 
