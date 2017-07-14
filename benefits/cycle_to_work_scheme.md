@@ -24,5 +24,5 @@ You can calculate savings from Cyclescheme using their [calculator](https://www.
 - Fill out the request form
   - You'll need your payroll number
 - Once your certificate has been requested let a director know so they can find the email and approve it
-- Download your voucher/provide it to the chosen retailer
+- Download your certificate/provide it to the chosen retailer
 - Ride your new bike!
