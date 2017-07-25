@@ -37,6 +37,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Friday Lunches & Drinks](benefits/friday_lunch_drinks.md)
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
+* [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md)
 
 ### Welfare
 
