@@ -1,4 +1,4 @@
-#Development Practices
+# Development Practices
 
 When a new developer joins our team, we'll often find they need some guidance on 'The Made Way'. Below we've included a list of practices that we encourage new developers to adopt, so they can get up to speed as quickly as possible:
 
@@ -30,10 +30,13 @@ When a new developer joins our team, we'll often find they need some guidance on
 
 This is a list of red flags to review every day to improve project delivery:
 
-- [ ] There is no showcase currently planned for the current piece of work
-- [ ] The current epic is longer than a week (it should be broken down in multiple smaller ones)
-- [ ] Customer does not know when the current epic is expected to be finished
+- [ ] No showcase booked in or commitment to customer 
+- [ ] Work items are not broken down as small as they can (Follow [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic))
+- [ ] Customer is not kept up to date on current progress, or given a ranged estimate
+- [ ] When ranged estimates become more or less accurate / precise customer has not been informed
+- [ ] Customer has not been informed that work is taking longer than the <75% wrong estimate 
 - [ ] Huge commits / Huge chunk of work not pushed yet, PRs should be small!
 - [ ] Production Deploy > 1 day ago
-- [ ] Not being clear on who the customer is on the current work
-- [ ] Insufficient information to plan iteration. e.g. missing designs
+- [ ] Not being clear on who the actors are for the current piece of work
+- [ ] Not being clear who the customer is
+- [ ] Backlog items do not meet the Definition of Ready e.g. (if necessary) have designs, etc
