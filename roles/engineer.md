@@ -25,7 +25,7 @@ We need someone:
 
 We expect someone in the role:
 
-- to be automously delivering features of a micro nature before graduation
+- to be autonomously delivering features of a micro nature before graduation
 - to be actively practicing modern software craftsmanship practices such as TDD before graduation
 - to be involved in improving the academy program for current and future cohorts
 - to be billable at a 50% rate after graduating the Academy
