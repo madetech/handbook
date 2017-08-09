@@ -13,8 +13,8 @@ We expect someone in the role:
 - to be fully billable after 2 weeks on-boarding
 - to be involved in practice improvement discussions within 3 months
 - to be actively practicing modern software craftsmanship practices such as TDD within 3 months
-- to be autonomously delivering features of a small nature within 3 months
-- to be autonomously delivering features of a medium nature within 6 months
+- to be autonomously delivering features of modereate complexity within 3 months
+- to be autonomously delivering features of high complexity within 6 months
 
 
 ## Academy Engineer role
@@ -25,7 +25,7 @@ We need someone:
 
 We expect someone in the role:
 
-- to be autonomously delivering features of a micro nature before graduation
+- to be autonomously delivering features of a low complexity before graduation
 - to be actively practicing modern software craftsmanship practices such as TDD before graduation
 - to be involved in improving the academy program for current and future cohorts
 - to be billable at a 50% rate after graduating the Academy
