@@ -13,7 +13,7 @@ We expect someone in the role:
 - to be fully billable after 2 weeks on-boarding
 - to be involved in practice improvement discussions within 3 months
 - to be actively practicing modern software craftsmanship practices such as TDD within 3 months
-- to be autonomously delivering features of modereate complexity within 3 months
+- to be autonomously delivering features of moderate complexity within 3 months
 - to be autonomously delivering features of high complexity within 6 months
 
 
