@@ -38,12 +38,13 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
 * [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md)
+- [Working Hours](benefits/working_hours.md)
 
 ### Welfare
 
 * [Sick Leave](guides/welfare/sick_leave.md)
 * [State of Mind](guides/welfare/state_of_mind.md)
-* [Employee assistance](guides/welfare/employee_assistance.md)
+* [Employee Assistance](guides/welfare/employee_assistance.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
 
 ### Guides
