@@ -24,7 +24,7 @@ We value providing others the tools to assemble their own learnings, to help wit
 
 ### Sources of information
 
-Does the learner know the best place to look for information that could help answer their question? Do they know the correct terms to find this if they were to [Google it](#google-it)? If they don't guide them towards some good resources you know or if you're both struggling to find something that helps provide further understanding throw it out the team via the #slack-overflow channel in our slack.
+Does the learner know the best place to look for information that could help answer their question? Do they know the correct terms to find this if they were to [Google it](#google-it)? If they don't, guide them towards some good resources you know or if you're both struggling to find something that helps provide further understanding throw it out to the team via the #slack-overflow channel in our slack.
 
 It's worth bearing in mind where possible that providing multiple types of resources (video, audio, text, workshop) is potentially the most beneficial way to accommodate people with disparate learning styles.
 
