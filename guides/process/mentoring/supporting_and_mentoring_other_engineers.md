@@ -6,6 +6,10 @@
 
 Our experience in mentoring and coaching has shown us we gain the most knowledge and understanding not through simply providing answers and solutions to questions or problems but instead by helping provide tools and information through which others can shape their own answers. We can often help another engineer when they ask a question by asking further questions to help frame thinking or providing potential sources of information that will provide further guidance to them.
 
+## Patience
+
+It is fundamental that when mentoring we show patience, people learn at different speeds and some concepts may be much harder for others to grasp than they were for you. If you find that frustration seems to be creeping in from either party you should stop and take a break, clear your head and try to reset the tone of conversation. Try to get to the root of where the frustration is coming from, are you communicating the concepts you're discussing in clear and understandable language? Have you misunderstood the question? Take time with the learner to make sure you both are on the same page wherever possible.
+
 ## Responding to questions
 
 When a colleague asks a question it's important that we try our best to make them feel listened to and understood, if they are new to this process it's probably worth explaining why we aren't directly answering their request. Explain the value we place on helping others to find the tools to solve their own problems rather than solving/answering directly for them
