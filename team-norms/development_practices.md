@@ -4,7 +4,7 @@ When a new developer joins our team, we'll often find they need some guidance on
 
 * Commit frequently (5, 10, 15+ times per day)
 * Favour commits into short-lived, small diff, local branches which you should aim to merge into Master via PR the same day 
-* Include descriptive commit messages (ideally referencing Jira tickets)
+* Include descriptive commit messages
 * Do your best not to break the build. Run the test suit before pushing into origin.
 * Don't mark tasks as 'done' until they have been:
     * Cross browser tested
