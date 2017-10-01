@@ -108,7 +108,7 @@ We follow up with some more technical, deeper thinking questions documented in t
 
 Finally we answer any questions the candidate may have.
 
-### Decide
+### Decide
 
 We will hire a candidate if all interviewers answer yes to all of the following questions:
 
