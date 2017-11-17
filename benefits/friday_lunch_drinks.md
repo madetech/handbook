@@ -16,4 +16,4 @@ Few rules:
 
 * When going for Friday drinks, we'll cover the tab whilst one of the directors is around (and offering to pay). After that, you'll be on your own and drinks should come out of your own pocket.
 
-* We encourage you to invite friends of Made and people we might consider hiring to Friday drinks. It's a good opportunity to meet both socially. 
+* We encourage you to invite friends of Made Tech and people we might consider hiring to Friday drinks. It's a good opportunity to meet both socially. 
