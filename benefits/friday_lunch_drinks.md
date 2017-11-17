@@ -12,6 +12,8 @@ Few rules:
 
 * Whoever is involved in organising team lunch is responsible for ensuring that everyone who wants to eat can do so with respect to their dietary requirements.
 
+* If a work emergency comes up and keeps you from attending lunch you may order in and expense it and also request many merits from your colleagues for being a star!
+
 * We trust people to use their judgement as to what is a reasonable amount to spend on a team lunch.
 
 * Where possible, encourage customers to join us for lunch and / or drinks. 
