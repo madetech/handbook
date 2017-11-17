@@ -1,6 +1,6 @@
 # Development Practices
 
-When a new developer joins our team, we'll often find they need some guidance on 'The Made Way'. Below we've included a list of practices that we encourage new developers to adopt, so they can get up to speed as quickly as possible:
+When a new developer joins our team, we'll often find they need some guidance on 'The Made Tech Way'. Below we've included a list of practices that we encourage new developers to adopt, so they can get up to speed as quickly as possible:
 
 * Commit frequently (5, 10, 15+ times per day)
 * Favour commits into short-lived, small diff, local branches which you should aim to merge into Master via PR the same day 
