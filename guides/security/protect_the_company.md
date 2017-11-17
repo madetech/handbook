@@ -13,7 +13,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
   - [ ] Github
   - [ ] Trello
   - [ ] Slack
-- [ ] Print out and store any 2FA backup codes in the Made safe
+- [ ] Print out and store any 2FA backup codes in the Made Tech safe
 - [ ] Keep your operating system and applications up to date
 - [ ] [Run the security challenge in Last Pass](https://lastpass.com/support.php?cmd=getfeaturefaq&feature=feataure_12)
 

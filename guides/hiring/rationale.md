@@ -4,7 +4,7 @@ We believe that our hiring process should be fair and repeatable. What do we mea
 
 ## Fair
 
-Made is an equal opportunity employer that is committed to inclusion and diversity. There is a simple reason to this, we know that having people of all different walks of life provide us with new view points and better our ability to achieve our mission.
+Made Tech is an equal opportunity employer that is committed to inclusion and diversity. There is a simple reason to this, we know that having people of all different walks of life provide us with new view points and better our ability to achieve our mission.
 
 ## Repeatable
 
