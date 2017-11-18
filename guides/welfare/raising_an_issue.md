@@ -8,7 +8,7 @@ The first thing you can do, if you feel comfortable and able, is raise the issue
 
 ## Raise feedback via Continuous Feedback
 
-If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next [continuous feedback](team-norms/continuous_feedback.md) session by raising the feedback through that process.
+If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next [continuous feedback](../../team-norms/continuous_feedback.md) session by raising the feedback through that process.
 
 Continuous feedback is not anonymous but can add a layer of indirection and ensure that the issue is discussed with another member of the team. We hope this will trigger conversations amongst those in the session and we would expect proactive action to happen off the back of that session.
 
@@ -20,7 +20,7 @@ In particular, if you have a grievance with a director and feel unable to raise 
 
 ## Seek Third Party Advice
 
-We provide staff access to a [employee wellbeing service](guides/welfare/employee_assistance.md) which includes a phone number you can call for third party advice on HR issues.
+We provide staff access to a [employee wellbeing service](employee_assistance.md) which includes a phone number you can call for third party advice on HR issues.
 
 You can also call the [Acas](http://www.acas.org.uk/index.aspx?articleid=2042) on 0300 123 1100, Monday-Friday 8am-6pm.
 
