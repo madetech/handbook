@@ -45,6 +45,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Sick Leave](guides/welfare/sick_leave.md)
 * [State of Mind](guides/welfare/state_of_mind.md)
 * [Employee Assistance](guides/welfare/employee_assistance.md)
+* [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
 
 ### Guides
