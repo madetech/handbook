@@ -10,6 +10,7 @@ So it's your first day at Made Tech. Welcome to the team! Here are a few things 
 * [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console)
 * [ ] 2FA enabled on AWS
 * [ ] User for Mole
+* [ ] Read the [Security Policy](guides/security/security_policy.md), [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
 
 Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com) or [Chris](chris@madetech.com) know. 
 
