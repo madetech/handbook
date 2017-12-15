@@ -33,7 +33,7 @@ You'll also need to be setup on the various services we use.
 * [ ] Github (with 2FA)
 * [ ] Xero
 * [ ] Harvest
-* [ ] Slack
+* [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
 * [ ] Trello
 
