@@ -27,14 +27,14 @@ You'll also need to be setup on the various services we use.
 
 ### Everyone
 
-* [ ] Google Mail
+* [ ] Google Mail (with 2FA)
 * [ ] Google Calendar
 * [ ] Google Docs
-* [ ] Github
+* [ ] Github (with 2FA)
 * [ ] Xero
 * [ ] Harvest
 * [ ] Slack
-* [ ] LastPass
+* [ ] LastPass (with 2FA)
 * [ ] Trello
 
 ### Sales & Marketing
