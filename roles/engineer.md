@@ -1,118 +1,41 @@
 # Engineer
 
-Currently we view every role at Made Tech as an Engineer role. We expect this to change as we grow. Below you will see the variations of our engineer role along with the need for that role and our expectations for it.
+Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers.
 
-## Engineer role
+As an Engineer we expect someone:
 
-We need someone:
+## To be able to autonomously deliver working software
 
-- to work directly with customers
+We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Engineer working on the problem.
 
-We expect someone in the role:
+## To be fully billable
 
-- to be fully billable after 2 weeks on-boarding
-- to be involved in practice improvement discussions within 3 months
-- to be actively practicing modern software craftsmanship practices such as TDD within 3 months
-- to be autonomously delivering features of moderate complexity within 3 months
-- to be autonomously delivering features of high complexity within 6 months
+We expect our Engineers to be fully billed on customers deliveries as we are a business trying to make a profit by delivery valuable working software to our customers.
 
+## To be involved in practice improvement discussions
 
-## Academy Engineer role
+We expect everyone in our team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.
 
-We need someone:
+## To be actively practicing TDD
 
-- to train to be ready to join a delivery team following graduation
+We expect our engineering team to write tests first by default. We expect every feature to be tested. Every Pull Request (or equivalent chunk of work put up for peer review) must contain a test. If for some reason there are extenuating circumstances for not writing tests then more than one engineer should peer review and verify this.
 
-We expect someone in the role:
+## To be able to productively pair with their colleagues
 
-- to be autonomously delivering features of a low complexity before graduation
-- to be actively practicing modern software craftsmanship practices such as TDD before graduation
-- to be involved in improving the academy program for current and future cohorts
-- to be billable at a 50% rate after graduating the Academy
+We expect our engineering team to be friendly and lovely people to pair with. All pairing dynamics are different, sometimes you will be pairing with someone with less experience, sometimes you will have the same experience. Adjusting the speed of your work to accomodate for your pair is important and special care must be taken when mentoring/coaching those with less experience. No matter who you are pairing with you must take turns to compromise when your opinions differ.
 
+## To be requesting peer reviews for the code they write
 
-## Engineer traits
+We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. It's the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
 
-### +Advocate
+## To regularly communicate with customers without reminder
 
-We need someone:
+We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
 
- - to represent the company by speaking in public
- - to represent the company on social media
- - to represent the company's hiring interests publicly
+## To keep their team updated on current work in progress
 
-We expect someone exhibiting the trait:
+We expect our Engineers to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.
 
- - to speak publicly on behalf of the company at least twice a year
- - to share company content on social media weekly
- - to represent the company at hiring events such as graduate days at least twice a year
+## To facilitate showcases and retrospectives
 
-### +Architecture
-
-We need someone:
-
- - to lead implementations of application and system level design
- - to promote the evolution of existing application architecture
-
-We expect someone exhibiting the trait:
-
- - to need less than 1 day per week of Technical Director involvement in architectural planning and implementation
- - to lead architectural decisions across two or more teams
- - to lead improvements to two or more applications
-
-### +Customer
-
-We need someone:
-
- - to facilitate communication between their team and customers
- - to become a trusted and valued partner of customers
- - to improve how we communicate with customers
-
-We expect someone exhibiting the trait:
-
- - to regularly communicate with customers without reminder
- - to organise planning and showcases with customers
- - to lead improvements to engagements and communication on behalf of customers
- - to lead improvements to customer relations across the business
-
-### +Delivery
-
-We need someone:
-
- - to improve our process for delivering software
- - to ensure we deliver our commitments
- - to ensure commercial objectives of engagements are met
-
-We expect someone exhibiting the trait:
-
- - to facilitate experimentation and improvements to delivery process
- - to lead retrospectives within teams
- - to ensure sensible expectations are set with customers
- - to ensure expectations are met
- - to lead delivery to a commercially successful completion
-
-### +Mentor
-
-We need someone:
-
- - to provide a mentorship role to a colleague
- - to encourage learning across the company
-
-We expect someone exhibiting the trait:
-
-  - to pair with their team more than half their time
-  - to regularly commit time to mentoring someone inside or outside the company
-  - to help colleagues develop their traits
-    - this can include:
-      - helping to onboard new hires to the traits system
-      - checking in with colleagues regarding their progress
-
-## Engineer Leadership
-
-Traits recognise value that Engineers can provide customers and the company. They are hats and as Engineers develop their skills, Engineers will begin to wear more of those hats. Leadership is a quality that emerges out of individual traits. The longer an Engineer wears a trait the more of a leader in that area they will become.
-
-Engineer Leadership is a property that emerges when an individual becomes a leader across multiple traits and starts to perform more vital roles within engagements with customers.
-
-When an Engineer becomes a leader in +Customer and +Delivery they will naturally begin to be the primary point of contact with the customer for the engagement. As an Engineer gets more experience, their responsibilities will grow and their role in the team will evolve. Relationships will naturally develop between emerging leaders and customers as their seniority leads them to take more responsibility for the delivery and therefore will require them to be in contact with the customer more.
-
-Our aim by introducing traits is to provide banners under which we can develop our skills and as leaders emerge we will call on these Engineers to take responsibility such as overall ownership of engagements and communication with customers.
+We expect our Engineers to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.
