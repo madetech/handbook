@@ -43,3 +43,15 @@ We expect our Reliability Engineers to be communicating with our customers when 
 ## To keep their team updated on current work in progress
 
 We expect our Reliability Engineers to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.
+
+## To effectively juggle commitments
+
+We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customers expectations need to be set, met and if they cannot be met, be reset early and often.
+
+## To provide an outstanding customer service
+
+We expect our Reliability Engineers to be a delightly person to talk to for our customers. Our conversations should be professional and friendly, we should small talk where possible, use a smiley face once in a while and generally be nice folk.
+
+## To proactively identify technical improvements and recommend them to customers
+
+We expect our Reliability Engineers to be able to spot areas for improvement in customer codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to our customer codebases being improved. 
