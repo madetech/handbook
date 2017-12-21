@@ -32,9 +32,13 @@ We expect our engineering team to be friendly and lovely people to pair with. Al
 
 We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. It's the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
 
+## To provide meaningful and considerate peer reviews for others
+
+We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
+
 ## To regularly communicate with customers without reminder
 
-We expect our Reliability Engineers to be communicating with our customers daily through their standups, but also throughout the day via slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
+We expect our Reliability Engineers to be communicating with our customers when working through tasks on their behalf. A customer shouldn't need to ask for updates, we should be providing them in a timeley fashion. We should actively demonstrate our successes as much as possible to continue to build confidence with our customers.
 
 ## To keep their team updated on current work in progress
 
