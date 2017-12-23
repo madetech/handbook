@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    job_spec (0.2.2)
+      bundler
+      thor
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  job_spec
+
+BUNDLED WITH
+   1.16.0

@@ -1,12 +1,10 @@
 # Engineer
 
-Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers.
-
-As an Engineer we expect someone:
+Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Engineer we expect someone:
 
 ## To autonomously deliver working software
 
-We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Engineer working on the problem.
+We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsibility of the Engineer working on the problem.
 
 ## To be fully billable
 
