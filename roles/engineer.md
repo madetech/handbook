@@ -1,6 +1,6 @@
 # Engineer
 
-Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Engineer we expect someone:
+Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager, and one or more Engineers. As an Engineer we expect someone:
 
 ## Expectations
 
@@ -11,6 +11,10 @@ We expect our Engineers to be able to work on entire features, from conception t
 ### To be fully billable
 
 We expect our Engineers to be fully billed on customers deliveries as we are a business trying to make a profit by delivering valuable working software to our customers.
+
+### To regularly communicate with customers without reminder
+
+We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via Slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
 
 ## Core Engineer Expectations
 
@@ -29,10 +33,6 @@ We expect our engineering team to always have their code peer reviewed at the le
 ### To provide meaningful and considerate peer reviews for others
 
 We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
-
-### To regularly communicate with customers without reminder
-
-We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via Slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
 
 ### To keep their team updated on current work in progress
 
