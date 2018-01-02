@@ -28,6 +28,6 @@ JobSpec::Role.definition 'Lead Engineer' do
   expected 'to have attained the Made Tech Core Engineering Competencies',
     'We expect our Lead Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.'
 
-  include DeliveryLeadExpectations, as: 'Delivery Lead Expectations '
+  include DeliveryLeadExpectations, as: 'Delivery Lead Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
