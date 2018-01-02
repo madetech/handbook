@@ -18,11 +18,11 @@ We expect our Lead Engineers to be able to design and implement appropriate tech
 
 ### Lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
 
-We expect our Lead Engineers to lead workshop and roadmapping sessions and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
+We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
 
 ### Quickly become a trusted partner to the customer team, building a friendly relationship
 
-We expect our Lead Engineers to quickly become a trusted partner to the customer team - both our day-to-day contacts, and more senior stakeholders. A Lead Engineer should be able to put a customer at ease by engaging in small talk, and by building strong and friendly working relationships. A Lead Engineer is expected to be able to credibly represent Made Tech when conversing with senior stakeholders.
+We expect our Lead Engineers to quickly become a trusted partner to the customer team - both our day-to-day contacts, and more senior stakeholders. A Lead Engineer should be able to put a customer at ease by engaging in small talk, and by building strong and friendly working relationships. A Lead Engineer is expected to credibly and knowledgeably represent Made Tech when conversing with senior stakeholders.
 
 ### Proactively identify opportunities where we can widen the impact of our work with the customer organisation
 
@@ -46,7 +46,7 @@ We expect our Lead Engineers to understand the financial constraints, as well as
 
 ### Ultimately accountable for the successful delivery of customer engagements
 
-We expect our Lead Engineers to assume ultimate responsibility for the successful delivery of customer engagements that they lead. The performance of the team and the delivery as a whole is viewed as the Lead Engineer’s responsibility.
+We expect our Lead Engineers to assume ultimate responsibility for the successful delivery of customer engagements that they lead. The performance of the team and the delivery as a whole is understood as the Lead Engineer’s responsibility.
 
 ### Provide accurate and honest reporting of Delivery Healthcheck to Directors
 
@@ -54,7 +54,7 @@ We expect our Lead Engineers to proactively provide regular reporting to the Dir
 
 ### Ensure that at all times the team is delivering according to the Made Tech Delivery Standards
 
-We expect our Lead Engineers to be the bastion of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Lead Engineer is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
+We expect our Lead Engineers to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Lead Engineer is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
 
 ### Ensure at all times that the customer would recommend Made Tech to their peers
 
@@ -64,11 +64,11 @@ We expect our Lead Engineers to take accountability for ensuring the customer is
 
 We expect our Lead Engineers to demonstrate strong diplomacy when protecting their team from influences that may impact the team’s ability to deliver its objectives and commitments.
 
-### Ensure sure the team collaborates, communicates and focuses on what is most important
+### Ensure the team collaborates, communicates and focuses on what is most important
 
 We expect our Lead Engineers to ensure the team is actively collaborating and communicating, both between team members and with the customer. A Lead Engineer is expected to ensure the team have a shared understanding of what is most important to the customer.
 
-### Coach team members and customers, facilitate continuous improvement and apply the most appropriate agile and lean tools and techniques for their environment
+### Coach team members and customers, facilitate continuous improvement, and apply the most appropriate agile and lean tools and techniques for their environment
 
 We expect our Lead Engineers to be an expert in the application of agile and lean practices. A Lead Engineer is expected to understand the most appropriate methods to apply given the situation. A Lead Engineer is expected to coach team members and customers on the application of lean and agile practices.
 
