@@ -9,5 +9,8 @@ JobSpec::Role.definition 'Engineer' do
   expected 'to be fully billable',
     'We expect our Engineers to be fully billed on customers deliveries as we are a business trying to make a profit by delivering valuable working software to our customers.'
 
+  expected 'to regularly communicate with customers without reminder',
+    'We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via Slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.'
+
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
