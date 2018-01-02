@@ -8,6 +8,16 @@ It is important that you and your colleagues feel that holiday is highly availab
 
 Untracked Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [Flexible Working](flexible_working.md) as the alternative to Untracked Holiday in those situations.
 
+## How long are you taking?
+
+We trust you'll use your best judgement when taking holidays but in case you want some guidance on the kind of notice we expect when you take your holiday:
+
+* **Less than 1 week**<br>We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
+* **Between 1 and 2 weeks**<br>We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
+* **Greater than 3 weeks**<br>Please try to provide at least three months notice, so we can prepare for your absence.
+
+If you wish to book holiday outside of these guidelines, please raise this request with a director.
+
 ## Who approves holiday?
 
 We want to ensure teams own their holidays and that includes thinking about the commercial impact of taking them. To that affect we need to make sure you've done the following before booking holiday:
@@ -16,14 +26,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Ask your customers if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
 * Ensure that the holiday is placed in the [holiday calendar](madebymade.co.uk_83gtf1a3s2ecshli2o6ub4kpmk@group.calendar.google.com) (copy and paste the URL into your google calendar, you should then be able to add events to it)
-
-## How long are you taking?
-
-We trust you'll use your best judgement when taking holidays but in case you want some guidance on the kind of notice we expect when you take your holiday:
-
-* **Less than 1 week**<br>We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
-* **Between 1 and 2 weeks**<br>We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
-* **Greater than 3 weeks**<br>Please try to provide at least three months notice, so we can prepare for your absence.
+* Ask a director only if you wish to book holiday outside of the guidelines
 
 ## Additional considerations
 
