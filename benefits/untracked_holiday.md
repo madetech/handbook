@@ -12,12 +12,9 @@ Untracked Holiday is not meant as a way to regularly take large portions of time
 
 We trust you'll use your best judgement when taking holidays but in case you want some guidance on the kind of notice we expect when you take your holiday:
 
-* **Less than 1 week**
-  We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
-* **Between 1 and 2 weeks**
-  We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
-* **Greater than 3 weeks**
-  Please try to provide at least three months notice, so we can prepare for your absence.
+* **Less than 1 week** – We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
+* **Between 1 and 2 weeks** – We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
+* **Greater than 3 weeks** – Please try to provide at least three months notice, so we can prepare for your absence.
 
 If you wish to book holiday outside of these guidelines, please raise this request with a director.
 
