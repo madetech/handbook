@@ -1,6 +1,6 @@
 # Engineer
 
-Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Engineer we expect someone:
+Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager, and one or more Engineers. As an Engineer we expect someone:
 
 ## Expectations
 
