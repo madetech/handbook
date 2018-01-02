@@ -50,10 +50,6 @@ We expect our engineering team to always have their code peer reviewed at the le
 
 We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
 
-### To regularly communicate with customers without reminder
-
-We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via Slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
-
 ### To keep their team updated on current work in progress
 
 We expect our Engineers to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.
