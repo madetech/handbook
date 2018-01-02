@@ -1,4 +1,4 @@
-# First Day
+# Welcome Pack
 
 If it's your first day today, we'd just like you to know how happy we are to have you with us :)
 

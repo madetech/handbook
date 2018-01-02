@@ -21,7 +21,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 ### Introduction to Made Tech
 
 * [Our Mission](company/mission_statement.md)
-* [Your First Day](company/first_day.md)
+* [Welcome Pack](company/welcome_pack.md)
 
 ### Roles
 
