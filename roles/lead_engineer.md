@@ -36,41 +36,43 @@ We expect our Lead Engineers to proactively make good commercial decisions. A Le
 
 We expect our Lead Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.
 
-### Be the primary point of contact for the customer
+## Delivery Lead Expectations 
 
-We expect our Lead Engineers to naturally position themselves as the primary day to day point of contact for the customer. A Lead Engineer is expected to gain the trust of the customer such that they’re seen as the first port of call for all customer contacts.
+### Be the point of contact for the customer
+
+We expect our Delivery Leads to naturally position themselves as the day to day point of contact for the customer. A Delivery Lead is expected to gain the trust of the customer such that they’re seen as the first port of call for all customer contacts.
 
 ### Ensure customer expectations are exceeded given the budget available
 
-We expect our Lead Engineers to understand the financial constraints, as well as the customer objectives for the delivery. A Lead Engineer is accountable for ensuring the customer’s expectations are exceeded for the available budget.
+We expect our Delivery Leads to understand the financial constraints, as well as the customer objectives for the delivery. A Delivery Lead is accountable for ensuring the customer’s expectations are exceeded for the available budget.
 
 ### Ultimately accountable for the successful delivery of customer engagements
 
-We expect our Lead Engineers to assume ultimate responsibility for the successful delivery of customer engagements that they lead. The performance of the team and the delivery as a whole is understood as the Lead Engineer’s responsibility.
+We expect our Delivery Leads to assume ultimate responsibility for the successful delivery of customer engagements. The performance of the team and the delivery as a whole is understood as the Delivery Lead’s responsibility.
 
 ### Provide accurate and honest reporting of Delivery Healthcheck to Directors
 
-We expect our Lead Engineers to proactively provide regular reporting to the Directors on the health of their delivery.
+We expect our Delivery Leads to proactively provide regular reporting to the Directors on the health of their delivery.
 
 ### Ensure that at all times the team is delivering according to the Made Tech Delivery Standards
 
-We expect our Lead Engineers to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Lead Engineer is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
+We expect our Delivery Leads to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Delivery Lead is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
 
 ### Ensure at all times that the customer would recommend Made Tech to their peers
 
-We expect our Lead Engineers to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.
+We expect our Delivery Leads to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.
 
 ### Protect the team from influences that may impact their ability to deliver
 
-We expect our Lead Engineers to demonstrate strong diplomacy when protecting their team from influences that may impact the team’s ability to deliver its objectives and commitments.
+We expect our Delivery Leads to demonstrate strong diplomacy when protecting their team from influences that may impact the team’s ability to deliver its objectives and commitments.
 
 ### Ensure the team collaborates, communicates and focuses on what is most important
 
-We expect our Lead Engineers to ensure the team is actively collaborating and communicating, both between team members and with the customer. A Lead Engineer is expected to ensure the team have a shared understanding of what is most important to the customer.
+We expect our Delivery Leads to ensure the team is actively collaborating and communicating, both between team members and with the customer. A Delivery Lead is expected to ensure the team have a shared understanding of what is most important to the customer.
 
 ### Coach team members and customers, facilitate continuous improvement, and apply the most appropriate agile and lean tools and techniques for their environment
 
-We expect our Lead Engineers to be an expert in the application of agile and lean practices. A Lead Engineer is expected to understand the most appropriate methods to apply given the situation. A Lead Engineer is expected to coach team members and customers on the application of lean and agile practices.
+We expect our Delivery Leads to be an expert in the application of agile and lean practices. A Delivery Lead is expected to understand the most appropriate methods to apply given the situation. A Delivery Lead is expected to coach team members and customers on the application of lean and agile practices.
 
 ## Core Engineer Expectations
 
