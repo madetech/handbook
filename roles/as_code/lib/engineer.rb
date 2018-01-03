@@ -1,7 +1,39 @@
 require_relative './shared_expectations/core_engineer_expectations'
 
 JobSpec::Role.definition 'Engineer' do
-  description 'Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager, and one or more Engineers. As an Engineer we expect someone:'
+  description <<~DESCRIPTION
+    Our Engineers build software that makes our customers happy, they prefer problem solving over task completing, love learning from colleagues, and constantly strive to be nice humans.
+
+    ## What does the job entail?
+
+    We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
+
+    The software we build solves business problems. We’ve built software for karaoke, e-commerce, retail buying departments, accountants, photography studios, warehouses, supply chain companies, and ourselves. Typical projects will last 3-6 months, some customers work with us over longer periods but we like to mix up teams at around 6 months to keep things fresh.
+
+    ## What experience are we looking for?
+
+    We’ll expect you to be proficient in at least two programming languages. This is usually something like Ruby/Python/PHP/Java/C# and then JavaScript. Everyone in the organisation comes from various language backgrounds and we see this as a strength of our offering, our teams can solve problems with open minds and across many platforms. This also makes for a great learning environment.
+
+    Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. We meet our customers face to face regularly, even working from their office, along with keeping in touch via Slack and Google Hangouts.
+
+    Everything else is optional but highly sought after. We would love you to have experience in:
+
+    - Writing code with Test Driven Development or perhaps ATDD
+    - Mentoring colleagues providing them with guidance rather than solutions
+    - Pair programming as we pair around 50% of the time
+    - Agile practices like Scrum, XP, and/or Kanban
+    - Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
+    - React ecosystem including a TDD approach
+    - Working with a range of SQL and NoSQL databases
+    - Infrastructure as code tools like Ansible, Chef, Puppet, and/or Saltstack
+    - Strong delivery skills: a huge drive to get something shipped
+
+    ## Salary
+
+    This role has a salary of £30-50k depending on experience.
+  DESCRIPTION
+
+  salary 30_000..50_000
 
   expected 'to autonomously deliver working software',
     'We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn\'t mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsibility of the Engineer working on the problem.'
