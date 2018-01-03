@@ -26,8 +26,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 ### Roles
 
 * [About Roles](roles/README.md)
-* [Engineer Role and Traits](roles/engineer.md)
-* [Business Traits](roles/business.md)
+* [All Roles](roles/)
 
 ### Benefits & Perks
 
