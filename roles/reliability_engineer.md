@@ -66,7 +66,7 @@ We expect our Reliability Engineers to be able to balance the priority of their 
 
 ### To provide an outstanding customer service
 
-We expect our Reliability Engineers to be a delightly person to talk to for our customers. Our conversations should be professional and friendly, we should small talk where possible, use a smiley face once in a while and generally be nice folk.
+We expect our Reliability Engineers to be delightful people to talk to for our customers. Our conversations should be professional and friendly, we should small talk where possible, use a smiley face once in a while and generally be nice folk.
 
 ### To proactively identify technical improvements and recommend them to customers
 
