@@ -17,10 +17,10 @@ Code is only the half of it. The other half is communication. We expect you to b
 Everything else is optional but highly sought after. We would love you to have experience in:
 
 - Writing code with Test Driven Development or perhaps ATDD
-- Mentoring colleagues, providing them with guidance rather than solutions
-- Pair programming, as we pair around 50% of the time
+- Mentoring colleagues providing them with guidance rather than solutions
+- Pair programming as we pair around 50% of the time
 - Agile practices like Scrum, XP, and/or Kanban
-- Component based design techniques like using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
+- Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
 - React ecosystem including a TDD approach
 - Working with a range of SQL and NoSQL databases
 - Infrastructure as code tools like Ansible, Chef, Puppet, and/or Saltstack
