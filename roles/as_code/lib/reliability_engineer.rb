@@ -20,7 +20,7 @@ JobSpec::Role.definition 'Reliability Engineer' do
 
     Multitasking, or more accurately, prioritisation is a big part of being a Reliability Engineer. We expect you to be able to prioritise your work, be able to switch onto resolving emergencies without being told to, and keep all customers up to date.
 
-    Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. Reliabiltiy Engineers keep in touch with customers mostly via Slack and Google Hangouts.
+    Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. Reliability Engineers keep in touch with customers mostly via Slack and Google Hangouts.
 
     Further required experience:
 
