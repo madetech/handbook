@@ -52,4 +52,3 @@ Servers need to have rsyslog configured to forward on syslog messages to Papertr
 
 ## Ongoing support of servers
 Need to figure out a way to migrate OS once their End of Life is reached. For example, when Ubuntu 14.04, which we use for most of our apps, reaches End Of Life in April 2019, no security updates will be released.
-
