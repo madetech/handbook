@@ -1,6 +1,43 @@
 # Reliability Engineer
 
-Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Engineer we expect someone:
+Our Reliability Engineers evolve and maintain applications and infrastructure for our customers. Scalability and proactive improvements are the focus and good communication skills – the necessity.
+
+## What does the job entail?
+
+We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
+
+Our application and infrastructure lifetime support services are an important part of our business. Often once our delivery teams have built custom software, the applications and infrastructure will be on boarded into our lifetime support team. This team is responsible for the ongoing development of applications, adapting applications to changing requirements as our customers grow, and fixing problems as they arise. We also onboard some applications that our teams haven’t built if they pass our quality and maintainability audits.
+
+Reliability Engineers will split their time between responding to automated alerts, proactive codebase improvement, answering requests sent into our customer support desk, and ongoing feature development.
+
+This role requires less of a physical presence with customers and therefore it is our first fully remote engineering role. You are of course welcome to work from our offices rather than remote but the option is open. As previously mentioned, regular communication with customers is still a must.
+
+## What experience are we looking for?
+
+We’ll expect you to be a polyglot programmer versed in a mix of object and functional programming languages. We expect you to be able to jump into a project in a language, framework or configuration you’ve not worked in before and be able to fix issues, improve the codebase and build new features in it. Not only this but the right person would be adept in sharing their knowledge with others – we’d love to hear some examples of coaching and growing team members.
+
+Multitasking, or more accurately, prioritisation is a big part of being a Reliability Engineer. We expect you to be able to prioritise your work, be able to switch onto resolving emergencies without being told to, and keep all customers up to date.
+
+Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. Reliabiltiy Engineers keep in touch with customers mostly via Slack and Google Hangouts.
+
+Further required experience:
+
+- Writing code with Test Driven Development
+- Pair programming, as we pair around 50% of the time
+- Agile practices such as Scrum, XP, and/or Kanban
+- Working with a range of SQL and NoSQL databases
+- Infrastructure as code tools such as Ansible, Chef, Puppet, and/or Saltstack
+
+Everything else is optional but highly sought after. We would love you to have experience in:
+
+- Writing code with Acceptance Test Driven Development
+- Component based design techniques like using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
+- The React ecosystem including a TDD approach
+
+## Salary
+
+This role has a salary of £40-75k depending on experience.
+
 
 ## Expectations
 
