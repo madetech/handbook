@@ -25,7 +25,7 @@ JobSpec::Role.definition 'Reliability Engineer' do
     Further required experience:
 
     - Writing code with Test Driven Development
-    - Pair programming, as we pair around 50% of the time
+    - Pair programming as we pair around 50% of the time
     - Agile practices such as Scrum, XP, and/or Kanban
     - Working with a range of SQL and NoSQL databases
     - Infrastructure as code tools such as Ansible, Chef, Puppet, and/or Saltstack
@@ -33,7 +33,7 @@ JobSpec::Role.definition 'Reliability Engineer' do
     Everything else is optional but highly sought after. We would love you to have experience in:
 
     - Writing code with Acceptance Test Driven Development
-    - Component based design techniques like using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
+    - Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
     - The React ecosystem including a TDD approach
 
     ## Salary
