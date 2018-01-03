@@ -1,11 +1,10 @@
 ## Freelancers/Past Employees
 - [ ] Access to these accounts should be revoked upon completion of the engagement:
-  - [ ] Github
-  - [ ] Last Pass
+  - [ ] GitHub
+  - [ ] LastPass
   - [ ] Google
   - [ ] Slack
   - [ ] Trello
-  - [ ] Jira
   - [ ] Harvest
 - [ ] Revoke access to any VPNs
 - [ ] Delete AWS account
