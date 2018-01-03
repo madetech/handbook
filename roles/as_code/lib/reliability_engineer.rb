@@ -24,6 +24,9 @@ JobSpec::Role.definition 'Reliability Engineer' do
 
     Further required experience:
 
+    - Debugging a range of applications
+    - Experience debugging infrastructure (AWS/Heroku/Linux/HTTP)
+    - Working directly with customers
     - Writing code with Test Driven Development
     - Pair programming as we pair around 50% of the time
     - Agile practices such as Scrum, XP, and/or Kanban
