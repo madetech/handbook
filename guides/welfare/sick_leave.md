@@ -20,4 +20,4 @@ When people get sick we ask that they follow these guidelines:
 
 * All sick leave will be tracked here: https://docs.google.com/a/madetech.co.uk/spreadsheets/d/18XiuzihJ4i_QWGGbLF5-VcvzQxH7vFZRldJ1DveoSVY/edit
 
-* If you accrue five or more days of sick leave annually, then a meeting with one of the directors will take place. Sick leave can be a sign of a more deep rooted issue (such as too much pressure, unhappiness with role, or an unhealthy lifestyle) and meeting will enable us to talk openly about the sick leave and look at ways in which we can improve the situation.
+* If you accrue five or more days of sick leave annually, then a meeting with one of the Directors will take place. Sick leave can be a sign of a more deep rooted issue (such as too much pressure, unhappiness with role, or an unhealthy lifestyle) and meeting will enable us to talk openly about the sick leave and look at ways in which we can improve the situation.
