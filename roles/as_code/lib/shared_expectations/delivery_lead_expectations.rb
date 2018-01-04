@@ -14,7 +14,7 @@ class DeliveryLeadExpectations < JobSpec::Role::Expectations
   expected 'ensure that at all times the team is delivering according to the Made Tech Delivery Standards',
     'We expect our Delivery Leads to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Delivery Lead is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.'
 
-  expected 'ensure at all times that the customer would recommend Made Tech to their peers',
+  expected 'ensure that the customer becomes a long-term advocate for Made Tech',
     'We expect our Delivery Leads to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.'
 
   expected 'protect the team from influences that may impact their ability to deliver',

@@ -22,7 +22,7 @@ We expect our Delivery Managers to work with customers to the define the frequen
 
 ### Ensure teams and individuals take responsibility for delivery quality
 
-We expect our Delivery Managers to ensure teams are delivering with acceptable levels quality. We expect Delivery Managers to encourage their team to identify and proactively 'pull' from others when they need testing support. We expect Delivery Managers to *not* provide a safety net to their team by automatically testing features.
+We expect our Delivery Managers to ensure teams are delivering with acceptable levels of quality. We expect Delivery Managers to encourage their team to identify and proactively 'pull' from others when they need testing support. We expect Delivery Managers to *not* provide a safety net to their team by automatically testing features.
 
 ## Delivery Lead Expectations
 
@@ -46,7 +46,7 @@ We expect our Delivery Leads to proactively provide regular reporting to the Dir
 
 We expect our Delivery Leads to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Delivery Lead is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
 
-### Ensure at all times that the customer would recommend Made Tech to their peers
+### Ensure that the customer becomes a long-term advocate for Made Tech
 
 We expect our Delivery Leads to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.
 

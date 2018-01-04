@@ -16,7 +16,7 @@ JobSpec::Role.definition 'Delivery Manager' do
     'We expect our Delivery Managers to work with customers to the define the frequency and type of reporting that will be most valuable to them.'
 
   expected 'ensure teams and individuals take responsibility for delivery quality',
-    'We expect our Delivery Managers to ensure teams are delivering with acceptable levels quality. We expect Delivery Managers to encourage their team to identify and proactively \'pull\' from others when they need testing support. We expect Delivery Managers to *not* provide a safety net to their team by automatically testing features.'
+    'We expect our Delivery Managers to ensure teams are delivering with acceptable levels of quality. We expect Delivery Managers to encourage their team to identify and proactively \'pull\' from others when they need testing support. We expect Delivery Managers to *not* provide a safety net to their team by automatically testing features.'
 
   include DeliveryLeadExpectations, as: 'Delivery Lead Expectations'
 end
