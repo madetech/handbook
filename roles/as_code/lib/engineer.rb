@@ -18,6 +18,7 @@ JobSpec::Role.definition 'Engineer' do
 
     Everything else is optional but highly sought after. We would love you to have experience in:
 
+    - Previous experience working directly with customers
     - Writing code with Test Driven Development or perhaps ATDD
     - Mentoring colleagues providing them with guidance rather than solutions
     - Pair programming as we pair around 50% of the time
