@@ -30,7 +30,7 @@ Every team is expected to practice Continuous Delivery from the first iteration.
 
 Every team is expected to make use of the Pull Request workflow, and work in appropriately short-lived branches. Teams should not allow Pull Requests to span multiple days work. Pull Requests should be reviewed by at least one other person before merging to master.
 
-## 6. Deliver "Done" features
+## 6. Deliver Done features
 
 Every team is expected deliver to the definition of done. Teams must not consider a feature done until the following criteria are met:
 
