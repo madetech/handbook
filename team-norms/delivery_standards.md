@@ -51,7 +51,7 @@ Every team is expected to bring forward uncertainty. Where an iteration contains
 
 ## 9. Communicate regularly with customers and each other
 
-Every team is expected to be in contact with their customer at least once per day. Individuals in teams should communicate when they're unclear on any aspect of the delivery. Teams must not defer communication until standup. Teams must have a conversation with their customer as soon as any iteration goals become at risk. A customer must not be negatively surprised by progress at a showcase.
+Every team is expected to be in contact with their customer at least once per day. Individuals in teams should communicate when they're unclear on any aspect of the delivery. Teams must not defer communication until standup. Teams must have a conversation with their customer as soon as any iteration goals become at risk. A customer must not be negatively surprised by progress at a showcase. Teams should send a weekly summary email to their customer stakeholders and for inclusion in the Made Tech TGIF email.
 
 ## 10. Maintain quality
 
