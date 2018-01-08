@@ -30,11 +30,11 @@ Every team is expected to practice Continuous Delivery from the first iteration.
 
 Every team is expected to deliver a production-ready application from the first iteration. The team must provide centralised application and infrastructure logging, application exception tracking, application performance monitoring, and automated dependency and security upgrades.
 
-## 5. Use Pull Requests
+## 6. Use Pull Requests
 
 Every team is expected to make use of the Pull Request workflow, and work in appropriately short-lived branches. Teams should not allow Pull Requests to span multiple days work. Pull Requests should be reviewed by at least one other person before merging to master.
 
-## 6. Deliver Done features
+## 7. Deliver Done features
 
 Every team is expected deliver to the definition of done. Teams must not consider a feature done until the following criteria are met:
 
@@ -45,18 +45,18 @@ Every team is expected deliver to the definition of done. Teams must not conside
   * Has an appropriate level of test coverage
   * Can be deployed to production and is ready for users
 
-## 7. Maintain up-to-date roadmap and epic boards
+## 8. Maintain up-to-date roadmap and epic boards
 
 Every team is expected to keep their roadmap and epic boards current.
 
-## 8. Bring forward uncertainty
+## 9. Bring forward uncertainty
 
 Every team is expected to bring forward uncertainty. Where an iteration contains more risky features, teams must work on these first. Where possible teams should make use of spikes ahead of iterations starting in order to mitigate or remove uncertainty.
 
-## 9. Communicate regularly with customers and each other
+## 10. Communicate regularly with customers and each other
 
 Every team is expected to be in contact with their customer at least once per day. Individuals in teams should communicate when they're unclear on any aspect of the delivery. Teams must not defer communication until standup. Teams must have a conversation with their customer as soon as any iteration goals become at risk. A customer must not be negatively surprised by progress at a showcase. Teams should send a weekly summary email to their customer stakeholders and for inclusion in the Made Tech TGIF email.
 
-## 10. Maintain quality
+## 11. Maintain quality
 
 Every team is expected to maintain a high level of quality, both at a code and application level. Teams must fully test their features as part of a deployment to a pre-production environment. Teams and customers should share an understanding of the desirable behaviour of all features in the current iteration. Teams must apply good scouting practices to improve the quality of every codebase they work on.
