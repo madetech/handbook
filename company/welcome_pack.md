@@ -53,10 +53,11 @@ You'll also need to be setup on the various services we use.
 * [ ] Google Docs
 * [ ] Github (with 2FA)
 * [ ] Xero
-* [ ] Harvest
 * [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
 * [ ] Trello
+* [ ] Harvest
+* [ ] Zendesk
 
 #### Sales & Marketing
 
