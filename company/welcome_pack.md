@@ -57,6 +57,7 @@ You'll also need to be setup on the various services we use.
 * [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
 * [ ] Trello
+* [ ] Continuous Feedback
 
 #### Sales & Marketing
 
