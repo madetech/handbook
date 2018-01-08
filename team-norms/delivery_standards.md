@@ -26,6 +26,10 @@ Every team is expected to have their next showcase scheduled, and to be clear on
 
 Every team is expected to practice Continuous Delivery from the first iteration. Deployments must be automated to pre-production and production environments. Automated tests must be run as part of an automated build cycle.
 
+## 5. Productionise Application
+
+Every team is expected to deliver a production-ready application from the first iteration. The team must provide centralised application and infrastructure logging, application exception tracking, application performance monitoring, and automated dependency and security upgrades.
+
 ## 5. Use Pull Requests
 
 Every team is expected to make use of the Pull Request workflow, and work in appropriately short-lived branches. Teams should not allow Pull Requests to span multiple days work. Pull Requests should be reviewed by at least one other person before merging to master.
