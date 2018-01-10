@@ -6,6 +6,10 @@ We have a number of team norms that have evolved (and continue to evolve!) as pr
 
 Our accepted practices for structuring deliveries.
 
+## [Delivery Healthcheck](delivery_healthcheck.md)
+
+Our expected reporting standards for delivery teams.
+
 ## [Development Practices](development_practices.md)
 
 Our accepted development standards.
