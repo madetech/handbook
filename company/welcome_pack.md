@@ -34,6 +34,7 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 * [ ] Office Keys
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Read the [Security Policy](guides/security/security_policy.md), [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
+* [ ] Get added to team@madetech.com mailing list
 
 #### Engineers
 
