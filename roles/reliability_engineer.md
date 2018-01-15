@@ -37,6 +37,20 @@ Everything else is optional but highly sought after. We would love you to have e
 - Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
 - The React ecosystem including a TDD approach
 
+## What is it like to work at Made Tech?
+
+We are a sanctuary for those wanting to hone their skills alongside like-minded learners. After joining our team it is common for new starters to comment on how much they’re learning and how much they enjoy the fact they are surrounded by people they can learn from. This includes our most senior hires.
+
+The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has peer-based one-to-ones every 2 weeks, along with monthly one-to-ones with a director. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
+
+Other notable things:
+
+- Every Friday afternoon is dedicated to learning new skills
+- Everyone is encouraged to write blog posts regularly
+- Our handbook is open sourced
+- We are vegan and non-drinker friendly as well as meat-eater and drinker friendly
+- Retreats and trips every year
+
 ## Salary
 
 This role has a salary of £40-75k depending on experience.
