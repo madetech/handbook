@@ -62,7 +62,7 @@ JobSpec::Role.definition 'Reliability Engineer' do
     'We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customers expectations need to be set, met and if they cannot be met, be reset early and often.'
 
   expected 'to provide an outstanding customer service',
-    'We expect our Reliability Engineers to be a delightly person to talk to for our customers. Our conversations should be professional and friendly, we should small talk where possible, use a smiley face once in a while and generally be nice folk.'
+    'We expect our Reliability Engineers to be a delightful person to talk to for our customers. Our conversations should be professional and friendly, we should small talk where possible, use a smiley face once in a while and generally be nice folk.'
 
   expected 'to proactively identify technical improvements and recommend them to customers',
     'We expect our Reliability Engineers to be able to spot areas for improvement in customer codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to our customer codebases being improved.'

@@ -36,7 +36,7 @@ We expect our Lead Engineers to proactively make good commercial decisions. A Le
 
 We expect our Lead Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.
 
-## Delivery Lead Expectations 
+## Delivery Lead Expectations
 
 ### Be the point of contact for the customer
 
@@ -58,7 +58,7 @@ We expect our Delivery Leads to proactively provide regular reporting to the Dir
 
 We expect our Delivery Leads to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Delivery Lead is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
 
-### Ensure at all times that the customer would recommend Made Tech to their peers
+### Ensure that the customer becomes a long-term advocate for Made Tech
 
 We expect our Delivery Leads to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.
 
@@ -91,10 +91,6 @@ We expect our engineering team to always have their code peer reviewed at the le
 ### To provide meaningful and considerate peer reviews for others
 
 We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
-
-### To regularly communicate with customers without reminder
-
-We expect our Engineers to be communicating with our customers daily through their standups, but also throughout the day via Slack. Everyone should feel empowered to ask customers questions, communicate progress and demonstrate successes.
 
 ### To keep their team updated on current work in progress
 
