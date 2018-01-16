@@ -54,7 +54,7 @@ We expect our Engineers to be able to work on entire features, from conception t
 
 ### To be fully billable
 
-We expect our Engineers to be fully billed on customers deliveries as we are a business trying to make a profit by delivering valuable working software to our customers.
+Engineers need to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Madetech isn't a sustainable business.
 
 ## Core Engineer Expectations
 
