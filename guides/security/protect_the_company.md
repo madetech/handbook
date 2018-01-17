@@ -15,6 +15,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
   - [ ] Github
   - [ ] Trello
   - [ ] Slack
+  - [ ] AWS
 - [ ] Print out and store any 2FA backup codes in the Made Tech safe
 - [ ] Keep your operating system and applications up to date
 - [ ] [Run the security challenge in LastPass](https://lastpass.com/support.php?cmd=getfeaturefaq&feature=feataure_12)
@@ -22,8 +23,8 @@ When setting up new laptops, please ensure you follow the below guidelines and u
 ### Desktop
 
 - [ ] [Encrypt your hard drive](https://support.apple.com/en-gb/HT204837)
-- [ ] Mac users should add [a firmware password](https://support.apple.com/en-gb/HT204455)
-- [ ] Non Mac users should add a BIOS password
+- [ ] Mac users must add [a firmware password](https://support.apple.com/en-gb/HT204455)
+- [ ] Non Mac users must add a BIOS password
 - [ ] [Disable automatic login for OSX](https://www.intego.com/mac-security-blog/mac-security-tip-disable-automatic-login/)
 - [ ] [Auto logout after five minutes inactivity](https://support.apple.com/kb/PH18670?locale=en_US)
 - [ ] [Require password after screensaver or sleep](https://support.apple.com/kb/PH18669?locale=en_US&viewlocale=en_US)
