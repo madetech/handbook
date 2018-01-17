@@ -47,11 +47,15 @@ Below you'll find a list of tools that you will need to do your job. If you have
 
 You'll also need to be setup on the various services we use.
 
+Note that Google office applications (Docs, Sheets) are the preferred format for internal office documents, to be stored in Google Drive
+
 #### Everyone
 
 * [ ] Google Mail (with 2FA)
 * [ ] Google Calendar
 * [ ] Google Docs
+* [ ] Google Sheets
+* [ ] Google Drive
 * [ ] Github (with 2FA)
 * [ ] Xero
 * [ ] Harvest
@@ -63,6 +67,9 @@ You'll also need to be setup on the various services we use.
 #### Sales & Marketing
 
 * [ ] HubSpot
+* [ ] Access to [Sales Handbook](https://github.com/madetech/sales-handbook)
+* [ ] Access to [LinkedIn Sales Navigator](https://www.linkedin.com/sales/)
+* [ ] Trello Sales Boards e.g. [Sales 2018](https://trello.com/b/r2JnD6Nm/sales-2018)
 
 #### Engineers
 
