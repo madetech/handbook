@@ -62,7 +62,7 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] Harvest
 * [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
-* [ ] Trello (with 2FA)
+* [ ] Trello (with 2FA unless using Google Auth)
 * [ ] Continuous Feedback
 
 #### Sales & Marketing
