@@ -17,6 +17,9 @@ class CoreEngineerExpectations < JobSpec::Role::Expectations
   expected 'to facilitate showcases and retrospectives',
     'We expect our Engineers to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.'
 
+  expected 'to be responsible for the security of devices used for work',
+    'We expect everyone in our team to understand how to secure the devices they use for work including work issued laptops, personal computers, mobile phones, and other electronic devices. We expect invididuals to ensure they adhere to our [security guidelines](https://github.com/madetech/handbook/blob/master/guides/security/protect_the_company.md) upon setting up devices and to ensure that their machines are compliant at all times.'
+
   expected 'to be involved in practice improvement discussions',
     'We expect everyone in our team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.'
 end
