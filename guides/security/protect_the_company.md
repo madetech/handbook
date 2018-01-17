@@ -13,7 +13,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
   - [ ] Last Pass
   - [ ] Gmail
   - [ ] Github
-  - [ ] Trello
+  - [ ] Trello (unless using Google Auth to login to Trello)
   - [ ] Slack
   - [ ] AWS
 - [ ] Print out and store any 2FA backup codes in the Made Tech safe
