@@ -34,6 +34,7 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 * [ ] Office Keys
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Read the [Security Policy](guides/security/security_policy.md), [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
+* [ ] Ensure devices used for [work are secure](guides/security/protect_the_company.md)
 * [ ] Get added to team@madetech.com mailing list
 
 #### Engineers
@@ -61,7 +62,7 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] Harvest
 * [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
-* [ ] Trello
+* [ ] Trello (with 2FA unless using Google Auth to login to Trello)
 * [ ] Continuous Feedback
 
 #### Sales & Marketing
