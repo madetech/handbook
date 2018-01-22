@@ -54,7 +54,7 @@ JobSpec::Role.definition 'Engineer' do
     'We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn\'t mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsibility of the Engineer working on the problem.'
 
   expected 'to be fully billable',
-    'We expect our Engineers to be fully billed on customers deliveries as we are a business trying to make a profit by delivering valuable working software to our customers.'
+    'We expect our Engineers to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Made Tech isn\'t a sustainable business.'
 
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
