@@ -54,7 +54,7 @@ We expect our Engineers to be able to work on entire features, from conception t
 
 ### To be fully billable
 
-Engineers need to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Made Tech isn't a sustainable business.
+We expect our Engineers to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Made Tech isn't a sustainable business.
 
 ## Core Engineer Expectations
 
