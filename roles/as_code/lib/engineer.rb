@@ -56,5 +56,8 @@ JobSpec::Role.definition 'Engineer' do
   expected 'to be fully billable',
     'We expect our Engineers to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Made Tech isn\'t a sustainable business.'
 
+  expected 'to be working towards the Made Tech Core Engineering Competencies',
+    'We expect our Engineers to be honing their craft, practising at every opportunity and consistently making progress towards attaining all the Made Tech Core Engineering Competencies.'
+
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
