@@ -56,6 +56,10 @@ We expect our Engineers to be able to work on entire features, from conception t
 
 We expect our Engineers to significantly contribute to customer deliveries, to justify billing their time. Without billing customers, Made Tech isn't a sustainable business.
 
+### To be working towards the Made Tech Core Engineering Competencies
+
+We expect our Engineers to be honing their craft, practising at every opportunity and consistently making progress towards attaining all the Made Tech Core Engineering Competencies.
+
 ## Core Engineer Expectations
 
 ### To be actively practicing TDD
