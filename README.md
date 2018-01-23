@@ -33,6 +33,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Untracked Holiday Allowance](benefits/untracked_holiday.md)
 * [Flexible Working](benefits/flexible_working.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
+* [Pension Scheme](benefits/pension_scheme.md)
 * [Friday Lunches](benefits/friday_lunch.md)
 * [Remote Working](benefits/remote_working.md)
 * [Season Ticket Loan](benefits/season_ticket_loan.md)
@@ -60,6 +61,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Blogging](https://github.com/madetech/blog)
 
 ### Security
+
 * [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
 * [Security Policy](guides/security/security_policy.md)
 * [BYOD Policy](guides/security/byod.md)
@@ -67,7 +69,6 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
-
 
 ### Team Norms
 
