@@ -29,6 +29,7 @@ JobSpec::Role.definition 'Lead Engineer' do
     - Infrastructure as code tools such as Ansible, Chef, Puppet, and/or Saltstack
     - Debugging a range of applications
     - Experience debugging infrastructure (AWS/Heroku/Linux/HTTP)
+    - Strong delivery skills: a huge drive to get something shipped
 
     Everything else is optional but highly sought after. We would love you to have experience in:
 
