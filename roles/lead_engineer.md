@@ -62,10 +62,6 @@ We expect our Lead Engineers to lead by example, to put the needs of others befo
 
 We expect our Lead Engineers to proactively provide thoughtful and meaningful feedback for their team. A Lead Engineer is expected to spend time helping team members to improve their skills. A Lead Engineer is expected to identify and nurture candidates for Lead and Senior Engineer positions. A Lead Engineer is expected to identify and escalate performance issues to a Director.
 
-### Make sensible and well justified technical architecture decisions, involving the team in the decision making process where appropriate
-
-We expect our Lead Engineers to be able to design and implement appropriate technical architectures to solve problems. A Lead Engineer is expected to appropriately involve the team in the decision making process to help them develop their technical architecture skills.
-
 ### Lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
 
 We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
@@ -81,10 +77,6 @@ We expect our Lead Engineers to proactively seek opportunities where we can exte
 ### To make sensible, well reasoned commercial decisions
 
 We expect our Lead Engineers to proactively make good commercial decisions. A Lead Engineer is expected to identify and course correct potential delivery issues before they become impactful. A Lead Engineer is expected to proactively escalate larger delivery issues to the Delivery Manager or Delivery Director.
-
-### To have attained the Made Tech Core Engineering Competencies
-
-We expect our Lead Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.
 
 ## Delivery Lead Expectations
 
@@ -123,6 +115,28 @@ We expect our Delivery Leads to ensure the team is actively collaborating and co
 ### Coach team members and customers, facilitate continuous improvement, and apply the most appropriate agile and lean tools and techniques for their environment
 
 We expect our Delivery Leads to be an expert in the application of agile and lean practices. A Delivery Lead is expected to understand the most appropriate methods to apply given the situation. A Delivery Lead is expected to coach team members and customers on the application of lean and agile practices.
+
+## Senior Engineer Expectations
+
+### To make sensible and well justified technical architecture decisions, involving the team in the decision making process where appropriate
+
+We expect our Senior Engineers to be able to design and implement appropriate technical architectures to solve problems. We expect them to appropriately involve the team in the decision making process to help them develop their technical architecture skills.
+
+### To have attained the Made Tech Core Engineering Competencies
+
+We expect our Senior Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.
+
+### To be willing and able to pick up new programming languages, technologies and techniques
+
+We expect our Senior Engineers to be actively researching and trialling new technologies and techniques. We expect them to be regularly sharing their knowledge whether that is during focussed learning sessions, talks, or via pairing.
+
+### To be leading the way with introducing new technologies to deliveries
+
+We expect our Senior Engineers to help teams use new technologies as part of deliveries. We expect them to make suggestions before new projects boot up and to help the adoption of the technology during the delivery through pairing and otherwise coaching their colleagues.
+
+### To advocate lean and iterative approaches to solving problems
+
+We expect our Senior Engineers to always push for solving a problem with the simplest, most sensible solution rather than taking a more over-engineered approach. We expect them to encourage an early and often approach for getting functionality into production.
 
 ## Core Engineer Expectations
 
