@@ -1,4 +1,5 @@
 require_relative './shared_expectations/core_engineer_expectations'
+require_relative './shared_expectations/senior_engineer_expectations'
 require_relative './shared_expectations/delivery_lead_expectations'
 
 JobSpec::Role.definition 'Lead Engineer' do
@@ -64,9 +65,6 @@ JobSpec::Role.definition 'Lead Engineer' do
   expected 'coach and nurture team members to improve their engineering and delivery capability',
     'We expect our Lead Engineers to proactively provide thoughtful and meaningful feedback for their team. A Lead Engineer is expected to spend time helping team members to improve their skills. A Lead Engineer is expected to identify and nurture candidates for Lead and Senior Engineer positions. A Lead Engineer is expected to identify and escalate performance issues to a Director.'
 
-  expected 'make sensible and well justified technical architecture decisions, involving the team in the decision making process where appropriate',
-    'We expect our Lead Engineers to be able to design and implement appropriate technical architectures to solve problems. A Lead Engineer is expected to appropriately involve the team in the decision making process to help them develop their technical architecture skills.'
-
   expected 'lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations',
     'We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.'
 
@@ -79,9 +77,7 @@ JobSpec::Role.definition 'Lead Engineer' do
   expected 'to make sensible, well reasoned commercial decisions',
     'We expect our Lead Engineers to proactively make good commercial decisions. A Lead Engineer is expected to identify and course correct potential delivery issues before they become impactful. A Lead Engineer is expected to proactively escalate larger delivery issues to the Delivery Manager or Delivery Director.'
 
-  expected 'to have attained the Made Tech Core Engineering Competencies',
-    'We expect our Lead Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.'
-
   include DeliveryLeadExpectations, as: 'Delivery Lead Expectations'
+  include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
