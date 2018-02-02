@@ -6,13 +6,13 @@ Our Senior Engineers are crazy about software, have expertise in solving a wide 
 
 We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
 
+Senior Engineers are responsible for ensuring the technical quality of our deliveries, introducing new technologies and techniques to the business, as well as coaching their colleagues.
+
 The software we build solves business problems. We’ve built software for karaoke, e-commerce, retail buying departments, accountants, photography studios, warehouses, supply chain companies, and ourselves. Typical projects will last 3-6 months, some customers work with us over longer periods but we like to mix up teams at around 6 months to keep things fresh.
 
 ## What experience are we looking for?
 
-We’ll expect you to be proficient in at least two programming languages. This is usually something like Ruby/Python/PHP/Java/C# and then JavaScript. Everyone in the organisation comes from various language backgrounds and we see this as a strength of our offering, our teams can solve problems with open minds and across many platforms. This also makes for a great learning environment.
-
-Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. We meet our customers face to face regularly, even working from their office, along with keeping in touch via Slack and Google Hangouts.
+We’ll expect you to be a polyglot programmer versed in a mix of object and functional programming languages. We’d expect you to have some blog posts about your discipline, perhaps even a talk or two. Not only this but the right person would be adept in sharing their knowledge with others – we’d love to hear some examples of coaching and growing team members.
 
 Further required experience:
 
