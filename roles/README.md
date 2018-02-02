@@ -7,6 +7,8 @@ looking for more responsibilities.
 
 ## Our roles
 
+### Engineering
+
 <table>
   <tr align="center">
     <th colspan="3">Engineering Roles</th>
@@ -34,6 +36,10 @@ looking for more responsibilities.
     </td>
   </tr>
  </table>
+
+### Sales and Marketing
+
+- [Marketing Executive](marketing_executive.md)
 
 ## Defining roles
 
