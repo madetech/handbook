@@ -2,7 +2,7 @@
 
 We ask teams to provide Delivery Healthchecks to the wider business to encourage the implementation of our Delivery Standards.
 
-It is the responsibility of the lead on each delivery team to provide an update on the health of their delivery in each week's BizOps showcase.
+It is the responsibility of the lead on each delivery team to provide an update on the health of their delivery in each week's TGIF.
 
 A Delivery Healthcheck should answer:
 
