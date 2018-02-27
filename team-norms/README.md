@@ -24,4 +24,4 @@ Our methods of running team-wide and company-wide retrospectives.
 
 ## [Supported Software](supported_software.md)
 
-Our list of software that is can be supported by the Support Team.
+Our list of software that is supported by the Support Team.
