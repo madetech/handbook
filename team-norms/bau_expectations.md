@@ -6,7 +6,7 @@ The Made Tech Support Team requirements are identified below. Where the applicat
 
 ## Application Requirements
 
-- Centralised Logging (Loggly)
+- Centralised Logging (Papertrail)
 - Application Performance Monitoring (Datadog)
 - Exception Tracking (Sentry)
 - Automated Dependency Upgrades (Dependabot)
