@@ -12,7 +12,7 @@ This handbook should be the starting point for any new team members. It provides
 
 * **Culture:** We value a positive and diverse company culture, and will always strive to adapt our culture in order to make this a more welcoming place to be.
 
-* **Continuous Improvement:** We value continuous improvement, supporting it with a blame free culture, and seek to empower ourselves to be able to reflect and improve.
+* **Continuous Improvement:** We value continuous improvement, and seek to empower ourselves and the people around us with the opportunity to reflect and improve.
 
 ## Contributing to our handbook
 
