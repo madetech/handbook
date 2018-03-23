@@ -33,8 +33,8 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 * [ ] Understand salary, pensions, and expenses
 * [ ] Office Keys
 * [ ] Website Photo, Blurb & Twitter Account
-* [ ] Read the [Security Policy](guides/security/security_policy.md), [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
-* [ ] Ensure devices used for [work are secure](guides/security/protect_the_company.md)
+* [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
+* [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
 * [ ] Ask Director to enroll you on Baseline Personal Security Standard (BPSS)
 * [ ] Get added to team@madetech.com mailing list
 
