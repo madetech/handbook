@@ -37,12 +37,12 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
 * [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
-* [ ] Ask Director to enroll you on Baseline Personal Security Standard (BPSS)
 * [ ] Get added to team@madetech.com mailing list
 
 #### Engineers
 
 * [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
+* [ ] Ask Director to enroll you on Baseline Personal Security Standard (BPSS)
 * [ ] User for Mole
 
 Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com), [Chris](chris@madetech.com), [Luke](luke@madetech.com) or [Seb](seb@madetech.com) know. 
