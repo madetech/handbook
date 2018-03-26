@@ -31,7 +31,9 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 * [ ] Attend first director 121 to introduce role expectations
 * [ ] Attend first comradrospective
 * [ ] Understand salary, pensions, and expenses
-* [ ] Office Keys
+* [ ] Understand where office supplies can be found
+* [ ] Understand how weekly shop works and how to ask for office supplies
+* [ ] Office keys if applicable
 * [ ] Website Photo, Blurb & Twitter Account
 * [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_usage_policy.md) & [BYOD Policy](guides/security/byod.md)
 * [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
