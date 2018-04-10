@@ -58,6 +58,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
+* [Expenses](guides/compensation/expenses.md)
 * [Tap Guide](guides/taps.md)
 * [Blogging](https://github.com/madetech/blog)
 
