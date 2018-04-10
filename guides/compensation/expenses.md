@@ -19,14 +19,16 @@ We provide some examples below of what is okay to expense. We trust you to be ab
 
 There are two methods of purchasing items listed above. The first is the easiest, using a company credit card. You will not incur any personal costs if you used this method. The second is paying for an item yourself and then expensing that payment in Xero.
 
+Importantly, all receipts for both company credit card and personal expenses need to be VAT receipts for tax reasons.
+
 ### Using the company credit card
 
 If you already have a [company credit card](../../benefits/company_credit_card.md) you can use it in order to purchase items listed above with it.
 
-You need to send any receipts for items purchased with the company credit card to [card-receipts@madetech.com](mailto:card-receipts@madetech.com).
+You need to send any VAT receipts for items purchased with the company credit card to [card-receipts@madetech.com](mailto:card-receipts@madetech.com).
 
 ### Expensing payments you personally paid for
 
 If you have purchased an item with your own money that is listed above, you can submit this expense and you will be compensated via bank transfer when expenses are processed.
 
-You need to submit these expenses in Xero, our accounting system. There is a [guide on submitting expenses](https://help.xero.com/uk/Payments_AddClaimReceipt) on Xero's help site. You will need to ensure you upload a picture of a receipt with your claim.
+You need to submit these expenses in Xero, our accounting system. There is a [guide on submitting expenses](https://help.xero.com/uk/Payments_AddClaimReceipt) on Xero's help site. You will need to ensure you upload a picture of a VAT receipt with your claim.

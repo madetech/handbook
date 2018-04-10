@@ -19,6 +19,6 @@ If you would like a credit card, [download this form](https://drive.google.com/f
 
 ## Receipts
 
-It's important that we can distinguish between personal payments and payments issued through company credit cards. To help us to do this, can you send all receipts for purchases made on credit cards to `card-receipts@madetech.co.uk`.
+It's important that we can distinguish between personal payments and payments issued through company credit cards. To help us to do this, can you send all receipts (they must be VAT receipts) for purchases made on credit cards to `card-receipts@madetech.co.uk`.
 
 Expenses that you've paid for personally, should be put into Xero using the [expenses process](../guides/compensation/expenses.md).
