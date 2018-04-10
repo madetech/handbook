@@ -46,7 +46,7 @@ formally with management, using the formal grievance procedure.
 
 \*Companion can include a paid official of a trade union, a lay trade union official that can provide evidence of experience in these matters, or a colleague. In certain circumstances we may also allow representatives from other organisations if particularly relevant to the grievance such as Citizens Advice Bureau.
 
-The [Code of Practice](http://www.acas.org.uk/media/pdf/f/m/Acas-Code-of-Practice-1-on-disciplinary-and-grievance-procedures.pdf) can be found on the Acas website.
+The [Code of Practice](http://www.acas.org.uk/publications) can be found on the Acas website.
 
 More information on solving workplace disputes can be found on gov.uk: https://www.gov.uk/solve-workplace-dispute
 
