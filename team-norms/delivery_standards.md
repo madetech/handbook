@@ -28,7 +28,7 @@ Every team is expected to practice Continuous Delivery from the first iteration.
 
 ## 5. Productionise Application
 
-Every team is expected to deliver a production-ready application from the first iteration. The team must provide centralised application and infrastructure logging, application exception tracking, application performance monitoring, and automated dependency and security upgrades.
+Every team is expected to deliver a production-ready application from the first iteration according to our [BAU expectations](bau_expectations.md).
 
 ## 6. Use Pull Requests
 
