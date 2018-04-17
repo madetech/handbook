@@ -6,14 +6,25 @@ It is the responsibility of the lead on each delivery team to provide an update 
 
 A Delivery Healthcheck should answer:
 
-## Current iteration
+## Where you're working in defined iterations
+
+### Current iteration
  - When was your current iteration started?
  - What is your current iteration goal?
  - When is your next showcase?
  - Are you on track to meet customer expectations?
 
-## Next iteration
+### Next iteration
  - What is the goal for your next iteration?
+
+## Where you're working in more of a kanban flow
+
+ - What business objective are you working towards?
+ - What is your current work in progress?
+ - What are you currently blocked on?
+ - What did your team achieve during the past week?
+
+### Always
 
 ## Retrospective
  - When was your last retrospective?
