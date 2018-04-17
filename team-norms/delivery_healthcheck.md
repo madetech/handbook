@@ -11,8 +11,6 @@ A Delivery Healthcheck should answer:
 ### Current iteration
  - When was your current iteration started?
  - What is your current iteration goal?
- - When is your next showcase?
- - Are you on track to meet customer expectations?
 
 ### Next iteration
  - What is the goal for your next iteration?
@@ -25,6 +23,9 @@ A Delivery Healthcheck should answer:
  - What did your team achieve during the past week?
 
 ## Always
+
+ - When is your next showcase?
+ - Are you on track to meet customer expectations?
 
 ### Retrospective
  - When was your last retrospective?
