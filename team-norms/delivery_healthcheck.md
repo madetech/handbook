@@ -17,15 +17,15 @@ A Delivery Healthcheck should answer:
 ### Next iteration
  - What is the goal for your next iteration?
 
-## Where you're working in more of a kanban flow
+## Where you're working in a kanban flow
 
  - What business objective are you working towards?
  - What is your current work in progress?
  - What are you currently blocked on?
  - What did your team achieve during the past week?
 
-### Always
+## Always
 
-## Retrospective
+### Retrospective
  - When was your last retrospective?
  - What were your last retrospective action points?
