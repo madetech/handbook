@@ -16,4 +16,4 @@ If the staff expectations are not being met by the organisation then we encourag
 
 As an organisation we expect an employee to understand their role within the business and meet the expectations of their role. Role expectations should be introduced as part of the onboarding process for all roles. Expectations should be reviewed on a regular (usually monthly) basis with a Director or Line Manager.
 
-From time to time, an issue with an employee not meeting expectations will occur. Team members may also occasionally have concerns over the performance of their colleagues. We can perform an [expectation health check](#expectation_health_check.md) in this case.
+From time to time, an issue with an employee not meeting expectations will occur. Team members may also occasionally have concerns over the performance of their colleagues. We can perform an [expectation health check](expectation_health_check.md) in this case.
