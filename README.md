@@ -51,6 +51,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Expectations between Employees and the Organisation](guides/welfare/expectations.md)
 * [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
+* [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
 ### Guides
 
