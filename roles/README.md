@@ -40,6 +40,7 @@ looking for more responsibilities.
 ### Sales and Marketing
 
 - [Marketing Executive](marketing_executive.md)
+- [Marketing Manager](marketing_manager.md)
 
 ## Defining roles
 
