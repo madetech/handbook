@@ -40,6 +40,7 @@ looking for more responsibilities.
 ### Sales and Marketing
 
 - [Marketing Executive](marketing_executive.md)
+- [Business Development Representative](business_development_representative.md)
 
 ## Defining roles
 
