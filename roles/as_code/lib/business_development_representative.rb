@@ -1,8 +1,9 @@
-require_relative './shared_expectations/core_engineer_expectations'
+require_relative './shared_expectations/outbound_sales_expectations'
+require_relative './shared_expectations/inbound_sales_expectations'
 
-JobSpec::Role.definition 'Business Development Executive' do
+JobSpec::Role.definition 'Business Development Representative' do
   description <<~DESCRIPTION
-    Our Business Development Executives are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
+    Our Business Development Reps are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
 
     ## What does the job entail?
 
@@ -54,4 +55,13 @@ JobSpec::Role.definition 'Business Development Executive' do
   DESCRIPTION
 
   salary 25_000..35_000
+
+  expected 'to be pitching Made Tech services and case studies clearly'
+  expected 'to be able to have a credible conversation about software delivery with a potential customers'
+  expected 'to be applying pareto sales training in dialogs with prospects'
+  expected 'to be maintaining accurate data within our CRM system (forecasting, customer records etc)'
+  expected 'to embody our company values and provide excellent service and clear honest communication to prospective customers'
+
+  include OutboundSalesExpectations, as: 'Outbound Business Development Expectations'
+  include InboundSalesExpectations, as: 'Inbound Business Development Expectations'
 end

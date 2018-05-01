@@ -1,6 +1,6 @@
-# Business Development Executive
+# Business Development Representative
 
-Our Business Development Executives are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
+Our Business Development Reps are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
 
 ## What does the job entail?
 
@@ -49,3 +49,36 @@ We are a growing business and now is a good time to join us as there is great op
 ## Salary
 
 This role has a salary of £25-35k OTE depending on experience.
+
+
+## Expectations
+
+### To be pitching Made Tech services and case studies clearly
+
+### To be able to have a credible conversation about software delivery with a potential customers
+
+### To be applying pareto sales training in dialogs with prospects
+
+### To be maintaining accurate data within our CRM system (forecasting, customer records etc)
+
+### To embody our company values and provide excellent service and clear honest communication to prospective customers
+
+## Outbound Business Development Expectations
+
+### To be scheduling and attending 16 new appointments each month
+
+### To be creating 4 Qualified Sales Opportunities (QSOs) within the pipeline each month
+
+### To ensure we're on approved supplier lists for customers in the sales pipeline
+
+### To be building a deep understanding of your target accounts and the market dynamics affecting them
+
+## Inbound Business Development Expectations
+
+### To be delivering 1 QSO through our technology partnerships per month
+
+### To be delivering 1 QSO through our consulting partnerships per month
+
+### To get shortlisted for applicable Public Sector opportunities (~2 QSO per month)
+
+### To engage and convert MQLs into QSOs
