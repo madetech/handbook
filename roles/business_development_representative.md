@@ -48,7 +48,7 @@ We are a growing business and now is a good time to join us as there is great op
 
 ## Salary
 
-This role has a salary of £25-35k OTE depending on experience.
+This role has a salary of £25-35k basic with OTE depending on experience.
 
 
 ## Expectations
