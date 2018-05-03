@@ -6,7 +6,7 @@ Our Business Development Reps are at the forefront of building relationships wit
 
 We are looking to expand our sales efforts by building out our Business Development capability. You will help us engage with more organisations and stakeholders with creative outbound campaigns as well as responding to inbound activity.
 
-You'll be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
+You wll be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
 
 Working closely with our Sales & Marketing team as well as Company Directors you will have a high degree of autonomy backed by the support of an engaged senior team.
 
@@ -55,30 +55,56 @@ This role has a salary of £25-35k basic with OTE depending on experience.
 
 ### To be pitching Made Tech services and case studies clearly
 
+We expect our Business Development Reps to confidently pitch our services to potential customers through email, telephone and face-to-face communication. They should be able to identify customer pain points and talk about relevant case studies in which we've solved similar problems.
+
 ### To be able to have a credible conversation about software delivery with a potential customers
+
+We expect our Business Development Reps to credibly talk about software deliver practices at a high level. They should have a good understanding of the software development lifecycle and the types of problems customers face and have a good grasp of industry terminology.
 
 ### To be applying pareto sales training in dialogs with prospects
 
+We expect our Business Development Reps to be continuously improving their sales skills and applying the most relevant techniques, to deliver desired results. 
+
 ### To be maintaining accurate data within our CRM system (forecasting, customer records etc)
 
+We expect our Business Development Reps to keep the CRM system accurate and up-to-date with all customer communication tracked within it.
+
 ### To embody our company values and provide excellent service and clear honest communication to prospective customers
+
+We expect our Business Development Reps to positively represent the company in all communications. We expect them to be positive, helpful and professional and become trusted advisors to customers. 
 
 ## Outbound Business Development Expectations
 
 ### To be scheduling and attending 16 new appointments each month
 
+We expect our Outbound Business Development Reps to be pursuing prospects and booking 16 new sales appointments each month. Sales appointments are discovery conversations with relevant prospects to determine if there is a good fit.
+
 ### To be creating 4 Qualified Sales Opportunities (QSOs) within the pipeline each month
+
+We expect a significant percentage of appointments that our Outbound Business Development Reps organise to convert into QSOs and contribute towards our pipeline. BDEs should be focusing efforts on those accounts which are most likely to convert into significant revenue opportunities.
 
 ### To ensure we're on approved supplier lists for customers in the sales pipeline
 
+Where necessary, we expect our Outbound Business Development Reps to get us onto approved suppliers lists and procurement frameworks, so we can bid for opportunities. 
+
 ### To be building a deep understanding of your target accounts and the market dynamics affecting them
+
+We expect our Outbound Business Development Reps to build an understanding of what is happening within their target accounts and challenges faced and  opportunities for us to help
 
 ## Inbound Business Development Expectations
 
 ### To be delivering 1 QSO through our technology partnerships per month
 
+We expect our Inbound Business Development Reps to be building relationships with Technology Partners and to deliver 1 QSO through them each month.
+
 ### To be delivering 1 QSO through our consulting partnerships per month
+
+We expect our Inbound Business Development Reps to be building relationships with Consulting Partners and to deliver 1 QSO through them each month.
 
 ### To get shortlisted for applicable Public Sector opportunities (~2 QSO per month)
 
+We expect our Inbound Business Development Reps to collate our response to relevant public sector opportunities and get shortlisted at least twice per month.
+
 ### To engage and convert MQLs into QSOs
+
+We expect our Inbound Business Development Reps to appropriately engage with MQLs and convert them into conversations and eventually QSOs
