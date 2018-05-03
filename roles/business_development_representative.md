@@ -6,7 +6,7 @@ Our Business Development Reps are at the forefront of building relationships wit
 
 We are looking to expand our sales efforts by building out our Business Development capability. You will help us engage with more organisations and stakeholders with creative outbound campaigns as well as responding to inbound activity.
 
-You wll be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
+You will be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
 
 Working closely with our Sales & Marketing team as well as Company Directors you will have a high degree of autonomy backed by the support of an engaged senior team.
 
