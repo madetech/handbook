@@ -1,14 +1,15 @@
-require_relative './shared_expectations/core_engineer_expectations'
+require_relative './shared_expectations/outbound_sales_expectations'
+require_relative './shared_expectations/inbound_sales_expectations'
 
-JobSpec::Role.definition 'Business Development Executive' do
+JobSpec::Role.definition 'Business Development Representative' do
   description <<~DESCRIPTION
-    Our Business Development Executives are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
+    Our Business Development Reps are at the forefront of building relationships with markets, organisations and key stakeholders. Ability to execute and evolve a plan is key.
 
     ## What does the job entail?
 
     We are looking to expand our sales efforts by building out our Business Development capability. You will help us engage with more organisations and stakeholders with creative outbound campaigns as well as responding to inbound activity.
 
-    You'll be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
+    You will be responsible for running specific sales plays we have already defined that include email, phone calls, workshops and other events to grow relationships and help markets understand the agility and software delivery excellence we can provide their organisations.
 
     Working closely with our Sales & Marketing team as well as Company Directors you will have a high degree of autonomy backed by the support of an engaged senior team.
 
@@ -50,8 +51,26 @@ JobSpec::Role.definition 'Business Development Executive' do
 
     ## Salary
 
-    This role has a salary of £25-35k OTE depending on experience.
+    This role has a salary of £25-35k basic with OTE depending on experience.
   DESCRIPTION
 
   salary 25_000..35_000
+
+  expected 'to be pitching Made Tech services and case studies clearly',
+    'We expect our Business Development Reps to confidently pitch our services to potential customers through email, telephone and face-to-face communication. They should be able to identify customer pain points and talk about relevant case studies in which we\'ve solved similar problems.'
+
+  expected 'to be able to have a credible conversation about software delivery with a potential customers',
+    'We expect our Business Development Reps to credibly talk about software deliver practices at a high level. They should have a good understanding of the software development lifecycle and the types of problems customers face and have a good grasp of industry terminology.'
+
+  expected 'to be applying pareto sales training in dialogs with prospects',
+    'We expect our Business Development Reps to be continuously improving their sales skills and applying the most relevant techniques, to deliver desired results. '
+
+  expected 'to be maintaining accurate data within our CRM system (forecasting, customer records etc)',
+  'We expect our Business Development Reps to keep the CRM system accurate and up-to-date with all customer communication tracked within it.'
+
+  expected 'to embody our company values and provide excellent service and clear honest communication to prospective customers',
+  'We expect our Business Development Reps to positively represent the company in all communications. We expect them to be positive, helpful and professional and become trusted advisors to customers. '
+
+  include OutboundSalesExpectations, as: 'Outbound Business Development Expectations'
+  include InboundSalesExpectations, as: 'Inbound Business Development Expectations'
 end
