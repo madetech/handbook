@@ -4,6 +4,10 @@ At Made Tech, we're building an open and transparent company, full of people who
 
 This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
 
+## Our mission
+
+Made Tech's mission is to improve software delivery in every organisation. We build software delivery capabilities, deliver digital & technology, and run live services for ambitious organisations. Our delivery-focused approach enables customers to unleash innovation and reduce time-to-market, so they spend less time battling 'business as usual', and more time delivering real business value.
+
 ## Our values
 
 * **People:** We value and respect the people we work with, both within the company and without, and want them to feel able to express their opinions safely and without fear.
