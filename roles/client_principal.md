@@ -28,3 +28,7 @@ We expect our Client Principals to coach and support Lead Engineers and Delivery
 ### To challenge teams
 
 We expect our Client Principals to challenge their teams to uphold Made Tech's delivery standards.
+
+### To provide line management
+
+We expect our Client Principals to provide line management to the Delivery Managers and Lead Engineers with whom they're working with most closely.
