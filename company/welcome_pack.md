@@ -41,9 +41,7 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 
 #### Engineers
 
-* [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
 * [ ] Ask Director to enroll you on Baseline Personnel Security Standard (BPSS)
-* [ ] User for Mole
 
 Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com), [Chris](chris@madetech.com), [Luke](luke@madetech.com) or [Seb](seb@madetech.com) know. 
 
@@ -77,7 +75,9 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 
 #### Engineers
 
+* [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
 * [ ] Jenkins
+* [ ] [The Mole](https://github.com/madetech/the-mole)
 
 ### Setting up your Machine
 
