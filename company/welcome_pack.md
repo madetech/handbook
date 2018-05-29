@@ -10,9 +10,9 @@ Over the next few days and weeks we'll introduce:
 2. **Peer buddy** — As part of our on-boarding process, we'll introduce you to a company buddy who will be available whenever you need them. If anything crops (from simple questions to emergencies), feel free to let your buddy know and they will do all they can to help.
 
    It goes without saying that myself and the other directors (+ rest of the team) are here too, so there should be plenty of places to turn if you need anything.
-3. [**Continuous feedback**](https://github.com/madetech/handbook/blob/master/team-norms/continuous_feedback.md) — Next up we'll take you through our Continuous Feedback process and explain how you can use this to provide / receive feedback from colleagues. We'll organise your first CF session with one of the directors, who will work with you to define long and short term career objectives.
+3. [**Continuous feedback**](https://github.com/madetech/handbook/blob/master/team-norms/continuous_feedback.md) — Next up we'll take you through our Continuous Feedback process and explain how you can use this to provide / receive feedback from colleagues.
 4. [**Role expectations**](https://github.com/madetech/handbook/tree/master/roles/) — All our team members have role expectations and we'll work with you to introduce these to you over the coming weeks.
-5. **Director 121s** — As part of your on-boarding process and ongoing career development, you'll have a monthly 121 with one of the company directors. These sessions are an opportunity for us to review your progress, look at areas where we can provide support.
+5. **Line Manager 121s** — As part of your on-boarding process and ongoing career development, you'll have a monthly 121 with your Line Manager or one of the company directors. These sessions are an opportunity for us to review your progress, look at areas where we can provide support.
 6. **Comradrospective** — On every second Friday, we have a company Comradrospective. The idea behind this is to share learnings from across the company to look at how we can improve. Please contribute to these and once you're feeling confident enough, look to facilitate one of them
 7. **Salary, Pensions & Expenses** — We'll take you through how our finance work, where to go to if you have any questions around salary, pensions or if you need to submit an expense claim / get a company credit card.
 
@@ -41,9 +41,7 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 
 #### Engineers
 
-* [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
 * [ ] Ask Director to enroll you on Baseline Personnel Security Standard (BPSS)
-* [ ] User for Mole
 
 Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com), [Chris](chris@madetech.com), [Luke](luke@madetech.com) or [Seb](seb@madetech.com) know. 
 
@@ -77,10 +75,14 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 
 #### Engineers
 
+* [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
 * [ ] Jenkins
+* [ ] [The Mole](https://github.com/madetech/the-mole)
 
 ### Setting up your Machine
 
 #### Engineers
 
-To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot). First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
+To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot).
+
+First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
