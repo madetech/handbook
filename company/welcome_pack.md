@@ -83,4 +83,6 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 
 #### Engineers
 
-To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot). First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
+To get your machine set up with some essentials we've created [First Boot](https://github.com/madetech/first-boot).
+
+First Boot will install applications like Chrome, Slack, and Sequel Pro as well as installing the latest version of Ruby using `rbenv`, and the latest version of Node using `nvm`.
