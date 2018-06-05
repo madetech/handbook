@@ -22,12 +22,12 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 
 #### Everyone
 
-* [ ] Get assigned a buddy
-* [ ] Complete [welcome form](https://madetech.typeform.com/to/neqgrr)
 * [ ] Signed Contract
 * [ ] Tour of the Building
+* [ ] Complete [welcome form](https://madetech.typeform.com/to/neqgrr)
 * [ ] Introduction to company mission, business services, and bizops
-* [ ] Introduction to continuous feedback
+* [ ] Get assigned a buddy
+* [ ] Attend first continuous feedback 121
 * [ ] Attend first director 121 to introduce role expectations
 * [ ] Attend first comradrospective
 * [ ] Understand salary, pensions, and expenses
