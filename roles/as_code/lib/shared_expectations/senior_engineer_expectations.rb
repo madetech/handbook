@@ -2,8 +2,8 @@ class SeniorEngineerExpectations < JobSpec::Role::Expectations
   expected 'to make sensible and well justified technical architecture decisions, involving the team in the decision making process where appropriate',
     'We expect our Senior Engineers to be able to design and implement appropriate technical architectures to solve problems. We expect them to appropriately involve the team in the decision making process to help them develop their technical architecture skills.'
 
-  expected 'to have attained the Made Tech Core Engineering Competencies',
-    'We expect our Senior Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Engineering Competencies.'
+  expected 'to have attained the Made Tech Core Skills',
+    'We expect our Senior Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Skills'
 
   expected 'to be willing and able to pick up new programming languages, technologies and techniques',
     'We expect our Senior Engineers to be actively researching and trialling new technologies and techniques. We expect them to be regularly sharing their knowledge whether that is during focussed learning sessions, talks, or via pairing.'
