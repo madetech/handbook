@@ -3,6 +3,16 @@ require_relative './shared_expectations/sales_marketing_expectations'
 require_relative './shared_expectations/employer_marketing_expectations'
 
 JobSpec::Role.definition 'Marketing Manager' do
+  description <<~DESCRIPTION
+    Our Marketing Manager position is currently filled.
+
+    ## Salary
+
+    This role has a salary of £30-45k depending on experience.
+  DESCRIPTION
+
+  salary 30_000..45_000
+
   expected 'to be reporting on the effectiveness of marketing campaigns using pre-determined KPIs',
     'We expect our Marketing Manager to provide regular and accurate reporting on the effectiveness of our marketing campaigns. We expect our Marketing Manager to identify the most appropriate KPIs against which to measure of marketing activity.'
 
