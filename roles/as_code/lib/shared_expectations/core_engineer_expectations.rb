@@ -11,6 +11,9 @@ class CoreEngineerExpectations < JobSpec::Role::Expectations
   expected 'to provide meaningful and considerate peer reviews for others',
     'We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.'
 
+  expected 'to regularly communicate with customers without reminder',
+    'We expect our Engineers to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.'
+
   expected 'to keep their team updated on current work in progress',
     'We expect our Engineers to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.'
 
