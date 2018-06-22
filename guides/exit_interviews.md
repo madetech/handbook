@@ -4,6 +4,7 @@ While we hope no one ever leaves the reality is people will. Below are a set of 
 
 - Why did you look for a new job?
 - What made you accept the position?
+- Did you feel that you were equipped to do your job well?
 - How would you describe Made Tech culture?
 - Can you provide more information, specific examples of culture?
 - What could have been done to keep you?
