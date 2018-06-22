@@ -1,6 +1,6 @@
 # Marketing Executive
 
-As our first marketing hire, you will play a significant role at Made Tech. Working with the Company Directors and sales team to take our services to market and will help to drive the growth of our business in the UK.
+Our Marketing Executives play a significant role at Made Tech. Working with our Marketing Manager, Company Directors and Sales team, you'll take our services to market, and will help to drive the growth of our business in the UK.
 
 ## What does the job entail?
 

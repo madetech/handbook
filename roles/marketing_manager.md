@@ -1,5 +1,12 @@
 # Marketing Manager
 
+Our Marketing Manager position is currently filled.
+
+## Salary
+
+This role has a salary of £30-45k depending on experience.
+
+
 ## Expectations
 
 ### To be reporting on the effectiveness of marketing campaigns using pre-determined KPIs
