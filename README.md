@@ -67,6 +67,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Expenses](guides/compensation/expenses.md)
 * [Tap Guide](guides/taps.md)
 * [Blogging](https://github.com/madetech/blog)
+* [Exit Interviews](guides/exit_interviews.md)
 
 ### Security
 
