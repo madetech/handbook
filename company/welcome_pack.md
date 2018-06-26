@@ -59,12 +59,15 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] Google Sheets
 * [ ] Google Drive
 * [ ] Github (with 2FA)
-* [ ] Xero
-* [ ] Harvest
 * [ ] Slack (with 2FA)
 * [ ] LastPass (with 2FA)
 * [ ] Trello (with 2FA unless using Google Auth to login to Trello)
 * [ ] Continuous Feedback
+
+Academy Engineers: you can skip these two for now, but you will probably need them once you graduate.
+
+* [ ] Xero
+* [ ] Harvest
 
 #### Sales & Marketing
 
@@ -80,6 +83,10 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] [The Mole](https://github.com/madetech/the-mole)
 
 ### Setting up your Machine
+
+#### Academy Engineers
+
+There will be a scheduled [workshop](https://github.com/madetech/learn/tree/master/workshops/00-Setup-Workshop) that will get your machine setup for development.
 
 #### Engineers
 
