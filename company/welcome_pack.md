@@ -43,6 +43,9 @@ Below is a checklist for you to work with your buddy over the coming weeks.
 
 * [ ] Ask Director to enroll you on Baseline Personnel Security Standard (BPSS)
 
+#### Non-Engineers
+* [ ] Complete the [Github tutorial](https://guides.github.com/activities/hello-world/)
+
 Below you'll find a list of tools that you will need to do your job. If you haven't already been provided with login credentials, then please let [Rory](rory@madetech.com), [Chris](chris@madetech.com), [Luke](luke@madetech.com) or [Seb](seb@madetech.com) know. 
 
 ### Signing up for Services
