@@ -36,16 +36,16 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 ### Benefits & Perks
 
-* [Flexible Holiday](benefits/flexible_holiday.md)
-* [Flexible Working](benefits/flexible_working.md)
-* [Company Credit Cards](benefits/company_credit_card.md)
-* [Pension Scheme](benefits/pension_scheme.md)
-* [Friday Lunches](benefits/friday_lunch.md)
-* [Remote Working](benefits/remote_working.md)
-* [Season Ticket Loan](benefits/season_ticket_loan.md)
-* [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md)
-* [Working Hours](benefits/working_hours.md)
-* [Friday Drinks](benefits/friday_drinks.md)
+* [Flexible Holiday](benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
+* [Flexible Working Hours](benefits/working_hours.md) – We are flexible with what hours you work
+* [Flexible Working Days](benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
+* [Credit Card](benefits/company_credit_card.md) – We trust you with a credit card for conferences, learning materials and equipment
+* [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
+* [Friday Lunches](benefits/friday_lunch.md) – We send a random 8 of our team out to lunch every Friday so everyone can get to know each other
+* [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff with some roles being full-time friendly too
+* [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
+* [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
+* [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 
 ### Welfare
 
