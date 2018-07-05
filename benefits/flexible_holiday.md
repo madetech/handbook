@@ -2,7 +2,7 @@
 
 We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at their highest possible level, they need to live a well-balanced life and take regular time-out for rest, relaxation and rejuvenation.
 
-We have adopted a flexible holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level.
+We have adopted a flexible holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. We ensure everyone in the team take at least the minimum 23 days though welcome everyone to take more than this.
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. We intend untracked holiday to prevent burn-out in situations, where individuals feel that they need to "save up" holiday days, or plan elaborate strategies around using your holiday allowance "effectively" later in the year, rather than taking holiday when needed most.
 
