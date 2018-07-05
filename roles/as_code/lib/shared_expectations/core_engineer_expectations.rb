@@ -17,6 +17,9 @@ class CoreEngineerExpectations < JobSpec::Role::Expectations
   expected 'to keep their team updated on current work in progress',
     'We expect our engineering team to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.'
 
+  expected 'to ensure team ceremonies are held regularly',
+    'We expect our engineering team to ensure team ceremonies such as planning, retrospectives, and standups happen on a regular basis.'
+
   expected 'to facilitate showcases and retrospectives',
     'We expect our engineering team to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.'
 
