@@ -12,17 +12,17 @@ class CoreEngineerExpectations < JobSpec::Role::Expectations
     'We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.'
 
   expected 'to regularly communicate with customers without reminder',
-    'We expect our Engineers to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.'
+    'We expect our engineering team to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.'
 
   expected 'to keep their team updated on current work in progress',
-    'We expect our Engineers to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.'
+    'We expect our engineering team to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.'
 
   expected 'to facilitate showcases and retrospectives',
-    'We expect our Engineers to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.'
+    'We expect our engineering team to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.'
 
   expected 'to be responsible for the security of devices used for work',
-    'We expect everyone in our team to understand how to secure the devices they use for work including work issued laptops, personal computers, mobile phones, and other electronic devices. We expect invididuals to ensure they adhere to our [security guidelines](https://github.com/madetech/handbook/blob/master/guides/security/protect_the_company.md) upon setting up devices and to ensure that their machines are compliant at all times.'
+    'We expect our engineering team to understand how to secure the devices they use for work including work issued laptops, personal computers, mobile phones, and other electronic devices. We expect invididuals to ensure they adhere to our [security guidelines](https://github.com/madetech/handbook/blob/master/guides/security/protect_the_company.md) upon setting up devices and to ensure that their machines are compliant at all times.'
 
   expected 'to be involved in practice improvement discussions',
-    'We expect everyone in our team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.'
+    'We expect our engineering team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.'
 end
