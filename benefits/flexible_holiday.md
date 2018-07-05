@@ -1,12 +1,12 @@
-# Untracked Holiday
+# Flexible Holiday
 
 We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at their highest possible level, they need to live a well-balanced life and take regular time-out for rest, relaxation and rejuvenation.
 
-We have adopted an untracked holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. 
+We have adopted a flexible holiday policy, where each team member is given the flexibility to take whatever holiday they need. We believe this policy will help us to perform at the highest possible level. We ensure everyone in the team take at least the minimum 23 days though welcome everyone to take more than this.
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. We intend untracked holiday to prevent burn-out in situations, where individuals feel that they need to "save up" holiday days, or plan elaborate strategies around using your holiday allowance "effectively" later in the year, rather than taking holiday when needed most.
 
-Untracked Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [Flexible Working](flexible_working.md) as the alternative to Untracked Holiday in those situations.
+Flexible Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
 
 ## How long are you taking?
 
@@ -32,7 +32,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 
 * We use the calendar when working out project allocation and the number of days being billed to customers, so it's important that it is always up-to-date and accurate.
 
-* Time off due to illness and/or injury are handled separately. Untracked holiday cannot be used for these types of absences.
+* Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
