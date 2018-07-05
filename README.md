@@ -36,7 +36,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 ### Benefits & Perks
 
-* [Untracked Holiday Allowance](benefits/untracked_holiday.md)
+* [Flexible Holiday](benefits/flexible_holiday.md)
 * [Flexible Working](benefits/flexible_working.md)
 * [Company Credit Cards](benefits/company_credit_card.md)
 * [Pension Scheme](benefits/pension_scheme.md)
