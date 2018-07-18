@@ -18,6 +18,12 @@ We trust you'll use your best judgement when taking holidays but in case you wan
 
 If you wish to book holiday outside of these guidelines, please raise this request with a director.
 
+## How will it affect your team?
+
+Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team members or on the company.
+
+Our guideline on this is that only 1 person from each team may be away at any one time. If you wish to book holiday outside of these guidelines, please raise this request with a director.
+
 ## Who approves holiday?
 
 We want to ensure teams own their holidays and that includes thinking about the commercial impact of taking them. To that affect we need to make sure you've done the following before booking holiday:
@@ -35,5 +41,3 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
-
-* Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team members or on the company.
