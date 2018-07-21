@@ -61,6 +61,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 #### Team
 
+* [Team Norms](team-norms)
 * [Live Services Field Guide](https://github.com/madetech/live-services-field-guide)
 * [Support Desk](guides/process/support/README.md)
 * [Sales Handbook](https://github.com/madetech/sales-handbook)
@@ -88,9 +89,3 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
-
-### Team Norms
-
-* [Continuous Feedback](team-norms/continuous_feedback.md)
-* [Retrospectives](team-norms/retrospectives.md)
-* [Development Practices](team-norms/development_practices.md)
