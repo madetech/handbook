@@ -57,18 +57,26 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Parental Leave](guides/welfare/parental_leave.md)
 * [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
-### Guides
+### Guides & Resources
+
+#### Team
+
+* [Support Desk](guides/process/support/README.md)
+* [Blogging at Made Tech](https://github.com/madetech/blog)
+
+#### People
 
 * [Our Hiring Process](guides/hiring/README.md)
-* [Support Team](guides/process/support/README.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
-* [Tap Guide](guides/taps.md)
-* [Blogging](https://github.com/madetech/blog)
 * [Exit Interviews](guides/exit_interviews.md)
 
-### Security
+#### Office
+
+* [Tap Guide](guides/taps.md)
+
+#### Security
 
 * [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
 * [Security Policy](guides/security/security_policy.md)
