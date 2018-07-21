@@ -77,7 +77,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 #### Office
 
-* [Tap Guide](guides/taps.md)
+* [Tap Guide](guides/office/taps.md)
 
 #### Security
 
