@@ -78,6 +78,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 #### Office
 
+* [Kitchen Etiquette](guides/office/kitchen.md)
 * [Tap Guide](guides/office/taps.md)
 
 #### Security
