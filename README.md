@@ -61,7 +61,10 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 #### Team
 
+* [Live Services Field Guide](https://github.com/madetech/live-services-field-guide)
 * [Support Desk](guides/process/support/README.md)
+* [Sales Handbook](https://github.com/madetech/sales-handbook)
+* [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [Blogging at Made Tech](https://github.com/madetech/blog)
 
 #### People
