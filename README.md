@@ -61,7 +61,6 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 * [Our Hiring Process](guides/hiring/README.md)
 * [Support Team](guides/process/support/README.md)
-* [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
