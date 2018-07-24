@@ -57,19 +57,30 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Parental Leave](guides/welfare/parental_leave.md)
 * [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
-### Guides
+### Guides & Resources
+
+#### Team
+
+* [Team Norms](team-norms)
+* [Live Services Field Guide](https://github.com/madetech/live-services-field-guide)
+* [Support Desk](guides/process/support/README.md)
+* [Sales Handbook](https://github.com/madetech/sales-handbook)
+* [Marketing Assets](https://github.com/madetech/marketing-assets)
+* [Blogging at Made Tech](https://github.com/madetech/blog)
+
+#### People
 
 * [Our Hiring Process](guides/hiring/README.md)
-* [Support Team](guides/process/support/README.md)
-* [Business Development](guides/process/bizdev.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
-* [Tap Guide](guides/taps.md)
-* [Blogging](https://github.com/madetech/blog)
 * [Exit Interviews](guides/exit_interviews.md)
 
-### Security
+#### Office
+
+* [Tap Guide](guides/office/taps.md)
+
+#### Security
 
 * [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
 * [Security Policy](guides/security/security_policy.md)
@@ -78,9 +89,3 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
-
-### Team Norms
-
-* [Continuous Feedback](team-norms/continuous_feedback.md)
-* [Retrospectives](team-norms/retrospectives.md)
-* [Development Practices](team-norms/development_practices.md)
