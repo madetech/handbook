@@ -45,7 +45,6 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff with some roles being full-time friendly too
 * [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 
 ### Welfare
 
