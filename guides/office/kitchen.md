@@ -4,7 +4,7 @@ We share the kitchen space with each other as well as with our customers. We hav
 
 ## Coffee
 
-We love our coffee at Made Tech. We have fresh beans regularly delivered to the office and have two thermos drip coffee jugs that keep coffee lovely and fresh. Please ensure:
+We love our coffee at Made Tech. We have fresh beans regularly delivered to the office and have multiple thermos drip coffee jugs that keep coffee lovely and fresh. Please ensure:
 
  - When grinding beans that no meetings are going on in the meeting room as it's very loud and can interrupt voice calls and conversations
  - When you're done making coffee that you tidy up any spillages so the kitchen is left in a clean state
