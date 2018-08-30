@@ -85,6 +85,10 @@ We expect Customer Support Reps to maintain high levels of customer happiness an
 
 We expect Customer Support Reps to ensure team ceremonies such as planning, retrospectives, and standups happen on a regular basis.
 
+### To liaise between Live Services and other teams inside Made Tech
+
+Live Services doesn't operate in isolation to the rest of Made Tech and maintaining strong bonds between Live Services and other Made Tech team members is essential to the business, especially when remote working. Customer Support Reps should be prepared to liaise with other teams across Made Tech on behalf of live Services wherever required. This may entail organising joint meetings, scheduling pairing sessions, or providing a point of contact for Delivery leads during handovers of client work to Live Services.
+
 ## Live Services Expectations
 
 ### To provide an outstanding customer service
