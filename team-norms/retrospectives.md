@@ -23,7 +23,7 @@ There are two elements to retrospectives:
 
 ### Schedule
 
-Retrospectives should occur at least once every two weeks and should take 30-60 minutes.
+Retrospectives should occur at least once every two weeks and should normally take 30-60 minutes but can be flexible depending on team size; for instance Academy Retrospectives have a 90 minute timebox.
 Comradrospectives are scheduled every 2 weeks on Friday for 60 minutes.
 
 ### Purpose 
