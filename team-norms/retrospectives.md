@@ -16,12 +16,15 @@ The prime directive should be read before a retrospective begins.
 
 ## Retrospectives
 
-These retrospectives occur every 2 weeks on a Friday. There are 2 hours booked for this purpose. 
-
 There are two elements to retrospectives:
 
 * Retrospective (smaller groups performing retrospectives)
 * Comradrospective (whole company retrospective format)
+
+### Schedule
+
+Retrospectives should occur at least once every two weeks and should normally take 30-60 minutes but can be flexible depending on team size; for instance Academy Retrospectives have a 90 minute timebox.
+Comradrospectives are scheduled every 2 weeks on Friday for 60 minutes.
 
 ### Purpose 
 
