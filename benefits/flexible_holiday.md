@@ -41,3 +41,8 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
+
+## Christmas at Made Tech 
+
+* Made Tech closes for Christmas and New Year - you will not need to book this time off.
+* This year (2018) Made Tech will be closed from the 24th of December, and coming back to work on the 2nd of January.
