@@ -45,4 +45,4 @@ We want to ensure teams own their holidays and that includes thinking about the 
 ## Christmas at Made Tech 
 
 * Made Tech closes for Christmas and New Year - you will not need to book this time off.
-* This year (2018) Made Tech will be closed from the 24th of December, and coming back to work on the 2nd of January.
+* This year (2018) Made Tech will be closed from the 24th of December (inclusive), and coming back to work on the 2nd of January.
