@@ -66,7 +66,7 @@ Note that Google office applications (Docs, Sheets) are the preferred format for
 * [ ] LastPass (with 2FA)
 * [ ] Trello (with 2FA unless using Google Auth to login to Trello)
 * [ ] Continuous Feedback
-* [ ] Setup an account with [Gravatar](https://en.gravatar.com/) - You can use this to add a shared profile picture for multiple services.
+* [ ] Setup an account with [Gravatar](https://en.gravatar.com/) - You can use this to add a shared profile picture for multiple services. You should add a profile picture that is clearly you, ideally a professional looking portrait.
 
 Academy Engineers: you can skip these two for now, but you will probably need them once you graduate.
 
