@@ -66,7 +66,7 @@ We expect our Delivery Managers to ensure epics are ready for teams to begin wor
 
 ### Nurture highly performing teams
 
-We expect our Delivery Managers to nurture a culture of high performance in their teams. Where customers do not provide adequate pressure to deliver, we expect our Delivery Managers to constructively challenge our teams. It is important that we're doing the right thing for our customers: delivering valuable, working software as expediently as we're able
+We expect our Delivery Managers to nurture a culture of high performance in their teams. Where customers do not provide adequate pressure to deliver, we expect our Delivery Managers to constructively challenge our teams. It is important that we're doing the right thing for our customers: delivering valuable, working software as expediently as we're able.
 
 ### Manage risks and budgets
 

@@ -66,7 +66,7 @@ JobSpec::Role.definition 'Delivery Manager' do
     'We expect our Delivery Managers to ensure epics are ready for teams to begin work on with no known blockers. We expect Delivery Managers to work with customers and the team to transform the customer\'s high level business objectives in to a roadmap with at least 3 months runway.'
 
   expected 'nurture highly performing teams',
-    'We expect our Delivery Managers to nurture a culture of high performance in their teams. Where customers do not provide adequate pressure to deliver, we expect our Delivery Managers to constructively challenge our teams. It is important that we\'re doing the right thing for our customers: delivering valuable, working software as expediently as we\'re able'
+    'We expect our Delivery Managers to nurture a culture of high performance in their teams. Where customers do not provide adequate pressure to deliver, we expect our Delivery Managers to constructively challenge our teams. It is important that we\'re doing the right thing for our customers: delivering valuable, working software as expediently as we\'re able.'
 
   expected 'manage risks and budgets',
     'We expect our Delivery Managers to proactively manage and mitigate risks to our deliveries and customer relationships. We expect our Delivery Managers to ensure the customer is delighted with what we deliver for their budget.'
