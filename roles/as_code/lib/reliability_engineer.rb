@@ -54,10 +54,10 @@ JobSpec::Role.definition 'Reliability Engineer' do
 
     ## Salary
 
-    This role has a salary of £40-75k depending on experience.
+    This role has a salary of £40-60k depending on experience.
   DESCRIPTION
 
-  salary 40_000..75_000
+  salary 40_000..60_000
 
   include ReliabilityEngineerExpectations, as: 'Reliability Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'

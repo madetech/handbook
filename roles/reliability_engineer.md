@@ -51,7 +51,7 @@ Other notable things:
 
 ## Salary
 
-This role has a salary of £40-75k depending on experience.
+This role has a salary of £40-60k depending on experience.
 
 
 ## Reliability Engineer Expectations
