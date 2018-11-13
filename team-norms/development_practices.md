@@ -14,7 +14,7 @@ Engineers should commit frequently (5, 10, 15+ times per day) using short-lived 
 
 ## Practice Test-Driven Development
 
-Ensure you practice our accepted [Test-Driven Development norms](tdd.md).
+Ensure you practice our accepted [Test-Driven Development norms](https://github.com/madetech/rfcs/blob/master/rfc-002-adopt-tdd-as-team-norm.md).
 
 ## Bring the pain forward
 
