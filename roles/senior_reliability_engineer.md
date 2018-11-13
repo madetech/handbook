@@ -54,6 +54,16 @@ Other notable things:
 This role has a salary of £60-75k depending on experience.
 
 
+## Expectations
+
+### To drive the reliability engineering agenda across Made Tech
+
+We expect the Senior Reliability Engineers to drive the reliability engineering agenda across the business. They should set the standard for what "good" looks like for applications from a maintainability, scalability, and security perspective, and ensure delivery teams understand are bought in to these standards.
+
+### To coach and nurture team members to improve their reliability engineering capability
+
+We expect our Senior Reliability Engineers to proactively provide thoughtful and meaningful feedback for their team. A Senior Reliability Engineer is expected to spend time helping team members to improve their skills. A Senior Reliability Engineer is expected to identify and nurture candidates for Senior Reliability Engineer positions.
+
 ## Reliability Engineer Expectations
 
 ### To be ambassadors of reliability engineering culture

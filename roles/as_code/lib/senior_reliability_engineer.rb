@@ -60,6 +60,12 @@ JobSpec::Role.definition 'Senior Reliability Engineer' do
 
   salary 60_000..75_000
 
+  expected 'to drive the reliability engineering agenda across Made Tech',
+    'We expect the Senior Reliability Engineers to drive the reliability engineering agenda across the business. They should set the standard for what "good" looks like for applications from a maintainability, scalability, and security perspective, and ensure delivery teams understand are bought in to these standards.'
+
+  expected 'to coach and nurture team members to improve their reliability engineering capability',
+    'We expect our Senior Reliability Engineers to proactively provide thoughtful and meaningful feedback for their team. A Senior Reliability Engineer is expected to spend time helping team members to improve their skills. A Senior Reliability Engineer is expected to identify and nurture candidates for Senior Reliability Engineer positions.'
+
   include ReliabilityEngineerExpectations, as: 'Reliability Engineer Expectations'
   include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
