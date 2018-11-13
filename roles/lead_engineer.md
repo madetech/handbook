@@ -55,23 +55,23 @@ This role has a salary of £50-85k depending on experience.
 
 ## Expectations
 
-### Act as a role model and servant leader to the team
+### To act as a role model and servant leader to the team
 
 We expect our Lead Engineers to lead by example, to put the needs of others before their own, and to set and demonstrate a high standard for code and delivery quality. A Lead Engineer is expected to show themselves to be highly reliable, to be on time, to be well prepared, and to take ultimate account for ensuring commitments the team has made are kept.
 
-### Coach and nurture team members to improve their engineering and delivery capability
+### To coach and nurture team members to improve their engineering and delivery capability
 
 We expect our Lead Engineers to proactively provide thoughtful and meaningful feedback for their team. A Lead Engineer is expected to spend time helping team members to improve their skills. A Lead Engineer is expected to identify and nurture candidates for Lead and Senior Engineer positions. A Lead Engineer is expected to identify and escalate performance issues to a Director.
 
-### Lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
+### To lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
 
 We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
 
-### Quickly become a trusted partner to the customer team, building a friendly relationship
+### To quickly become a trusted partner to the customer team, building a friendly relationship
 
 We expect our Lead Engineers to quickly become a trusted partner to the customer team - both our day-to-day contacts, and more senior stakeholders. A Lead Engineer should be able to put a customer at ease by engaging in small talk, and by building strong and friendly working relationships. A Lead Engineer is expected to credibly and knowledgeably represent Made Tech when conversing with senior stakeholders.
 
-### Proactively identify opportunities where we can widen the impact of our work with the customer organisation
+### To proactively identify opportunities where we can widen the impact of our work with the customer organisation
 
 We expect our Lead Engineers to proactively seek opportunities where we can extend our remit with the customer organisation. A Lead Engineer is expected to understand the objectives of our stakeholders, and to sell Made Tech’s wider capabilities.
 
