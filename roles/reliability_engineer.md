@@ -58,7 +58,7 @@ This role has a salary of £40-75k depending on experience.
 
 ### To proactively identify technical improvements and recommend them to delivery teams
 
-We expect our Reliability Engineers to be able to spot areas for improvement in customer codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to our customer codebases being improved.
+We expect our Reliability Engineers to be able to spot areas for improvement in codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to codebases being improved.
 
 ### To autonomously deliver working software
 
@@ -66,7 +66,7 @@ We expect our Reliability Engineers to be able to work on entire features, from 
 
 ### To be fully billable by timesheeting 7 hours daily
 
-We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily into harvest. As our current offering means we offer hours to our customers we need to make sure we are working through these hours and providing value to our customers.
+We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily into harvest. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.
 
 ### To be a responsible remote worker
 
