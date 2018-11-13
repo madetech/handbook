@@ -54,7 +54,7 @@ Other notable things:
 This role has a salary of £40-75k depending on experience.
 
 
-## Expectations
+## Reliability Engineer Expectations
 
 ### To be ambassadors of reliability engineering culture
 
@@ -66,7 +66,7 @@ We expect our Reliability Engineers to be able to spot areas for improvement in 
 
 ### To autonomously deliver working software
 
-We expect our Reliability Engineers to be able to work on entire changesets, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the changeset is built and deployed in a timely fashion is the responsiblity of the Reliability Engineer working on the problem.
+We expect our Reliability Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Reliability Engineer working on the problem.
 
 ### To be fully billable by timesheeting 7 hours daily
 
@@ -78,7 +78,7 @@ We expect our Reliability Engineers to communicate more than anyone else in the 
 
 ### To effectively juggle commitments
 
-We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Commitments need to be set and met. If they cannot be met they should be reset early and often.
+We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customer expectations need to be set and met. If they cannot be met they should be reset early and often.
 
 ## Core Engineer Expectations
 
