@@ -70,7 +70,7 @@ We expect our Reliability Engineers to be able to work on entire features, from 
 
 ### To be fully billable by timesheeting 7 hours daily
 
-We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily into harvest. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.
+We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily, 4 days a week. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.
 
 ### To be a responsible remote worker
 
