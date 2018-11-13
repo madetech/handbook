@@ -77,7 +77,6 @@ JobSpec::Role.definition 'Lead Engineer' do
   expected 'to make sensible, well reasoned commercial decisions',
     'We expect our Lead Engineers to proactively make good commercial decisions. A Lead Engineer is expected to identify and course correct potential delivery issues before they become impactful. A Lead Engineer is expected to proactively escalate larger delivery issues to the Delivery Manager or Delivery Director.'
 
-  include DeliveryLeadExpectations, as: 'Delivery Lead Expectations'
   include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
