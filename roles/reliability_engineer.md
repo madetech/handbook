@@ -6,9 +6,7 @@ Our Reliability Engineers evolve and maintain applications and infrastructure fo
 
 We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
 
-Our application and infrastructure lifetime support services are an important part of our business. Often once our delivery teams have built custom software, the applications and infrastructure will be on boarded into our lifetime support team. This team is responsible for the ongoing development of applications, adapting applications to changing requirements as our customers grow, and fixing problems as they arise. We also onboard some applications that our teams haven’t built if they pass our quality and maintainability audits.
-
-Reliability Engineers will split their time between responding to automated alerts, proactive codebase improvement, answering requests sent into our customer support desk, and ongoing feature development.
+Reliability Engineers will split their time between responding to automated alerts ensuring the uptime of our customers applications, proactive codebase improvements, coaching and mentoring delivery teams to build production-ready systems and championing reliability engineering culture more widely.
 
 This role requires less of a physical presence with customers and therefore it is our first fully remote engineering role. You are of course welcome to work from our offices rather than remote but the option is open. As previously mentioned, regular communication with customers is still a must.
 
