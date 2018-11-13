@@ -56,6 +56,10 @@ This role has a salary of £40-75k depending on experience.
 
 ## Expectations
 
+### To be ambassadors of reliability engineering culture
+
+We expect our Reliability Engineers to contribute to our reliability engineering culture, standards and thought leadership. We expect Reliability Engineers to champion existing standards by working closely with delivery teams to coach and mentor them. We also expect all Reliability Engineers to be involved in discussions around improving our standards.
+
 ### To proactively identify technical improvements and recommend them to delivery teams
 
 We expect our Reliability Engineers to be able to spot areas for improvement in codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to codebases being improved.
