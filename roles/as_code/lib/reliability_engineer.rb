@@ -72,10 +72,10 @@ JobSpec::Role.definition 'Reliability Engineer' do
     'We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily, 4 days a week. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.'
 
   expected 'to be a responsible remote worker',
-    'We expect our Reliability Engineers team to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.'
+    'We expect our Reliability Engineers to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.'
 
   expected 'to effectively juggle commitments',
-    'We expect our Reliability Engineers team to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Commitments need to be set and met. If they cannot be met they should be reset early and often.'
+    'We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Commitments need to be set and met. If they cannot be met they should be reset early and often.'
 
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
