@@ -4,9 +4,11 @@ require_relative './shared_expectations/commercially_aware_engineer_expectations
 
 JobSpec::Role.definition 'Technical Principal' do
   description <<~DESCRIPTION
-    Our Technical Principals are consultative engineers who are commercially responsible for growing Made Tech both in terms of maintaining the quality of our teams as we scale and in helping win new business.
+    Our Technical Principals are consulting engineers who are commercially responsible for growing Made Tech by marrying deep technical expertise with a highly commercial perspective. Technical Principals provide senior support to delivery teams and help win new business.
 
     ## What does the job entail?
+
+    Technical Principals are our most senior technical advisors for our customers. Working closely with senior IT and business leaders, Technical Principals help shape digital and technology roadmaps as well as make wider IT organisational change.
 
     Technical Principals sit across multiple delivery teams ensuring software engineering excellence and engaging in technical discovery work.
 
@@ -32,7 +34,7 @@ JobSpec::Role.definition 'Technical Principal' do
 
     We expect you to have experience architecting and leading software delivery teams, helping guide technical decision making in a servant leader approach. We expect you to have significant experience in designing and developing web applications in modern cloud-based environments.
 
-    Business savvy is a must. You will need experience in translating business goals and issues into technical solutions and have success stories to share. You will need to demonstrate experience working with senior IT stakeholders and working directly with CTO/COOs to create technical strategies.
+    Business savvy is a must. You will need experience in translating business goals and issues into technical solutions and have success stories to share. You will need to demonstrate experience working with senior IT and business stakeholders to create technical strategies.
 
     ## What is it like to work at Made Tech?
 
@@ -70,10 +72,8 @@ JobSpec::Role.definition 'Technical Principal' do
   expected 'to run technical discovery projects',
     'We expect our Technical Principals to run technical discoveries. Technical Principals are responsible for planning, workshopping, running technical feasibility studies, and ultimately recommending strategies to customers.'
 
-  expected 'to be partner with customer tech leadership (CTO/CIO) to help shape their technology strategies',
+  expected 'to be partner with customer technical and business leadership to help shape their technology strategies',
     'We expect our Technical Pricipals to be able to engage the highest levels of technical leadership within our customers organisations. Through building strong relationships Technical Principals will be seen as trusted advisors.'
 
-  include CommerciallyAwareEngineerExpectations, as: 'Commercially Aware Engineer Expectations'
-  include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
-  include CoreEngineerExpectations, as: 'Core Engineer Expectations'
+  include CommerciallyAwareEngineerExpectations, as: 'Commercially Aware Expectations'
 end
