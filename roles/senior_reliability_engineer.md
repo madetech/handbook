@@ -6,7 +6,9 @@ Our Senior Reliability Engineers are champions of the Made Tech reliability engi
 
 We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
 
-Reliability Engineers will split their time between responding to automated alerts ensuring the uptime of applications, proactive codebase improvements, coaching and mentoring delivery teams to build production-ready systems and championing reliability engineering culture more widely. Reliability Engineers serve our delivery teams who ultimately serve our customers.
+Senior Reliability Engineers will split their time between responding to automated alerts ensuring the uptime of applications, proactive codebase improvements, coaching and mentoring delivery teams to build production-ready systems and championing reliability engineering culture more widely. Senior Reliability Engineers serve our delivery teams who ultimately serve our customers.
+
+Senior Reliability Engineers are also responsible for coaching and mentoring other members of the reliability engineering team as well as championing reliability engineering culture more widely.
 
 This role requires less of a physical presence with delivery teams and therefore it is our first fully remote engineering role. You are of course welcome to work from our offices rather than remote but the option is open. Being remote means regular communication and being visible is important.
 
