@@ -1,6 +1,6 @@
 # Senior Reliability Engineer
 
-Our Senior Reliability Engineers evolve and maintain applications and infrastructure for our customers. Scalability and proactive improvements are the focus and good communication skills – the necessity.
+Our Senior Reliability Engineers are champions of the Made Tech reliability engineering culture and devops in it's truest and most collaborative form. Through coaching and mentoring our reliability engineering team as well as remaining hands-on, our Senior Reliability Engineers ensure the quality of our customers applications through their lifetime.
 
 ## What does the job entail?
 
@@ -39,7 +39,7 @@ Everything else is optional but highly sought after. We would love you to have e
 
 We are a sanctuary for those wanting to hone their skills alongside like-minded learners. After joining our team it is common for new starters to comment on how much they’re learning and how much they enjoy the fact they are surrounded by people they can learn from. This includes our most senior hires.
 
-The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has peer-based one-to-ones every 2 weeks, along with monthly one-to-ones with a director. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
+The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has peer-based one-to-ones every 2 weeks, along with monthly one-to-ones with a Line Manager. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
 
 Other notable things:
 
@@ -84,11 +84,11 @@ We expect our Reliability Engineers to ensure they are timesheeting 7 hours dail
 
 ### To be a responsible remote worker
 
-We expect our Reliability Engineers team to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.
+We expect our Reliability Engineers to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.
 
 ### To effectively juggle commitments
 
-We expect our Reliability Engineers team to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customer expectations need to be set and met. If they cannot be met they should be reset early and often.
+We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customer expectations need to be set and met. If they cannot be met they should be reset early and often.
 
 ## Senior Engineer Expectations
 
