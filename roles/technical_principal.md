@@ -6,13 +6,13 @@ Our Technical Principals are consulting engineers who are commercially responsib
 
 Technical Principals are our most senior technical advisors for our customers. Working closely with senior IT and business leaders, Technical Principals help shape digital and technology roadmaps as well as make wider IT organisational change.
 
-Technical Principals sit across multiple delivery teams ensuring software engineering excellence and engaging in technical discovery work.
+Leading our technical discovery work, Technical Principals will be able to engage in stakeholder workshops, technical feasibility studies, high level roadmapping, and ultimately shape up next steps for a Made Tech delivery team to be engaged.
 
-Through coaching and mentoring Technical Pricipals will make sure Leads and Seniors are equipped with the skills needed to be successful in delivery. They will be helping grow our team into successful technical leaders and be responsible for helping others become Technical Pricipals.
+Technical Principals will prepare delivery teams when discovery work leads to development. They will remain available throughout the delivery in an advisory role to the team.
 
 As an escalation point for software engineering issues, Technical Principals will be on hand when necessary, and to involve the wider engineering team if necessary.
 
-Helping in technical discovery work, Technical Principals will be able to engage in stakeholder workshops, technical feasibility studies, high level roadmapping, and ultimately shape up next steps for a Made Tech delivery team to be engaged.
+Through coaching and mentoring, Technical Pricipals will make sure Leads and Seniors are equipped with the skills needed to be successful in delivery. They will be helping grow our team into successful technical leaders and be responsible for helping others become Technical Pricipals.
 
 Technical Principals are expected to be seen as thought leaders in software engineering, to talk about our work in public, to remain technically current and push engineering at Made Tech forward.
 
@@ -53,29 +53,33 @@ This role has a salary of £85-95k depending on experience.
 
 ## Expectations
 
-### To act as a role model and servant leader to their teams
+### To be partner with customer technical and business leadership to help shape their technology strategies
 
-We expect our Technical Principals to lead by example, to put the needs of others before their own, and to set and demonstrate a high standard for code and delivery quality. A Technical Principal is expected to show themselves to be highly reliable, to be on time, and to be well prepared.
-
-### To coach and nurture Lead and Senior Engineers
-
-We expect our Technical Principals to proactively provide thoughtful and meaningful feedback for their team. A Technical Principal is expected to spend time helping team members to improve their skills. A Technical Principal is expected to identify and nurture candidates for Technical Principal positions. A Technical Principal is expected to identify and escalate performance issues to a relevant Line Manager.
-
-### To be a point of escalation for software engineering issues
-
-We expect our Technical Principals to be a point of escalation when a delivery team are struggling with software engineering issues. Technical Principals will look to quickly remedy issues and pull in the wider engineering team if necessary.
-
-### To coach and support teams running workshops and roadmapping sessions
-
-We expect our Technical Principals to coach teams to be able to run workshops and roadmapping sessions, to provide a supporting role in important sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
+We expect our Technical Pricipals to be able to engage the highest levels of technical leadership within our customers organisations. Through building strong relationships Technical Principals will be seen as trusted advisors.
 
 ### To run technical discovery projects
 
 We expect our Technical Principals to run technical discoveries. Technical Principals are responsible for planning, workshopping, running technical feasibility studies, and ultimately recommending strategies to customers.
 
-### To be partner with customer technical and business leadership to help shape their technology strategies
+### To run inception workshops with delivery teams
 
-We expect our Technical Pricipals to be able to engage the highest levels of technical leadership within our customers organisations. Through building strong relationships Technical Principals will be seen as trusted advisors.
+We expect our Technical Principals to boot up delivery teams with an inception workshop, providing a high level technology and architectural plan and delivering the context in which decisions at a roadmap level were made. Technical Principals must always do this in a way that empowers delivery teams to be able to make their own decisions while fitting into a larger organisational plan.
+
+### To act as a role model to their teams
+
+We expect our Technical Principals to lead by example, to show themselves to be highly reliable, to be on time, and to be well prepared.
+
+### To coach and nurture Lead and Senior Engineers
+
+We expect our Technical Principals to proactively provide thoughtful and meaningful feedback for their team. A Technical Principal is expected to identify and nurture candidates for Technical Principal positions. A Technical Principal is expected to identify and escalate performance issues to a relevant Line Manager.
+
+### To coach and mentor teams running workshops and roadmapping sessions
+
+We expect our Technical Principals to coach teams to be able to run workshops and roadmapping sessions, to provide a supporting role in important sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
+
+### To be a point of escalation for software engineering issues
+
+We expect our Technical Principals to be a point of escalation when a delivery team are struggling with software engineering issues. Technical Principals will look to quickly remedy issues and pull in the wider engineering team if necessary.
 
 ## Commercially Aware Expectations
 
