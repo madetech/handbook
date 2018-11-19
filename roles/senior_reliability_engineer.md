@@ -1,28 +1,27 @@
 # Senior Reliability Engineer
 
-Our Senior Reliability Engineers are champions of the Made Tech reliability engineering culture and devops in it's truest and most collaborative form. Through coaching and mentoring our reliability engineering team as well as remaining hands-on, our Senior Reliability Engineers ensure the quality of our customers applications through their lifetime.
+Our Senior Reliability Engineers are champions of the Made Tech reliability engineering culture and DevOps in it's truest and most collaborative form. Through coaching and mentoring our reliability engineering team as well as remaining hands-on, our Senior Reliability Engineers ensure the quality of applications through their lifetime.
 
 ## What does the job entail?
 
 We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
 
-Reliability Engineers will split their time between responding to automated alerts ensuring the uptime of our customers applications, proactive codebase improvements, coaching and mentoring delivery teams to build production-ready systems and championing reliability engineering culture more widely.
+Reliability Engineers will split their time between responding to automated alerts ensuring the uptime of applications, proactive codebase improvements, coaching and mentoring delivery teams to build production-ready systems and championing reliability engineering culture more widely. Reliability Engineers serve our delivery teams who ultimately serve our customers.
 
-This role requires less of a physical presence with customers and therefore it is our first fully remote engineering role. You are of course welcome to work from our offices rather than remote but the option is open. As previously mentioned, regular communication with customers is still a must.
+This role requires less of a physical presence with delivery teams and therefore it is our first fully remote engineering role. You are of course welcome to work from our offices rather than remote but the option is open. Being remote means regular communication and being visible is important.
 
 ## What experience are we looking for?
 
-We’ll expect you to be a polyglot programmer versed in a mix of object and functional programming languages. We expect you to be able to jump into a project in a language, framework or configuration you’ve not worked in before and be able to fix issues, improve the codebase and build new features in it. Not only this but the right person would be adept in sharing their knowledge with others – we’d love to hear some examples of coaching and growing team members.
+We’ll expect you to be a polyglot programmer versed in a mix of object and functional programming languages. We expect you to be able to jump into a project in a language, framework or configuration you’ve not worked in before and be able to fix issues and improve the codebase. Not only this but the right person would be adept in sharing their knowledge with others – we’d love to hear some examples of coaching and growing team members.
 
-Multitasking, or more accurately, prioritisation is a big part of being a Reliability Engineer. We expect you to be able to prioritise your work, be able to switch onto resolving emergencies without being told to, and keep all customers up to date.
+Multitasking, or more accurately, prioritisation is a big part of being a Reliability Engineer. We expect you to be able to prioritise your work, be able to switch onto resolving emergencies without being told to, and keep all delivery teams up to date.
 
-Code is only the half of it. The other half is communication. We expect you to be a great communicator with customers and colleagues in written and spoken English. Reliability Engineers keep in touch with customers mostly via Slack and Google Hangouts.
+Code is only the half of it. The other half is communication. We expect you to be a great communicator with delivery teams in written and spoken English. Reliability Engineers keep in touch with delivery teams mostly via Slack and Google Hangouts.
 
 Further required experience:
 
 - Debugging a range of applications
 - Experience debugging infrastructure (AWS/Heroku/Linux/HTTP)
-- Working directly with customers
 - Writing code with Test Driven Development
 - Pair programming as we pair around 50% of the time
 - Agile practices such as Scrum, XP, and/or Kanban
@@ -31,6 +30,7 @@ Further required experience:
 
 Everything else is optional but highly sought after. We would love you to have experience in:
 
+- Working directly with customers
 - Writing code with Acceptance Test Driven Development
 - Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
 - The React ecosystem including a TDD approach
