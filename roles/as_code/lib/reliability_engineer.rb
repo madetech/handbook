@@ -1,5 +1,5 @@
 require_relative './shared_expectations/core_engineer_expectations'
-require_relative './shared_expectations/live_services_expectations'
+require_relative './shared_expectations/reliability_engineer_expectations'
 
 JobSpec::Role.definition 'Reliability Engineer' do
   description <<~DESCRIPTION
@@ -54,28 +54,11 @@ JobSpec::Role.definition 'Reliability Engineer' do
 
     ## Salary
 
-    This role has a salary of £40-75k depending on experience.
+    This role has a salary of £40-60k depending on experience.
   DESCRIPTION
 
-  salary 40_000..75_000
+  salary 40_000..60_000
 
-  expected 'to be ambassadors of reliability engineering culture',
-    'We expect our Reliability Engineers to contribute to our reliability engineering culture, standards and thought leadership. We expect Reliability Engineers to champion existing standards by working closely with delivery teams to coach and mentor them. We also expect all Reliability Engineers to be involved in discussions around improving our standards.'
-
-  expected 'to proactively identify technical improvements and recommend them to delivery teams',
-    'We expect our Reliability Engineers to be able to spot areas for improvement in codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to codebases being improved.'
-
-  expected 'to autonomously deliver working software',
-    'We expect our Reliability Engineers to be able to work on entire changesets, from conception through to production deployment, without guidance and direction from others. This doesn\'t mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the changeset is built and deployed in a timely fashion is the responsiblity of the Reliability Engineer working on the problem.'
-
-  expected 'to be fully billable by timesheeting 7 hours daily',
-    'We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily, 4 days a week. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.'
-
-  expected 'to be a responsible remote worker',
-    'We expect our Reliability Engineers to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.'
-
-  expected 'to effectively juggle commitments',
-    'We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Commitments need to be set and met. If they cannot be met they should be reset early and often.'
-
+  include ReliabilityEngineerExpectations, as: 'Reliability Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
