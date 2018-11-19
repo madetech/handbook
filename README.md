@@ -67,7 +67,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Sales Handbook](https://github.com/madetech/sales-handbook)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [Blogging at Made Tech](https://github.com/madetech/blog)
-* [3rd Party Expenses](handbook/guides/3rd-Party-Services.md)
+* [3rd Party Expenses](guides/3rd-Party-Services.md)
 
 #### People
 
