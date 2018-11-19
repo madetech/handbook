@@ -1,6 +1,6 @@
 require_relative './shared_expectations/core_engineer_expectations'
 require_relative './shared_expectations/senior_engineer_expectations'
-require_relative './shared_expectations/delivery_lead_expectations'
+require_relative './shared_expectations/commercially_aware_engineer_expectations'
 
 JobSpec::Role.definition 'Lead Engineer' do
   description <<~DESCRIPTION
@@ -68,15 +68,7 @@ JobSpec::Role.definition 'Lead Engineer' do
   expected 'to lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations',
     'We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.'
 
-  expected 'to quickly become a trusted partner to the customer team, building a friendly relationship',
-    'We expect our Lead Engineers to quickly become a trusted partner to the customer team - both our day-to-day contacts, and more senior stakeholders. A Lead Engineer should be able to put a customer at ease by engaging in small talk, and by building strong and friendly working relationships. A Lead Engineer is expected to credibly and knowledgeably represent Made Tech when conversing with senior stakeholders.'
-
-  expected 'to proactively identify opportunities where we can widen the impact of our work with the customer organisation',
-    'We expect our Lead Engineers to proactively seek opportunities where we can extend our remit with the customer organisation. A Lead Engineer is expected to understand the objectives of our stakeholders, and to sell Made Tech’s wider capabilities.'
-
-  expected 'to make sensible, well reasoned commercial decisions',
-    'We expect our Lead Engineers to proactively make good commercial decisions. A Lead Engineer is expected to identify and course correct potential delivery issues before they become impactful. A Lead Engineer is expected to proactively escalate larger delivery issues to the Delivery Manager or Delivery Director.'
-
+  include CommerciallyAwareEngineerExpectations, as: 'Commercially Aware Engineer Expectations'
   include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
   include CoreEngineerExpectations, as: 'Core Engineer Expectations'
 end
