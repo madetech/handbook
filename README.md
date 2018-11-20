@@ -28,6 +28,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 
 * [About Made Tech](company/about.md)
 * [Welcome Pack](company/welcome_pack.md)
+* [Learning](learning/readme.md) (Engineering)
 
 ### Roles
 
