@@ -63,7 +63,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 #### Team
 
 * [Team Norms](team-norms)
-* [Live Services Field Guide](https://github.com/madetech/live-services-field-guide)
+* [SRE Team Field Guide](https://github.com/madetech/SRE-team-field-guide)
 * [Support Desk](guides/process/support/README.md)
 * [Sales Handbook](https://github.com/madetech/sales-handbook)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
