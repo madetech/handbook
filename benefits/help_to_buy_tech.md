@@ -11,7 +11,7 @@ You can calculate your savings by using their [calculator](https://www.techschem
 ## Process for buying tech products
 
 - Available once you have passed probation
-- Pick your tech products from [Apple](https://www.apple.com) or [Curry's] (https://www.currys.co.uk/gbuk/index.html)
+- Pick your tech products from [Apple](https://www.apple.com) or [Currys](https://www.currys.co.uk/gbuk/index.html)
 - Work out how much you want to spend - up to £2,000
 - Visit: https://www.techscheme.co.uk/eb76a9
 - Fill out the request form - you will need your payroll number 
