@@ -80,6 +80,10 @@ We expect our Reliability Engineers to communicate more than anyone else in the 
 
 We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customer expectations need to be set and met. If they cannot be met they should be reset early and often.
 
+### To be on call as required
+
+A part of reliability engineering is to be 1st line support for customers when Made Tech closures do not line up with our customers. While ideally production systems should be self-healing, we expect our Reliability Engineers to be on call to deal with outages.
+
 ## Core Engineer Expectations
 
 ### To be actively practicing TDD
