@@ -57,3 +57,7 @@ We expect our engineering team to understand how to secure the devices they use 
 ### To be involved in practice improvement discussions
 
 We expect our engineering team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.
+
+### To keep timesheets up-to-date and submitted before invoicing deadlines
+
+We use timesheets to invoice our customers, and it is important that we are able to send accurate invoices to our customers. We expect you to keep your timesheets up-to-date and to have submitted them before any invoicing deadlines.
