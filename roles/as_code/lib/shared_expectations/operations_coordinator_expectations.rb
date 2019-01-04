@@ -14,9 +14,6 @@ class OperationsCoordinatorExpectations < JobSpec::Role::Expectations
   expected 'to identify and support team changes',
     'We expect the Operations Coordinator to respond to and plan for upcoming team needs - such as new opportunities that need resourcing, existing deliveries that require increase or decrease in capacity, and the finishing of engagements. It is expected the Operations Coordinator will work with individual team members to make them proactively aware of potential team changes and to support the transition process.'
 
-  expected 'to operationally support the Live Services team',
-    'We expect the Operations Coordinator to provide operational support to the Live Services team in order to ensure Reliability Engineers are scheduled against deliveries, that there is adequate interrupt cover, and that community of practice events such as retrospectives happen.'
-
   expected 'to ensure we\'re accurately invoicing customers',
     'We expect the Operations Coordinator to work with Delivery Leads weekly to ensure up to date and accurate records exist for all teams. Accurate customer invoicing relies on teams keeping accurate records of the time being spent against deliveries. Team utilisation and billing should be reported to the Management Team on a weekly basis.'
 
