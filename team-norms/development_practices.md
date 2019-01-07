@@ -35,4 +35,4 @@ Be sure to communicate effectively. Asking too many questions is much preferred 
  - Talk to your team frequently
  - Request clarifications if you're unsure
  - Don't be scared to speak to the customer
- - Talk to the UI designers if unsure about anything visual, behaviour etc.
+ - Involve any other specialists that might be available to you
