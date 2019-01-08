@@ -55,7 +55,7 @@ We are a growing business and now is a good time to join us as there is great op
 
 ## Salary
 
-This role has a salary of £50-85k depending on experience.
+This role has a salary of £50-80k depending on experience.
 
 
 ## Delivery Manager Expectations
