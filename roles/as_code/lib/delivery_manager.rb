@@ -58,10 +58,10 @@ JobSpec::Role.definition 'Delivery Manager' do
 
     ## Salary
 
-    This role has a salary of £50-85k depending on experience.
+    This role has a salary of £50-80k depending on experience.
   DESCRIPTION
 
-  salary 50_000..85_000
+  salary 50_000..80_000
 
   include DeliveryManagerExpectations, as: 'Delivery Manager Expectations'
   include DeliveryLeadExpectations, as: 'Delivery Lead Expectations'
