@@ -1,7 +1,7 @@
 # Internal delivery team support process
 
 ## Process purpose
-This outlines how you can request technical support for internal work including projects and Sales activities. 
+This outlines how you can request delivery team support for internal work including projects and Sales activities. 
 
 ## Who is responsible for enacting this process:
 Anyone who needs to request the support of delivery team members should contact the Operations Team using the following steps. 
