@@ -15,7 +15,7 @@ Anyone who needs to request the support of delivery team members should contact 
 
 ## Internal projects
 
-Where an internal projet requires internal support from delivery team members that will take them away from billable projects, we need to track the impact upon team budgets.
+Where an internal project requires internal support from delivery team members that will take them away from billable projects, we need to track the impact upon team budgets.
 
 1. If you have a project internal to Made Tech, flag your request in the #team-resourcing channel and fill in this form: [Internal Support Form](https://goo.gl/forms/Jm6UDdQK0PAlxhPo1) 
 2. The Operations Team will assess the request. If your project requires more than a full day's billing from the team (7 hours) it will need to be put to the directors for approval
