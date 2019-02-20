@@ -96,9 +96,8 @@ We are particularly looking for strong indications that they:
 
 #### Pairing session
 
-After this introduction we usually pair with a candidate on a problem for 30 minutes. This step is used to see how well a candidate communicates and works with us. Of course it is a pressured environment, however we try and make the candidate at ease by sharing some of the work and discussing the problem with them.
+After this introduction we usually pair with a candidate on a problem for 30 minutes. [See more here](./pairing.md)
 
-Our current Engineer pairing task can be found in this [google doc](https://docs.google.com/a/madebymade.co.uk/document/d/1nqKNcy9wGcQjAOD-nYP_KtXLFyDQD6KEEhGw6_Andik/edit?usp=sharing). (Sorry if you're a candidate looking at this, we do not hand out these questions in advance.)
 
 #### Problem solving
 
