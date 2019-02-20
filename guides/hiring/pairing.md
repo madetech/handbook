@@ -13,7 +13,7 @@ We want to achieve the following with this guidance:
 3. Agree on a pairing style by explaining the rules.
 4. Set the expectation that you will be pairing with them, as an active participant.
 5. Ask if they are familiar with code katas.
-6. If they are familiar, ask them about their favorities. Make a judgement call on the complexity (e.g. katas with a grid can be too much for 30 mins)
+6. If they are familiar, ask them about their favourites. Make a judgement call on the complexity (e.g. katas with a grid can be too much for 30 mins)
   - it shouldn't matter if you've tackled the specific kata before or not.
 7. If they are not familiar, or they don’t have a favourite, take them to learn.madetech.com and discuss the options.
   - tennis or roman numerals are good for the time available.
