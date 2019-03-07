@@ -54,10 +54,10 @@ JobSpec::Role.definition 'Lead Engineer' do
 
     ## Salary
 
-    This role has a salary of £50-85k depending on experience.
+    This role has a salary of £65-85k depending on experience.
   DESCRIPTION
 
-  salary 50_000..85_000
+  salary 65_000..85_000
 
   expected 'to act as a role model and servant leader to the team',
     'We expect our Lead Engineers to lead by example, to put the needs of others before their own, and to set and demonstrate a high standard for code and delivery quality. A Lead Engineer is expected to show themselves to be highly reliable, to be on time, to be well prepared, and to take ultimate account for ensuring commitments the team has made are kept.'

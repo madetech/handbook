@@ -50,7 +50,7 @@ Other notable things:
 
 ## Salary
 
-This role has a salary of £50-85k depending on experience.
+This role has a salary of £65-85k depending on experience.
 
 
 ## Expectations
