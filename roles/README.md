@@ -7,32 +7,39 @@ looking for more responsibilities.
 
 ## Our roles
 
-### Engineering
+### Technology
 
 <table>
   <tr align="center">
-    <th colspan="3">Engineering Roles</th>
+    <th colspan="2">Engineering Roles</th>
   </tr>
   <tr align="center">
-    <td colspan="3">
-      <a href="academy_engineer.md">Academy Engineer</a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="3">
-      <a href="engineer.md">Engineer</a>
+    <td colspan="2">
+      <a href="academy_engineer.md">Academy Software Engineer</a>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <a href="senior_engineer.md">Senior Engineer</a>
-    </td>
-    <td>
-      <a href="lead_engineer.md">Lead Engineer</a>
+      <a href="engineer.md">Software Engineer</a>
     </td>
     <td>
       <a href="reliability_engineer.md">Reliability Engineer</a>
     </a>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="senior_engineer.md">Senior Software Engineer</a>
+    </td>
+    <td>
+      <a href="senior_reliability_engineer.md">Senior Reliability Engineer</a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="lead_engineer.md">Lead Software Engineer</a>
+    </td>
+    <td>
+      &nbsp;
     </td>
   </tr>
  </table>
