@@ -27,4 +27,6 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 
 ### Finalising the change
 
-1. On the "Conversation" tab of your Pull Request, click "Merge pull request".
+1. Get feedback from the wider company and address any feedback. Once you've had your Pull Request approved, you're ready to finalise your change.
+2. On the "Conversation" tab of your Pull Request, click "Merge pull request".
+3. Your new page will now be visible in the Handbook.
