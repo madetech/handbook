@@ -10,7 +10,7 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 
 - Every billable team member must completed a timesheet attributing a 35 hour week (pro-rated for those who do not work a full 5 day week) by 1.30pm every Friday
 
-- If the last day of the month falls on a working day, on the day, you will be asked to complete your timesheets up to and including the final day of the month. You must do this by 1.30pm
+- When the last day of the month falls on a working day, you will be asked to complete your timesheets up to and including that day. You must do this by 1.30pm
 
 - Timesheets should typically be completed in 3.5 hour increments. 3.5 hours for a half day, 7 hours for a full day
 
@@ -25,7 +25,7 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 
 - *Holidays*: prior to heading off on holiday, as well as completing any outstanding timesheets, and putting your out of office autoresponder on, you must proactively complete timesheets for the duration of your holiday, booking your time against Made Tech -> Holiday
 
-- *Sickness*: when returning from a period of sickness, you must update your timesheet to reflect that you were off sick. If you're off sick on a Friday or the last of the month, your Delivery Lead will be expected to complete a timesheet on your behalf. You should book your time against Made Tech -> Sickness
+- *Absence*: when returning from a period of absence (e.g. sickness, hospital appointment, compassionate leave), you must update your timesheet to reflect that you were absent. If you're off sick on a Friday or the last of the month, your Delivery Lead will be expected to complete a timesheet on your behalf. You should book your time against Made Tech -> Absence
 
 - *Sales Support*: if you're helping out the Sales Team for more than an hour for activities such as phone calls, meetings, preparing tender responses, presentations etc. you must complete a timesheet for this time against Made Tech -> Sales Support.
 
