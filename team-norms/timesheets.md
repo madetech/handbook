@@ -25,8 +25,8 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 
 - *Holidays*: prior to heading off on holiday, as well as completing any outstanding timesheets, and putting your out of office autoresponder on, you must proactively complete timesheets for the duration of your holiday, booking your time against Made Tech -> Holiday
 
-- *Absence*: when returning from a period of absence (e.g. sickness, hospital appointment, compassionate leave), you must update your timesheet to reflect that you were absent. If you're off sick on a Friday or the last of the month, your Delivery Lead will be expected to complete a timesheet on your behalf. You should book your time against Made Tech -> Absence
+- *Absence*: when returning from a period of absence (e.g. sickness, hospital appointment, compassionate leave), you must update your timesheet to reflect that you were absent. If you're absent on a Friday or the last of the month, your Delivery Lead will be expected to complete a timesheet on your behalf. You should book your time against Made Tech -> Absence
 
 - *Sales Support*: if you're helping out the Sales Team for more than an hour for activities such as phone calls, meetings, preparing tender responses, presentations etc. you must complete a timesheet for this time against Made Tech -> Sales Support.
 
-- *Unbilled*: if you're currently on not actively engaged with a delivery, or are working on a delivery but not in a billed capacity (your Delivery Lead will let you know if this is the case), you must complete a timesheet booking time against Made Tech -> Unbilled.
+- *Unbilled*: if you're currently not actively engaged with a delivery, or are working on a delivery but not in a billed capacity (your Delivery Lead will let you know if this is the case), you must complete a timesheet booking time against Made Tech -> Unbilled.
