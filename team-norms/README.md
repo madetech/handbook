@@ -21,3 +21,7 @@ Our way of soliciting feedback from and with our peers.
 ## [Retrospectives and Comradrospectives](retrospectives.md)
 
 Our methods of running team-wide and company-wide retrospectives.
+
+## [Timesheets](timesheets.md)
+
+Guidance on how to fill in the dreaded timesheet.
