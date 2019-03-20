@@ -47,7 +47,7 @@ We're a company that moves fast, so we're going to need everyone to help us keep
 * [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
-* [Paid anniversary break](benefits/paid_anniversary_break.md) - We celebrate your long term anniversary by sending you off on a paid break
+* [Paid anniversary break](benefits/paid_anniversary_break.md) - We celebrate your 3 and 5 year anniversary at Made Tech by sending you off on a paid break
 
 ### Welfare
 
