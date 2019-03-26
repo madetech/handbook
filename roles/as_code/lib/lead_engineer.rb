@@ -1,7 +1,3 @@
-require_relative './shared_expectations/core_engineer_expectations'
-require_relative './shared_expectations/senior_engineer_expectations'
-require_relative './shared_expectations/commercially_aware_engineer_expectations'
-
 JobSpec::Role.definition 'Lead Engineer' do
   description <<~DESCRIPTION
     Our Lead Engineers turn our customer’s needs into roadmaps, coach teams to deliver, are cutting the best code of their career, still learn every day, and constantly strive to be nice humans.
@@ -59,16 +55,89 @@ JobSpec::Role.definition 'Lead Engineer' do
 
   salary 65_000..85_000
 
-  expected 'to act as a role model and servant leader to the team',
-    'We expect our Lead Engineers to lead by example, to put the needs of others before their own, and to set and demonstrate a high standard for code and delivery quality. A Lead Engineer is expected to show themselves to be highly reliable, to be on time, to be well prepared, and to take ultimate account for ensuring commitments the team has made are kept.'
+  expected 'To be continuously providing sensible and well justified architectural guidance to teams, combining an understanding of the client\'s context, existing architectural landscape and the knowledge of the team', ''
 
-  expected 'to coach and nurture team members to improve their engineering and delivery capability',
-    'We expect our Lead Engineers to proactively provide thoughtful and meaningful feedback for their team. A Lead Engineer is expected to spend time helping team members to improve their skills. A Lead Engineer is expected to identify and nurture candidates for Lead and Senior Engineer positions. A Lead Engineer is expected to identify and escalate performance issues to a Director.'
+  expected 'To be productive in a wide range of tooling, libraries and architectural styles', ''
 
-  expected 'to lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations',
-    'We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.'
+  expected 'To continuously coach & mentor others to improve their lean and iterative approach to solving problems', ''
 
-  include CommerciallyAwareEngineerExpectations, as: 'Commercially Aware Engineer Expectations'
-  include SeniorEngineerExpectations, as: 'Senior Engineer Expectations'
-  include CoreEngineerExpectations, as: 'Core Engineer Expectations'
+  expected 'To be productive in multiple paradigms of programming', ''
+
+  expected 'To be leading the way with introducing new technologies to deliveries', ''
+
+  expected 'To collaborate with Reliability Engineers as appropriate', ''
+
+  expected 'Within the context of a single code-base to be contributing sensible and well justified software architectural decisions on a daily basis with a preference towards simple & maintainable designs.', ''
+
+  expected 'To be able to autonomously deliver working software', ''
+
+  expected 'To be able to build robust, maintainable interactive web-based frontends with an (appropriate amount of) focus on delivering a good user experience', ''
+
+  expected 'To continuously seek out understanding of user needs and context, and contribute appropriate course corrections to plans throughout the delivery of software  ', ''
+
+  expected 'To be continuously working at a sustainable pace, with an aim to commit to an appropriately sized amount of work', ''
+
+  expected 'To be able to take a report of defect in a live system from a stakeholder and triage the impact and scope appropriately', ''
+
+  expected 'To be able to resolve defects by leveraging existing test suites, production monitoring tooling and debugging techniques', ''
+
+  expected 'To be continuously building an appropriate level of security into working software', ''
+
+  expected 'To be continuously seeking to automate repetitive manual tasks', ''
+
+  expected 'To be able to apply appropriate strategies to deal with legacy code (code without tests)', ''
+
+  expected 'To be aware of political landscapes within client organisations and to be considerate of it. ', ''
+
+  expected 'To continuously practice TDD, including small incremental refactorings throughout the process of delivering software, with the intent to ensure low cost of change', ''
+
+  expected 'To continuously translate user needs into fast, maintainable, automated high-level tests as appropriate', ''
+
+  expected 'To be able to productively pair with colleagues, and to pair when it is appropriate to do so', ''
+
+  expected 'To communicate with customers without reminder.', ''
+
+  expected 'To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language ', ''
+
+  expected 'To keep the team updated on current work in progress, including any blockers or potential risks, making use of any tooling the team has chosen.', ''
+
+  expected 'To be responsible for the security of devices used for work', ''
+
+  expected 'To be involved in improving software delivery practice at Made Tech', ''
+
+  expected 'To request peer reviews', ''
+
+  expected 'To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.', ''
+
+  expected 'To be practicing continuous integration of code, making frequent small incremental changes to the code base, decoupling deployment from release as appropriate', ''
+
+  expected 'To take an equal share in owning the facilitation of team ceremonies, with a focus on ensuring that they are held regularly and are following any rules that the team has agreed to.', ''
+
+  expected 'To be responsible for releasing working software to real users', ''
+
+  expected 'To provide meaningful and considerate peer reviews for others', ''
+
+  expected 'To be willing and able to pick up new programming languages, technologies and techniques', ''
+
+  expected 'To be able to turn user needs into actionable technical tasks that can be delivered incrementally', ''
+
+  expected 'To be contributing your honest opinion to the team, in a respectful way, even if it conflicts with more senior members', ''
+
+  expected 'To be continuously applying a lean and iterative approach to solving problems', ''
+
+  expected 'To act as a role model and servant leader to the team', ''
+
+  expected 'To coach and nurture their team to improve their engineering and delivery capability ', ''
+
+  expected 'To lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations', ''
+
+  expected 'To quickly become a trusted partner to the customer team, building a friendly relationship', ''
+
+  expected 'To proactively identify opportunities where we can widen the impact of our work with the customer organisation', ''
+
+  expected 'To make sensible, well reasoned commercial decisions', ''
+
+  expected 'To keep timesheets up-to-date and submitted before invoicing deadlines', ''
+
+  expected 'To continuously make proactive improvements to the way Made Tech operates by first getting advice from impacted people and making the change', ''
 end

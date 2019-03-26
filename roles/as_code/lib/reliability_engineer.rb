@@ -1,6 +1,3 @@
-require_relative './shared_expectations/core_engineer_expectations'
-require_relative './shared_expectations/reliability_engineer_expectations'
-
 JobSpec::Role.definition 'Reliability Engineer' do
   description <<~DESCRIPTION
     Our Reliability Engineers evolve and maintain applications and infrastructure for our customers. Scalability and proactive improvements are the focus and good communication skills – the necessity.
@@ -59,6 +56,71 @@ JobSpec::Role.definition 'Reliability Engineer' do
 
   salary 40_000..60_000
 
-  include ReliabilityEngineerExpectations, as: 'Reliability Engineer Expectations'
-  include CoreEngineerExpectations, as: 'Core Engineer Expectations'
+  expected 'To be productive in a wide range of tooling, libraries and architectural styles', ''
+
+  expected 'To be able to autonomously deliver working software', ''
+
+  expected 'To continuously seek out understanding of user needs and context, and contribute appropriate course corrections to plans throughout the delivery of software  ', ''
+
+  expected 'To be continuously working at a sustainable pace, with an aim to commit to an appropriately sized amount of work', ''
+
+  expected 'To be able to take a report of defect in a live system from a stakeholder and triage the impact and scope appropriately', ''
+
+  expected 'To be able to resolve defects by leveraging existing test suites, production monitoring tooling and debugging techniques', ''
+
+  expected 'To be continuously building an appropriate level of security into working software', ''
+
+  expected 'To be continuously seeking to automate repetitive manual tasks', ''
+
+  expected 'To be aware of political landscapes within client organisations and to be considerate of it. ', ''
+
+  expected 'To continuously practice TDD, including small incremental refactorings throughout the process of delivering software, with the intent to ensure low cost of change', ''
+
+  expected 'To continuously translate user needs into fast, maintainable, automated high-level tests as appropriate', ''
+
+  expected 'To be able to productively pair with colleagues, and to pair when it is appropriate to do so', ''
+
+  expected 'To communicate with customers without reminder.', ''
+
+  expected 'To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language ', ''
+
+  expected 'To keep the team updated on current work in progress, including any blockers or potential risks, making use of any tooling the team has chosen.', ''
+
+  expected 'To be responsible for the security of devices used for work', ''
+
+  expected 'To be involved in improving software delivery practice at Made Tech', ''
+
+  expected 'To request peer reviews', ''
+
+  expected 'To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.', ''
+
+  expected 'To be practicing continuous integration of code, making frequent small incremental changes to the code base, decoupling deployment from release as appropriate', ''
+
+  expected 'To take an equal share in owning the facilitation of team ceremonies, with a focus on ensuring that they are held regularly and are following any rules that the team has agreed to.', ''
+
+  expected 'To be responsible for releasing working software to real users', ''
+
+  expected 'To provide meaningful and considerate peer reviews for others', ''
+
+  expected 'To be willing and able to pick up new programming languages, technologies and techniques', ''
+
+  expected 'To be able to turn user needs into actionable technical tasks that can be delivered incrementally', ''
+
+  expected 'To be contributing your honest opinion to the team, in a respectful way, even if it conflicts with more senior members', ''
+
+  expected 'To be continuously applying a lean and iterative approach to solving problems', ''
+
+  expected 'To be ambassadors of reliability engineering culture', ''
+
+  expected 'To proactively identify technical improvements and recommend them to delivery teams', ''
+
+  expected 'To keep timesheets up-to-date and submitted before invoicing deadlines', ''
+
+  expected 'To be a responsible remote worker', ''
+
+  expected 'To effectively juggle commitments', ''
+
+  expected 'To be on-call as required', ''
+
+  expected 'To continuously make proactive improvements to the way Made Tech operates by first getting advice from impacted people and making the change', ''
 end

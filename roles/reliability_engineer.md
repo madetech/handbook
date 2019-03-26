@@ -54,74 +54,139 @@ Other notable things:
 This role has a salary of £40-60k depending on experience.
 
 
-## Reliability Engineer Expectations
+## Expectations
 
-### To be ambassadors of reliability engineering culture
+### To be productive in a wide range of tooling, libraries and architectural styles
 
-We expect our Reliability Engineers to contribute to our reliability engineering culture, standards and thought leadership. We expect Reliability Engineers to champion existing standards by working closely with delivery teams to coach and mentor them. We also expect all Reliability Engineers to be involved in discussions around improving our standards.
 
-### To proactively identify technical improvements and recommend them to delivery teams
 
-We expect our Reliability Engineers to be able to spot areas for improvement in codebases such as test suites, dependency upgrades, performance issues detected by monitoring. We also expect them to be able to highlight these issues in a jargon free way and be able to convey the relative urgency of the issues ultimately leading to codebases being improved.
+### To be able to autonomously deliver working software
 
-### To autonomously deliver working software
 
-We expect our Reliability Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Reliability Engineer working on the problem.
 
-### To be fully billable by timesheeting 7 hours daily
+### To continuously seek out understanding of user needs and context, and contribute appropriate course corrections to plans throughout the delivery of software  
 
-We expect our Reliability Engineers to ensure they are timesheeting 7 hours daily, 4 days a week. As our Reliability Engineers rotate around teams we need to ensure we remain profitable.
 
-### To be a responsible remote worker
 
-We expect our Reliability Engineers to communicate more than anyone else in the business if they choose to work fully remote. Remote working requires extra attention to be paid to communication channels such as email and Slack.
+### To be continuously working at a sustainable pace, with an aim to commit to an appropriately sized amount of work
 
-### To effectively juggle commitments
 
-We expect our Reliability Engineers to be able to balance the priority of their work. Having an understanding of the severity of work along with expected time to fix is important and it should be used to help prioritise what to work on. Customer expectations need to be set and met. If they cannot be met they should be reset early and often.
 
-## Core Engineer Expectations
+### To be able to take a report of defect in a live system from a stakeholder and triage the impact and scope appropriately
 
-### To be actively practicing TDD
 
-We expect our engineering team to write tests first by default. We expect every feature to be tested. Every Pull Request (or equivalent chunk of work put up for peer review) must contain a test. If for some reason there are extenuating circumstances for not writing tests then more than one engineer should peer review and verify this.
 
-### To productively pair with their colleagues
+### To be able to resolve defects by leveraging existing test suites, production monitoring tooling and debugging techniques
 
-We expect our engineering team to be friendly and lovely people to pair with. All pairing dynamics are different, sometimes you will be pairing with someone with less experience, sometimes you will have the same experience. Adjusting the speed of your work to accomodate for your pair is important and special care must be taken when mentoring/coaching those with less experience. No matter who you are pairing with you must take turns to compromise when your opinions differ.
 
-### To request peer reviews for the code they write
 
-We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. It's the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
+### To be continuously building an appropriate level of security into working software
 
-### To provide meaningful and considerate peer reviews for others
 
-We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
 
-### To regularly communicate with customers without reminder
+### To be continuously seeking to automate repetitive manual tasks
 
-We expect our engineering team to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.
 
-### To keep their team updated on current work in progress
 
-We expect our engineering team to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.
+### To be aware of political landscapes within client organisations and to be considerate of it. 
 
-### To ensure team ceremonies are held regularly
 
-We expect our engineering team to ensure team ceremonies such as planning, retrospectives, and standups happen on a regular basis.
 
-### To facilitate showcases and retrospectives
+### To continuously practice TDD, including small incremental refactorings throughout the process of delivering software, with the intent to ensure low cost of change
 
-We expect our engineering team to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.
+
+
+### To continuously translate user needs into fast, maintainable, automated high-level tests as appropriate
+
+
+
+### To be able to productively pair with colleagues, and to pair when it is appropriate to do so
+
+
+
+### To communicate with customers without reminder.
+
+
+
+### To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language 
+
+
+
+### To keep the team updated on current work in progress, including any blockers or potential risks, making use of any tooling the team has chosen.
+
+
 
 ### To be responsible for the security of devices used for work
 
-We expect our engineering team to understand how to secure the devices they use for work including work issued laptops, personal computers, mobile phones, and other electronic devices. We expect invididuals to ensure they adhere to our [security guidelines](https://github.com/madetech/handbook/blob/master/guides/security/protect_the_company.md) upon setting up devices and to ensure that their machines are compliant at all times.
 
-### To be involved in practice improvement discussions
 
-We expect our engineering team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.
+### To be involved in improving software delivery practice at Made Tech
+
+
+
+### To request peer reviews
+
+
+
+### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
+
+
+
+### To be practicing continuous integration of code, making frequent small incremental changes to the code base, decoupling deployment from release as appropriate
+
+
+
+### To take an equal share in owning the facilitation of team ceremonies, with a focus on ensuring that they are held regularly and are following any rules that the team has agreed to.
+
+
+
+### To be responsible for releasing working software to real users
+
+
+
+### To provide meaningful and considerate peer reviews for others
+
+
+
+### To be willing and able to pick up new programming languages, technologies and techniques
+
+
+
+### To be able to turn user needs into actionable technical tasks that can be delivered incrementally
+
+
+
+### To be contributing your honest opinion to the team, in a respectful way, even if it conflicts with more senior members
+
+
+
+### To be continuously applying a lean and iterative approach to solving problems
+
+
+
+### To be ambassadors of reliability engineering culture
+
+
+
+### To proactively identify technical improvements and recommend them to delivery teams
+
+
 
 ### To keep timesheets up-to-date and submitted before invoicing deadlines
 
-We use timesheets to invoice our customers, and it is important that we are able to send accurate invoices to our customers. We expect you to keep your timesheets up-to-date and to have submitted them before any invoicing deadlines.
+
+
+### To be a responsible remote worker
+
+
+
+### To effectively juggle commitments
+
+
+
+### To be on-call as required
+
+
+
+### To continuously make proactive improvements to the way Made Tech operates by first getting advice from impacted people and making the change
+

@@ -1,5 +1,3 @@
-require_relative './shared_expectations/core_engineer_expectations'
-
 JobSpec::Role.definition 'Academy Engineer' do
   description 'Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Academy Engineer we expect someone:'
 

@@ -55,96 +55,173 @@ This role has a salary of £65-85k depending on experience.
 
 ## Expectations
 
-### To act as a role model and servant leader to the team
+### To be continuously providing sensible and well justified architectural guidance to teams, combining an understanding of the client's context, existing architectural landscape and the knowledge of the team
 
-We expect our Lead Engineers to lead by example, to put the needs of others before their own, and to set and demonstrate a high standard for code and delivery quality. A Lead Engineer is expected to show themselves to be highly reliable, to be on time, to be well prepared, and to take ultimate account for ensuring commitments the team has made are kept.
 
-### To coach and nurture team members to improve their engineering and delivery capability
 
-We expect our Lead Engineers to proactively provide thoughtful and meaningful feedback for their team. A Lead Engineer is expected to spend time helping team members to improve their skills. A Lead Engineer is expected to identify and nurture candidates for Lead and Senior Engineer positions. A Lead Engineer is expected to identify and escalate performance issues to a Director.
+### To be productive in a wide range of tooling, libraries and architectural styles
 
-### To lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
 
-We expect our Lead Engineers to lead workshop and roadmapping sessions, and foster collaboration with the wider team to identify a technology roadmap to solve business problems.
 
-## Commercially Aware Engineer Expectations
+### To continuously coach & mentor others to improve their lean and iterative approach to solving problems
 
-### To quickly become a trusted partner to the customer team, building a friendly relationship
 
-We expect our commercially aware engineers to quickly become a trusted partner to the customer team - both our day-to-day contacts, and more senior stakeholders. A commercially aware engineer should be able to put a customer at ease by engaging in small talk, and by building strong and friendly working relationships. A commercially aware engineer is expected to credibly and knowledgeably represent Made Tech when conversing with senior stakeholders.
 
-### To proactively identify opportunities where we can widen the impact of our work with the customer organisation
+### To be productive in multiple paradigms of programming
 
-We expect our commercially aware engineers to proactively seek opportunities where we can extend our remit with the customer organisation. A commercially aware engineer is expected to understand the objectives of our stakeholders, and to sell Made Tech’s wider capabilities.
 
-### To make sensible, well reasoned commercial decisions
-
-We expect our commercially aware engineers to proactively make good commercial decisions. A commercially aware engineer is expected to identify and course correct potential delivery issues before they become impactful. A commercially aware engineer is expected to proactively escalate larger delivery issues to the Delivery Manager or Delivery Director.
-
-## Senior Engineer Expectations
-
-### To make sensible and well justified technical architecture decisions, involving the team in the decision making process where appropriate
-
-We expect our Senior Engineers to be able to design and implement appropriate technical architectures to solve problems. We expect them to appropriately involve the team in the decision making process to help them develop their technical architecture skills.
-
-### To have attained the Made Tech Core Skills
-
-We expect our Senior Engineers to be an expert in their craft, practising and coaching others in the Made Tech Core Skills
-
-### To be willing and able to pick up new programming languages, technologies and techniques
-
-We expect our Senior Engineers to be actively researching and trialling new technologies and techniques. We expect them to be regularly sharing their knowledge whether that is during focussed learning sessions, talks, or via pairing.
 
 ### To be leading the way with introducing new technologies to deliveries
 
-We expect our Senior Engineers to help teams use new technologies as part of deliveries. We expect them to make suggestions before new projects boot up and to help the adoption of the technology during the delivery through pairing and otherwise coaching their colleagues.
 
-### To advocate lean and iterative approaches to solving problems
 
-We expect our Senior Engineers to always push for solving a problem with the simplest, most sensible solution rather than taking a more over-engineered approach. We expect them to encourage an early and often approach for getting functionality into production.
+### To collaborate with Reliability Engineers as appropriate
 
-## Core Engineer Expectations
 
-### To be actively practicing TDD
 
-We expect our engineering team to write tests first by default. We expect every feature to be tested. Every Pull Request (or equivalent chunk of work put up for peer review) must contain a test. If for some reason there are extenuating circumstances for not writing tests then more than one engineer should peer review and verify this.
+### Within the context of a single code-base to be contributing sensible and well justified software architectural decisions on a daily basis with a preference towards simple & maintainable designs.
 
-### To productively pair with their colleagues
 
-We expect our engineering team to be friendly and lovely people to pair with. All pairing dynamics are different, sometimes you will be pairing with someone with less experience, sometimes you will have the same experience. Adjusting the speed of your work to accomodate for your pair is important and special care must be taken when mentoring/coaching those with less experience. No matter who you are pairing with you must take turns to compromise when your opinions differ.
 
-### To request peer reviews for the code they write
+### To be able to autonomously deliver working software
 
-We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. It's the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
 
-### To provide meaningful and considerate peer reviews for others
 
-We expect our engineering team to provide feedback that makes code safer, easier to maintain and advances the knowledge of the original author. We expect everyone to negotiate and compromise when making a call on whether feedback should be addressed or not.
+### To be able to build robust, maintainable interactive web-based frontends with an (appropriate amount of) focus on delivering a good user experience
 
-### To regularly communicate with customers without reminder
 
-We expect our engineering team to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.
 
-### To keep their team updated on current work in progress
+### To continuously seek out understanding of user needs and context, and contribute appropriate course corrections to plans throughout the delivery of software  
 
-We expect our engineering team to keep their fellow team members up to date with their progress. A good litmus test for this is everyone on the team can describe what their team mates are up to.
 
-### To ensure team ceremonies are held regularly
 
-We expect our engineering team to ensure team ceremonies such as planning, retrospectives, and standups happen on a regular basis.
+### To be continuously working at a sustainable pace, with an aim to commit to an appropriately sized amount of work
 
-### To facilitate showcases and retrospectives
 
-We expect our engineering team to be able to demonstrate the successes of their iterations with weekly showcases to customers. We also expect Engineers to be able to facilitate retrospectives with engaging formats and customer involvement. Good teams will rotate this responsibility on a weekly basis.
+
+### To be able to take a report of defect in a live system from a stakeholder and triage the impact and scope appropriately
+
+
+
+### To be able to resolve defects by leveraging existing test suites, production monitoring tooling and debugging techniques
+
+
+
+### To be continuously building an appropriate level of security into working software
+
+
+
+### To be continuously seeking to automate repetitive manual tasks
+
+
+
+### To be able to apply appropriate strategies to deal with legacy code (code without tests)
+
+
+
+### To be aware of political landscapes within client organisations and to be considerate of it. 
+
+
+
+### To continuously practice TDD, including small incremental refactorings throughout the process of delivering software, with the intent to ensure low cost of change
+
+
+
+### To continuously translate user needs into fast, maintainable, automated high-level tests as appropriate
+
+
+
+### To be able to productively pair with colleagues, and to pair when it is appropriate to do so
+
+
+
+### To communicate with customers without reminder.
+
+
+
+### To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language 
+
+
+
+### To keep the team updated on current work in progress, including any blockers or potential risks, making use of any tooling the team has chosen.
+
+
 
 ### To be responsible for the security of devices used for work
 
-We expect our engineering team to understand how to secure the devices they use for work including work issued laptops, personal computers, mobile phones, and other electronic devices. We expect invididuals to ensure they adhere to our [security guidelines](https://github.com/madetech/handbook/blob/master/guides/security/protect_the_company.md) upon setting up devices and to ensure that their machines are compliant at all times.
 
-### To be involved in practice improvement discussions
 
-We expect our engineering team to reflect on our practices and be a proactive voice in suggesting change. We expect you to be reflecting on your own development practices, reflecting on your team and the wider business.
+### To be involved in improving software delivery practice at Made Tech
+
+
+
+### To request peer reviews
+
+
+
+### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
+
+
+
+### To be practicing continuous integration of code, making frequent small incremental changes to the code base, decoupling deployment from release as appropriate
+
+
+
+### To take an equal share in owning the facilitation of team ceremonies, with a focus on ensuring that they are held regularly and are following any rules that the team has agreed to.
+
+
+
+### To be responsible for releasing working software to real users
+
+
+
+### To provide meaningful and considerate peer reviews for others
+
+
+
+### To be willing and able to pick up new programming languages, technologies and techniques
+
+
+
+### To be able to turn user needs into actionable technical tasks that can be delivered incrementally
+
+
+
+### To be contributing your honest opinion to the team, in a respectful way, even if it conflicts with more senior members
+
+
+
+### To be continuously applying a lean and iterative approach to solving problems
+
+
+
+### To act as a role model and servant leader to the team
+
+
+
+### To coach and nurture their team to improve their engineering and delivery capability 
+
+
+
+### To lead workshop and roadmapping sessions to understand customer requirements and convert these in to deliverable iterations
+
+
+
+### To quickly become a trusted partner to the customer team, building a friendly relationship
+
+
+
+### To proactively identify opportunities where we can widen the impact of our work with the customer organisation
+
+
+
+### To make sensible, well reasoned commercial decisions
+
+
 
 ### To keep timesheets up-to-date and submitted before invoicing deadlines
 
-We use timesheets to invoice our customers, and it is important that we are able to send accurate invoices to our customers. We expect you to keep your timesheets up-to-date and to have submitted them before any invoicing deadlines.
+
+
+### To continuously make proactive improvements to the way Made Tech operates by first getting advice from impacted people and making the change
+
