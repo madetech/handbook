@@ -76,7 +76,7 @@ This role has a salary of £60-75k depending on experience.
 
 ### To be able to autonomously deliver working software
 
-We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesnt mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Engineer working on the problem.t mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Engineer working on the problem.
+We expect our Engineers to be able to work on entire features, from conception through to production deployment, without guidance and direction from others. This doesn't mean they have to be delivered without pairing, or asking advice from the wider team. What it does mean is the primary force for ensuring the feature is built and deployed in a timely fashion is the responsiblity of the Engineer working on the problem.
 
 ### To continuously seek out understanding of user needs and context, and contribute appropriate course corrections to plans throughout the delivery of software  
 
@@ -112,7 +112,7 @@ We expect our Engineers to be able to work on entire features, from conception t
 
 ### To continuously practice TDD, including small incremental refactorings throughout the process of delivering software, with the intent to ensure low cost of change
 
-We expect our engineering team to practice TDD discipline to a high standard. This is not something we simply pay lipservice to, we expect it to be a default in every engineer day to day day to day
+We expect our engineering team to practice TDD discipline to a high standard. This is not something we simply pay lipservice to, we expect it to be a default in every engineer' day to day
 
 ### To continuously translate user needs into fast, maintainable, automated high-level tests as appropriate
 
@@ -144,7 +144,7 @@ We expect our engineering team to reflect on our practices and be a proactive vo
 
 ### To request peer reviews
 
-We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. Its the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.s the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
+We expect our engineering team to always have their code peer reviewed at the least by one other person before merging. It's the responsibility of the code author to ask their colleagues to review and to merge the code in a timely fashion.
 
 ### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
 
@@ -208,7 +208,7 @@ We expect our Reliability Engineers to be able to balance the priority of their 
 
 ### To drive the reliability engineering agenda across Made Tech
 
-We expect the Senior Reliability Engineers to drive the reliability engineering agenda across the business. They should set the standard for what "good" looks like for applications from a maintainability, scalability, and security perspective, and ensure delivery teams understand are bought in to these standards.
+We expect the Senior Reliability Engineers to drive the reliability engineering agenda across the business. They should set the standard for what 'good' looks like for applications from a maintainability, scalability, and security perspective, and ensure delivery teams understand are bought in to these standards.
 
 ### To coach and nurture team members to improve their reliability engineering capability
 
