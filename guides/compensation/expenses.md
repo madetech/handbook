@@ -49,6 +49,4 @@ All of the above criteria need to be included in your expense to be accepted by 
 You do not need to use this method for expensing subscriptions to services required as part of a delivery, such as Trello/Sentry etc. For these delivery related expenses, please request card details via the [Third Party Expense Form](../../guides/3rd_party_services.md)
 
 ## Does Made Tech ever cover the cost of customer-related expenses?
-That depends. In the case of "customer entertainment" (e.g. buying drinks for customers), yes. In all other cases, usually only as a last resort and it requires Director approval.
-
-If you have a situation where you think this Made Tech needs to cover the cost of an expense for a customer, please put a message in the  **#Team-Operations** Slack channel.
+That depends. In the case of customer entertainment (e.g. buying drinks for customers), yes. In all other cases, such as signing up for a third party service to support a customer delivery, only as a only as a last resort and only with Director approval.
