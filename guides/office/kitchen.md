@@ -13,5 +13,4 @@ We love our coffee at Made Tech. We have fresh beans regularly delivered to the 
 
 We all appreciate a clear and useable sink. Please ensure:
 
- - When you're finished with glasses, cutlery and crockery that you wash them up
- - If you can't wash up for whatever reason you, rinse your glasses, cutlery and crockery and stack them to the side of the sink rather than in the sink, this is so that everyone can continue to use the sink throughout the day
+ - When you're finished with glasses, cutlery and crockery that you rinse them and place them in the dishwasher in accordance with [accepted loading conventions](https://www.wikihow.life/Load-a-Dishwasher).
