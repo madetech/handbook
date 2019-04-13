@@ -9,9 +9,26 @@ We love our coffee at Made Tech. We have fresh beans regularly delivered to the 
  - When grinding beans that no meetings are going on in the meeting room as it's very loud and can interrupt voice calls and conversations
  - When you're done making coffee that you tidy up any spillages so the kitchen is left in a clean state
 
-## Sink regime
+## Dirty glasses, cutlery, and crockery regime
 
-We all appreciate a clear and useable sink. Please ensure:
+We all appreciate a clean and orderly kitchen, and a clear sink. This is why everyone should put their dirty tableware in the dishwasher.
 
- - When you're finished with glasses, cutlery and crockery that you wash them up
- - If you can't wash up for whatever reason you, rinse your glasses, cutlery and crockery and stack them to the side of the sink rather than in the sink, this is so that everyone can continue to use the sink throughout the day
+Before using the dishwasher, please familiarise yourself with [accepted dishwasher loading conventions](https://www.wikihow.life/Load-a-Dishwasher).
+
+Please ensure:
+
+ - When you're finished with any tableware that you rinse them and put them in the dishwasher
+ - When the dishwasher is full, then load it with a cleaning agent and start it
+ - When the dishwasher is running already, then wash your items in the sink with detergent instead
+ - When the dishwasher has finished and has clean items in it, empty it. Then put your dirty items inside!
+
+## Rubbish rules
+
+We are passionate about recycling at Made Tech, please familiarise yourself with which items should be recycled on [First Mile's](https://thefirstmile.co.uk/contact#faqs) website. The FAQ item for this is: "What is Mixed Recycling / Dry Mixed Recycling?".
+
+When using the bins, there are a few things to keep in mind:
+
+ - Put the right items in the right bins. Recycle!
+ - When recycling, make sure your items are clean
+ - Keep the bins clean, no one likes messy bins. When a bin accidentally gets dirty, wipe it down with some damp paper towels
+ - When a bin is full, remove the bin liner and close it, then put in a new bag
