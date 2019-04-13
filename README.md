@@ -86,6 +86,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Kitchen Etiquette](guides/office/kitchen.md)
 * [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
+* [Toilet Etiquette](guides/office/toilet.md)
 
 #### Security
 
