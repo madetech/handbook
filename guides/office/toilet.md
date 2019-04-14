@@ -17,3 +17,13 @@ When using the toilets, please make sure you perform the following:
  - Keep paper towels and toilet paper off the floor
  - Put toilet paper in the toilet and paper towels in the bin. Do not flush paper towels
  - Consider making use of air freshener after using the toilet if you think it is needed
+
+### Wash your hands, your life depends on it
+
+Germs can surive on bathroom surfaces for a long time. Human feces can carry nasty things like E. coli, Shigella, Streptococcus, hepatitis A and E, norovirus, and others.
+
+Only around two thirds of people actually wash their hands after using the toilet. Think about that next time you're pair programming.
+
+To keep it simple, follow the rule of "If you entered the toilet, wash your hands". Rinsing with water is not enough. Use soap, and lather it properly, then rinse it off.
+
+Keep your hands clean, and keep Team Made Tech healthy.
