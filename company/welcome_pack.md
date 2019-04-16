@@ -81,9 +81,7 @@ Academy Engineers: you can skip these two for now, but you will probably need th
 
 #### Engineers
 
-* [ ] Setup for AWS account (https://madetech.signin.aws.amazon.com/console – with 2FA)
-* [ ] Jenkins
-* [ ] [The Mole](https://github.com/madetech/the-mole)
+* [ ] Get access to infrastructure for delivery team
 
 ### Setting up your Machine
 
