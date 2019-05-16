@@ -2,7 +2,7 @@
 
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
-When setting up new laptops, please ensure you follow the below guidelines and update the [security information spreadsheet](https://docs.google.com/a/madebymade.co.uk/spreadsheets/d/1jn1OeUd2DVWJPlzf_ZkdjtNpXWuy0r4_0dxXBHuWeG0/edit?usp=sharing)
+When setting up new laptops, please ensure you follow the below guidelines
 
 ## Applications
 
