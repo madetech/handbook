@@ -9,6 +9,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
 ### General
 
 - [ ] Register the make, model and serial numbers information on Charlie HR
+- [ ] Passwords must follow the [password policy](guides/security/password_policy.md)
 - [ ] Two Factor Authentication and strong passwords for:
   - [ ] Last Pass
   - [ ] Gmail
@@ -16,7 +17,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
   - [ ] Trello (unless using Google Auth to login to Trello)
   - [ ] Slack
   - [ ] AWS
-- [ ] Print out and store any 2FA backup codes in the Made Tech safe
+- [ ] Store any 2FA backup codes as encrypted notes in your password manager 
 - [ ] Keep your operating system and applications up to date
 - [ ] [Run the security challenge in LastPass](https://lastpass.com/support.php?cmd=getfeaturefaq&feature=feataure_12)
 
