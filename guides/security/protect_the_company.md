@@ -9,7 +9,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
 ### General
 
 - [ ] Register the make, model and serial numbers information on Charlie HR
-- [ ] Passwords must follow the [password policy](guides/security/password_policy.md)
+- [ ] Passwords must follow the [password policy](password_policy.md)
 - [ ] Two Factor Authentication and strong passwords for:
   - [ ] Last Pass
   - [ ] Gmail
