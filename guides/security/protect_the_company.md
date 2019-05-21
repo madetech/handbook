@@ -2,13 +2,14 @@
 
 Keeping laptops and phones secure is vitally important. We're a software company and many of us have access to secure systems (both our own and our customers).
 
-When setting up new laptops, please ensure you follow the below guidelines and update the [security information spreadsheet](https://docs.google.com/a/madebymade.co.uk/spreadsheets/d/1jn1OeUd2DVWJPlzf_ZkdjtNpXWuy0r4_0dxXBHuWeG0/edit?usp=sharing)
+When setting up new laptops, please ensure you follow the below guidelines
 
 ## Applications
 
 ### General
 
-- [ ] Make a note of serial numbers, model information
+- [ ] Register the make, model and serial numbers information on Charlie HR
+- [ ] Passwords must follow the [password policy](password_policy.md)
 - [ ] Two Factor Authentication and strong passwords for:
   - [ ] Last Pass
   - [ ] Gmail
@@ -16,7 +17,7 @@ When setting up new laptops, please ensure you follow the below guidelines and u
   - [ ] Trello (unless using Google Auth to login to Trello)
   - [ ] Slack
   - [ ] AWS
-- [ ] Print out and store any 2FA backup codes in the Made Tech safe
+- [ ] Store any 2FA backup codes as encrypted notes in your password manager 
 - [ ] Keep your operating system and applications up to date
 - [ ] [Run the security challenge in LastPass](https://lastpass.com/support.php?cmd=getfeaturefaq&feature=feataure_12)
 
