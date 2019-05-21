@@ -39,4 +39,4 @@ Be sure to communicate effectively. Asking too many questions is much preferred 
 
 ## Document the decision making process using ADR
 
-Software design choices should be recorded using [ADR's](https://github.com/madetech/architecture-decision-log) (ADR stands for Architecture decision record)
+Software design choices should be recorded using ADR's in our Architecture decision [git repository.](https://github.com/madetech/architecture-decision-log) 
