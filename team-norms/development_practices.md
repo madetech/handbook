@@ -36,3 +36,7 @@ Be sure to communicate effectively. Asking too many questions is much preferred 
  - Request clarifications if you're unsure
  - Don't be scared to speak to the customer
  - Involve any other specialists that might be available to you
+
+## Document the decision making process using ADR
+
+Software design choices should be recorded using [ADR's](https://github.com/madetech/architecture-decision-log) (ADR stands for Architecture decision record)
