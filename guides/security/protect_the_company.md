@@ -31,6 +31,8 @@ When setting up new laptops, please ensure you follow the below guidelines
 - [ ] [Require password after screensaver or sleep](https://support.apple.com/kb/PH18669?locale=en_US&viewlocale=en_US)
 - [ ] Only work from company laptops or follow BYOD policy
 - [ ] [Install iCloud/Find My Mac](https://www.icloud.com)
+- [ ] Mac users must install Meraki MDM client software 
+- [ ] Antivirus must be installed on all devices 
 
 ### Mobile
 
