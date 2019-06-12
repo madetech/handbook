@@ -28,4 +28,4 @@ We have agreed a clear business case for people in engineering roles to use an a
  - Spotify
  - Evernote
 
- For Mac users, any app downloaded fro the App Store is considered safe to install on your device.
+ For Mac users, any app downloaded from the App Store is considered safe to install on your device.
