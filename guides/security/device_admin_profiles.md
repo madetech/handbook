@@ -19,7 +19,7 @@ If you are a member of a business team, and using a device with split admin and 
 
 ## Engineering and Delivery Teams
 
-We have agreed a clear business case for people in engineering roles to use an admin profile on their device as default because of the need to install packages related to software we're developing on an almost daily basis.
+We have agreed a clear business case for people in engineering roles to use an admin profile on their device as default because of the need to install packages related to software we're developing on an almost daily basis.You will still be prompted for authentication whenever you utilise admin capabilities.
 
 ## List of Approved Software (updated 12/06/2019)
  - Google Chrome
