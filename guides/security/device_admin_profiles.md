@@ -1,6 +1,6 @@
 # Admin profiles and standard user profiles on devices
 
-As part of our commitment to secure working practices, we install separate admin and standard user profiles on laptops. The reason this restriction is in place is to prevent the accidental downlaoding and installation of malicious software on company devices, to close an attack vector, and to protect both Made Tech and our customers.
+As part of our commitment to secure working practices, we install separate admin and standard user profiles on laptops. The reason this restriction is in place is to prevent the accidental downloading and installation of malicious software on company devices, to close an attack vector, and to protect both Made Tech and our customers.
 
 Because of our heavy use of cloud-based software, we do not believe removing default admin access will prevent people from working productively. If a team member can provide a business case for why they need to retain admin access to their device as default, the ISMS governance team will review this policy.
 
