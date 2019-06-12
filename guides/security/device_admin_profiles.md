@@ -23,7 +23,7 @@ We have agreed a clear business case for people in engineering roles to use an a
 
 ## List of Approved Software (updated 12/06/2019)
  - Google Chrome
- - FireFox
+ - Firefox
  - Slack
  - Spotify
  - Evernote
