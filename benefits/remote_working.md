@@ -15,6 +15,7 @@ If you have any questions or want to challenge the guidelines below in any way, 
 - Be a good Slack citizen and check in with your team throughout your working day if possible
 - Ensure you're completely clear on your specific workload, down to the task level, for the day or days you wish to work from home, and ensure that you're certain you won't benefit from working closely with others on this
 - Ensure you're not scheduled for any meetings or other sessions
+- If you are in a public place, such as a coffee shop, make sure you are handling any sensitive data responsibly and securely. Can you be overseen? Is your connection secure? 
 - Barring any extraordinary circumstances, we like people to be in the office on Friday for [lunch](/benefits/friday_lunch.md) [(and hopefully drinks)](/benefits/friday_drinks.md)
 
 ## Regularly working from home
