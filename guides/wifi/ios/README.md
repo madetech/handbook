@@ -2,7 +2,7 @@
 
 To connect to the `Made Tech - Staff` network on an iOS device, you will need to install a `.mobileconfig` file. Login to [Foxpass](https://console.foxpass.com/login) on your phone/PC using **Sign in with Google** and navigate to the **My Settings** page.
 
-![foxpass](/guides/wifi/images/ios/foxpass.png)
+![Foxpass](/guides/wifi/images/ios/foxpass.png)
 
 Click on **Download** under the **WiFi configuration file**. Alternatively, you can save this on your PC and transfer it to your iOS device using AirDrop or any other convenient method. Once it is downloaded on your iOS device, go to **Settings** and click on the **Profile Downloaded** to begin the installation process.
 

@@ -6,7 +6,7 @@ When choosing to connect to a WiFi network, click on `Made Tech - Staff`. You wi
 
 - Ensure you are using `EAP-TTLS` as your method 
 - For the `CA certificate`, there is no need to validate it so set it to **Don't validate**
-- The **Idenity** should be the local-part of your Made Tech email address 
+- The **Identity** should be the local-part of your Made Tech email address 
   - For example, if your email address was `jsmith@madetech.com`, your username would be `jsmith`
 - The **Password** should be the same as your [G Suite](http://gsuite.google.com) password
 
