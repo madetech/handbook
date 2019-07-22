@@ -73,6 +73,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [Blogging at Made Tech](https://github.com/madetech/blog)
 * [3rd Party Expenses](guides/3rd_party_services.md)
+* [WiFi](guides/wifi)
 
 #### People
 
