@@ -2,7 +2,7 @@
 
 When choosing to connect to a WiFi network, click on `Made Tech - Staff`. You will then be presented with a screen that looks something like the screen shown below.
 
-<img src="/guides/wifi/images/android/settings.jpg" height="800" />
+<img src="/guides/wifi/images/android/settings.jpg" height="400" />
 
 - Ensure you are using `EAP-TTLS` as your method 
 - For the `CA certificate`, there is no need to validate it so set it to **Don't validate**
@@ -12,7 +12,7 @@ When choosing to connect to a WiFi network, click on `Made Tech - Staff`. You wi
 
 Before connecting, click on `Advanced`. Copy the configuration shown in the image below.
 
-<img src="/guides/wifi/images/android/advanced.jpg" height="800" />
+<img src="/guides/wifi/images/android/advanced.jpg" height="400" />
 
 - Select `PAP` for **Phase 2 authentication**
 - Leave **Anonymous identity** as blank 
