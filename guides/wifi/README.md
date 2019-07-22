@@ -6,4 +6,5 @@ To connect to the `Made Tech - Staff` WiFi network, below are a list of guides f
 
 * [Android](android)
 * [iOS](ios)
+* [Linux](linux)
 * [MacOS](macos)
