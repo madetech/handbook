@@ -12,15 +12,18 @@ Click on **Install** found at the top right and proceed with the installation.
 
 <img src="/guides/wifi/images/ios/choose.jpg" height="800" />
 
-Select your device for where you would like to install the profile. You will also have to enter your device passcode after selection.
+Select your device for where you would like to install the profile. You will also have to enter your device **passcode** after selection.
 
 <img src="/guides/wifi/images/ios/username.jpg" height="800" />
 
-For the **Username**, it should be the local-part of your Made Tech email address. For example, if your email address was `jsmith@madetech.com`, your username would be `jsmith`. 
+- For the **Username**, it should be the local-part of your Made Tech email address
+  - For example, if your email address was `jsmith@madetech.com`, your username would be `jsmith`. 
 
 <img src="/guides/wifi/images/ios/password.jpg" height="800" />
 
-The **Password** should be the same as your [G Suite](http://gsuite.google.com) password. Click **Next** to finish installing the profile.
+- The **Password** should be the same as your [G Suite](http://gsuite.google.com) password. 
+
+Click **Next** to finish installing the profile.
 
 <img src="/guides/wifi/images/ios/installed.jpg" height="800" />
 

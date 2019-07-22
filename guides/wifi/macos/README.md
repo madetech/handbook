@@ -10,6 +10,8 @@ Click on the `Made Tech - Staff` SSID in the WiFi dropdown. You should be presen
 
 ![settings](/guides/wifi/images/macos/settings.png)
 
-The **Username** should be be the local-part of your Made Tech email address. For example, if your email address was `jsmith@madetech.com`, your username would be `jsmith`. The **Password** should be the same as your [G Suite](http://gsuite.google.com) password.
+- The **Username** should be be the local-part of your Made Tech email address 
+  - For example, if your email address was `jsmith@madetech.com`, your username would be `jsmith`
+- The **Password** should be the same as your [G Suite](http://gsuite.google.com) password.
 
 That is it! You should now be connected. If you are experiencing any problems, please do not hesitate to contact any of the team.
