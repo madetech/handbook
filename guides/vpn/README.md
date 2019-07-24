@@ -1,6 +1,14 @@
 ## Connecting to Made Tech - VPN
 
+
+<hr/>
+
+**Made Tech pay per MB for the usage of this VPN, therefore, please limit your usage to work only i.e no streaming videos**
+
+<hr/>
+
 This is a guide to connect to the Made Tech Virtual Private Network (VPN).
+
 
 - [MacOS](#macos)
 - [Linux](#linux)
