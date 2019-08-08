@@ -4,7 +4,7 @@ Made Tech uses standard builds for the devices issued to team members to facilit
 
 As part of our commitment to secure working practices, we install separate admin and user profiles on laptops. The reason this restriction is in place is to prevent the accidental downloading and installation of malicious software on company devices and to protect both Made Tech and our customers.
 
-Because of our heavy use of cloud-based software, we do not believe removing default admin access will prevent people from working productively. If a team member can provide a business case for why they need to retain admin access to their device as default, the ISMS governance team will review this policy.
+Team members will have access to an admin account for the purpose of upgrading system software. This account must not be logged in to directly, and should be used only for the purpose of updating installed software or installing pre-approved software.
 
 ## Business Teams
 
