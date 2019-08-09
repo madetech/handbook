@@ -9,6 +9,7 @@
   - [ ] Recruitee
   - [ ] Airtable Tables
   - [ ] Small Improvements
+  - [ ] AWS
 
 - [ ] Revoke access to any VPNs
 - [ ] Delete AWS account
