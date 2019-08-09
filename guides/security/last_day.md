@@ -10,5 +10,7 @@
   - [ ] Airtable Tables
   - [ ] Small Improvements
   - [ ] AWS
+  - [ ] Heroku
+  - [ ] Contentful
 
 - [ ] Revoke access to any VPNs
