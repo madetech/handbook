@@ -12,4 +12,3 @@
   - [ ] AWS
 
 - [ ] Revoke access to any VPNs
-- [ ] Delete AWS account
