@@ -1,11 +1,25 @@
 # What To Do When Your Device is Lost or Stolen
 
-- [ ] Mac users activate the "lock" function via [Find My iPhone](https://www.icloud.com) iCloud app
-- [ ] Report it to the police and give them the following details:
-  - [ ] Office address
-  - [ ] Your address
-  - [ ] Where and when you believe you lost or had it stolen
-  - [ ] The relevant details from [the device info spreadsheet](https://docs.google.com/spreadsheets/d/1jn1OeUd2DVWJPlzf_ZkdjtNpXWuy0r4_0dxXBHuWeG0/edit#gid=1759593604)
-  - [ ] Any location info available in Find My iPhone/Mac
-- [ ] Make a note of the crime reference number
-- [ ] Inform one of the company directors
+The first thing you should do if your device is lost or stolen is report the incident to the CSO or IMS Manager as soon as possible.
+
+For Team members using the standard build of Made Tech device, we are able to use MDM software to remotely wipe data from your device. 
+
+Those who are not using a Made Tech issued device should consult the BYOD policy (linked below)
+
+## Reporting a device as stolen to the police
+When reporting to the police you should provide them with the following details:
+ - Office address
+ - Your address
+ - Where and when you believe you lost or had it stolen
+ - The relevant device details from Charlie HR: make, model and serial number
+ - Any location info available in Find My iPhone/Mac
+
+Once the report of the stolen device is made, please make a note of the crime reference number and update the IMS manager.
+
+# Related Standards, Policies and Processes
+ - [AUP Policy](link)
+ - [Password policy](link)
+ - [2FA policy](link)
+ - [How to report an incident](link)
+ - [Device Security](link)
+ - [BYOD Policy](link)
