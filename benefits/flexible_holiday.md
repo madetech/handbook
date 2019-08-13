@@ -16,7 +16,7 @@ We trust you'll use your best judgement when taking holidays but in case you wan
 * **Between 1 and 2 weeks** – We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
 * **Greater than 3 weeks** – Please try to provide at least three months notice, so we can prepare for your absence.
 
-If you wish to book holiday outside of these guidelines, please raise this request with a director.
+If you wish to book holiday outside of these guidelines, please raise this request with your line manager, the ops team or the people team who will help you plan for longer time off.
 
 ## How will it affect your team?
 
@@ -32,7 +32,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Ask your customers if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
 * Ensure that the holiday is placed into CharlieHR
-* Ask a director only if you wish to book holiday outside of the guidelines
+* Ask your line manager, the ops or people team only if you wish to book holiday outside of the guidelines
 
 ## Additional considerations
 
