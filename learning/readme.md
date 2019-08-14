@@ -6,7 +6,7 @@ Before joining a delivery team, you will spend some time with a mentor focussing
 
 As a high level summary, we will cover the following -
 
-1. Watch the [introduction to TDD screencast](https://learn.madetech.com/screencasts/tennis.html).
+1. Watch the [introduction to TDD screencast](https://learn.madetech.com/videos/tennis.html).
 2. (Pair or mob with a mentor on) [code katas](https://learn.madetech.com/katas) using [Test Driven Development](https://learn.madetech.com/core-skills/tdd/) discipline.
 3. (Pair or mob with a mentor on) subcutaneous acceptance testing, and ATDD discipline.
 4. Explore with a mentor the central architectural concepts of Clean Architecture
