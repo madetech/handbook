@@ -17,7 +17,7 @@ Keeping physical surroundings secure is an important part of a security policy. 
 - All visitors are signed in to the office, and assigned a member of the Made Tech team as their host. 
 - Visitors must be escorted by their host when in and around the workstations and any sensitive information
 - Visitors may be unescorted when in the general meeting rooms and communal areas.
-- We store records of visitors on SaaS so it can be accessed remotely if needed. 
+- We store records of visitors on a cloud-based service so it can be accessed remotely if needed. 
 
 ### Unauthorised Access
 Attackers may attempt to gain access to our offices in order to do Made Tech or our clients harm. They may use techniques to gain your trust, take advantage of inattention, or capitalise on your desire to be helpful to gain access.
@@ -30,7 +30,7 @@ Attackers may attempt to gain access to our offices in order to do Made Tech or 
 - Anyone who cannot name the member of the Made Tech team they are visiting
 - Individuals trying to pressure you for information about our building or office
 
-**It is always ok to:**
+**It is always OK to:**
 - Be sceptical of unusual requests
 - Challenge (politely) any request for access from an unknown individual
 - Verify the identity of a requester before signing them in
