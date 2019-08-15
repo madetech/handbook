@@ -33,4 +33,4 @@ When remote working, and when onsite with a client, it is important to pay close
 
 - If you are in a public place, such as a coffee shop, make sure you are handling any sensitive data responsibly and securely. Can you be overseen? Is your connection secure? 
  - Ensure any work-related conversations can’t be overheard. If that’s not possible, try to talk in general terms, and without specific details such as names or clients.
-- You should continue to abide by the guidelines set out in our [Information Handling Policy](link) and our [Clear Desk/Clear Screen Policy](link) when working remotely.
+- You should continue to abide by the guidelines set out in our [Information Handling Policy](company/information_handling.md) and our [Clear Desk/Clear Screen Policy](company/clear_desk_clear_screen.md) when working remotely.
