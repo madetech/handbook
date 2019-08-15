@@ -21,7 +21,7 @@ These security policies also:
  - Protect Made Tech’s ability to meet commitments through Business Continuity planning.
  - Minimise the business impact of, and appropriately handle, security events and incidents.
 
-The relevant people in the business are
+The IMS Management Team are
 - **Chief Security Officer (CSO):** Chris Blackburn
 - **IMS Manager:** Emily Thomas
  
