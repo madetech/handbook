@@ -7,9 +7,9 @@ An Information Handling policy encourages seucre working practices amongst our t
 ## General Guidelines:
 
 All sensitive information (anything other than Public) is subject to the following information handling and disposal procedures:
-- Passwords which provide access to sensitive information must not be given to any unauthorised person See our [Password and 2FA policy](link) for more details 
-- Device screens should be locked with a password when not in use and not left unattended for any reason. See our [Clear Desk/Clear Screen Policy](link) for more details.
-- Devices used to handle Made Tech or client related information should not be misused or placed at risk of theft, damage or misuse. See our [Device Security Policy](link) for more information.
+- Passwords which provide access to sensitive information must not be given to any unauthorised person See our [Password and 2FA policy](password_and_2fa.md) for more details 
+- Device screens should be locked with a password when not in use and not left unattended for any reason. See our [Clear Desk/Clear Screen Policy](clear_desk_clear_screen.md) for more details.
+- Devices used to handle Made Tech or client related information should not be misused or placed at risk of theft, damage or misuse. See our [Device Security Policy](device_security.md) for more information.
 - Users shall not try to disable or alter the antivirus software settings on their device
 
 ## When not at the Made Tech offices
