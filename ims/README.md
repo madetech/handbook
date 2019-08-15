@@ -70,6 +70,7 @@ The relevant people in the business are
 ### Development Practices
  - [Cryptographic Policy](development/cryptographic.md)
  - [Separation of Development, Test, and Production](development/separation_of_development_test_production.md)
+ - [System Planning and Acceptance Policy](development/system_planning_and_acceptance.md)
 
 ## ISO 9001: Quality Management
  - TBD
