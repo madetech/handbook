@@ -1,4 +1,4 @@
-# Laptop and Phone Security
+# Device Security
 
 This is general advice on device security. For the purposes of this section, "device" not only applies to the laptop Made Tech will issue you with when you join the company, but also any personal devices you use to access Made Tech systems. This includes, but is not limited to, phones, tablets, etc. 
 
@@ -48,11 +48,10 @@ You must tell Made Tech if your device that is used in connection with your Made
 If you suspect that your device may be compromised (has a virus etc), you should telephone them rather than email them. Your emails could transfer malware from your device to other people or into Made Tech systems and services.
 
 # Related Standards, Policies and Processes
- - [AUP Policy](link)
+ - [AUP Policy](aup.md)
  - [Standard Build Policy](link)
- - [BYOD Policy](link)
- - [Password policy](link)
- - [2FA policy](link)
+ - [BYOD Policy](byod.md)
+ - [Password and 2FA policy](link)
  - [How to report an incident](link)
- - [Lost or Stolen Process](link)
+ - [Lost or Stolen Policy](lost_or_stolen.md)
  - [How to connect to the VPN](link)
