@@ -4,7 +4,7 @@ The first thing you should do if your device is lost or stolen is report the inc
 
 For Team members using the standard build of Made Tech device, we are able to use MDM software to remotely wipe data from your device. 
 
-Those who are not using a Made Tech issued device should consult the BYOD policy (linked below)
+Those who are not using a Made Tech issued device should consult the [BYOD policy.](byod.md)
 
 ## Reporting a device as stolen to the police
 When reporting to the police you should provide them with the following details:
@@ -17,9 +17,8 @@ When reporting to the police you should provide them with the following details:
 Once the report of the stolen device is made, please make a note of the crime reference number and update the IMS manager.
 
 # Related Standards, Policies and Processes
- - [AUP Policy](link)
- - [Password policy](link)
- - [2FA policy](link)
+ - [AUP Policy](aup.md)
+ - [Password and 2FA Policy](password_and_2fa.md)
  - [How to report an incident](link)
- - [Device Security](link)
- - [BYOD Policy](link)
+ - [Device Security](device_security.md)
+ - [BYOD Policy](byod.md)
