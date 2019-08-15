@@ -90,12 +90,6 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
-#### Security
+#### Integrated Management System (IMS)
 
-* [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
-* [BYOD Policy](guides/security/byod.md)
-* [Laptop & Phone Security](guides/security/protect_the_company.md)
-* [Device profiles](guides/security/device_profiles.md)
-* [Server Security](guides/security/server_setup_guidelines.md)
-* [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
-* [Last Day](guides/security/last_day.md)
+* [IMS Guide](ims/README.md) We use an IMS to manage our Security and Quality policies
