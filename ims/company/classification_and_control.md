@@ -67,5 +67,5 @@ Public documents are meant to be in the public domain and have no access control
 Public information does not need to be labelled and has no handling or communication restrictions imposed.
 
 # Related Standards, Policies and Processes
- - [AUP Policy](aup.md)
+ - [Acceptable Use Policy](aup.md)
  - [How to report an incident](link)
