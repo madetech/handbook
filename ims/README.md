@@ -39,7 +39,7 @@ The relevant people in the business are
 
 ## Guide
 
-### Company
+### [Company](company/README.md)
  - [Acceptable Use Policy (AUP)](company/aup.md)
  - [Bring Your Own Device Policy (BYOD)](company/byod.md)
  - [Device Security Policy](company/device_security.md)
@@ -52,7 +52,7 @@ The relevant people in the business are
  - [Physical Security Policy](company/physical_security.md)
  - [Outsourcing and Supplier Management Policy](company/outsourcing_and_supplier_management.md)
 
-### People
+### [People](people/README.md)
  - [Screening Policy](people/screening.md)
  - [Confidentiality Agreements Policy](people/confidentiality_agreements.md)
  - [Onboarding Process](people/onboarding.md)
