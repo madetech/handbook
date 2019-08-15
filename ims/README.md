@@ -44,6 +44,7 @@ The relevant people in the business are
  - [Bring Your Own Device Policy (BYOD)](company/byod.md)
  - [Device Security Policy](company/device_security.md)
  - [Device Profiles Policy](company/device_profiles.md)
+ - [Password and 2FA Policy](company/password_and_2fa.md)
  - [Lost or Stolen Policy](company/lost_or_stolen.md)
  - [Classification and Control of Assets Policy](company/classification_and_control.md)
  - [Access Control Policy (ACP)](company/acp.md)
