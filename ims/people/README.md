@@ -9,7 +9,7 @@ The Made Tech Leadership are responsible for planning staffing and structures to
 
  **Head of People:** Yasemin Ercan
  
- **Talent Acquisition Lead:** Mark North
+ **Talent Lead:** Mark North
  
  **Head of Learning:** Craig Bass
 
