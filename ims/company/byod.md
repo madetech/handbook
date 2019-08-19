@@ -49,9 +49,9 @@ If you don’t need files and data any more, delete them and make sure they can�
 ### Disk Encryption
 You must encrypt all your data storage devices. This includes:
 
-hard disks (including on smartphones and tablets)
-cloud storage
-USB sticks
+ - hard disks (including on smartphones and tablets)
+ - cloud storage
+ - USB sticks
 
 If these aren’t encrypted, people can see any data that’s on them or install viruses without you noticing
 
