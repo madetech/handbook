@@ -90,12 +90,6 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
-#### Security
+#### IMS
 
-* [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
-* [BYOD Policy](guides/security/byod.md)
-* [Laptop & Phone Security](guides/security/protect_the_company.md)
-* [Device profiles](guides/security/device_profiles.md)
-* [Server Security](guides/security/server_setup_guidelines.md)
-* [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
-* [Last Day](guides/security/last_day.md)
+* [IMS](ims/) - We combine the systems that Made Tech use to govern our business operations into an IMS (Integrated Management System), including policies around Security and Quality.
