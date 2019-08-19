@@ -1,6 +1,6 @@
 # Password and 2FA policy
 
-Strong password and appropriate use of 2FA are important aspects of device and software security. We all have passwords for multiple systems that are used for business related purposes and it is the responsibility of all users who have access to Made Tech's systems, including contractors, to take the appropriate steps to secure their passwords. 
+Strong password and appropriate use of 2FA (two factor authentication) are important aspects of device and software security. We all have passwords for multiple systems that are used for business related purposes and it is the responsibility of all users who have access to Made Tech's systems, including contractors, to take the appropriate steps to secure their passwords. 
 
 ## Password Creation
 - Passwords must be sufficiently strong such as to make cracking or guessing difficult.
