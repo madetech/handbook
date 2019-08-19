@@ -10,10 +10,11 @@ There are tradeoffs when choosing between working from the office and from home.
 
 ### Occasional Remote Working
 - Check and clear any remote work with the rest of your team before the end of the previous working day
+- Ensure your absence does not negatively impact the productivity and/or success of other team members
 - Once agreed with your team and customers add time off as 'Working from home' in Charlie HR 
 - Check that you're not needed on-site by a customer or your team
 - Ensure you're available for your team ceremonies as normal, and are able to dial in without interruption
-- Be a good Slack citizen and check in with your team throughout your working day
+- Be a good Slack citizen and check in regularly and visbily with your team throughout the working day in public channels
 - Ensure you're clear on your workload for the day or days you wish to work from home and ensure that you won't benefit from working closely with others
 - Ensure you're not scheduled for any meetings or sessions
 - Barring any extraordinary circumstances, we like people to be in the office on Friday for [lunch](/benefits/friday_lunch.md) and Learn Tech
