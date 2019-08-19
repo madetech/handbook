@@ -23,10 +23,11 @@ There are tradeoffs when choosing between working from the office and from home.
 
 There are some additional considerations when working from home regularly
 
-- Talk to your team (and customers if necessary) ahead of committing yourself to working remotely on a regular basis
+- Talk to your team ahead of committing yourself to working remotely on a regular basis. Team members on Delivery should check in with the Delivery Lead. Members of business teams should check with their Head of Dept. 
 - Once agreed, put a recurring event in Charlie HR
 - We recommend remote working on a recurring basis a maximum of 2 days per week when part of a delivery team to ensure you don't lose context.
 - Make sure you choose days that will have the least impact on customers. A larger organisation's time will be less flexible and you'll need to ensure there are clearly set expectations around when showcases will be etc.
+- It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies. 
 
 ### Secure Remote Working
 
