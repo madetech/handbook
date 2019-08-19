@@ -62,7 +62,7 @@ Leaving sensitive and confidential information in easy to access places is not t
 It's always better to be safe than sorry. Always check with the IMS Manager or CSO if you think something is amiss.
 
 # Related Standards, Policies and Processes
- - [AUP Policy](aup.md)
+ - [Acceptable Use Policy](aup.md)
  - [Password and 2FA Policy](password_and_2fa.md)
  - [Clear Desk/Clear Screen Policy](clear_desk_clear_screen.md)
  - [How to report an incident](link)
