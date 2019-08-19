@@ -15,7 +15,7 @@ Your password to access your password manager should confirm to the password pol
 
 If you have reason to believe your password manager password has been compromised, report it immediately to the IMS manager or CSO. 
 
-## Obtaing Passwords via Social Engineering
+## Obtaining Passwords via Social Engineering
 
 Cracking passwords or a brute force attack are not the only ways in which individuals with bad intentions can get into the Made Tech systems. Social engineering also makes us vulnerable. Attackers will use techniques to gain your trust, or take advantage of inattention or a desire to be helpful to obtain passwords. Keep in mind the following:
 
@@ -39,8 +39,8 @@ It's always better to be safe than sorry. Always check with the IMS Manager or C
 Where a service provides the ability to authenticate via 2FA, 2FA must be used. 
 
 # Related Standards, Policies and Processes
- - [AUP Policy](link)
- - [Lost or Stolen policy](link)
+ - [Acceptable Use Policy](aup.md)
+ - [Lost or Stolen policy](lost_or_stolen.md)
  - [How to report an incident](link)
- - [Device Security](link)
- - [BYOD Policy](link)
+ - [Device Security](device_security.md)
+ - [BYOD Policy](byod.md)
