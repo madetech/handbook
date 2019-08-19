@@ -29,6 +29,15 @@ There are some additional considerations when working from home regularly
 - Make sure you choose days that will have the least impact on customers. A larger organisation's time will be less flexible and you'll need to ensure there are clearly set expectations around when showcases will be etc.
 - It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies. 
 
+### Refusing a Request for Remote Working
+
+All requests to work from home should be considered in their individual circumstances. The decision ultimately resides with teams, but below are some guidelines around when you may want to refuse a request to work from home
+
+- If the request will clash with and important ceremony with the client or the rest of the team (planning, retros, etc.)
+- If there are concerns the remote working will impact upon the productivity or success of the rest of the team
+- If there are concerns about productivity from a team member (this should be first addressed with the team member directly, and with their line manager if necessary
+
+
 ### Secure Remote Working
 
 When remote working, and when onsite with a client, it is important to pay close attention to these security guidelines in addition to your normal security practices:
