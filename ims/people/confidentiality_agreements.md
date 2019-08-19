@@ -13,5 +13,5 @@ This outlines Made Tech's policy in regards to confidentiality agreements.
    - For more information please see our policy on [Physical Security](company/physical_security.md)
  - No recording equipment may be used in internal, supplier, or customer meetings without the knowledge and consent of all those present in the meetings
  
- ### Terms & Conditions of Employment
+### Terms & Conditions of Employment
 Confidentiality and security responsibilities are covered in the Contract of Employment and the Employee Handbook
