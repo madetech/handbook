@@ -25,7 +25,7 @@ Cracking passwords or a brute force attack are not the only ways in which indivi
 - Do not write passwords down and store them anywhere in the office. 
 - Do not store passwords in a file on a computer system or mobile device (phone, tablet) without encryption.
 - Do not reveal a password on forms
-- Do not hint at the format of a password ("My hometown/name/etc)
+- Do not hint at the format of a password ("my hometown/first pet's name/etc was...")
 - Be sceptical of unusual requests
 - Be aware of potential phishing attacks
 - Consider who may be shoulder surfing
