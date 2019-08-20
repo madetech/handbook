@@ -7,7 +7,7 @@ The development practices and policies at Made Tech, are the responsibility of t
 ## Technology Team
  **Head of Technology/CTO:** Luke Morton
  
- **Secondary role:** David Winter
+ **Senior Technical Advisor:** David Winter
 
 ## Application and Compliance
 
