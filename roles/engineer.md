@@ -134,7 +134,7 @@ We expect our engineering team to always have their code peer reviewed at the le
 
 ### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
 
-We expect our engineering team to be actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
+We expect our engineering team to actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
 
 ### To be practicing continuous integration of code, making frequent small incremental changes to the code base, decoupling deployment from release as appropriate
 
