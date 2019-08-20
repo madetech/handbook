@@ -78,7 +78,7 @@ We expect our engineering team to own the whole process of getting working softw
 
 ### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
 
-We expect our engineering team to be actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
+We expect our engineering team to actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
 
 ### To be able to turn user needs into actionable technical tasks that can be delivered incrementally
 
