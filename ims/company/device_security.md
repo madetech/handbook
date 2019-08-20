@@ -2,7 +2,7 @@
 
 This is general advice on device security. For the purposes of this section, "device" not only applies to the laptop Made Tech will issue you with when you join the company, but also any personal devices you use to access Made Tech systems. This includes, but is not limited to, phones, tablets, etc. 
 
-Please consult our BYOD policy and our AUP policy for more information (linked below). 
+Please consult our BYOD policy and our Acceptable Use Policy for more information. 
 
 ## Laptop Setup
 
@@ -29,7 +29,7 @@ All Made Tech devices are set up with separate admin and user profiles, unless o
 - Non Mac users must add a BIOS password
 - [Disable automatic login for OSX](https://www.intego.com/mac-security-blog/mac-security-tip-disable-automatic-login/)
 - [Install iCloud/Find My Mac](https://www.icloud.com)
-- Mac users must install remote MDM software 
+- Mac users must install remote MDM (Mobile Device Management) software 
 - Antivirus must be installed on all devices (this is automatically done for Mac users via remote MDM software).
 
 ## Mobile
@@ -49,9 +49,8 @@ If you suspect that your device may be compromised (has a virus etc), you should
 
 # Related Standards, Policies and Processes
  - [AUP Policy](aup.md)
- - [Standard Build Policy](link)
+ - [Device Profiles Policy](device_profiles.md)
  - [BYOD Policy](byod.md)
- - [Password and 2FA policy](link)
+ - [Password and 2FA policy](password_and_2fa.md)
  - [How to report an incident](link)
  - [Lost or Stolen Policy](lost_or_stolen.md)
- - [How to connect to the VPN](link)
