@@ -6,9 +6,7 @@ Please consult our BYOD policy and our Acceptable Use Policy for more informatio
 
 ## Laptop Setup
 
-This section details policy around Made Tech issued devices. If you are using your own device at Made Tech please consult our BYOD policy (linked below)
-
-All Made Tech devices are set up with separate admin and user profiles, unless otherwise agreed with the relevant IMS governance team or leadership. For more information on this please see our Standard Builds policy (linked below).
+All Made Tech devices are set up with separate admin and user profiles, unless otherwise agreed with the relevant IMS governance team or leadership.
 
 ### General setup
 
