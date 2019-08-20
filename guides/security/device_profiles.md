@@ -31,9 +31,3 @@ We have agreed a clear business case for people in engineering roles to use an a
  - Evernote
 
  For Mac users, any app downloaded from the App Store is considered safe to install on your device.
- 
- # Related Standards, Policies and Processes
- - AUP Policy
- - Device Security Policy
- - BYOD policy
-
