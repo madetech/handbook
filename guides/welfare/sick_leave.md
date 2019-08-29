@@ -12,12 +12,12 @@ When people get sick we ask that they follow these guidelines:
 
 * If you need assistance with your sickness you can use our [employee assistance programme](employee_assistance.md)
 
-* On your first day off, send an email to your team and the company directors letting them know that you'll be away and what you had planned for that day. Aim to let them know as early as possible, so they can factor your absence into their tasks for the day.
+* On your first day off, send an email to your team, or the operations team if you are on the Chalet, letting them know that you'll be away and what you had planned for that day. Aim to let them know as early as possible, so they can factor your absence into their tasks for the day.
 
 * Provide regular updates and an expected return date, as soon as you have one.
 
 * If you are taking four or more days sick leave, please supply a doctors note.
 
-* All sick leave will be tracked here: https://docs.google.com/a/madetech.co.uk/spreadsheets/d/18XiuzihJ4i_QWGGbLF5-VcvzQxH7vFZRldJ1DveoSVY/edit
+* Record your sick leave in Harvest 
 
-* If you accrue five or more days of sick leave annually, then a meeting with one of the Directors will take place. Sick leave can be a sign of a more deep rooted issue (such as too much pressure, unhappiness with role, or an unhealthy lifestyle) and meeting will enable us to talk openly about the sick leave and look at ways in which we can improve the situation.
+* If you accrue five or more days of sick leave annually, then a meeting will take place to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, or that you are unhappy with your current role.
