@@ -18,6 +18,6 @@ When people get sick we ask that they follow these guidelines:
 
 * If you are taking four or more days sick leave, please supply a doctors note.
 
-* Record your sick leave in Harvest 
+* Record your sick leave in Harvest and CharlieHR
 
 * If you accrue five or more days of sick leave annually, then a meeting will take place to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, or that you are unhappy with your current role.
