@@ -6,17 +6,15 @@ From time to time people may have problems or concerns about their colleagues, c
 
 The first thing you can do, if you feel comfortable and able, is raise the issue directly with the person involved. This type of direct and informal approach is encouraged and we expect your colleagues who are approached responsibly to respond in a similar manner. This approach may be particularly appropriate to dealing with matters of speech and expression, where individuals may not be aware that their behaviour is causing distress.
 
-## Raise feedback via Continuous Feedback
+## Raise the issue via your mentor
 
-If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next [continuous feedback](../../team-norms/continuous_feedback.md) session by raising the feedback through that process.
-
-Continuous feedback is not anonymous but can add a layer of indirection and ensure that the issue is discussed with another member of the team. We hope this will trigger conversations amongst those in the session and we would expect proactive action to happen off the back of that session.
+If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech, then you can discuss this further with your mentor. They can help you find a way to discuss this directly with the person or discuss other routes to help resolve the issue.
 
 ## Ask a colleague to intervene on your behalf
 
 You may ask a colleague or director to intervene informally on your behalf. In some situations you may not feel able to directly approach the person or people involved and so going via a third party to informally raise your concern for you is another option available to you.
 
-In particular, if you have a grievance with a director and feel unable to raise it directly, you should raise this issue either with another director or with a colleague who can raise it with a director for you.
+In particular, if you have a grievance with a director and feel unable to raise it directly, you should raise this issue either with the people team or with a colleague who can raise it for you.
 
 ## Seek Third Party Advice
 
@@ -28,9 +26,9 @@ You can also call the [Acas](http://www.acas.org.uk/index.aspx?articleid=2042) o
 
 At the time of writing we do not have anyone with mediation training at the company but if necessary we can bring in third party mediators to deal with disputes informally.
 
-You an find out more about Mediation from [Acas](http://www.acas.org.uk/index.aspx?articleid=1680).
+You can find out more about Mediation from [Acas](http://www.acas.org.uk/index.aspx?articleid=1680).
 
-If you wish to enter a mediation process, please ask a director or ask a colleague to go to a director to request mediation.
+If you wish to enter a mediation process, please ask the people team or ask a colleague to speak to the people team on your behalf to request mediation.
 
 ## Formal Grievance Procedure
 
