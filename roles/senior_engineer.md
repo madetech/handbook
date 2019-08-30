@@ -4,7 +4,7 @@ Our Senior Engineers are crazy about software, have expertise in solving a wide 
 
 ## What does the job entail?
 
-We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
+We primarily write and deliver custom software to our customers. We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript and C# these days. We will usually be responsible for setting up a customer’s infrastructure on AWS, GCP or Azure with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a CI/CD pipeline running our automated test suites before deploying changes.
 
 Senior Engineers are responsible for ensuring the technical quality of our deliveries, introducing new technologies and techniques to the business, as well as coaching their colleagues.
 
@@ -21,9 +21,9 @@ Further required experience:
 - Pair programming as we pair around 50% of the time
 - Agile practices such as Scrum, XP, and/or Kanban
 - Working with a range of SQL and NoSQL databases
-- Infrastructure as code tools such as Ansible, Chef, Puppet, and/or Saltstack
+- Infrastructure as code tools such as Ansible, Chef, Puppet, Terraform and/or Saltstack
 - Debugging a range of applications
-- Experience debugging infrastructure (AWS/Heroku/Linux/HTTP)
+- Experience debugging infrastructure (AWS/Heroku/Linux/HTTP, GCP and Azure)
 
 Everything else is optional but highly sought after. We would love you to have experience in:
 
@@ -36,7 +36,7 @@ Everything else is optional but highly sought after. We would love you to have e
 
 We are a sanctuary for those wanting to hone their skills alongside like-minded learners. After joining our team it is common for new starters to comment on how much they’re learning and how much they enjoy the fact they are surrounded by people they can learn from. This includes our most senior hires.
 
-The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has peer-based one-to-ones every 2 weeks, along with monthly one-to-ones with a director. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
+The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has a one-to-one each month with a mentor, twice a month during probation. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
 
 Other notable things:
 
@@ -44,11 +44,11 @@ Other notable things:
 - Everyone is encouraged to write blog posts regularly
 - Our handbook is open sourced
 - We are vegan and non-drinker friendly as well as meat-eater and drinker friendly
-- Retreats and trips every year
+- Annual company weekend away
 
 ## Salary
 
-This role has a salary of £50-65k depending on experience.
+This role has a salary of £50-75k depending on experience.
 
 
 ## Expectations
