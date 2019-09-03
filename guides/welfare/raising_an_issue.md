@@ -24,7 +24,7 @@ At the time of writing we do not have anyone with mediation training at the comp
 
 You can find out more about Mediation from [Acas](http://www.acas.org.uk/index.aspx?articleid=1680).
 
-If you wish to enter a mediation process, please ask the people team or ask a colleague to speak to the people team on your behalf to request mediation.
+If you wish to enter a mediation process, please ask the people team to request mediation.
 
 ## Formal Grievance Procedure
 
