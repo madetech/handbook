@@ -10,11 +10,7 @@ The first thing you can do, if you feel comfortable and able, is raise the issue
 
 If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech, then you can discuss this further with your mentor. They can help you find a way to discuss this directly with the person or discuss other routes to help resolve the issue.
 
-## Ask a colleague to intervene on your behalf
-
-You may ask a colleague or director to intervene informally on your behalf. In some situations you may not feel able to directly approach the person or people involved and so going via a third party to informally raise your concern for you is another option available to you.
-
-In particular, if you have a grievance with a director and feel unable to raise it directly, you should raise this issue either with the people team or with a colleague who can raise it for you.
+In particular, if you have a grievance you feel unable to raise with your mentor and feel unable to raise directly, you should raise this issue with the people team who can help.
 
 ## Seek Third Party Advice
 
