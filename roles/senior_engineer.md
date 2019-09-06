@@ -36,7 +36,7 @@ Everything else is optional but highly sought after. We would love you to have e
 
 We are a sanctuary for those wanting to hone their skills alongside like-minded learners. After joining our team it is common for new starters to comment on how much they’re learning and how much they enjoy the fact they are surrounded by people they can learn from. This includes our most senior hires.
 
-The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has a one-to-one each month with a mentor, twice a month during probation. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
+The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has a one-to-one each month with a mentor, twice a month during probation. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
 
 Other notable things:
 
