@@ -6,7 +6,7 @@ This only applies to you if you’re using your own device for Made Tech work - 
 
 ## Using and managing your device
 
-If you’re using your own device for Made Tech work, it means you’re being trusted to use Made Tech information appropriately and keep any Made Tech information or data you hold, or can access, safe.
+If you’re using your own device for Made Tech work, it means you’re being trusted to use Made Tech information appropriately and keep any Made Tech information or data you hold safe.
 
 ### Don’t ‘jailbreak’ your device
 ‘Jailbreaking’ is the process of removing hardware and software vendor restrictions for the purpose of custom modifications (for example, installing unapproved applications or changing the user interface in an unsupported way).
@@ -31,7 +31,7 @@ Endpoint protection is more than just antivirus software, and usually includes a
 Any device you plug into the device, like an external USB device, must also be scanned for viruses. We recommend doing a full scan at least once a month.
 
 ### Set a password/passphrase
-Your device must require a password/passphrase to login, return from screensaver or wake from sleep. Ideally your device will lock the screen (or start the screensaver) after a few minutes (no more than 5) of the device being idle
+Your device must require a password/passphrase to login, return from screensaver or wake from sleep. Your device will lock the screen (or start the screensaver) after no more than 2 minutes of the device being idle.
 
 ### How you manage passwords/passphrases
 Your password/passphrase must conform to the Made Tech Password Policy which will be linked below. You should also use a password manager and 2FA.
