@@ -1,29 +1,41 @@
 # Remote Working
 
-We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, or from a coffee shop. We encourage working remotely, both on an adhoc basis and on a more recurring basis if it suits your current life circumstances.
+We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, or from a coffee shop. We acknowledge that working remotely can lead to increased productivity, and have positive effects on wellbeing.
 
-As a highly collaborative agile team we recognise there are tradeoffs when choosing between working from the office and from home. Below we've highlighted some general ettiquette along with guidelines for working remotely on a regular basis.
+There are tradeoffs when choosing between working from the office and from home. Below is some general ettiquette for occasional remote work, along with guidelines for working remotely on a regular basis.
 
-If you have any questions or want to challenge the guidelines below in any way, you're always welcome to bring it up with the wider company or with a director.
+### Occasional Remote Working
+- Check and clear any remote work with the rest of your team before the end of the previous working day
+- Ensure your absence does not negatively impact the productivity and/or success of other team members
+- Once agreed with your team and customers add time off as 'Working from home' in Charlie HR 
+- Check that you're not needed on-site by a customer or your team
+- Ensure you're available for your team ceremonies as normal, and are able to dial in without interruption
+- Be a good Slack citizen and check in regularly and visbily with your team throughout the working day in public channels
+- Ensure you're clear on your workload for the day or days you wish to work from home and ensure that you won't benefit from working closely with others
+- Ensure you're not scheduled for any meetings or sessions
+- Barring any extraordinary circumstances, we like people to be in the office on Friday for [lunch](/benefits/friday_lunch.md) and Learn Tech
 
-## General ettiquette
+### Regular Remote Working
 
-- Check and clear it with the rest of your team before the end of the previous working day
-- Once agreed with your team and customers add time off as 'Working from home' in CharlieHR 
-- Check that you're not needed on-site by a customer
-- Ensure you're available for a daily standup with your team
-- Be a good Slack citizen and check in with your team throughout your working day if possible
-- Ensure you're completely clear on your specific workload, down to the task level, for the day or days you wish to work from home, and ensure that you're certain you won't benefit from working closely with others on this
-- Ensure you're not scheduled for any meetings or other sessions
+There are some additional considerations when working from home regularly
+
+- Talk to your team ahead of committing yourself to working remotely on a regular basis. Team members on Delivery should check in with the Delivery Lead. Members of business teams should check with their Head of Department. 
+- Once agreed, put a recurring event in Charlie HR
+- We recommend remote working on a recurring basis a maximum of 2 days per week when part of a delivery team to ensure you don't lose context.
+- Make sure you choose days that will have the least impact on customers. A larger organisation's time will be less flexible and you'll need to ensure there are clearly set expectations around when showcases will be etc.
+- It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies. 
+
+### Refusing a Request for Remote Working
+
+All requests to work from home should be considered in their individual circumstances. The decision ultimately resides with teams, but below are some guidelines around when you may want to refuse a request to work from home
+
+- If the request will clash with and important ceremony with the client or the rest of the team (planning, retros, etc.)
+- If there are concerns the remote working will impact upon the productivity or success of the rest of the team
+- If there are concerns about productivity from a team member (this should be first addressed with the team member directly, and with their Line Manager if necessary
+
+### Secure Remote Working
+
+When remote working, and when onsite with a client, it is important to pay close attention to these security guidelines in addition to your normal security practices:
+
 - If you are in a public place, such as a coffee shop, make sure you are handling any sensitive data responsibly and securely. Can you be overseen? Is your connection secure? 
-- Barring any extraordinary circumstances, we like people to be in the office on Friday for [lunch](/benefits/friday_lunch.md) [(and hopefully drinks)](/benefits/friday_drinks.md)
-
-## Regularly working from home
-
-There are additional considerations when regularly working remotely.
-
-- Talk to your team and customers ahead of committing yourself to working remotely on a regular basis
-- Once agreed with your team and customers, put a recurring event in CharlieHR
-- We recommend remote working on a recurring basis a maximum of 2 days per week when part of a delivery team – it's important to ensure you get enough face time with your team and customers for asking questions, raising blockers, and showcasing work
-- Make sure you choose days that will have the least impact on customers – when working with larger organisations their stakeholders time will be less flexible and thus you'll need to ensure there are clearly set expectations around when showcases will be, etc.
-- Again, barring any extraordinary circumstances, we like people to be in the office on Friday
+ - Ensure any work-related conversations can’t be overheard. If that’s not possible, try to talk in general terms, and without specific details such as names or clients.
