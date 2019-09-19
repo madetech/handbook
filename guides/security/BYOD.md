@@ -2,16 +2,16 @@
 
 This document highlights things you should think about, and how you manage your own device while working on Made Tech products and services. Not only the data you work with but also the software you have installed and how you protect it - like antivirus software.
 
-This only applies to you if you’re using your own device for Made Tech work - including checking your Made Tech email. Devices aren’t just desktop and laptops - they include, for example, tablets and smartphones.
+This only applies to you if you’re using your own device for Made Tech work. Devices aren’t just desktop and laptops - they include, for example, tablets and smartphones.
 
 ## Using and managing your device
 
-If you’re using your own device for Made Tech work, it means you’re being trusted to use Made Tech information appropriately and keep any Made Tech information or data you hold safe.
+If you’re using your own device for Made Tech work, it means you’re being trusted to use company proprietary data appropriately and keep that information or data you hold safe.
 
 ### Don’t ‘jailbreak’ your device
 ‘Jailbreaking’ is the process of removing hardware and software vendor restrictions for the purpose of custom modifications (for example, installing unapproved applications or changing the user interface in an unsupported way).
 
-You must not use a jailbroken device for any Made Tech work or to handle any Made Tech data, including logging into Made Tech services which include (but is not limited to) G-Suite, Slack, password management software, etc.
+You must not use a jailbroken device for any Made Tech work or to handle any company proprietary data, including logging into Made Tech services which include (but is not limited to) G-Suite, Slack, password management software, etc.
 
 ### Keep your software up to date
 You must keep your software up to date. Old versions of software are often vulnerable to attack. Update all the software on your device whenever a new version is available. This includes:
@@ -34,15 +34,10 @@ Any device you plug into the device, like an external USB device, must also be s
 Your device must require a password/passphrase to login, return from screensaver or wake from sleep. Your device will lock the screen (or start the screensaver) after no more than 2 minutes of the device being idle.
 
 ### How you manage passwords/passphrases
-Your password/passphrase must conform to the Made Tech Password Policy which will be linked below. You should also use a password manager and 2FA.
+Your password/passphrase must conform to the Made Tech Password Policy. You should also use a password manager and 2FA.
 
 ### How you connect your device to networks
 We have our own VPN which automatically authenticates with G Suite. Everyone can use the service (not only engineers) for a more secure experience (i.e. protecting yourself when using a public WiFi). To connect to the VPN, please refer to the [guide found in the Handbook.](https://github.com/madetech/handbook/tree/master/guides/vpn) 
-
-### How you store & manage data
-If data is stored and managed incorrectly it can be lost; stolen or changed (including someone loading a virus). ‘Storing data’ includes on your computer (whether it is on or off) and portable media, like USB sticks. Data should be encrypted wherever possible.
-
-If you don’t need files and data any more, delete them and make sure they can’t be recovered.
 
 ### Disk Encryption
 You must encrypt all your data storage devices. This includes:
@@ -60,17 +55,13 @@ If your device will not be used for a significant period of time, we suggest tur
 
 Turning off your device to ensure disk encryption is enabled is important if your device will be unattended. This could include when inside a backpack or carrying case when travelling, as those can be lost or stolen
 
-### Store data in Made Tech tools
-Made Tech data should be stored in Made Tech tools. Check what your team is using.
+### Store data in Made Tech cloud services
+Company proprietary data should be stored in Made Tech tools. Check what your team is using. Do not store data locally on your device, ensure it's synced to the relevant cloud service.
 
-Sensitive data (personal information for example user research, or commercial information for example contracts) can be stored on the Google Team Drive for your team, unless the data subject or owner has requested that the data does not go ‘off-shore’ (where data is processed or stored outside of the UK) for example, to the US.
-
-Regardless of where it’s stored, you should ensure data is appropriately secured and backed up. Made Tech’s G-Suite is backed up automatically, but data on your laptop is not.
-
-If you can’t work on a Made Tech tool, make a local copy instead. Make sure you update the Made Tech tool version when possible, and then delete your local copy in a way that the files can’t be recovered.
+If you are working offline and cannot access the cloud service, you can make a temporary local copy. Make sure you update the version stored in the cloud service as soon as possible, and then delete your local copy in a way that the files can’t be recovered.
 
 ### Delete/erase data properly
-When Made Tech data is no longer required it should be securely erased so it cannot be recovered. This must be completed for any data that is personal or sensitive in any other way - such as credentials or contracts.
+When company proprietary data is no longer required it should be securely erased so it cannot be recovered. This must be completed for any data that is personal or sensitive in any other way - such as credentials or contracts.
 
 If the data storage in which the data resides is encrypted, usually destroying the decryption passphrase is sufficient to render the data unreadable.
 
@@ -91,7 +82,7 @@ One technique to prevent malware from spreading through your account into the re
 It is your responsibility to ensure that you or your device does not accidentally or on purpose, introduce a vulnerability into Made Tech environments or services. You could also use a separate user account on your device for development work to help keep your Made Tech work separate from any other work, and personal use, like social media.
 
 ### Remote Access Tools
-Don’t use unattended Remote Access Tools (“RAT”) on devices containing or accessing Made Tech data. RATs can be useful for accessing your device from another location, but could also enable an attacker to do the same.
+Don’t use unattended Remote Access Tools (“RAT”) on devices containing or accessing company proprietary data. RATs can be useful for accessing your device from another location, but could also enable an attacker to do the same.
 
 Unattended Remote Access Tools should not be installed on devices you use for your Made Tech work. Most operating systems come with remote access software, like VNC or SSH. These software items are OK, but should not be used as an inbound ‘service’. Given the nature of these tools and the potential risks they can introduce, we want to conduct a risk assessment of them before their use in Made Tech.
 
