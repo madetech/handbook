@@ -20,11 +20,8 @@ I understand Made Tech issued devices are issued for work purposes and I agree t
 ## Personal Use
 I will exercise good judgement at all times regarding the reasonableness of any personal use
 
-## I will enable  2-factor authentication where this is required
-2-factor authentication (2FA) requires two forms of authentication, often a password and a code, sometimes sent via SMS or an application. It helps protect user accounts in the case that your password is somehow exposed. 
-
-## I will ensure my laptop isn’t left unattended or unlocked
-Lock your screen or put your computer to sleep when you’re not around. Colleagues might not have the same permissions as you and visitors might be wandering around where you’re working. When not in use ‘at work’, you can store in the laptop lockers provided or ‘at home’, in a safe place where it can’t be seen. If you are using your device in a public place, don’t leave it unattended and be wary of those who may be watching over your shoulder. 
+## I will enable  2-factor authentication where this is available
+2-factor authentication (2FA) requires two forms of authentication, often a password and a code, sometimes sent via SMS or an application. It helps protect user accounts in the case that your password is somehow exposed.  
 
 ## I will ensure I report the arrival of guests and visitors promptly
 We keep a record of all visitors to the Made Tech office. All visitors should be logged using the appropriate system and you should alert the member of the team they are here to visit. If someone tries to enter the office and you feel uncomfortable, you are within your rights to challenge their reasons for entry (gently).
@@ -33,7 +30,7 @@ We keep a record of all visitors to the Made Tech office. All visitors should be
 Lots of information can be extracted from stolen or misplaced laptops, even in some cases when the disk has been encrypted. Report a missing machine quickly, better safe than sorry. We use remote device management to remotely wipe data from your device in the event that it is stolen. You should report all stolen items to the IMS Manager or CSO, who will record the incident. 
 
 ## I will backup my work in the right place
-Information saved on a device is at risk of loss or theft and will not be backed up. To protect against theft, laptops are encrypted. Made Tech provides back up facilities within Google (Drive). Each team at Made Tech has their own Team Drive and it is the responsibility of those teams to maintain what is kept in those drives. All data must be copied to these locations to ensure there is no data loss in the event of your laptop becoming unusable.
+Information saved on a device is at risk of loss or theft and will not be backed up. To protect against theft, laptops are encrypted. Made Tech backs up data stored on G-Suite, GitHub, and Slack. Each team at Made Tech has their own Team Drive and it is the responsibility of those teams to maintain what is kept in those drives. All data must be copied to these locations to ensure there is no data loss in the event of your laptop becoming unusable.
 
 ## I follow the guidance around passwords
 Keep passwords secure and do not share accounts with anyone else. You are responsible for the security of your passwords and account.
@@ -45,7 +42,7 @@ The laptop you use for working should not be used by anyone else; for example a 
 Phishing and in particular spear phishing (which targets specific individuals within a specific organisation) is a genuine threat with recorded attacks everyday.
 
 ## I report anything that could be a security incident
- Better safe than sorry. If you experience or see anything suspicious,or anything that you know breaks one of our security policies, report it to either the IMS manager or CSO. As a general rule, if you are not sure whether to report something, report it anyway. We'd always rather know. 
+If you experience or see anything suspicious,or anything that you know breaks one of our security policies, report it to either the IMS manager or CSO. As a general rule, if you are not sure whether to report something, report it anyway. We'd always rather know. 
 
 ## I will manage software responsibly
 Made Tech needs to account for, and report against all its software assets to comply with best industry practice, so you should install any software in accordance with the licensing requirements. You should also not remove any software installed by the Made Tech Internal IT team without first agreeing a case for doing so.
@@ -65,7 +62,7 @@ Use of your company email addresses should be for work-related content only. Do 
 ## I am conscious of my web footprint
 Be aware that your online profiles and activity may link back to Made Tech so be aware of this when you publish anything online
 
-## I am responsible when personal devices on Made Tech networks
+## I am responsible when using personal devices on Made Tech networks
 The Made Tech Staff Wifi may be accessed using personal devices subject to these Rules and the Made Tech BYOD policy.
 If you're using your own device on the Made Tech network, do not use it for anything which is not acceptable at work.
 
