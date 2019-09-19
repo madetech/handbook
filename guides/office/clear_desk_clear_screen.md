@@ -11,13 +11,12 @@ Made Tech operates a Clear Desk/Clear Screen policy. This means that all sensiti
 - Passwords to confidential material should not be left on pieces of paper, sticky notes, or left unattended on a desk
 
 ## Clear Screen:
-- Electronic copies of confidential materials should always be stored in the appropriate Made Tech tool (Google Team Drive, GitHub etc.)
 - If you need to leave your workstation for any reason, you should ensure your screen is locked and not visible
 - If you are using multiple screens, ensure you remain aware of what is displayed on both screens
 - When working outside the Made Tech Office (either from home, onsite with a client, or in a public space) ensure you remain aware of your surroundings and who may be able to view your screen. 
 
 ### Devices:
-- When not in use, turning off your device to ensure disk encryption is enabled is important
+- When not in use, turn off your device to ensure disk encryption is enabled is important
 - USB drives or other mass storage devices should be secured a locked drawer when not in use. Personal data (as defined in the Data Protection Act 2018) must not be stored on such storage devices
 
 ### Other:
