@@ -59,4 +59,4 @@ You should seek advice from LRA before starting any procedure.
 You can find information on how to make a claim on gov.uk: https://www.gov.uk/employment-tribunals
 
 ## Disciplinary Procedure
-While we always prefer to handle minor misdemeanours in an informal – grown up - way, we have a disciplinary procedure in place which will be invoked in the unusual event that a member of staff breaches any of our Company policies or performs (or assists in) an illegal or immoral activity. 
+We always prefer to handle minor misdemeanours in an informal – grown up - way. Where required, we follow the [ACAS CoP](https://www.acas.org.uk/article/2174/Discipline-and-grievance-Acas-Code-of-Practice) for handling disciplinary procedures, which will be invoked in the unusual event that a member of staff breaches any of our Company policies or performs (or assists in) an illegal or immoral activity. 
