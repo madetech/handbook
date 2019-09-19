@@ -21,11 +21,3 @@ Attackers may attempt to gain access to our offices in order to do Made Tech or 
 - Anyone trying to pressure you for information about our building or office
 
 It is always ok to challenge (politely) any request for access from an unknown individual.
-
-## Forced Entry
-It may be that you discover something that leads you to believe someone has tried to force entry to the buildings. This could be:
-- A door left unlocked
-- A door or window left or forced open
-- A smashed window
-
-If you discover evidence of the above, or anything else that makes you feel as though someone has tried to gain access to our office, please report it immediately.
