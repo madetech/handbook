@@ -10,29 +10,19 @@ Strong password and appropriate use of 2FA (two factor authentication) are impor
 ## Password Management
 We use password management for Made Tech services. Individual vaults are managed by the teams who use them, and the password manager is managed by the Operations Team.
 
-Your password to access your password manager should confirm to the password policy. Biometrics is also an acceptable method of accessing the password manager.
+Your password to access your password manager should conform to the password policy. Biometrics is also an acceptable method of accessing the password manager.
 
 ## Password Security
 
-### Obtaining Passwords via Social Engineering
+Cracking passwords or a brute force attack are not the only ways in which individuals with bad intentions can get into the Made Tech systems. Social engineering also makes us vulnerable. Attackers will use techniques to gain your trust, or take advantage of inattention or a desire to be helpful to obtain passwords.
 
-Cracking passwords or a brute force attack are not the only ways in which individuals with bad intentions can get into the Made Tech systems. Social engineering also makes us vulnerable. Attackers will use techniques to gain your trust, or take advantage of inattention or a desire to be helpful to obtain passwords. Keep in mind the following:
+- Be aware of someone using social engineering to gain access to your password / account
+- Do not store passwords on your device outside of an encrypted password manager
+- Do not write passwords down
+- Be sure you're entering your password in to a legitimate website
+- Passwords should generally not be shared. When these is need to share a piece of secure information such as a password do so via 1Password
 
-- Made Tech passwords are shared on a need-to-know basis. All passwords are to be treated as sensitive, internal information belonging to Made Tech
-- Only share Made Tech passwords with persons / systems authorised by the system owner, and only share by secure means
-- Passwords must not be revealed over the phone
-- Do not write passwords down and store them anywhere in the office. 
-- Do not store passwords in a file on a computer system or mobile device (phone, tablet) without encryption.
-- Do not reveal a password on forms
-- Do not hint at the format of a password ("my hometown/first pet's name/etc was...")
-- Be sceptical of unusual requests
-- Be aware of potential phishing attacks
-- Consider who may be shoulder surfing
-- Hover your mouse over links in e-mail to ensure the web address makes sense
-- Verify the identity of a requester before sharing information
-- When in doubt, do not respond!
-
-It's always better to be safe than sorry, so report anything you think is amiss!
+In all cases, report anything you think is amiss!
 
 ### 2FA
-Wherever possible, Made Tech uses 2FA as a means of adding an extra layer of security. Please ensure you are enabling 2FA wherever possible. 
+Wherever possible, Made Tech uses 2FA as a means of adding an extra layer of security. Please ensure you are enabling 2FA where available.
