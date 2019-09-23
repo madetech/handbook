@@ -1,6 +1,6 @@
 # Expenses
 
-We trust the team to be able to expense the things they need to perform their job. We offer a [company credit card](../../benefits/company_credit_card.md) along with the ability to submit expenses you've incurred by spending your own money on something the company should pay for.
+We trust the team to be able to expense the things they need to perform their job. We offer the ability to submit expenses you've incurred by spending your own money on something the company should pay for.
 
 ## What can you expense?
 
