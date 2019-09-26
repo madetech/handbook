@@ -33,7 +33,7 @@ Grievances are concerns, problems or complaints that employees raise with their 
 If a grievance cannot be settled informally, the employee should raise it
 formally with management, using the formal grievance procedure.
 
-- Step 1: Employee should write a letter or email to the directors of Made Tech Limited setting out the details of your grievance and how it might be resolved.
+- Step 1: Employee should write a letter or email to the Head of People setting out the details of your grievance and how it might be resolved.
 - Step 2: Made Tech will then arrange a formal meeting to discuss the issue as soon as possible. The employee has the right to bring a companion* with them. Made Tech may choose to adjourn the meeting to investigate the issue further.
 - Step 3: Made Tech will then decide what action, if any, to take. The decision, and a full explanation of how the decision was reached, will be communicated to the employee, in writing, without unreasonable delay.
 - Step 4: The employee then has the right to appeal any such decision. The appeal will be heard as quickly as possible, and efforts will be made to involve impartial members of staff or staff who have not already been a part of the grievance procedure. The outcome of the appeal will be communicated in writing.
@@ -51,3 +51,6 @@ If you cannot resolve your problem in the workplace, you may have the right to m
 You should seek advice from LRA before starting any procedure.
 
 You can find information on how to make a claim on gov.uk: https://www.gov.uk/employment-tribunals
+
+## Disciplinary Procedure
+We always prefer to handle minor misdemeanours in an informal – grown up - way. Where required, we follow the [ACAS CoP](https://www.acas.org.uk/article/2174/Discipline-and-grievance-Acas-Code-of-Practice) for handling disciplinary procedures, which will be invoked in the unusual event that a member of staff breaches any of our Company policies or performs (or assists in) an illegal or immoral activity. 
