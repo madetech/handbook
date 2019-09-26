@@ -16,7 +16,7 @@ Made Tech operates a Clear Desk/Clear Screen policy. This means that all sensiti
 - When working outside the Made Tech Office (either from home, onsite with a client, or in a public space) ensure you remain aware of your surroundings and who may be able to view your screen. 
 
 ### Devices:
-- When not in use, turn off your device to ensure disk encryption is enabled is important
+- When not in use, turn off your device to ensure disk encryption is enabled.
 - USB drives or other mass storage devices should be secured a locked drawer when not in use. Personal data (as defined in the Data Protection Act 2018) must not be stored on such storage devices
 
 ### Other:
