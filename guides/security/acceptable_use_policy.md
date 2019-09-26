@@ -42,7 +42,7 @@ The laptop you use for working should not be used by anyone else; for example a 
 Phishing and in particular spear phishing (which targets specific individuals within a specific organisation) is a genuine threat with recorded attacks everyday.
 
 ## I report anything that could be a security incident
-If you experience or see anything suspicious,or anything that you know breaks one of our security policies, report it to either the IMS manager or CSO. As a general rule, if you are not sure whether to report something, report it anyway. We'd always rather know. 
+If you experience or see anything suspicious, or anything that you know breaks one of our security policies, report it to either the IMS manager or CSO. As a general rule, if you are not sure whether to report something, report it anyway. We'd always rather know. 
 
 ## I will manage software responsibly
 Made Tech needs to account for, and report against all its software assets to comply with best industry practice, so you should install any software in accordance with the licensing requirements. You should also not remove any software installed by the Made Tech Internal IT team without first agreeing a case for doing so.
