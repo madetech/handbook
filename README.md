@@ -92,10 +92,11 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 #### Security
 
-* [Acceptable Usage Policy](guides/security/acceptable_usage_policy.md)
+* [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
 * [BYOD Policy](guides/security/bring_your_own_device.md)
-* [Laptop & Phone Security](guides/security/protect_the_company.md)
 * [Device profiles](guides/security/device_profiles.md)
 * [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
+* [Office Visitors](guides/security/office_visitors.md)
+* [Password Policy](guides/security/password_policy.md)
