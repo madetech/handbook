@@ -1,6 +1,6 @@
 # Guidance for Security Cleared Staff
 
-In this section we have provided some additional information for team members who are undertaking, or intend to undertake the higher level background checks for security clearance. This is to ensure alignement with our other ISO 27001 documentation.
+In this section we have provided some additional information for team members who are undertaking, or intend to undertake the higher level background checks for security clearance.
 
 ## Security Clearance Guidance
 
