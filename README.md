@@ -92,6 +92,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 #### Security
 
+* [The Security Team and how to report an incident](guides/security/security_team_and_reporting.md)
 * [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
 * [BYOD Policy](guides/security/bring_your_own_device.md)
 * [Device profiles](guides/security/device_profiles.md)
@@ -100,3 +101,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
 * [Password Policy](guides/security/password_policy.md)
+* [Confidentiality Agreements](guides/security/confidentiality_agreements.md)
+* [Security Clearance Guidance](guides/security/security_clearance_guidance.md)
+* [Access Control](guides/security/access_control.md)
+* [Data Protection](guides/security/data_protection.md)
