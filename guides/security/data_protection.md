@@ -20,8 +20,8 @@ For any request relating to data access or data deletion, we must comply with th
  - Request information on the types of data in question (e.g. type and timeframe of data in question) and the relationship of the individual with Made Tech (e.g. customer or supplier).
  - Inform the COO of the request with the above information immediately. 
  - The COO will process the request accordingly and respond to the data subject in line with the legislation. They may ask for input and/or provision of data from other teams to comply with the request. 
- 
- ## Requests to be forgotten
+
+## Requests to be forgotten
 In cases of requests to be forgotten, we must comply with the following process:
  - Acknowledge the data subject’s request.
  - Ask for two proofs of identification to ensure the individual is the data subject.
