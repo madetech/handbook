@@ -11,5 +11,5 @@ Certain changes in personal circumstances require you to notify the government. 
  
 In these circumstances, you must inform the Head of People who will assist you to notify the relevant authority.
 
-### Personal conduct 
+### Personal Conduct 
 You must never place yourself in a situation, in the UK or overseas, where you could be open to compromise.
