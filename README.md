@@ -92,7 +92,8 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 #### Security
 
-* [The Security Team and how to report an incident](guides/security/security_team_and_reporting.md)
+* [The Security Team](guides/security/security_team.md)
+* [How To Report An Event Or Incident](guides/security/reporting_an_incident.md)
 * [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
 * [BYOD Policy](guides/security/bring_your_own_device.md)
 * [Device profiles](guides/security/device_profiles.md)
