@@ -1,4 +1,4 @@
-# The Security Team and reporting incidents
+# The Security Team
 
 ## Who is responsible for Security at Made Tech?
 
