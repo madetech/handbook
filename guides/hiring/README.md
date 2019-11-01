@@ -36,7 +36,7 @@ We then need to screen the candidate in order to determine what role they are a 
 We use the following steps in order to determine a role for the candidate:
 
  - Review application (CV, GitHub, LinkedIn, covering letter)
- - 20 minute phone conversation
+ - 30 minute phone conversation
  - Remote test
 
 #### Review application
@@ -45,7 +45,7 @@ We first review a candidates application to ensure the later steps are worth our
 
 > Does their application contain experience to indicate that they may be able to meet our expectations of one or more roles?
 
-#### 20 minute phone conversation
+#### 30 minute phone conversation
 
 We then start a phone call with the candidate to give a brief overview of Made and what we stand for. This is an important chance to sell our vision to the candidate. We also describe the role(s) we think they are a good fit for, followed by some questions used for screening:
 
