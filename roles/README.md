@@ -44,10 +44,21 @@ looking for more responsibilities.
   </tr>
  </table>
 
+### Delivery
+
+- [Delivery Manager](delivery_manager.md)
+- [Head of Delivery](head_of_delivery.md)
+
 ### Sales and Marketing
 
 - [Marketing Executive](marketing_executive.md)
 - [Business Development Representative](business_development_representative.md)
+
+### Operations and Finance
+
+- [Operations Coordinator](operations_coordinator.md)
+- [Operations Manager](operations_manager.md)
+- [Financial Controller](financial_controller.md)
 
 ## Defining roles
 
