@@ -2,9 +2,6 @@
 
 We use 3rd party services/SaaS subscriptions accross both delivery teams and in the wider business. The services we use range from monitoring sytems for customers to trello plugins to improve roadmapping.
 
-These 3rd party services sometimes involve paying on a company credit card or storing company or customer data. 
-In an effort to ensure we are storing this information responsibly, if you wish to use a 3rd party service for any reason, you will need to submit a [**3rd Party Services** form](https://docs.google.com/forms/d/e/1FAIpQLSeAysZFwhSDHzYrrKr_2T3KzRhCwZ3klRiBylM6KETeSxY8NA/viewform?usp=sf_link)
-
 ## Why we track this information
 
 There are a number of reasons why as a business need to formalise how we track this data.
