@@ -1,4 +1,4 @@
-# Senior Engineer
+# Senior Software Engineer 1
 
 Our Senior Engineers combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
 
@@ -131,7 +131,7 @@ We expect our Engineers to be able to work on entire features, from conception t
 
 
 
-### To be aware of political landscapes within client organisations and to be considerate of it. 
+### To be aware of political landscapes within client organisations and to be considerate of it.
 
 
 
@@ -151,7 +151,7 @@ We expect our engineering team to be friendly and lovely people to pair with. Al
 
 We expect our engineering team to keep their customers up to date with progress. Customers should be invited to standups or at appropriate points in time. A customer should never have to chase us for an update.
 
-### To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language 
+### To be productive, in at least one programming language including a range of different tools that achieve the same goal in that language
 
 We expect our engineering team to understand that there are multiple tools available to achieve the same task at hand, and to explore these options in at least one language.
 
