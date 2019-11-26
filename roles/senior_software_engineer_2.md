@@ -2,57 +2,67 @@
 
 (Often advertised as Lead Software Engineer.)
 
-Our Lead Engineers turn our customer’s needs into roadmaps, coach teams to deliver, are cutting the best code of their career, still learn every day, and constantly strive to be nice humans.
+Our Senior Engineer 2s turn our customer’s needs into roadmaps, coach teams to deliver, are cutting the best code of their career, still learn every day, and constantly strive to be nice humans.
 
 ## What does the job entail?
 
 We primarily write and deliver custom software to our customers. Before a project kicks off we will have a number of sessions where we begin to understand the customer’s business and what they are looking to achieve. We then formulate a roadmap for them, potentially a business case too, before starting delivery.
 
-We build solutions in a variety of languages and platforms, historically Ruby on Rails, we tend to use React, JavaScript, Elixir, and Clojure these days. We will usually be responsible for setting up a customer’s infrastructure on AWS with tools like Ansible and Terraform though sometimes we opt for a Platform as a Service like Heroku. We make sure there is a Continuous Delivery pipeline running our automated test suites before deploying changes.
+We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
 
-The software we build solves business problems. We’ve built software for karaoke, e-commerce, retail buying departments, accountants, photography studios, warehouses, supply chain companies, and ourselves. Typical projects will last 3-6 months, some customers work with us over longer periods but we like to mix up teams at around 6 months to keep things fresh.
+Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release. Also, we will usually be responsible for setting up a customer’s infrastructure too! Such as on AWS, GCP or Azure using a tool like Terraform, though sometimes we opt for a Platform as a Service like Heroku.
+
+We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. To create this environment our Senior Engineers need to embrace sharing their knowledge and skills with others, and they need to keep an open mind – we’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
 
 ## What experience are we looking for?
 
-We’ll expect you to be a polyglot programmer versed in a mix of object and functional programming languages. We’d expect you to have some blog posts about your discipline, perhaps even a talk or two. Not only this but the right person would be adept in sharing their knowledge with others – we’d love to hear some examples of coaching and growing team members.
-
-Every engineer at Made Tech is taught commercial responsibility and ownership over their software but it is expected to be second nature for this role.
-
-Further required experience:
-
-- Working directly with customers
-- Writing code with Test Driven Development
-- Pair programming as we pair around 50% of the time
+- Working directly with customers and users
+- Working within multidisciplinary teams with product, design, and technology working within the same cycles
 - Agile practices such as Scrum, XP, and/or Kanban
-- Working with a range of SQL and NoSQL databases
-- Infrastructure as code tools such as Ansible, Chef, Puppet, and/or Saltstack
-- Debugging a range of applications
-- Experience debugging infrastructure (AWS/Heroku/Linux/HTTP)
-- Strong delivery skills: a huge drive to get something shipped
+- Showcasing and presentation skills
+- Written code with test-driven development
+- Worked with many programming languages
+- Worked with many databases
+- Worked with APIs
+- Experience in influencing architecture and teams
+- Debugging experience in a range of systems
+- Evidence of self-development – we value keen learners
+- Drive to deliver outcomes for users
+- Desire to mentor others
+- Empathy and people skills
 
-Everything else is optional but highly sought after. We would love you to have experience in:
+## Optional experience
 
-- Writing code with Acceptance Test Driven Development
-- Component based design techniques such as using pattern libraries, styled components, CSS-in-JS, BEM, and/or SUIT CSS
-- The React ecosystem including a TDD approach
+Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
-## What is it like to work at Made Tech?
+- Consultancy
+- Pair programming – we pair around 50% of the time
+- Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
+- Debugging infrastructure (AWS/Heroku/Linux/HTTP, GCP and Azure)
+- The React ecosystem including a test-driven approach
+- Infrastructure as code tools such as Ansible, Chef, Puppet, Terraform and/or Saltstack
+- Use of architectural decision records
+- Writing blog posts and giving talks
 
-We are a sanctuary for those wanting to hone their skills alongside like-minded learners. After joining our team it is common for new starters to comment on how much they’re learning and how much they enjoy the fact they are surrounded by people they can learn from. This includes our most senior hires.
+## What we will provide you
 
-The biggest thing you’ll take away from our culture after spending the day with us would be that we practice continuous improvement at every level. Everyone has peer-based one-to-ones every 2 weeks, along with monthly one-to-ones with a director. Teams have fortnightly retrospectives. We also hold a company wide retrospective fortnightly. We discuss our problems out in the open, and rather than punish failure we band together to find solutions.
-
-Other notable things:
-
-- Every Friday afternoon is dedicated to learning new skills
-- Everyone is encouraged to write blog posts regularly
-- Our handbook is open sourced
-- We are vegan and non-drinker friendly as well as meat-eater and drinker friendly
-- Retreats and trips every year
+- Time to learn every Friday afternoon
+- Space to write blog posts regularly
+- Contribute to our culture and shape the way we work – even our handbook is open-sourced on Github
+- Regular lunch and socials with colleagues – we are vegan, halal, and non-drinker friendly, as well as meat-eater and drinker friendly
+- Retreats and trips with your colleagues every year
+- Paid holidays for your third and fifth anniversary working for us
+- Flexible holiday, working hours, and part-time
+- Generous parental leave and support
+- Season ticket loan
+- Cycle to work scheme, a place to secure your bike and a shower
+- Contributory pension scheme
+- Conference tickets and training
+- Volunteering time to help others get into the technology industry
 
 ## Salary
 
-This role has a salary of £65-85k depending on experience.
+This role has a salary of £75-100k depending on experience.
 
 
 ## Expectations
