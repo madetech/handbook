@@ -1,5 +1,0 @@
-# Building role markdown
-
-```
-make
-```
