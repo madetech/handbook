@@ -10,7 +10,7 @@ Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C
 
 ## What experience are we looking for?
 
-All of our Software Engineers are trained first as an [Academy Engineer](academy_engineer.md) within our 12 week Academy programme. We don't currently hire people into this role without them first going through our Academy.
+All of our Software Engineers are trained first as an [Academy Software Engineer](academy_software_engineer.md) within our 12 week Academy programme. We don't currently hire people into this role without them first going through our Academy.
 
 ## What we will provide you
 
