@@ -1,6 +1,14 @@
-# Academy Engineer
+# Academy Software Engineer
 
-Our software delivery teams are the core of our business. They are usually comprised of a Lead Engineer, a Delivery Manager and one or more Engineers. As an Academy Engineer we expect someone:
+Being a software engineer at Made Tech is a great opportunity to surround yourself with people who care about the software they develop. Our 12 week Academy program gives you the skills you need to join one of our project delivery teams.
+
+## Who is it for?
+
+It's likely you will have already developed a love for programming, and you'll be convinced that a career in software development is where you want to go.
+
+You may have taught yourself to code, been on a course or two, or have a degree in Computer Science. You can stitch some code together, but probably have no commercial experience.
+
+[Find out more about our Academy programme.](https://www.madetech.com/careers/academy)
 
 ## Expectations
 
@@ -78,7 +86,7 @@ We expect our engineering team to own the whole process of getting working softw
 
 ### To be producing sensible lightweight release plans with an aim to get the thinnest slice possible in the hands of real users as quickly as possible, involving the team and stakeholders where appropriate.
 
-We expect our engineering team to actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
+We expect our engineering team to be actively form sensible strategies to get thin slices released to real users, and to have alignment on this strategy with the customer and with the team.
 
 ### To be able to turn user needs into actionable technical tasks that can be delivered incrementally
 

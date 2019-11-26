@@ -9,13 +9,13 @@ looking for more responsibilities.
 
 ### Technology
 
-Engineering roles:
-
- - [Academy Software Engineer](academy_engineer.md)
- - [Software Engineer 1](engineer.md)
+ - [Academy Software Engineer](academy_software_engineer.md)
+ - [Software Engineer 1](software_engineer_1.md)
  - Software Engineer 2
- - [Senior Software Engineer 1](senior_engineer.md)
- - Senior Software Engineer 2 (previously [Lead Software Engineer](lead_engineer.md))
+ - [Senior Software Engineer 1](senior_software_engineer_1.md)
+ - [Senior Software Engineer 2](senior_software_engineer_2.md) – often advertised as Lead Software Engineer
+
+You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by appropriate Senior 1 and 2s.
 
 ### Delivery
 
