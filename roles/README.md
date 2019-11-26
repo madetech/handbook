@@ -9,40 +9,13 @@ looking for more responsibilities.
 
 ### Technology
 
-<table>
-  <tr align="center">
-    <th colspan="2">Engineering Roles</th>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <a href="academy_engineer.md">Academy Software Engineer</a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="engineer.md">Software Engineer</a>
-    </td>
-    <td>
-      <a href="reliability_engineer.md">Reliability Engineer</a>
-    </a>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="senior_engineer.md">Senior Software Engineer</a>
-    </td>
-    <td>
-      <a href="senior_reliability_engineer.md">Senior Reliability Engineer</a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="lead_engineer.md">Lead Software Engineer</a>
-    </td>
-    <td>
-      &nbsp;
-    </td>
-  </tr>
- </table>
+Engineering roles:
+
+ - [Academy Software Engineer](academy_engineer.md)
+ - [Software Engineer 1](engineer.md)
+ - Software Engineer 2
+ - [Senior Software Engineer 1](senior_engineer.md)
+ - Senior Software Engineer 2 (previously [Lead Software Engineer](lead_engineer.md))
 
 ### Delivery
 
