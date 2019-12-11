@@ -18,7 +18,7 @@ Over the next few days and weeks we'll introduce:
 
 ## Getting Started Checklist
 
-Our on-boarding checklis is hosted on airtable. You will receive a link to your personal checklist on your first day. Below are a few things this will cover.
+Our on-boarding checklist is hosted on airtable. You will receive a link to your personal checklist on your first day. Below are a few things this will cover.
 
 #### Everyone
 
