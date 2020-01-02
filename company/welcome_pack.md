@@ -33,7 +33,7 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 * [ ] Understand where office supplies can be found
 * [ ] Understand how weekly shop works and how to ask for office supplies
 * [ ] Office keys (if applicable)
-* [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_use_policy.md) & [BYOD Policy](../guides/security/bring_your_own_device.md)
+* [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Use Policy](../guides/security/acceptable_use_policy.md) & [Bring Your Own Device Policy](../guides/security/bring_your_own_device.md)
 * [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
 * [ ] Get added to team@madetech.com mailing list
 * [ ] Set up Slack account with picture, name(s), name pronunciation guide and [pronouns](https://www.mypronouns.org/)
