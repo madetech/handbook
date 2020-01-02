@@ -33,7 +33,7 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 * [ ] Understand where office supplies can be found
 * [ ] Understand how weekly shop works and how to ask for office supplies
 * [ ] Office keys (if applicable)
-* [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_usage_policy.md) & [BYOD Policy](../guides/security/byod.md)
+* [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Usage Policy](../guides/security/acceptable_use_policy.md) & [BYOD Policy](../guides/security/bring_your_own_device.md)
 * [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
 * [ ] Get added to team@madetech.com mailing list
 * [ ] Enrollment to Baseline Personnel Security Standard (BPSS)
@@ -78,7 +78,7 @@ Academy Engineers: you can skip these two for now, but you will probably need th
 
 #### Academy Engineers
 
-There will be a scheduled [workshop](https://github.com/madetech/learn/tree/master/workshops/00-Setup-Workshop) that will get your machine setup for development.
+There will be a scheduled [workshop](https://github.com/madetech/learn/tree/master/guides/00-Setup) that will get your machine setup for development.
 
 #### Engineers
 
