@@ -12,7 +12,9 @@ We primarily write and deliver custom software for the public sector. We work ac
 
 High performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
 
-We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogther. Right tool for the job.
+We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS.
+
+We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogther. Right tool for the job.
 
 For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other peoples work into production. You'll empower teams with the mantra: you build it, you run it!
 
@@ -40,6 +42,8 @@ While we will look for you to have experience in these things, if you don’t ha
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
+- AWS DevOps Professional Qualification
+- Experience using a wide-breadth of AWS services including EC2, Lambda, ECS, EKS, API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, etc.
 - Consultancy
 - Working directly with customers and users
 - Working within multidisciplinary teams with product, design, and technology working within the same cycles
@@ -48,9 +52,9 @@ Don’t forget to mention any of the experience listed below. While it’s optio
 - Pair programming – we pair around 50% of the time
 - Writing code with test-driven development
 - Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
-- Debugging infrastructure (AWS/Heroku/Linux/HTTP, GCP and Azure)
+- Debugging infrastructure
 - The React ecosystem including a test-driven approach
-- Infrastructure as code tools such as Ansible, Chef, Puppet, Terraform and/or Saltstack
+- Infrastructure as code technology like Terraform and Cloud Formation
 - Familiarity with architectural and design patterns
 - Use of architectural decision records
 - Writing blog posts and giving talks
