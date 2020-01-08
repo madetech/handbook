@@ -16,6 +16,8 @@ We grow a team of polyglot programmers, which you might already consider yoursel
 
 ## What experience are we looking for?
 
+While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
+
 - Working directly with customers and users
 - Working within multidisciplinary teams with product, design, and technology working within the same cycles
 - Agile practices such as Scrum, XP, and/or Kanban
