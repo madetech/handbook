@@ -1,6 +1,6 @@
 # Senior Software Engineer 2
 
-(Often advertised as Lead Software Engineer.)
+Manchester & London, UK. Often advertised as Lead Software Engineer.
 
 Our Senior Engineer 2s turn our customer’s needs into roadmaps, coach teams to deliver, are cutting the best code of their career, still learn every day, and constantly strive to be nice humans.
 

@@ -1,5 +1,7 @@
 # Senior Software Engineer 1
 
+Manchester & London, UK.
+
 Our Senior Engineers combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
 
 ## What does the job entail?
