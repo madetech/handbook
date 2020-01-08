@@ -38,9 +38,9 @@ Don’t forget to mention any of the experience listed below. While it’s optio
 - Consultancy
 - Pair programming – we pair around 50% of the time
 - Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
-- Debugging infrastructure (AWS/Heroku/Linux/HTTP, GCP and Azure)
+- Debugging infrastructure
 - The React ecosystem including a test-driven approach
-- Infrastructure as code tools such as Ansible, Chef, Puppet, Terraform and/or Saltstack
+- Infrastructure as code technology like Terraform and Cloud Formation
 - Use of architectural decision records
 - Writing blog posts and giving talks
 
