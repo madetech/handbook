@@ -8,7 +8,15 @@ Our Senior Engineers combine technical excellence, drive to deliver, and coachin
 
 We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
 
-Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release. Also, we will usually be responsible for setting up a customer’s infrastructure too! Such as on AWS, GCP or Azure using a tool like Terraform, though sometimes we opt for a Platform as a Service like Heroku.
+Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release many times per day.
+
+High performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
+
+We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS.
+
+We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogether. Right tool for the job.
+
+For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other peoples work into production. You'll empower teams with the mantra: you build it, you run it!
 
 We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. To create this environment our Senior Engineers need to embrace sharing their knowledge and skills with others, and they need to keep an open mind – we’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
 
