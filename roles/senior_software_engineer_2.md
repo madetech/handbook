@@ -1,14 +1,16 @@
 # Senior Software Engineer 2
 
-Manchester & London, UK. Often advertised as Lead Software Engineer.
+(Often advertised as Lead Software Engineer.)
 
-Our Senior Engineer 2s turn our customer’s needs into roadmaps, coach teams to deliver, are cutting the best code of their career, still learn every day, and constantly strive to be nice humans.
+Our Senior Engineer 2s are Tech Leads, Architects, Thought Leaders, Full Stack Engineers, and Consultants. They are our most senior technologist within a customer account representing Made Tech and act as a hands-on CTO across one or more software delivery teams. They combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
 
 ## What does the job entail?
 
-We primarily write and deliver custom software to our customers. Before a project kicks off we will have a number of sessions where we begin to understand the customer’s business and what they are looking to achieve. We then formulate a roadmap for them, potentially a business case too, before starting delivery.
-
 We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
+
+Depending on our customers' needs our Senior 2s may play one or more role. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect advising teams and ensuring consistency across multiple deliveries. Further still you may play a strong part in account management and hold relationships with our customers senior staff as a technical adviser.
+
+We need flexible individuals who enjoy a varied workload and want to switch between being more and less hands-on. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
 
 Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release many times per day.
 
