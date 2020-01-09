@@ -8,7 +8,7 @@ Our Senior Engineer 2s are Tech Leads, Architects, Thought Leaders, Full Stack E
 
 We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
 
-Depending on our customers' needs our Senior 2s may play one or more role. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect advising teams and ensuring consistency across multiple deliveries. Further still you may play a strong part in account management and hold relationships with our customers senior staff as a technical adviser.
+Depending on our customers' needs our Senior 2s may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect advising teams and ensuring consistency across multiple deliveries. Further still you may play a strong part in account management and hold relationships with our customers senior staff as a technical adviser.
 
 We need flexible individuals who enjoy a varied workload and want to switch between being more and less hands-on. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
 
