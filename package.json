@@ -1,0 +1,24 @@
+{
+  "name": "@madetech/handbook",
+  "version": "1.0.0",
+  "description": "Made Tech Company Handbook",
+  "scripts": {
+    "test": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetech/handbook.git"
+  },
+  "author": "Made Tech <hello@madetech.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/madetech/handbook/issues"
+  },
+  "homepage": "https://github.com/madetech/handbook#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "glob": "^7.1.6",
+    "markdown-link-check": "^3.8.0"
+  }
+}
