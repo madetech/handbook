@@ -26,7 +26,7 @@ There are two elements to retrospectives:
 Retrospectives should occur at least once every two weeks and should normally take 30-60 minutes but can be flexible depending on team size; for instance Academy Retrospectives have a 90 minute timebox.
 Comradrospectives are scheduled every 2 weeks on Friday for 60 minutes.
 
-### Purpose 
+### Purpose
 
 The purpose of retrospectives is to:
 
@@ -49,7 +49,7 @@ Remember that action points are only potential solutions to a problem. In order 
 
 Sometimes it is not immediately obvious how to solve a problem that the team is collectively facing. In these situations it may be wise to have the team attempt to resolve a particularly pressing pain point during normal working time.
 
-Similar to action points, it’s important that the team is able to measure and sense check whether it has made progress towards some goal. 
+Similar to action points, it’s important that the team is able to measure and sense check whether it has made progress towards some goal.
 
 Make sure the team has awareness on what the outcome of potential solutions would look like.
 
@@ -93,7 +93,7 @@ If the safety level has increased after this point, then you can run the retrosp
 
 Six Thinking Hats is a good discipline for everybody to get the most out of your retrospective experience.
 
-Ensuring that everyone in the retrospective only focusses on one hat at a time, can keep the discussions aligned towards a common direction. 
+Ensuring that everyone in the retrospective only focusses on one hat at a time, can keep the discussions aligned towards a common direction.
 
 A common order to move through the hats is:
 
@@ -134,7 +134,7 @@ The comradrospective facilitator should rotate so that everyone performs it.
 
 ### Notes
 
-The format is expected to be evolutionary, this document serves as it’s living documentation. 
+The format is expected to be evolutionary, this document serves as it’s living documentation.
 
-* Some further reading is available on the [Retrospectives Wiki](http://retrospectivewiki.org/)
+* Some further reading is available on the [Retrospectives Wiki](/index.php?title=Agile_Retrospective_Resource_Wiki)
 * Some common [retrospective ailments & cures](https://retrospectivewiki.org/index.php?title=Common_ailments_%26_cures)
