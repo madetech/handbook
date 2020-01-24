@@ -34,7 +34,7 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 * [ ] Understand how weekly shop works and how to ask for office supplies
 * [ ] Office keys (if applicable)
 * [ ] Read the [Security Policy](../guides/security/security_policy.md), [Acceptable Use Policy](../guides/security/acceptable_use_policy.md) & [Bring Your Own Device Policy](../guides/security/bring_your_own_device.md)
-* [ ] Ensure devices used for [work are secure](../guides/security/protect_the_company.md)
+* [ ] Ensure your own devices used for [work are secure](../guides/security/bring_your_own_device.md)
 * [ ] Get added to team@madetech.com mailing list
 * [ ] Set up Slack account with picture, name(s), name pronunciation guide and [pronouns](https://www.mypronouns.org/)
 * [ ] Enrollment to Baseline Personnel Security Standard (BPSS)
@@ -67,9 +67,7 @@ Academy Engineers: you can skip these two for now, but you will probably need th
 #### Sales & Marketing
 
 * [ ] HubSpot
-* [ ] Access to [Sales Handbook](https://github.com/madetech/sales-handbook)
 * [ ] Access to [LinkedIn Sales Navigator](https://www.linkedin.com/sales/)
-* [ ] Trello Sales Boards e.g. [Sales 2018](https://trello.com/b/r2JnD6Nm/sales-2018)
 
 #### Engineers
 
