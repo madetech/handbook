@@ -10,7 +10,7 @@ We primarily write and deliver custom software for the public sector. We work ac
 
 Depending on our customers' needs our Senior 2s may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect advising teams and ensuring consistency across multiple deliveries. Further still you may play a strong part in account management and hold relationships with our customers senior staff as a technical adviser.
 
-We need flexible individuals who enjoy a varied workload and want to switch between being more and less hands-on. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
+We need flexible individuals who enjoy a varied workload, are happy to switch between being more and less hands-on, but don't see themselves stepping away from code any time soon. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
 
 Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release many times per day.
 
