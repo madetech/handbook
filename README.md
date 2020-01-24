@@ -68,10 +68,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 #### Team
 
 * [Team Norms](team-norms)
-* [SRE Team Field Guide](https://github.com/madetech/SRE-team-field-guide)
-* [Sales Handbook](https://github.com/madetech/sales-handbook)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
-* [Blogging at Made Tech](https://github.com/madetech/blog)
 * [3rd Party Expenses](guides/3rd_party_services.md)
 * [VPN](guides/vpn)
 * [WiFi](guides/wifi)
@@ -95,7 +92,6 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
 * [BYOD Policy](guides/security/bring_your_own_device.md)
 * [Device profiles](guides/security/device_profiles.md)
-* [Server Security](guides/security/server_setup_guidelines.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
