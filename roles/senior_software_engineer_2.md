@@ -2,7 +2,7 @@
 
 (Often advertised as Lead Software Engineer.)
 
-Our Senior Engineer 2s are Tech Leads, Architects, Thought Leaders, Full Stack Engineers, and Consultants. They are our most senior technologist within a customer account representing Made Tech and act as a hands-on CTO across one or more software delivery teams. They combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
+Our Senior Engineer 2s are Tech Leads, Architects, Thought Leaders, Full Stack Engineers, and Consultants. They are our most senior technologist within a customer account representing Made Tech and act as a hands-on CTO across one or more software delivery teams driving organisational change and outcomes for users. They combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
 
 ## What does the job entail?
 
