@@ -52,6 +52,7 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 * [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary at Made Tech by sending you off on a paid break
 * [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
+* [Expenses Paid](guides/compensation/expenses.md) – Out of pocket expenses while at work? Want to take a customer to lunch? Expenses are no hassle!
 
 ### Welfare
 
