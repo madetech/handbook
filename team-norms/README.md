@@ -14,10 +14,6 @@ Our expected reporting standards for delivery teams.
 
 Our accepted development standards.
 
-## [Continuous Feedback](continuous_feedback.md)
-
-Our way of soliciting feedback from and with our peers.
-
 ## [Retrospectives and Comradrospectives](retrospectives.md)
 
 Our methods of running team-wide and company-wide retrospectives.
