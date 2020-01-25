@@ -12,10 +12,6 @@ Regularly validate your delivery against our [Delivery Standards](delivery_stand
 
 Engineers should commit frequently (5, 10, 15+ times per day) using short-lived branches that are merged back in to master via PR the same day. Commit messages should be well [structured and descriptive](https://github.com/erlang/otp/wiki/writing-good-commit-messages).
 
-## Practice Test-Driven Development
-
-Ensure you practice our accepted [Test-Driven Development norms](tdd.md).
-
 ## Bring the pain forward
 
 Tackle the hardest and most uncertain things in an iteration first. Use [spikes](https://en.wikipedia.org/wiki/Spike_(software_development)) where appropriate.
@@ -42,5 +38,3 @@ Be sure to communicate effectively. Asking too many questions is much preferred 
 ADR's are a formal way of documenting the decision-making process. (ADR stands for Architecture Decision Record)
 
 For a full write up see [Michael Nygard's blog post on the topic](https://web.archive.org/web/20190430063238/http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
-
-Software design choices should be recorded using ADR's in our Architecture decision [git repository.](https://github.com/madetech/architecture-decision-log) 

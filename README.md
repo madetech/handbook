@@ -75,7 +75,6 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 #### People
 
-* [Our Hiring Process](guides/hiring/README.md)
 * [Salary & Pay Slips](guides/compensation/salary_pay_slips.md)
 * [Salary Reviews](guides/compensation/salary_reviews.md)
 * [Expenses](guides/compensation/expenses.md)
