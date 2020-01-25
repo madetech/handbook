@@ -54,6 +54,7 @@ Balancing life and work:
 Making work as fabulous as possible:
 
 * [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
+* [Learn Tech](learning/readme.md) – We spend every Friday afternoon learning rather than working
 * [Friday Lunches](benefits/friday_lunch.md) – We send a random 8 of our team out to lunch every Friday so everyone can get to know each other
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 
