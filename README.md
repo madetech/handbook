@@ -49,13 +49,13 @@ Balancing life and work:
 * [Flexible Parental Leave](guides/welfare/parental_leave.md) – We provide flexible parental leave options
 * [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff
 * [Paid counselling](guides/welfare/employee_assistance.md) – We offer paid counselling as well as financial and legal advice
-* [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary at Made Tech by buying you and your a holiday
+* [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary at Made Tech by buying your family a holiday
 
 Making work as fabulous as possible:
 
-* [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
+* [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
 * [Learn Tech](learning/readme.md) – We spend every Friday afternoon learning rather than working
-* [Friday Lunches](benefits/friday_lunch.md) – We send a random 8 of our team out to lunch every Friday so everyone can get to know each other
+* [Friday Lunches](benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 
 Compensating you fairly:
