@@ -50,14 +50,20 @@ Balancing life and work:
 * [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff
 * [Paid counselling](guides/welfare/employee_assistance.md) – We offer paid counselling as well as financial and legal advice
 * [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary at Made Tech by buying you and your a holiday
-* [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
+
+Making work as fabulous as possible:
+
+* [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
 * [Friday Lunches](benefits/friday_lunch.md) – We send a random 8 of our team out to lunch every Friday so everyone can get to know each other
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
+
+Compensating you fairly:
+
 * [Transparent Salary Bands](roles/README.md) – We publish salary bands so you know you're being fairly compensated
 * [Annual Salary Reviews](guides/compensation/salary_reviews.md) – We review your salary on an annual basis
+* [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
 * [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
 * [Expenses Paid](guides/compensation/expenses.md) – Out of pocket expenses while at work? Want to take a customer to lunch? Expenses are no hassle!
 
 ### Welfare
