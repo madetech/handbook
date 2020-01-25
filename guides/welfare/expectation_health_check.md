@@ -12,11 +12,11 @@ Before a health check is requested, we recommend issues are raised as informally
 
 The first thing you can do, if you feel comfortable and able, is raise the issue directly with the person involved. This type of direct and informal approach is encouraged and we expect your colleagues who are approached responsibly to respond in a similar manner. By vocally mentioning that an expectation is not being met or that performance is less than expected, the member of staff can reflect and work to improve the situation, seeking help where necessary.
 
-### Before a health check raise feedback via Continuous Feedback
+### Before a health check raise feedback via line manager 121
 
-If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next [continuous feedback](../../team-norms/continuous_feedback.md) session by raising the feedback through that process.
+If you feel unable to have a conversation directly with the person involved, and they are a member of staff at Made Tech then you can encourage them to discuss the issue in their next line manager 121 session by raising the feedback through that process.
 
-Continuous feedback is not anonymous but can add a layer of indirection and ensure that the issue is discussed with another member of the team. We hope this will trigger conversations amongst those in the session and we would expect proactive action to happen off the back of that session.
+Feedback provided this way is not anonymous but can add a layer of indirection and ensure that the issue is discussed with another member of the team. We hope this will trigger conversations amongst those in the session and we would expect proactive action to happen off the back of that session.
 
 ### Before a health check ask a colleague to intervene on your behalf
 

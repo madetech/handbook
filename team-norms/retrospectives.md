@@ -136,5 +136,5 @@ The comradrospective facilitator should rotate so that everyone performs it.
 
 The format is expected to be evolutionary, this document serves as it’s living documentation.
 
-* Some further reading is available on the [Retrospectives Wiki](/index.php?title=Agile_Retrospective_Resource_Wiki)
+* Some further reading is available on the [Retrospectives Wiki](https://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
 * Some common [retrospective ailments & cures](https://retrospectivewiki.org/index.php?title=Common_ailments_%26_cures)
