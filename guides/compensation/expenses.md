@@ -25,12 +25,6 @@ The second is paying for an item yourself and then expensing that payment via th
 
 Importantly, all receipts for both company credit card and personal expenses need to be VAT receipts for tax reasons.
 
-### Using the company credit card
-
-If you already have a [company credit card](../../benefits/company_credit_card.md) you can use it in order to purchase items listed above with it.
-
-You need to send any VAT receipts for items purchased with the company credit card to [card-receipts@madetech.com](mailto:card-receipts@madetech.com).
-
 ### Expensing payments you personally paid for
 
 If you have purchased an item with your own money that is listed above, you can submit this expense and you will be compensated via bank transfer when expenses are processed.
