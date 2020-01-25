@@ -53,6 +53,8 @@ Balancing life and work:
 * [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
 * [Friday Lunches](benefits/friday_lunch.md) – We send a random 8 of our team out to lunch every Friday so everyone can get to know each other
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
+* [Transparent Salary Bands](roles/README.md) – We publish salary bands so you know you're being fairly compensated
+* [Annual Salary Reviews](guides/compensation/salary_reviews.md) – We review your salary on an annual basis
 * [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training and anything else you need to be successful
