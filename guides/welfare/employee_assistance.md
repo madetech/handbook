@@ -14,7 +14,7 @@ We have setup an employee assistance programme to provide our team self-service 
 
 ## Getting assistance
 
-- **Online:** You can visit http://employeeassistance.org.uk to access help via the website. You'll find the password for access in LastPass.
+- **Online:** You can visit http://employeeassistance.org.uk to access help via the website. You'll find the password for access in our password manager.
 - **By phone:** You can call the 24/7 help line on 0800 328 1437
 
 ## Confidentiality
