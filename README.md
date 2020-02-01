@@ -8,9 +8,7 @@ This handbook should be the starting point for any new team members. It provides
 
 We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not :)
 
-### Using the Github user interface
-
-Contributing to the handbook isn't only possible for `git` users, find steps to [create pages through the Github user interface here](guides/contributing_to_the_handbook.md).
+For more information on contributing, including how to as a non-technical user, read our [CONTRIBUTING.md](guides/contributing_to_the_handbook.md).
 
 ## Table of contents
 
