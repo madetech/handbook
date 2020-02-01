@@ -2,9 +2,9 @@
 
 At Made Tech, we're building an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
 
-This handbook should be the starting point for any new team members. It provides an overview of [why we exist](company/about.md), our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
+This Handbook should be the starting point for any new team members. It provides an overview of [why we exist](company/about.md), our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
 
-## Contributing to our handbook
+## Contributing to our Handbook
 
 We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not :)
 
