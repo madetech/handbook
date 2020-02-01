@@ -1,17 +1,28 @@
 # About Made Tech
 
-Made Tech's mission is to improve software delivery in every organisation. 
+## Our purpose – why we exist
 
-**We build software delivery capabilities, deliver digital & technology, and run live services for ambitious organisations.**
+The UK faces significant problems, such as spiralling costs of healthcare, growing inequality and a failing welfare system. We will work side-by-side with brilliant public servants to support them in delivering better public services that can rise to these challenges.
 
-Our delivery-focused approach enables customers to unleash innovation and reduce time-to-market, so they spend less time battling 'business as usual', and more time delivering real business value.
+## Our vision – what we want the future to look like
 
-We come from a background of helping hungry startups get to market fast, so we know how to ship software quickly. We are renowned for our expertise in extreme programming, lean, and agile practices.
+As public sector organisations reform and become digitally native; we’ll see a shift, where the software that underpins these organisations becomes their most valuable asset and provides the services citizens need and deserve.
 
-Today we’re partnering with some of the UK’s largest organisations, driving the adoption of modern software delivery practices while delivering innovative applications, and untangling legacy IT estates.
+## Our mission – how we will get there
 
-Our customers are forward-thinking executives who need help to: 
+To help the public sector build world-class technology teams, that practice the sort of techniques and ways of working you would see in an internet-era business.
 
-- **Build software delivery capabilities:** we work alongside in-house teams, helping them to learn by doing. We coach teams to ship software using modern practices such as test-driven development, continuous delivery and DevOps. 
-- **Deliver digital and technology:** we build new products and modernise legacy applications using technologies such as container platforms, microservice architectures, and cloud automation.
-- **Run live services:** our reliability engineers proactively monitor, maintain, and improve cloud infrastructure and applications, driving quality up, and the cost of change down. 
+We will:
+
+- **Modernise** legacy technology and working practices
+- **Accelerate** digital and technology delivery
+- **Optimise** through smart use of data and automation
+- **Enable** technology and delivery skills to build better systems
+
+## Our values – who we are and how we operate
+
+**Customer focussed** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism we build strong and lasting relationships with our customers.
+
+**Drive to deliver** – We have a strong drive to deliver successful outcomes for our customers and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
+
+**Learning & mentoring** – We are passionate about learning and growth, whether it’s an improvement of one's self, the team or the organisation, we recognise the power of continuous improvement.
