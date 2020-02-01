@@ -2,7 +2,7 @@
 
 At Made Tech, we're building an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
 
-This handbook should be the starting point for any new team members. It provides an overview of the business and a point of reference for topics such as expense policy, referral bonuses and remote working policies.
+This handbook should be the starting point for any new team members. It provides an overview of the business, our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
 
 ## Our mission
 
