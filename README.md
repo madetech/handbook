@@ -37,7 +37,7 @@ Balancing life and work:
 Making work as fabulous as possible:
 
 * [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* [Learn Tech](learning/readme.md) – We spend every Friday afternoon learning rather than working
+* [Learn Tech](guides/learning/README.md) – We spend every Friday afternoon learning rather than working
 * [Friday Lunches](benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
 * [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
 
@@ -65,6 +65,7 @@ Compensating you fairly:
 #### Team
 
 * [Team Norms](team-norms)
+* [Learning & Learn Tech](guides/learning)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [3rd Party Expenses](guides/3rd_party_services.md)
 * [VPN](guides/vpn)
