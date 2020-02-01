@@ -4,20 +4,6 @@ At Made Tech, we're building an open and transparent company, full of people who
 
 This handbook should be the starting point for any new team members. It provides an overview of the business, our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
 
-## Our mission
-
-Made Tech's mission is to improve software delivery in every organisation. We build software delivery capabilities, deliver digital & technology, and run live services for ambitious organisations. Our delivery-focused approach enables customers to unleash innovation and reduce time-to-market, so they spend less time battling 'business as usual', and more time delivering real business value.
-
-## Our values
-
-* **People:** We value and respect the people we work with, both within the company and without, and want them to feel able to express their opinions safely and without fear.
-
-* **Space:** We value the space in which we work, and want it to be a place in which everyone can pursue and share knowledge whilst feeling respected, comfortable and productive.
-
-* **Culture:** We value a positive and diverse company culture, and will always strive to adapt our culture in order to make this a more welcoming place to be.
-
-* **Continuous Improvement:** We value continuous improvement, and seek to empower ourselves and the people around us with the opportunity to reflect and improve.
-
 ## Contributing to our handbook
 
 We're a company that moves fast, so we're going to need everyone to help us keep this up to date. If you encounter something that you think should be in this Handbook or spot a typo, please feel free to [open a pull request](https://github.com/madetech/handbook/pulls). If you have a question feel free to [open an issue](https://github.com/madetech/handbook/issues). This applies whether you're a Made Tech employee or not :)
