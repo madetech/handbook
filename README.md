@@ -16,13 +16,13 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 ### Introduction to Made Tech
 
-* [About Made Tech](company/about.md)
-* [Welcome Pack](company/welcome_pack.md)
+* [About Made Tech](company/about.md) – Why we do what we do
+* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining  Made Tech
 
 ### Roles
 
-* [About Roles](roles/README.md)
-* [All Roles](roles/)
+* [About Roles](roles/README.md) – Overview of our roles
+* [All Roles](roles/) – Directory of roles
 
 ### Benefits & Perks
 
