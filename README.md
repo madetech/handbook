@@ -18,7 +18,6 @@ Contributing to the handbook isn't only possible for `git` users, find steps to 
 
 * [About Made Tech](company/about.md)
 * [Welcome Pack](company/welcome_pack.md)
-* [Learning](learning/readme.md)
 
 ### Roles
 
