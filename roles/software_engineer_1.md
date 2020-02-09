@@ -1,5 +1,7 @@
 # Software Engineer 1
 
+Bristol, Manchester & London, UK.
+
 Our Engineers build software that makes our customers happy, they prefer problem solving over task completing, love learning from colleagues, and constantly strive to be nice humans.
 
 ## What does the job entail?
@@ -43,3 +45,7 @@ Compensating you fairly:
 ## Salary
 
 This role has a salary of £30-40k.
+
+## Applying
+
+We do not hire for this role as we rely on our Academy to feed into Software Engineer 1. That said, we'd still love to hear from you if you don't quite fit into our Academy or Senior roles. Get in touch with any questions by sending an email to  [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
