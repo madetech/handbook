@@ -2,7 +2,7 @@
 
 Bristol, UK.
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). 
+Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
 We are looking for Senior Engineers with a particular penchant and love for cloud, automation, slick tooling, and empowering software delivery by coaching teams in true DevOps fashion. While we are looking for those with significant experience working with AWS this role remains a full stack and polyglot role as with all of our Software Engineering roles.
 
@@ -91,7 +91,7 @@ Compensating you fairly:
 
 ## Salary
 
-This role has a salary of £40-60k depending on experience.
+This role has a salary of £45-70k depending on experience.
 
 ## Applying
 
