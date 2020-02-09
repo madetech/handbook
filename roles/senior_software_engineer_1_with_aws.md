@@ -26,7 +26,7 @@ We grow a team of polyglot programmers, which you might already consider yoursel
 
 While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
 
-- 5+ years working with AWS
+- Deep working knowledge of developing and maintaining AWS infrastructure
 - Written code with tests
 - Delivered in an agile environment
 - Worked with more than one programming language
