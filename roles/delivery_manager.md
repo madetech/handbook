@@ -41,7 +41,7 @@ Additionally, you will have a good understanding of the pros and cons of using S
 As you will be adopting a servant leader approach to management in this role we will want to hear about how you have worked this way within previous teams, particularly focusing on how you have encouraged servant leadership and why you believe it is a beneficial model for team management.
 You should have experience managing a budget effectively, preferably using a T&M approach. We will want to discuss how you have approached budget management in the past and would love to hear of projects that you budgeted which exceeded the customer's expectations in terms of what they received within their financial constraints.
 
-## What you'll get from us
+## What you will get from the role
 
 You will take ownership of the delivery function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with a wealth of market-leading companies.
 
@@ -51,11 +51,33 @@ You'll have the chance to develop and adapt our agile processes, coaching both i
 
 Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a commercially focused direction, or transition towards agile coaching (either internally or externally), or even evolve into a Principal Delivery or Head of Delivery position – we're happy to support you to take charge of your future and follow your passions!
 
-## What is it like to work at Made Tech?
+## What we will provide you
 
-We are a technology focussed business that values continuous improvement, experimentation, trusting individuals and teams to do the right thing.
+Balancing life and work:
 
-We are a growing business and now is a good time to join us as there is great opportunity to have a massive impact on the business and grow with us too.
+* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
+* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
+* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
+* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
+* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
+* 🤗 [Paid counselling](../guides/welfare/employee_assistance.md) – We offer paid counselling as well as financial and legal advice
+* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+
+Making work as fabulous as possible:
+
+* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
+* 💡 [Learn Tech](../guides/learning/README.md) – We spend every Friday afternoon learning rather than working
+* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
+* 🍻 [Friday Drinks](../benefits/friday_drinks.md) – We pay for social drinks on a Friday
+
+Compensating you fairly:
+
+* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
+* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
+* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
+* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
+* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
+* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
 
 ## Salary
 
