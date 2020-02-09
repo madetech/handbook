@@ -61,19 +61,31 @@ Don’t forget to mention any of the experience listed below. While it’s optio
 
 ## What we will provide you
 
-- Time to learn every Friday afternoon
-- Space to write blog posts regularly
-- Contribute to our culture and shape the way we work – even our handbook is open-sourced on Github
-- Regular lunch and socials with colleagues – we are vegan, halal, and non-drinker friendly, as well as meat-eater and drinker friendly
-- Retreats and trips with your colleagues every year
-- Paid holidays for your third and fifth anniversary working for us
-- Flexible holiday, working hours, and part-time
-- Generous parental leave and support
-- Season ticket loan
-- Cycle to work scheme, a place to secure your bike and a shower
-- Contributory pension scheme
-- Conference tickets and training
-- Volunteering time to help others get into the technology industry
+Balancing life and work:
+
+* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
+* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
+* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
+* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
+* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
+* 🤗 [Paid counselling](../guides/welfare/employee_assistance.md) – We offer paid counselling as well as financial and legal advice
+* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+
+Making work as fabulous as possible:
+
+* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
+* 💡 [Learn Tech](../guides/learning/README.md) – We spend every Friday afternoon learning rather than working
+* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
+* 🍻 [Friday Drinks](../benefits/friday_drinks.md) – We pay for social drinks on a Friday
+
+Compensating you fairly:
+
+* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
+* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
+* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
+* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
+* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
+* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
 
 ## Salary
 
