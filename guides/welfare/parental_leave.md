@@ -1,6 +1,6 @@
 # Maternity, Paternity & Shared Parental Leave
 
-When you welcome a new child (birthed or adopted), Made Tech encourages you to take leave, to welcome the child into the world.
+When you welcome a new child into your family, Made Tech encourages you to take leave.
 
 ## Maternity Leave
 
