@@ -8,7 +8,7 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 
 ## General guidance
 
-- Every billable team member must completed a timesheet attributing a 35 hour week (pro-rated for those who do not work a full 5 day week) by 1.30pm every Friday
+- Every billable team member must complete a timesheet attributing a 35 hour week (pro-rated for those who do not work a full 5 day week) by 1.30pm every Friday
 
 - When the last day of the month falls on a working day, you will be asked to complete your timesheets up to and including that day. You must do this by 1.30pm
 
