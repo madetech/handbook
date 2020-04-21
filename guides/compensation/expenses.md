@@ -7,6 +7,7 @@ We trust the team to be able to expense the things they need to perform their jo
 We provide some examples below of what is okay to expense. We trust you to be able to follow these guidelines. If you feel like you need clarification, speak to a Director or Line Manager.
 
 - Books for work (programming, best practice, sales, etc.)
+- Training costs
 - Computer equipment (new monitor, keyboard, HDMI adapters, etc.)
 - Amenities for the office (coffee, fruit, biscuits, etc.)
 - Lunch and drinks for a customer
