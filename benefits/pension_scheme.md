@@ -24,7 +24,7 @@ As private pension contributions are tax-exempt, the income tax that has been pa
 
 ### Higher rate tax payer
 
-If you are a higher rate tax payer, then you pay 40% income tax on any earnings above £50,000, leaving you entitled to an additional tax relief beyond the 20% recovered automatically. You must claim this additional tax relief to ensure that your pension contributions are entirely tax-free.
+If you are a higher rate tax payer you pay 40% income tax on any earnings above £50,000, leaving you entitled to an additional tax relief beyond the 20% recovered automatically. You must claim this additional tax relief to ensure that your pension contributions are entirely tax-free.
 
 In order to do that, you will need to [complete a self assessment](https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief#when-you-have-to-claim-tax-relief) form at the end of each tax year and will be entitled to a tax rebate that can be paid directly to your bank account.
 
