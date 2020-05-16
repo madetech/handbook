@@ -37,4 +37,4 @@ Be sure to communicate effectively. Asking too many questions is much preferred 
 
 ADR's are a formal way of documenting the decision-making process. (ADR stands for Architecture Decision Record)
 
-For a full write up see [Michael Nygard's blog post on the topic](https://web.archive.org/web/20190430063238/http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+For a full write up see [Michael Nygard's blog post on ADRs](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
