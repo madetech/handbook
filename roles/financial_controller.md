@@ -8,7 +8,7 @@ This role has a salary of £45k-£60k depending on experience.
 
 ## SFIA Level
 
-The Financial Controller is expected to demonstrate the behaviours of [SFIA Level 5](https://www.sfia-online.org/en/framework/sfia-6/busskills/lr5).
+The Financial Controller is expected to demonstrate the behaviours of SFIA Level 5.
 
 ## Financial Controller Expectations
 
@@ -45,7 +45,7 @@ We expect our Financial Controller to ensure Delivery Leads are working within p
 
 ## To drive effective credit control
 
-We expect our Financial Controller to implement effective credit control measures to minimise the risk to Made Tech and to ensure prompt and full payment. 
+We expect our Financial Controller to implement effective credit control measures to minimise the risk to Made Tech and to ensure prompt and full payment.
 
 ## To run one-off finance projects
 
