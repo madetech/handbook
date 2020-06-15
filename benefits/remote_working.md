@@ -4,6 +4,7 @@ We feel it's important that we provide the flexibility for people to work wherev
 
 There are tradeoffs when choosing between working from the office and from home. Below is some general etiquette for occasional remote work, along with guidelines for working remotely on a regular basis.
 
+
 ### Occasional Remote Working
 - Check and clear any remote work with the rest of your team before the end of the previous working day
 - Ensure your absence does not negatively impact the productivity and/or success of other team members
@@ -24,6 +25,9 @@ There are some additional considerations when working from home regularly
 - We recommend remote working on a recurring basis a maximum of 2 days per week when part of a delivery team to ensure you don't lose context.
 - Make sure you choose days that will have the least impact on customers. A larger organisation's time will be less flexible and you'll need to ensure there are clearly set expectations around when showcases will be etc.
 - It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies.
+
+Note: 
+For fixed remote working requirements (i.e. I need to work from home every Wednesday) there are additional considerations. We would generally want to try make faciliate this but this will depend on the types of projects we have at that time. For customer facing roles (tech and delivery) we'll have to communicate this to clients in advance to manage their expectations. In some instances a fixed remote working requirement may not suit a particular engagement which could limit the engagements we can assign to you. 
 
 ### Refusing a Request for Remote Working
 
