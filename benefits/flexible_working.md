@@ -2,7 +2,8 @@
 
 For a variety of reasons, people may choose to work fewer days per week than the usual Monday - Friday.
 
-Wherever possible we aim to accommodate this.
+Wherever possible we aim to accommodate this. 
+Note: This benefit is only available to current team members as the majority of our open roles are advertised as full time.
 
 ## Some things to consider
 
