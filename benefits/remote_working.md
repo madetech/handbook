@@ -27,7 +27,7 @@ There are some additional considerations when working from home regularly
 - It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies.
 
 Note: 
-For fixed remote working requirements (i.e. I need to work from home every Wednesday) there are additional considerations. We would generally want to try make faciliate this but this will depend on the types of projects we have at that time. For customer facing roles (tech and delivery) we'll have to communicate this to clients in advance to manage their expectations. In some instances a fixed remote working requirement may not suit a particular engagement which could limit the engagements we can assign to you. 
+For fixed remote working requirements (i.e. I need to work from home every Wednesday) there are additional considerations. We would generally want to try and faciliate this but it is dependant on the types of projects we have at that time. For customer facing roles (tech and delivery) we'll have to communicate this to clients in advance to manage their expectations. In some instances a fixed remote working requirement may not suit a particular engagement which could limit the engagements we can assign to you. 
 
 ### Refusing a Request for Remote Working
 
