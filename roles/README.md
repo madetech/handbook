@@ -13,7 +13,7 @@ looking for more responsibilities.
  - [Software Engineer 1](software_engineer_1.md)
  - Software Engineer 2
  - [Senior Software Engineer](senior_software_engineer.md) – also looking for strong AWS experience for a [full stack role in Bristol](senior_software_engineer_with_aws.md)
- - [Senior Software Engineer 2](senior_software_engineer_2.md) – often advertised as Lead Software Engineer
+ - [Lead Software Engineer](lead_software_engineer.md)
 
 You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by appropriate Senior 1 and 2s.
 

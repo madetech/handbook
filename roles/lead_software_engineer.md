@@ -1,18 +1,18 @@
-# Senior Software Engineer 2
+# Lead Software Engineer
 
-(Often advertised as Lead Software Engineer.)
-
-Manchester & London, UK.
+Bristol, Manchester & London, UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-Our Senior Engineer 2s are Tech Leads, Architects, Thought Leaders, Full Stack Engineers, and Consultants. They are our most senior technologist within a customer account representing Made Tech and act as a hands-on CTO across one or more software delivery teams driving organisational change and outcomes for users. They combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
+Our Lead Engineers lead teams to deliver digital, data and technology outcomes that improve society. They do this by establishing and leading teams to deliver software in public sector organisations.
 
 ## What does the job entail?
 
 We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
 
-Depending on our customers' needs our Senior 2s may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect advising teams and ensuring consistency across multiple deliveries. Further still you may play a strong part in account management and hold relationships with our customers senior staff as a technical adviser.
+Lead Software Engineers combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
+
+Depending on our customers' needs our Lead Software Engineers may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect within a single team.
 
 We need flexible individuals who enjoy a varied workload, are happy to switch between being more and less hands-on, but don't see themselves stepping away from code any time soon. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
 
@@ -90,7 +90,9 @@ Compensating you fairly:
 
 ## Salary
 
-This role has a salary of £75-100k depending on experience.
+- Bristol: £63,900-£81,000
+- Manchester: £63,900-£81,000
+- London: £71,000-£90,000
 
 ## Applying
 
