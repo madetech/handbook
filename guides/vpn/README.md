@@ -37,24 +37,43 @@ That is it! You should now be connected to the `Made Tech - VPN`. If you are exp
 
 ### Ubuntu/Debian
 
-https://docs.foxpass.com/docs/foxpass-linux-l2tpipsec
+1. Install the L2TP module for network-manager & gnome extension if necessary
+    ```bash
+    sudo apt update
+    sudo apt install network-manager-l2tp
+
+    # If in a gnome environment
+    sudo apt install network-manager-l2tp-gnome
+    ```
+2. Follow the steps to add the VPN connection below.
+3. You must set the Phase1 and Phase2 algorithms in IPSec Settings:
+   1. Open the Made Tech VPN connection settings
+   2. Navigate to Identity tab
+   3. Open IPsec Settings
+   4. Under Advanced:
+      - Phase1 Algorithms `3des-sha1-modp2048`
+      - Phase2 Algorithms `3des-sha1`
+   5. Save, close
+4. Connect & enter password
 
 ### Fedora
 
 1. If you are using the GNOME version, first install the dependencies
+    ```bash
+    # for GNOME
+    sudo dnf install NetworkManager-libreswan-gnome xl2tpd
+    ```
+2. Follow the steps to add the VPN connection below.
 
-```bash
-# for GNOME
-sudo dnf install NetworkManager-libreswan-gnome xl2tpd
-```
 
-2. Then you should be able to go to **settings** > **networking** and click the '+' add button
+### Adding Made Tech VPN in Gnome Settings
+1. Go to **settings** > **networking** and click the '+' add button
 
 ![select_type_screen](images/linux/select_type.png)
 
 - Select the `Layer2 Tunneling Prootocol (L2TP)`
 
-3. Main settings
+2. Main settings
 
 ![main_settings_screen](images/linux/main_settings.png)
 
@@ -62,14 +81,16 @@ sudo dnf install NetworkManager-libreswan-gnome xl2tpd
 - Your username (the local-part of your Made Tech email address before @madetech.com)
   - When prompted for password, you will have to enter your [G Suite](http://gsuite.google.com) password
 
-4. Click the `IPsec Settings..` button
+3. Click the `IPsec Settings..` button
 
 ![main_settings_screen](images/linux/ipsec.png)
 
 - Check the top checkbox and enter the shared secret (this will be provided to you)
 - Click **OK**
 
-5. Click the `PPP settings..` button
+**On Ubuntu you must set the Advanced Phase1 & Phase2 algorithms as above**
+
+4. Click the `PPP settings..` button
 
 ![main_settings_screen](images/linux/ppp_settings.png)
 
