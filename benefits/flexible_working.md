@@ -4,6 +4,7 @@ For a variety of reasons, people may choose to work fewer days per week than the
 
 Wherever possible we aim to accommodate this. 
 Note: This benefit is only available to current team members as the majority of our open roles are advertised as full time.
+We'll always aim to support working patterns where we can, due to client considerations, we have an internal process for requesting a flexible working pattern, and we default roles to a standard pattern
 
 ## Some things to consider
 
