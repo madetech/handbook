@@ -1,7 +1,7 @@
 # Maternity, Paternity & Shared Parental Leave
 
 Whether because you or your partner is having a baby, if you're adopting a child or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so that you can welcome the new child (or children!) into your family.
-Our paid Parental leave is the same for all! 
+Our paid Parental Leave is the same for all! 
 
 Note: You will have to be in employment with Made Tech for a minimum of 26 weeks to be eligible for these benefits.
 
