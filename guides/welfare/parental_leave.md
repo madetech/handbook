@@ -7,7 +7,7 @@ Note: You will have to be in employment with Made Tech for a minimum of 26 weeks
 
 ## Maternity Leave
 
-We provide 12 weeks Maternity Leave at full pay followed by statutory pay for a further 26 weeks. You can take up to a total of 52 weeks.
+We provide 12 weeks Maternity Leave at full pay followed by statutory pay for a further 39 weeks. You can take up to a total of 52 weeks.
 
 The breakdown of pay is as follows:
 
