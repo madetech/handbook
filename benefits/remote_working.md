@@ -33,7 +33,7 @@ For fixed remote working requirements (i.e. I need to work from home every Wedne
 
 All requests to work from home should be considered in their individual circumstances. The decision ultimately resides with teams, but below are some guidelines around when you may want to refuse a request to work from home
 
-- If the request will clash with and important ceremony with the client or the rest of the team (planning, retros, etc.)
+- If the request will clash with an important ceremony with the client or the rest of the team (planning, retros, etc.)
 - If there are concerns the remote working will impact upon the productivity or success of the rest of the team
 - If there are concerns about productivity from a team member (this should be first addressed with the team member directly, and with their Line Manager if necessary
 
