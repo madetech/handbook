@@ -10,7 +10,7 @@ Time can be completed in advance but in your unplanned absence your delivery man
 
 ## When to submit your time
 
-Time sheets need to be submitted weekly every Friday by Midday. It needs to be completed weekly because it is likely to be a truer reflection of time and we are able to accurately invoice the client using this information.
+Time sheets need to be submitted weekly every Friday by midday. It needs to be completed weekly because it is likely to be a truer reflection of time and we are able to accurately invoice the client using this information.
  
 When the end of the month falls on a week day other than Friday, you will be asked to submit a timesheet up until the end of the month. This will be in addition to the Friday timesheet meaning you need to complete 2 in a week. 
 
