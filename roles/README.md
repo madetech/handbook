@@ -15,7 +15,7 @@ looking for more responsibilities.
  - [Senior Software Engineer](senior_software_engineer.md) – also looking for strong AWS experience for a [full stack role in Bristol](senior_software_engineer_with_aws.md)
  - [Lead Software Engineer](lead_software_engineer.md)
 
-You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by appropriate Senior 1 and 2s.
+You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
 
 ### Delivery
 
