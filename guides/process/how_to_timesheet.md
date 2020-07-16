@@ -14,7 +14,7 @@ Time sheets need to be submitted weekly every Friday by midday. It needs to be c
  
 When the end of the month falls on a week day other than Friday, you will be asked to submit a timesheet up until the end of the month. This will be in addition to the Friday timesheet meaning you need to complete 2 in a week. 
 
-E.g. June 30 falls on a Tuesday, your timesheet needs to be submitted up until Tuesday i.e. 7 hours for Monday and 7 hours for Tuesday. The rest of the week (Wednesday to Friday)  will be included in the Friday timesheet. 
+E.g. June 30 falls on a Tuesday, your timesheet needs to be submitted up until Tuesday i.e. 7 hours for Monday and 7 hours for Tuesday. The rest of the week (Wednesday to Friday) will be included in the Friday timesheet. 
 
 Reminders are given through automated messages in Slack. 
 
