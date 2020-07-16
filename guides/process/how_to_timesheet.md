@@ -78,8 +78,9 @@ If you are unsure of where to put your time, especially for internal projects, p
 
 ## Additional information
 
-Billed is where we are charging the client for your time and indicated by a ‘BIL’ in the project title. 
+**Billed** is where we are charging the client for your time and indicated by a ‘BIL’ in the project title.
 
-Investment is where we are investing time with the client but not charging them, this is indicated by a ‘INV’ in the project title. 
+**Investment** is where we are investing time with the client but not charging them for your time, you are available should another suitable billed opportunity come up. This is indicated by a ‘INV’ in the project title. 
 
-Chalet is where you will be spending time on the project in an unbilled capacity but you are available should another suitable billed opportunity come up. This is indicated by a ‘BEN’ in the project title. 
+**Chalet** is where you are not assigned to a client and are completely available for billed opportunities and internal projects. This is indicated by a ‘BEN’ in the project title. 
+
