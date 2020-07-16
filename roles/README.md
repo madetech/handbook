@@ -22,11 +22,6 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 - [Delivery Manager](delivery_manager.md)
 - [Head of Delivery](head_of_delivery.md)
 
-### Sales and Marketing
-
-- [Marketing Executive](marketing_executive.md)
-- [Business Development Representative](business_development_representative.md)
-
 ### Operations and Finance
 
 - [Operations Coordinator](operations_coordinator.md)
