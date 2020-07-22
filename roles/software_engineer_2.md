@@ -1,4 +1,4 @@
-# Software Engineer 1
+# Software Engineer 2
 
 Bristol, Manchester & London, UK.
 
@@ -12,7 +12,7 @@ Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C
 
 ## What experience are we looking for?
 
-All of our Software Engineers are trained first as an [Academy Software Engineer](academy_software_engineer.md) within our 12 week Academy programme. We don't currently hire people into this role without them first going through our Academy.
+All of our Software Engineers are trained first as an [Academy Software Engineer](academy_software_engineer.md) within our 12 week Academy programme. We don't currently hire people into this role without them first going through our Academy. This role is typically the next step in progression for Software Engineers, and reflects the greater range of skills learned and reponsibilities taken on as an Engineer progresses their career.
 
 ## What we will provide you
 
@@ -44,7 +44,7 @@ Compensating you fairly:
 
 ## Salary
 
-This role has a salary of £30-40k.
+This role has a salary of £40-50k.
 
 ## Applying
 
