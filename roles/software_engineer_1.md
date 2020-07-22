@@ -44,7 +44,11 @@ Compensating you fairly:
 
 ## Salary
 
-This role has a salary of £30-40k.
+The salary for this role is location dependant:
+
+*London:* £30000 to £40000
+*Manchester:* £27000 to £36000
+*Bristol:* £27000 to £36000
 
 ## Applying
 
