@@ -6,18 +6,20 @@ Often when we think of sickness we think of colds, stomach bugs, and perhaps eve
 
 When people get sick we ask that they follow these guidelines:
 
-* Don't be a martyr. If you're sick, take the time off. We'd rather you stayed at home than came into the office and infected other people.
+* Don't be a martyr. If you're sick, take the time off. We'd rather you stayed at home than come into the office and infect other people.
 
-* We can provide support if you need help with your [state of mind](state_of_mind.md)
+* We can provide support if you need help with your [state of mind](state_of_mind.md).
 
-* If you need assistance with your sickness you can use our [employee assistance programme](employee_assistance.md)
+* If you need assistance with your sickness, you can use our [employee assistance programme](employee_assistance.md).
 
-* On your first day off, send an email to your team, or the operations team if you are on the Chalet, letting them know that you'll be away and what you had planned for that day. Aim to let them know as early as possible, so they can factor your absence into their tasks for the day.
+* On your first day off, let your team know (Slack, email, etc.), or the operations team if you are on the Chalet, that you'll be away and what you had planned for that day. Aim to let them know as early as possible, ideally by 10:30 AM, so they can factor your absence into their tasks for the day.
 
-* Provide regular updates and an expected return date, as soon as you have one.
+* Provide regular updates to your team, and an expected return date as soon as you have one.
 
-* If you are taking four or more days sick leave, please supply a doctors note.
+* If you are taking four or more days sick leave, please supply a doctor's note.
 
-* Record your sick leave in Harvest and CharlieHR
+* Record your sick leave in Harvest (as Absence) and in CharlieHR, for every day that you are on sick leave.
 
-* If you accrue five or more days of sick leave annually, then the people team will check in with you to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, or that you are unhappy with your current role.
+* The Account Team will have to report you as absent without reason to the People Team by 10:30 AM if we haven't heard from you. They will then get in touch, and if unable to get a hold of you, will call your emergency contact at 11:30 AM.
+
+* If you accrue five or more days of sick leave annually, then the People Team will check in with you to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, or that you are unhappy with your current role.
