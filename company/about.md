@@ -1,22 +1,27 @@
 # About Made Tech
 
-## Our purpose – why we exist
+As a **purpose-driven organisation**, we believe the **outcomes** we create are more important than the technology we deliver.
 
-The UK faces significant problems, such as spiralling costs of healthcare, growing inequality and a failing welfare system. We will work side-by-side with brilliant public servants to support them in delivering better public services that can rise to these challenges.
+## Our purpose – why we do what we do
+
+We want to positively impact the future of the country by using **technology** to improve **society**.
+
+We are already working with **brilliant public servants** to **modernise technology** and **accelerate digital delivery**. But we know we can do more to help those who share our vision.
 
 ## Our vision – what we want the future to look like
 
-As public sector organisations reform and become digitally native; we’ll see a shift, where the software that underpins these organisations becomes their most valuable asset and provides the services citizens need and deserve.
+We want to **empower** the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology.
 
-## Our mission – how we will get there
+To achieve this, we help them to modernise working practices, accelerate digital delivery, drive better decisions through data and enable technology and delivery skills.
 
-To help the public sector build world-class technology teams, that practice the sort of techniques and ways of working you would see in an internet-era business.
 
-We will:
+## Our missions – how we will get there
+
+We empower public sector organisations by helping them to become digitally native.
 
 - **Modernise** legacy technology and working practices
-- **Accelerate** digital and technology delivery
-- **Optimise** through smart use of data and automation
+- **Accelerate** digital service and technology delivery
+- **Drive** better decisions through data and automation
 - **Enable** technology and delivery skills to build better systems
 
 ## Our values – who we are and how we operate
