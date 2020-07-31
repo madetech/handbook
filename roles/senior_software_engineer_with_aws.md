@@ -4,25 +4,27 @@ Bristol, UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-We are looking for Senior Software Engineers with a particular penchant and love for cloud, automation, slick tooling, and empowering software delivery by coaching teams in true DevOps fashion. While we are looking for those with significant experience working with AWS this role remains a full stack and polyglot role as with all of our Software Engineering roles.
+Our Senior Software Engineers deliver digital, data and technology outcomes that improve society. They do this by delivering and architecting software, and coaching others to do so in public sector organisations.
 
-Our Senior Software Engineers combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. They find themselves working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers, always finding themselves learning from others, while constantly striving to be nice humans :)
+In Bristol, we are looking for Senior Software Engineers with a particular penchant and love for cloud, automation, slick tooling, and empowering software delivery by coaching teams in true DevOps fashion. While we are looking for those with significant experience working with AWS this role remains a full stack and polyglot role as with all of our Software Engineering roles.
 
 ## What does the job entail?
 
-We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
+At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+
+As a Senior Software Engineer you will combine your technical excellence, drive to deliver and coaching skills to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations.
 
 High performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
 
-We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS.
+We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies and we offer official AWS and other cloud training.
 
-We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogther. Right tool for the job.
+We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogether. Right tool for the job.
 
 For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other peoples work into production. You'll empower teams with the mantra: you build it, you run it!
 
-Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release many times per day.
+You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all our engineers to be keen on learning new skills.
 
-We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. To create this environment our Senior Software Engineers need to embrace sharing their knowledge and skills with others, and they need to keep an open mind – we’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
+We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. You will need to be comfortable sharing your knowledge and skills with others. We’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
 
 ## What experience are we looking for?
 
