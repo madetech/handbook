@@ -12,7 +12,7 @@ looking for more responsibilities.
  - [Academy Software Engineer](academy_software_engineer.md)
  - [Software Engineer 1](software_engineer_1.md)
  - [Software Engineer 2](software_engineer_2.md)
- - [Senior Software Engineer](senior_software_engineer.md) – also looking for strong AWS experience for a [full stack role in Bristol](senior_software_engineer_with_aws.md)
+ - [Senior Software Engineer](senior_software_engineer.md)
  - [Lead Software Engineer](lead_software_engineer.md)
  - [Principal Technologist](principal_technologist.md)
 

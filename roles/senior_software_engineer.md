@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-Manchester & London, UK.
+Bristol, Manchester & London, UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
@@ -89,6 +89,7 @@ Compensating you fairly:
 
 ## Salary
 
+- Bristol: £45,900-£63,000
 - Manchester: £45,900-£63,000
 - London: £51,000-£70,000
 
