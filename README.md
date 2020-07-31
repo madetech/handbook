@@ -1,6 +1,8 @@
 # Made Tech Handbook
 
-At Made Tech, we're building an open and transparent company, full of people who love their work and enjoy the challenges they face every day. To do this, we want everyone to understand what is expected of them, the things we value and the things we believe should be avoided.
+At Made Tech we want to positively impact the future of the country by using technology to improve society. We work with public sector organisations to modernise technology and accelerate digital delivery so that citizens can benefit from better public services
+
+We're building an open and transparent company across the UK, full of people who are passionate about their work, who always strive to be better, who love to help others grow and who care about using digital and technology to create a better, fairer society.
 
 This Handbook should be the starting point for any new team members. It provides an overview of [why we exist](company/about.md), our roles, our investment into staff welfare, our team norms, and details of our processes, policies and benefits.
 
@@ -15,7 +17,7 @@ For more information on contributing, including how to as a non-technical user, 
 ### Introduction to Made Tech
 
 * [About Made Tech](company/about.md) – Why we do what we do
-* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining  Made Tech
+* [Welcome Pack](company/welcome_pack.md) – All you need to know when joining Made Tech
 
 ### Roles
 
