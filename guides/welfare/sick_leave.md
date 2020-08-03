@@ -12,7 +12,7 @@ When people get sick we ask that they follow these guidelines:
 
 * If you need assistance with your sickness, you can use our [employee assistance programme](employee_assistance.md).
 
-* On your first day off, let your team know (Slack, email, etc.), or the operations team if you are on the Chalet, that you'll be away and what you had planned for that day. Aim to let them know as early as possible, ideally by 10:30 AM, so they can factor your absence into their tasks for the day.
+* On your first day off, let your team know (Slack, email, etc.), or the operations team if you are on the Chalet, that you'll be away and what you had planned for that day. Aim to let them know as early as possible, by start of business, so they can factor your absence into their tasks for the day.
 
 * Provide regular updates to your team, and an expected return date as soon as you have one.
 
