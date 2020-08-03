@@ -22,4 +22,4 @@ When people get sick we ask that they follow these guidelines:
 
 * The Account Team will have to report you as absent without reason to the People Team by 10:30 AM if we haven't heard from you. They will then get in touch, and if unable to get a hold of you, will call your emergency contact at 11:30 AM.
 
-* If you accrue five or more days of sick leave annually, then the People Team will check in with you to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, or that you are unhappy with your current role.
+* If you accrue five or more days of sick leave annually, then the People Team will check in with you to find out how we can best support you. We want to ensure that we aren't putting you under too much pressure, and that you're not unhappy with your current role.
