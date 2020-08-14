@@ -44,7 +44,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Involved and engaged in retrospectives
 - More often than not needs to seek advice to raise issues or provide feedback to others
 - Applies what they have been taught in Academy by following rules, often without full consideration of the tradeoffs made
-- Needs to seeks advice to understand what is possible, and needs assistance to adapt to team delivery team specific needs
+- Needs to seeks advice to understand what is possible, and needs assistance to adapt to delivery team specific needs
 - Is able to reason and strategise about tiny slices of a whole problem, and require assistance to consider wider impact of work
 - Is learning new knowledge, skills and behaviours
 - Needs regular advice and guidance
