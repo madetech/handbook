@@ -51,6 +51,9 @@ the channels more relevant to those people.
 4. Manage the conversation, seek approvals on GitHub, address feedback.
 5. When it feels like something close to consensus is established, merge.
 
+Consensus is subjective, and we can't make a rule that catches all of the important ways it can look.
+If you're unsure if you've got enough of it, reach out to the community on Slack.
+
 ### 2. Uncontroversial clarifications
 
 This includes spelling mistakes, poorly worded sections, and writing something down that we all are doing anyway,
