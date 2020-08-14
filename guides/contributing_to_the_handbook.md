@@ -30,3 +30,33 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 1. Get feedback from the wider company and address any feedback. Once you've had your Pull Request approved, you're ready to finalise your change.
 2. On the "Conversation" tab of your Pull Request, click "Merge pull request".
 3. Your new page will now be visible in the Handbook.
+
+## Approval and merging
+
+There are broadly two types of change to the handbook, each with a different approval flow.
+If in doubt, default to the most strict method (Significant changes or additions) or ask for advice on Slack.
+
+1. Significant changes or additions
+2. Uncontroversial clarifications
+
+
+### 1. Significant changes or additions
+
+This includes changes to policies, changes to the way people are expected to work, changes that express a departure from a previous community norm, etc.
+
+1. Open pull request
+2. Shout about the pull request in all relevant Slack channels. This should include announcements, but if it relates to a particular part of Made Tech, also in
+the channels more relevant to those people.
+3. Allow enough time for people to review and comment, remembering that they probably have busy schedules. One to two weeks is probably sensible.
+4. Manage the conversation, seek approvals on GitHub, address feedback.
+5. When it feels like something close to consensus is established, merge.
+
+### 2. Uncontroversial clarifications
+
+This includes spelling mistakes, poorly worded sections, and writing something down that we all are doing anyway,
+
+1. Open pull request
+2. Shout about it in relevant channels
+3. Address feedback
+4. Wait for an approval
+5. Merge
