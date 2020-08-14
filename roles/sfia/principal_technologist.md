@@ -44,7 +44,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Identifies and generates new opportunities within an account and region through networking, advice and thought leadership
 - Able to lead, create and present proposals for opportunities as part of the bid process
 - Defines account plan as part of an account team and leads the team to deliver against it
-- Has authority over accounts technology staff, though as a servant leader seeks to facilitate rather than make decisions in isolation
+- Has authority over account's technology staff, though as a servant leader seeks to facilitate rather than make decisions in isolation
 - Works with regional leadership to define regional hiring requirements
 - Works with group technology leader (CTO) to define both regional and group outcomes for technology, and coordinates regional technologists to deliver these outcomes
 - Nurtures and grows their own professional network and can use this to support and win new business
