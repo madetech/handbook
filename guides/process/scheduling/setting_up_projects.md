@@ -15,12 +15,13 @@ It is important that we set up projects consistently, as accurate time tracking 
 There are a number of steps to setting up a new project. The remainder of thise guide describes the context behind the decisions you'll need to make when setting up a new project.
 
 1. Create project in Harvest
-2. Assign people and rates to project in Harvest
-3. Import project to Forecast
-4. Forecast people against project in Harvest
-5. Ensure the team know what to timesheet against
+2. In the case of billable projects ensure there's a budget defined
+3. Assign people and rates to project in Harvest
+4. Import project to Forecast
+5. Forecast people against project in Harvest
+6. Ensure the team know what to timesheet against
 
-Please be encouraged to ask questions in `#ops-scheduling` if you need help. 
+Before setting up a new project, please ensure you speak with the Ops Team in `#ops-scheduling` channel in Slack.
 
 
 ## Client
@@ -38,7 +39,7 @@ If we're working on an internal initiative, such as a Service Area, Learn Tech, 
 
 - Made Tech: this client is reserved for group-wide activities such as Service Areas, Holidays, Absence etc.
 
-- Made Tech _market_: this client should be used for local internal activities such as chalet projects.  
+- Made Tech _market_: (e.g. Made Tech Bristol) this client should be used for local internal activities such as chalet projects.  
 
 
 ## Project codes
@@ -125,3 +126,12 @@ Team members who are assigned investment projects will not negatively reflect on
 Primarily projects should be named to make it easy at a glance to understand what it is. If it covers a particular phase, or a budget extension, please encode this in the project name.
 
 Additionally, if a project is for investment or bench/chalet time, please make this clear by adding `(investment)` or `(chalet)` to the end of the project name.
+
+
+## Projects for budget extensions and subsequent phases
+
+Where a project is subject to a budget extension or where we start work on a subsequent phase with a new budget attached, a new project should be created in Harvest.
+
+There should be very few cases where an existing project budget is modified in Harvest.
+
+When in doubt: create a new project!
