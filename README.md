@@ -68,10 +68,14 @@ Compensating you fairly:
 
 * [Team Norms](team-norms)
 * [Learning & Learn Tech](guides/learning)
-* [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [3rd Party Expenses](guides/3rd_party_services.md)
 * [VPN](guides/vpn)
 * [WiFi](guides/wifi)
+
+#### Marketing
+
+* [Marketing Assets](https://github.com/madetech/marketing-assets)
+
 
 #### People
 
