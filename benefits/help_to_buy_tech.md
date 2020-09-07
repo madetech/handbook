@@ -2,7 +2,7 @@
 
 We've signed up to Techscheme to make it easier and more affordable for our team to buy the latest tech gadgets.
 
-Techscheme lets you get the latest tech, such as Smart Phones, Smart Watches and/or Game Consoles, up to a maximum value £2,000. You apply for an e-voucher worth the value of your shopping basked - so decide what you want to buy before you apply for this perk.
+Techscheme lets you get the latest tech, such as Smart Phones, Smart Watches and/or Game Consoles, up to a maximum value £2,000. You apply for an e-voucher worth the value of your shopping basket - so decide what you want to buy before you apply for this perk.
 You then repay this amount via your salary across 12 or 24 months. Essentially you will be giving up part of gross taxable income which means you don't pay National Insurance contributions - this results in a saving of up to 12% too (depending on your tax rate). 
 Best of all – you own the products from the beginning and there’s no end of hire fee.
 
