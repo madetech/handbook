@@ -23,7 +23,7 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 
 * [ ] Signed Contract
 * [ ] Tour of the office
-* [ ] Complete [welcome form](https://madetech.typeform.com/to/neqgrr)
+* [ ] Complete [welcome form](https://madetech.typeform.com/to/neqgrr) (the password for this form can be found in the `int-onboarding` 1password vault)
 * [ ] Introduction to company mission, business services, and EOS
 * [ ] Meet your buddy
 * [ ] Attend first career development 121 to introduce role expectations
