@@ -51,6 +51,7 @@ Compensating you fairly:
 * 🚄 [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * 🚕 [Expenses Paid](guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
+* 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – To make it easier and more affordable for our team to buy themselves the latest tech gadgets
 
 ### Welfare
 
