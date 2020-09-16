@@ -16,7 +16,7 @@ Once you're matched up, we'll send an introductory email introducing you to your
 If you have a particular approach or mentorship / pairing style that you’d like to, please feel free to use it. Here are some suggestions to get the ball rolling on the first session:
 1. Introduce yourselves
 2. Outline goals and objectives
-3. Discuss what you both would like out of the sessions - Set some SMART Goals
+3. Discuss what you both would like out of the sessions - Set some [SMART Goals](https://www.mindtools.com/pages/article/smart-goals.htm)
 4. Discuss preferred pairing styles - It’s likely that you will be pairing during the sessions. We recommend using Visual Studio Code Live Share
 5. Discuss how frequently you would like to have sessions 
 
