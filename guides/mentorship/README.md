@@ -27,7 +27,7 @@ Discuss what you will be pairing on during your sessions. In terms of what you c
 - https://www.codewars.com/
 
 ###Any questions?
-Feel free to ask any questions in the #supply-academy-mentors or #cop-mentoring channels, or send a message to Charlene Hunter.
+Feel free to ask any questions in the #cop-mentoring channels or send an email to mentorship@madetech.com.
 
 ## [Mentor Guidance](mentors)
 ## [Mentee Guidance](mentees)
