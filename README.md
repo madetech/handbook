@@ -68,6 +68,7 @@ Compensating you fairly:
 
 * [Team Norms](team-norms)
 * [Learning & Learn Tech](guides/learning)
+* [Mentorship](guides/mentorship)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [3rd Party Expenses](guides/3rd_party_services.md)
 * [VPN](guides/vpn)
