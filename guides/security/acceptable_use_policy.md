@@ -23,9 +23,6 @@ I will exercise good judgement at all times regarding the reasonableness of any 
 ## I will enable  2-factor authentication where this is available
 2-factor authentication (2FA) requires two forms of authentication, often a password and a code, sometimes sent via SMS or an application. It helps protect user accounts in the case that your password is somehow exposed.  
 
-## I will ensure I report the arrival of guests and visitors promptly
-We keep a record of all visitors to the Made Tech office. All visitors should be logged using the appropriate system and you should alert the member of the team they are here to visit. If someone tries to enter the office and you feel uncomfortable, you are within your rights to challenge their reasons for entry (gently).
-
 ## If my device is stolen or missing, I immediately report it
 Lots of information can be extracted from stolen or misplaced laptops, even in some cases when the disk has been encrypted. Report a missing machine quickly, better safe than sorry. We use remote device management to remotely wipe data from your device in the event that it is stolen. You should report all stolen items to the IMS Manager or CSO, who will record the incident. 
 
