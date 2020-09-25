@@ -30,8 +30,7 @@ Every Project has a Client. Typically this will be the client we're working with
 
 ### Partner organisations
 
-Sometimes we collaborate with partner organisations. If that partner organisation is "priming" the engagement (i.e. they're billing the client), the client should typically be set as the partner organisation, as we'll be invoicing the partner organisation rather than the client
-.
+Sometimes we collaborate with partner organisations. If that partner organisation is "priming" the engagement (i.e. they're billing the client), the client should typically be set as the partner organisation, as we'll be invoicing the partner organisation rather than the client.
 
 ### Internal initiatives
 
@@ -49,7 +48,9 @@ Project codes help us to more easily allocate time and cost and  make financial 
 There are a number of components to a project code:
 
 `LOCATION-CATEGORY-NUMBER` or<br>
+`LOCATION-CATEGORY-CONTRACT-NUMBER` or<br>
 `LOCATION-CATEGORY-SUBCATEGORY-NUMBER`
+
 
 ### Location
 
@@ -72,6 +73,12 @@ A three letter code identifying the the category of the project. Billed, Bench a
 - SAM - Sales and Marketing
 - PTO - Paid time off
 
+### Contract
+
+Billed projects are connected to a contract. Typically there will be an overall contract value from which one or more projects draw.
+
+Contract codes are defined in the [Contract Catalogue](https://docs.google.com/spreadsheets/d/1IXUJz_tHRTX9dIJH13mdXtNRWxZc3KknXQjjOCjEqCM). If you need to setup a new contract please liaise with the finance team in the first instance.
+
 ### Subcategory
 
 An optional three letter code identifying the subcategory. These are currently used to distinguish different types of internal project:
@@ -89,7 +96,7 @@ The number confers no meaning.
 
 ### Examples
 
-- LDN-BIL-01 - a billed project in London
+- LDN-BIL-CON01-01 - a billed project in London
 - MCR-BEN-01 - a bench/chalet project in Manchester
 - BRS-INV-01 - an investment project in Bristol
 
