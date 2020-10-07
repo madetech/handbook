@@ -14,7 +14,7 @@ In particular, if you have a grievance you feel unable to raise with your mentor
 
 ## Seek Third Party Advice
 
-We provide staff access to a [employee wellbeing service](employee_assistance.md) which includes a phone number you can call for third party advice on HR issues.
+We provide staff access to a [employee wellbeing service](paid_counselling.md#employee-assistance) which includes a phone number you can call for third party advice on HR issues.
 
 You can also call the [Acas](http://www.acas.org.uk/index.aspx?articleid=2042) on 0300 123 1100, Monday-Friday 8am-6pm.
 

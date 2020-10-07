@@ -1,4 +1,6 @@
-# Employee Assistance
+# Paid counselling
+
+## Employee Assistance
 
 We have setup an employee assistance programme to provide our team self-service access to all kinds of help. The confidential service provides:
 
@@ -12,11 +14,15 @@ We have setup an employee assistance programme to provide our team self-service 
 - Relationships (divorce & separation, counselling, bullying)
 - Addiction (substance and gambling, support for family, rehabilitation
 
-## Getting assistance
+### Getting assistance
 
 - **Online:** You can visit http://employeeassistance.org.uk to access help via the website. You'll find the password for access in our password manager.
 - **By phone:** You can call the 24/7 help line on 0800 328 1437
 
-## Confidentiality
+### Confidentiality
 
 We will be informed when the phone line and online service is used, and we will be alerted to what category of query/advice was made. We will not be provided any other details on the contents of your call or use of the service, nor will we be told who accessed the service.
+
+## Other options
+
+You are also welcome to pick your own therapist/counsellor. We can contribute up to £60 per session for the first 6 sessions.
