@@ -33,7 +33,7 @@ Balancing life and work:
 * 🗓️ [Flexible Working Days](benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
 * 👶 [Flexible Parental Leave](guides/welfare/parental_leave.md) – We provide flexible parental leave options
 * 👩‍💻 [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](guides/welfare/employee_assistance.md) – We offer paid counselling as well as financial and legal advice
+* 🤗 [Paid counselling](guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
 * 🏖️ [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
 
 Making work as fabulous as possible:
@@ -57,7 +57,7 @@ Compensating you fairly:
 
 * [Sick Leave](guides/welfare/sick_leave.md)
 * [State of Mind](guides/welfare/state_of_mind.md)
-* [Employee Assistance](guides/welfare/employee_assistance.md)
+* [Employee Assistance](guides/welfare/paid_counselling.md#employee-assistance)
 * [Expectations between Employees and the Organisation](guides/welfare/expectations.md)
 * [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
