@@ -21,6 +21,8 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 ### Delivery
 
 - [Delivery Manager](delivery_manager.md)
+- Senior Delivery Manager
+- Delivery Principle 
 - [Head of Delivery](head_of_delivery.md)
 
 ### Operations and Finance
