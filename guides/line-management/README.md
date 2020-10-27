@@ -20,6 +20,8 @@ See [121s](./121s.md)
 Help your direct reports to pass their probation period.
 Work with the Market Principal to extend or fail probations, if necessary.
 
+[See more guidance on probation](probation.md).
+
 ### Annual reviews
 Hold an review once a year, reflecting on the year's highlights and challenges.
 This usually includes a salary review.
