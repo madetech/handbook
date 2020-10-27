@@ -29,24 +29,20 @@ Tell your direct to ask their team for feedback. You can talk to your direct's t
 
 ### Worries about failing probation
 
-It can be stressful to be on probation.
-
-Explain early that:
+It can be stressful to be on probation. Explain early that:
 - Most people pass
 - Getting regular feedback means the result won't be a surprise
 - You will guide and support them
 
 ## One-to-one meetings during probation
 
-We don't have guidance for one-to-ones in the handbook yet.
-
-In brief, ask your direct about their week:
+We don't have guidance for one-to-ones in the handbook yet. In brief, ask your direct about their week:
 - How are they feeling?
 - What's gone well?
 - What's been difficult?
 - What have they learned?
 
-For probation, specifically:
+For probation specifically:
 - Reflect on feedback together
 - Talk about whether they're on-track to pass
 - Offer to ask their team directly for feedback, if it's not forthcoming
@@ -61,7 +57,9 @@ Make a recommendation to the Market Principal. This could be by e-mail. They hav
 
 Congratulate your direct on passing probation. Tell them their new notice period.
 
-If the Market Principal agrees, you can pass probation early.
+Decide together how often to have one-to-ones from now on.
+
+If your direct is doing very well, you can pass probation early. Talk to the Market Principal about this.
 
 ### Failing probation
 
