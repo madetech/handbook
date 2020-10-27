@@ -20,7 +20,7 @@ At the end of probation, pass or fail it, and explain what happens next.
 
 ## Explaining how to pass probation
 
-Talk about what good looks like for their role. [The handbook role pages](../roles) may help with this.
+Talk about what good looks like for their role. [The handbook role pages](../../roles/README.md) may help with this.
 It's good to spend the first two weeks talking about this.
 
 Explain that feedback is useful evidence on how they're performing.
