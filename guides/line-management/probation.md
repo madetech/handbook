@@ -8,6 +8,11 @@ Rarely, you'll extend probation, or pass someone early.
 
 This guidance is written for line managers, but may be useful for people on probation too.
 
+- [What happens during probation?](#what-happens-during-probation)
+- [Explaining how to pass probation](#explaining-how-to-pass-probation)
+- [One-to-one meetings during probation](#one-to-one-meetings-during-probation)
+- [Finishing probation](#finishing-probation)
+
 ## What happens during probation?
 
 In the first week, explain what probation is, and how to pass it.
