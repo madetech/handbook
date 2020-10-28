@@ -34,7 +34,7 @@ Equal opportunities and diversity work together by identifying and addressing an
 
 ### Direct discrimination
 
-This means treating someone less favourably than you would treat others because of a Protected Characteristic. For example, rejecting a job applicant because they are Jewish, or not promoting someone because they are gay. This includes any less favourable treatment because you perceive a person to have a Protected Characteristic (even though they do not in fact have it), or because they associate with a person or group who has a Protected Characteristic.
+This means treating someone less favourably than you would treat others because of a Protected Characteristic. For example, rejecting a job applicant because of their religion, or not promoting someone because of their sexual orientation. This includes any less favourable treatment because you perceive a person to have a Protected Characteristic (even though they do not in fact have it), or because they associate with a person or group who has a Protected Characteristic.
 
 ### Indirect discrimination
 
