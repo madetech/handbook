@@ -8,5 +8,5 @@ We aim at all times to promote equality, diversity and inclusion in the workplac
 
 We recognise that we are enhanced by different backgrounds, experiences, views, beliefs, cultures and physical/neurological differences represented within our team. We embrace diversity in all of our activities and acknowledge that variety and difference are intrinsic to the success and future development of our business. 
 
-Read our [Equality, Diversity & Inclusion Policy](guides/equality-diversity-and-inclusion/README.md).
+Read our [Equality, Diversity & Inclusion Policy](policy.md).
 
