@@ -30,3 +30,5 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 - *Sales Support*: if you're helping out the Sales Team for more than an hour for activities such as phone calls, meetings, preparing tender responses, presentations etc. you must complete a timesheet for this time against Made Tech -> Sales Support.
 
 - *Unbilled*: if you're currently not actively engaged with a delivery, or are working on a delivery but not in a billed capacity (your Delivery Lead will let you know if this is the case), you must complete a timesheet booking time against Made Tech -> Unbilled.
+
+- *New Content*: This is the new content I have added!
