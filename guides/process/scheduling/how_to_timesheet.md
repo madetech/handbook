@@ -37,6 +37,7 @@ Some categories should be used where there is significant time spent, i.e. 2 hou
 * Academy - assisting with the academy programme
 * Certifications (chalet) - currently studying for a certification
 * Chalet - you are not currently on a project and are available
+* Conferences - external events and conferences
 * Culture and happiness - assisting with the service area
 * Holidays - vacation time
 * Learn tech - every Friday 3.5 hours (unless a specified break in which case this is under absence). 
