@@ -4,7 +4,7 @@ Manchester, London, and Bristol UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-Our Delivery Principal help public sector organisations accelerate digital delivery, drive efficiency and ultimately improve society. They do this by leading large-scale teams (accounts), building and managing strategic relationships, finding new opportunities and advising as senior delivery leaders.
+Our Delivery Principals help public sector organisations accelerate digital delivery, drive efficiency and ultimately improve society. They do this by leading large-scale teams (accounts), building and managing strategic relationships, finding new opportunities and advising as senior delivery leaders.
 
 ## What does the job entail?
 
@@ -79,6 +79,12 @@ Compensating you fairly:
 * 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
+## Salary
+
+The salary for this role is location dependant: 
+- Bristol: £73,000+ 
+- Manchester: £73,000+ 
+- London: £81,000+ 
 
 ## Applying
 
