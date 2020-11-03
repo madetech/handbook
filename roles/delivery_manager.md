@@ -1,6 +1,6 @@
 # Delivery Manager
 
-Manchester & London, UK.
+Manchester, London, and Bristol UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
