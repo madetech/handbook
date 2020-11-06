@@ -24,13 +24,13 @@ It is illegal to discriminate against a person on the basis of the following [Pr
 
 This list doesn't cover everything that might disadvantage someone. We're interested in fairness for everyone, not just meeting our legal obligations.
 
-## Definitions
-
-### Diversity
+## Diversity and equal opportunities
 
 This is a broader concept that builds upon the progress made through equal opportunities. Everyone is different and diversity means recognising, respecting and valuing the differences we each bring to work.
 
 Equal opportunities and diversity work together by identifying and addressing any inequalities and barriers faced by people and by valuing, learning and benefiting from the diverse cultures in society and our staff.
+
+## Types of discrimination
 
 ### Direct discrimination
 
@@ -78,7 +78,7 @@ If you are disabled or become disabled, we would ask you to tell us about your c
 
 As part of your onboarding at Made Tech and at regular intervals thereafter you will be asked to complete an equality, diversity and inclusion monitoring questionnaire. The data we collect from these will be used to help us make decisions that help fulfil our equality, diversity and inclusion aims.
 
-### Breaches of the policy
+## Breaches of the policy
 
 All staff members have a right to equality of opportunity, and an obligation to uphold this policy. Managers must take responsibility for implementing the policy and for taking positive steps to promote equality at work.
 
