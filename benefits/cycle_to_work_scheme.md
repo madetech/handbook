@@ -11,7 +11,6 @@ You can calculate savings from Cyclescheme using their [calculator](https://www.
 - Pick a cycle retailer that support Cyclescheme
   - The full list or retailers can be found here - https://www.cyclescheme.co.uk/retailers/London
   - Previously employees have used/recommended:
-    - https://www.mangobikes.com/help/#cycle-schemes
     - https://www.bricklanebikes.co.uk/cyclescheme
 - Choose your bike and equipment
   - If it's your first bike some things you might need:
