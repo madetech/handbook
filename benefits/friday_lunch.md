@@ -4,7 +4,7 @@ Every Friday we pay for a team lunch.  This weekly ritual provides an opportunit
 
 Few rules:
 
-* One of the directors will pick-up the tab for lunch. If we're not around, somebody with a company card should be able to cover lunch, or it can be put through as an expense claim. When expensing Friday, choose the ‘Staff Meals’ account.
+* One of the directors will pick-up the tab for lunch. If we're not around, somebody with a company card should be able to cover lunch, or it can be put through as an expense claim. When expensing Friday lunch, choose the ‘Staff Meals’ account.
 
 * Generally we want everyone to eat together but if we go to a restaurant which excludes certain people like non-meateaters, meateaters and folk with other dietary requirements then a second option may be chosen and expensed. The majority of our restaurant list is friendly to all requirements :)
 
