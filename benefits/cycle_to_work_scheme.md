@@ -21,7 +21,7 @@ You can calculate savings from Cyclescheme using their [calculator](https://www.
 - Get a quote/work out the price from the retailer for all of this
 - Visit http://www.cyclescheme.co.uk/eb76a9
 - Fill out the request form
-  - You'll need your payroll number
+  - You'll need your payroll number which can be found under "Employee ID" on your Xero payslips
 - Once your certificate has been requested let a director know so they can find the email and approve it
 - Cyclescheme.co.uk will then generate and send an invoice to one of the directors (this will take some time, potentially a few days)
 - Once the invoice has been paid, download your certificate/provide it to the chosen retailer
