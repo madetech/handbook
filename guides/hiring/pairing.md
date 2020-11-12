@@ -12,7 +12,7 @@ Remotely, it's good to say hello to the other interviewers so they know you are 
 
 You’ll need to be there for the pairing. This starts 30 minutes after the start of the interview. It lasts 30 minutes.
 
-You’ll need to be there for the ‘debrief’ to share your feedback. This will normally happen at 5pm on the day of the interview.
+At 5pm on the day of the interview there is a debriefing session hosted by the recruiter. In attendance are the pairing interviewers, face to face interviewers and the Market Principle.
 
 For example:
 - An interview is taking place at 2pm, lasting until 4pm.
