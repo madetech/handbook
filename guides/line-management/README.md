@@ -23,7 +23,7 @@ Work with the Market Principal to extend or fail probations, if necessary.
 [See more guidance on probation](probation.md).
 
 ### Annual reviews
-Hold an review once a year, reflecting on the year's highlights and challenges.
+Hold a review once a year, reflecting on the year's highlights and challenges.
 This usually includes a salary review.
 This may include setting goals or themes for the coming year.
 
@@ -34,4 +34,3 @@ Help your direct report make a case for being promoted.
 Help them understand where they are underperforming.
 Help them plan to improve in these areas.
 As a last resort, give notice of terminating employment.
-
