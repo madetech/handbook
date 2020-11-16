@@ -12,7 +12,7 @@ We provide a pension scheme inline with the UK Government's rollout of automatic
 
 As your employer we will contribute towards your pension alongside your own contribution. 
 
-From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%**—a total minimum contribution equivilent to **8%** of your salary. 
+From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%**—a total minimum contribution equivalent to **8%** of your salary. 
 
 You can choose to increase your pension contribution sooner. You can do this by speaking with our finance department on finance@madetech.com.
 
@@ -20,7 +20,7 @@ You can choose to increase your pension contribution sooner. You can do this by 
 
 The workplace pension plan we use is a **relief at source** scheme. This means that pension contributions are taken _after_ tax has been deducted from your salary. 
 
-As private pension contributions are tax-exempt, the income tax that has been paid on your contributions is claimed back when the money reaches your pension plan. When you choose to pay a certain amount of your monthly salary into the pension plan, 80% of that amount will be deducted from you net pay and the remaining 20% (representing the [basic rate of income tax](https://www.gov.uk/income-tax-rates)) will be claimed back by Royal London as tax relief.
+As private pension contributions are tax-exempt, the income tax that has been paid on your contributions is claimed back when the money reaches your pension plan. When you choose to pay a certain amount of your monthly salary into the pension plan, 80% of that amount will be deducted from your net pay and the remaining 20% (representing the [basic rate of income tax](https://www.gov.uk/income-tax-rates)) will be claimed back by Royal London as tax relief.
 
 ### Higher rate tax payer
 
