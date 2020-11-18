@@ -74,6 +74,7 @@ Compensating you fairly:
 * [3rd Party Expenses](guides/3rd_party_services.md)
 * [VPN](guides/vpn)
 * [WiFi](guides/wifi)
+* [Line Management](guides/line-management)
 
 #### People
 
