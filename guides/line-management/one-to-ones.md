@@ -2,7 +2,7 @@
 
 You should meet frequently with your direct reports for a minimum of 1 hour per month. 
 
-There may be periods where you meet your direct reports more frequently or for longer times per month, such as during their probation period.
+There may be periods where you meet your direct reports more frequently or for longer/more frequent times per month, such as during their probation period.
 
 
 ## What are 121's used for?
