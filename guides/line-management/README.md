@@ -11,10 +11,10 @@ This guidance isn't complete yet. If you need help, ask:
 
 ## What do I need to do as a line manager?
 
-### One-to-one meetings
-Hold regular one-to-one meetings, at least once a month.
+### 121 meetings
+Hold regular 121 (one-to-one) meetings, at least once a month.
 
-See [One-to-Ones](./one-to-ones.md)
+See [121s](./one-to-ones.md)
 
 ### Probation
 Help your direct reports to pass their probation period.
