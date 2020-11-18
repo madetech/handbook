@@ -2,7 +2,7 @@
 
 You should meet frequently with your direct reports for a minimum of 1 hour per month. 
 
-During probation we recommend a 30 minute meeting every week or fortnightly to help a new person on-board successfully into Made Tech. 
+There may be periods where you meet your direct reports more frequently or for longer times per month, such as during their probation period.
 
 
 ## What are 121's used for?
