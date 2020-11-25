@@ -20,7 +20,7 @@ Hold regular 121 (one-to-one) meetings, at least once a month.
 Help your direct reports to pass their probation period.
 Work with the Market Principal to extend or fail probations, if necessary.
 
-[See more guidance on probation](probation.md).
+[See more guidance on probation](./probation.md).
 
 ### Annual reviews
 Hold a review once a year, reflecting on the year's highlights and challenges.
