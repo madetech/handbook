@@ -15,9 +15,9 @@ This guidance is written for line managers, but may be useful for people on prob
 
 ## What happens during probation?
 
-In the first week, explain what probation is, and how to pass it.
+In the first week, explain probation to your direct report. Talk about what it is, and how to pass it.
 
-Each week, meet your direct one-to-one.
+Each week, meet them one-to-one.
 Get feedback from their team, and reflect on it together.
 Talk often about whether they're on-track to pass.
 
@@ -25,12 +25,12 @@ At the end of probation, pass or fail it, and explain what happens next.
 
 ## Explaining how to pass probation
 
-Talk about what good looks like for their role. [The handbook role pages](../../roles/README.md) may help with this.
+Talk about what good looks like for your direct report's role. [The handbook role pages](../../roles/README.md) may help with this.
 It's good to spend the first two weeks talking about this.
 
 Explain that feedback is useful evidence on how they're performing.
 
-Tell your direct to ask their team for feedback. You can talk to your direct's team to help get more feedback, if needed.
+Tell them to ask their team for feedback. You can talk to their team directly to help get more feedback, if needed.
 
 ### Worries about failing probation
 
@@ -41,7 +41,7 @@ It can be stressful to be on probation. Explain early that:
 
 ## One-to-one meetings during probation
 
-We don't have guidance for one-to-ones in the handbook yet. In brief, ask your direct about their week:
+We don't have guidance for one-to-ones in the handbook yet. In brief, ask your direct report about their week:
 - How are they feeling?
 - What's gone well?
 - What's been difficult?
@@ -56,19 +56,21 @@ If it's not clear whether they are on-track four weeks in, ask their team for fe
 
 ## Finishing probation
 
-Make a recommendation to the Market Principal. This could be by e-mail. They have final say on whether to pass or fail probation.
+Make a recommendation on behalf of your direct report to the Market Principal. This could be by e-mail.
+
+The Market Principal has the final say on whether to pass or fail probation.
 
 ### Passing probation
 
-Congratulate your direct on passing probation. Tell them their new notice period.
+Congratulate them on passing probation. Tell them their new notice period.
 
 Decide together how often to have one-to-ones from now on.
 
-If your direct is doing very well, you can pass probation early. Talk to the Market Principal about this.
+If they're doing very well, you can pass probation early. Talk to the Market Principal about this.
 
 ### Failing probation
 
-Tell your direct they haven't passed probation, and give them notice of termination.
+Tell them they haven't passed probation, and give them notice of termination.
 
 We don't have guidance on how to give notice in the handbook yet. It can be difficult and stressful. Talk to the people team for support.
 
