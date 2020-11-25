@@ -39,20 +39,16 @@ It can be stressful to be on probation. Explain early that:
 - Getting regular feedback means the result won't be a surprise
 - You will guide and support them
 
-## One-to-one meetings during probation
+## One-to-one (121) meetings during probation
 
-We don't have guidance for one-to-ones in the handbook yet. In brief, ask your direct report about their week:
-- How are they feeling?
-- What's gone well?
-- What's been difficult?
-- What have they learned?
+Read our [general guidance for 121 meetings](../121s.md).
 
-For probation specifically:
-- Reflect on feedback together
-- Talk about whether they're on-track to pass
-- Offer to ask their team directly for feedback, if it's not forthcoming
+In probation, focus more on:
+- Giving and receiving feedback
+- Reflecting on feedback together
+- Whether they're on-track to pass
 
-If it's not clear whether they are on-track four weeks in, ask their team for feedback directly.
+Feedback can be difficult to get. If it's not clear whether they are on-track four weeks in, ask their team for feedback directly.
 
 ## Finishing probation
 
