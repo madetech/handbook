@@ -14,7 +14,7 @@ This guidance isn't complete yet. If you need help, ask:
 ### 121 meetings
 Hold regular 121 (one-to-one) meetings, at least once a month.
 
-See [121s](./121s.md)
+[See more guidance on 121s](./121s.md)
 
 ### Probation
 Help your direct reports to pass their probation period.
