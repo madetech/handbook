@@ -41,7 +41,7 @@ It can be stressful to be on probation. Explain early that:
 
 ## One-to-one (121) meetings during probation
 
-Read our [general guidance for 121 meetings](../121s.md).
+Read our [general guidance for 121 meetings](./121s.md).
 
 In probation, focus more on:
 - Giving and receiving feedback
