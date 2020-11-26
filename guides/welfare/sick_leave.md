@@ -6,7 +6,7 @@ Often when we think of sickness we think of colds, stomach bugs, and perhaps eve
 
 When people get sick we ask that they follow these guidelines:
 
-* Don't be a martyr. If you're sick, take the time off. We'd rather you stayed at home than come into the office and infect other people.
+* Don't be a martyr. If you're sick, take the time off. You should stay at home, don't come into the office and infect other people.
 
 * We can provide support if you need help with your [state of mind](state_of_mind.md).
 
