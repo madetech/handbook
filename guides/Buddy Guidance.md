@@ -10,7 +10,7 @@ When we're back in the office, you will show them all the good lunch places near
 As we're working remotely currently, most or all of your interactions will happen on video calls which we call 'coffee chats'.
 
 ## Buddies 
-- proactively and frequently check in with a new starter to see how they are doing. In the first 3 months you may check in 2-3 per month. After that time you can work out what suits you both, i.e. monthly catchup/remote lunch
+- proactively and frequently check in with a new starter to see how they are doing. In the first 3 months you may check in 2-3 times per month. After that time you can work out what suits you both, i.e. monthly catchup/remote lunch
 - offer their help and answer all questions (or direct to the right person) 
 - explain how things work here and where to find stuff
 - are available to the new team member for any guidance and often just a chat
