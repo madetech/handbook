@@ -30,7 +30,7 @@ function checkFile (fileName) {
               hasErrored = true
             }
 
-            console.log(chalk.grey(' [' + chalk.red('%s') + '] %s'), result.status, result.link)
+            console.log(chalk.grey(' [' + chalk.red('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
           }
         })
 
