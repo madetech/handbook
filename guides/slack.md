@@ -33,7 +33,7 @@ There are no other channels mandatory for _all_ users, but it is expected you wi
 
 ## Private channels and group chats
 
-Often private channels will be set of for specific tasks and group chats may be used to have small private discussions if necessary. It's worth noting that everything posted on our slack is logged and could be subject to a Freedom of Information request (specifically for channels relating to public sector projects), so it is wise to always use slack as if your message could be read.
+Private channels can be used for specific tasks and group chats may be used to have small private discussions if necessary. It's worth noting that everything posted on our slack is logged and could be subject to a Freedom of Information request (specifically for channels relating to public sector projects), so it is wise to always use slack as if your message could be read.
  
 # Notifications and Threads
  
