@@ -56,7 +56,7 @@ Using @channel will notify everyone in the channel who is present, and bypasses 
 
 # Conduct
 
-We have never outlined a specific set of rules of conduct and behaviour on slack as we have never needed to, please remember to be courteous, polite and treat your colleagues with respect, and while off topic and non-work chat is encouraged, please remember to keep such chat work friendly!
+Please remember to be courteous, polite and treat your colleagues with respect, and while off topic and non-work chat is encouraged, please remember to keep such chat work friendly!
 
 # Emojis, bots, integrations
 
