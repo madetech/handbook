@@ -7,11 +7,19 @@ This guide is not intended to be a set of rules around using slack, this documen
 
 # Profiles
 
-Please complete your profile fully on joining slack - this means a suitable profile picture (it does not have to be a picture of you, but a clear picture of your face is ideal), your full name and a representative display name.
-
-Please also include your group/role, email address and location.
-
-You can optionally fill in the pronunciation guide for your name and add your preferred pronouns if you feel comfortable doing so, and feel free to add any other information to the profile sections such as personal website etc.
+[Filling in your profile](https://slack.com/intl/en-gb/help/articles/204092246-Edit-your-profile) helps people find and interact with you on slack, so it is important your profile has the following information:
+ - Full name
+ - A display name/handle that is discoverable, such as your first name
+ - A picture (it doesn't have to be of you, but a clear view of your face is preferable.) This helps keep profiles easy to distinguish at a glance.
+ - Your role/working group
+ - Your office location
+ - Your Made Tech email address
+ 
+You can also optionally add the following useful information to your profile if you feel comfortable doing so:
+ - A pronunciation guide for your name
+ - Your preferred pronouns
+ - Personal website, interests, hobbies
+ - Emergency contact number
 
 
 # Channels
