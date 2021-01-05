@@ -25,33 +25,33 @@ Slack channels broadly fall under the following categories:-
  - General channels (no prefix). Company wide chanels such as `announcements`, `help` or regional channels such as `manchester` and _community of practice_ channels prefixed with `cop-`, these channels are used for cross company communication and tend have channel specific usage expecations, which should be detailed in their channel topic.
  - Off topic channels (prefixed `x-`). These channels are entirely optional to join and use, feel free to create off topic channels if your interest or hobby is not yet represented!
  - Bot channels or 'firehose' channels. It is occasionally useful to setup bots that post information to specific channels periodically, it is advised that you only need to join these channels if you are involved in monitoring such information.
- 
-## Mandatory channels
 
-As of writing, it is expected every slack user will be present in `#announcements`, this is so that everyone can be reached in case of an important announcement.
+As of writing, it is expected every slack user will be present in `#announcements` (in fact, you cannot leave this default channel), this is so that everyone can be reached in case of an important announcement.
 There are no other channels mandatory for _all_ users, but it is expected you will be in channels relevant to your working group.
 
 ## Private channels and group chats
 
 Private channels can be used for specific tasks and group chats may be used to have small private discussions if necessary. It's worth noting that everything posted on our slack is logged and could be subject to a Freedom of Information request (specifically for channels relating to public sector projects), so it is wise to always use slack as if your message could be read.
  
-# Notifications and Threads
+# Notifications and Availability
  
-It's generally expected you'll be available in relevant, non-optional channels during working hours - this means project/group channels you're directly involved in and `#announcements`. When minimising notification noise, it's entirely reasonable for you to set availability with the teams you're working with. All other optional channels are exactly that, optional. It is also reasonable to mute slack entirely and check periodically, whatever works best for you, remembering that slack is the primary method of communication within the company while remote.
+It's generally expected you'll be available in relevant, non-optional channels during working hours. It's entirely reasonable to snooze notifications during focus time, if something is important people can opt to push notifications anyway or call. It is up to individuals to create a shared understanding of slack availability with the teams they are working with, there is no one-size-fits-all guidance.
 
-## Threads
+We do not expect anyone to respond immediately - we understand slack is an asyncronous tool.
 
-We don't have a set etiquette regarding threads, though generally we try to keep specific discussions in general channels to threads. Some notable exceptions currently are `announcements`, and `help`, where threading posts is actively encouraged. Any channels with specifc threading (or other) requirements will describe this in the channel topic.
+# Threads
 
-## @ Usage
+We encourage you to keep specific discussions in general channels to threads. Responding to a message by creating a thread reduces notification bloat for other users of the channel, and you will only be notified of further thread responses if you are participating in that discussion. You can 'follow' and 'unfollow' threads to further control notifications you receive.
 
-### @user
+# @ Usage
+
+## @user
 You use @user to get a specific user's attention in any channel where you'd like to ensure they get notified about something important.
 
-### @here
+## @here
 Using @here will notify every user who is in the channel and active, for company wide mandatory channels this will usually be used to ensure important announcements are flagged. In other channels, feel free to use @here if you believe the post is immediately relevant to every user present. Some channels can get '@here noisy' such as `#help` where people are seeking to generate awareness, it is entirely reasonable to leave or mute such optional channels.
 
-### @channel
+## @channel
 Using @channel will notify everyone in the channel who is present, and bypasses some settings such as muting the channel. This is only used for messages of the utmost importance and should generaly be used sparingly.
 
 # Conduct
