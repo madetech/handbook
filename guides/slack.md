@@ -9,9 +9,10 @@ This guide is not intended to be a set of rules around using slack, this documen
 
 Please complete your profile fully on joining slack - this means a suitable profile picture (it does not have to be a picture of you, but a clear picture of your face is ideal), your full name and a representative display name.
 
-You can optionally fill in the pronunciation guide for your name and add your preferred pronouns if you feel comfortable doing so.
+Please also include your group/role, email address and location.
 
-Please also include your up to date email address and group/role, and the location you are based.
+You can optionally fill in the pronunciation guide for your name and add your preferred pronouns if you feel comfortable doing so, and feel free to add any other information to the profile sections such as personal website etc.
+
 
 # Channels
 
@@ -20,7 +21,7 @@ Slack channels broadly fall under the following categories:-
  - Project channels (named after the project). If you are working on that delivery, it is expected you'll be in that channel, otherwise open project channels are optional.
  - Supply channels (prefixed `supply-`). These channels are used by groups focusing on how we _supply_ deliverables. Optional unless directly involved with this group.
  - Demand channels (prefixed `demand-`). These channels are used by groups focusing on how we engage with other organisations. Optional unless directly involved with this group.
- - Group channels (such as `ops-` or `academy-`). Channels used by 
+ - Group channels (such as `ops-` or `academy-`). Channels used by operational groups, optional unless directly involved.
  - Specific purpose channels (usually prefixed with their temporary purpose, for example `bid-`). Temporary channels used for teams fulfilling a specific related task. Optional unless involved with the task, and will be archived after completion.
  - General channels (no prefix). Company wide chanels such as `announcements`, `help` or regional channels such as `manchester` and _community of practice_ channels prefixed with `cop-`, these channels are used for cross company communication and tend have channel specific usage expecations, which should be detailed in their channel topic.
  - Off topic channels (prefixed `x-`). These channels are entirely optional to join and use, feel free to create off topic channels if your interest or hobby is not yet represented!
