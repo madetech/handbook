@@ -34,10 +34,10 @@ There are no other channels mandatory for _all_ users, but it is expected you wi
 Private channels can be used for specific tasks and group chats may be used to have small private discussions if necessary. It's worth noting that everything posted on our slack is logged and could be subject to a Freedom of Information request (specifically for channels relating to public sector projects), so it is wise to always use slack as if your message could be read.
  
 # Notifications and Availability
- 
-It's generally expected you'll be available in relevant, non-optional channels during working hours. It's entirely reasonable to snooze notifications during focus time, if something is important people can opt to push notifications anyway or call. It is up to individuals to create a shared understanding of slack availability with the teams they are working with, there is no one-size-fits-all guidance.
 
-We do not expect anyone to respond immediately - we understand slack is an asyncronous tool.
+We generally understand slack is an asyncronous tool - we do not expect immediate responses or constant availability.
+
+The team you are working with will expect a level of availability, which can be at odds with reducing notification distractions and focus. We encourage teams to communicate openly and agree ways of working that suit the individuals and the task at hand, and we recommend utilising 'notification free' focus time and respecting focus time of others where possible.
 
 # Threads
 
