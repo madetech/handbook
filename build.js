@@ -31,7 +31,7 @@ function checkFile (fileName) {
           if result.status === 'ignored' {
             console.log(chalk.grey(' [' + chalk.yellow('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
           } else if (result.status !== 'alive') {
-            if (!hasErrored || result.status !== 'ignored') {
+            if (!hasErrored) {
               console.log('%s', fileName)
               hasErrored = true
             }
