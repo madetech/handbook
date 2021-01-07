@@ -38,7 +38,7 @@ Collating this evidence is something the individual should do themselves over a 
 - Endorsements from project leadership
 
 Collecting and compiling this evidence into a document is primarily the responsibility of the individual to be promoted, though you can help edit and format the document before adding your own additions:
- - Write an introduction to the document summarising the individual and their progress since you began line managing them or their last promotion, whichever is applicable.
+ - Write an introduction to the document summarising the individual's progress since you began line managing them or their last promotion, whichever is applicable.
  - Conclude the document with your closing thoughts on why you agree that this individual is ready to take on their next role.
 
 We recommend advising the individuals you line manage to collect and record this evidence over time regardless of actively seeking upcoming promotions, and that this isn't likely to be a purely objective experience, they are looking to sell themselves and that is a skill that can be developed and nurtured like any other.
@@ -47,7 +47,7 @@ We recommend advising the individuals you line manage to collect and record this
 
 When you and the individual seeking promotion feel they've gathered enough evidence and the document is ready, send an email to the Market Principal or their region that clearly outlines the role you are seeking for whom and the salary expectation you have attached to the promotion. Ensure your 'case document' is attached for reference.
 
-You should arrange to 'present' the document and talk through it with the Market Principal informally, to help them form a decision and answer any further questions they may have.
+You should arrange to present the document and talk through it with the Market Principal informally, to help them form a decision and answer any further questions they may have.
 
 ### What should I do if the promotion case is refused?
 
