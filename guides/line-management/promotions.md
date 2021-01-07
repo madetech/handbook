@@ -14,7 +14,7 @@ It's difficult to provide a one-size-fits-all answer to this question, but ultim
 
 ## How do I seek promotion for someone?
 
-The act of seeking a promotion could be considered similar tois ultimately presenting the case for the individual to the Market Principal of their region.
+The act of seeking a promotion is ultimately presenting the case for the individual to the Market Principal of their region.
 
 You're asking the Market Principal to consider hiring this individual in the new role in their region, doing so can be influenced by a number of factors, including the state of the current contracted work in the region, ongoing hiring, budgets and more.
 
