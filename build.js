@@ -17,8 +17,12 @@ function checkFile (fileName) {
       handleError(err)
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
+      
+      const ignorePatterns = [
+        { pattern: /www.glassdoor.co.uk/ } # glassdoor returns 503 status to circle ci hosts
+      ]
 
-      markdownLinkCheck(md, { baseUrl }, (err, results) => {
+      markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
