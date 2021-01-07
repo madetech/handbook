@@ -17,14 +17,20 @@ function checkFile (fileName) {
       handleError(err)
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
+      
+      const ignorePatterns = [
+        { pattern: /www.glassdoor.co.uk/ } // glassdoor returns 503 status to circle ci hosts
+      ]
 
-      markdownLinkCheck(md, { baseUrl }, (err, results) => {
+      markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
 
         results.forEach(function (result) {
-          if (result.status !== 'alive') {
+          if (result.status === 'ignored') {
+            console.log(chalk.grey(' [' + chalk.yellow('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
+          } else if (result.status !== 'alive') {
             if (!hasErrored) {
               console.log('%s', fileName)
               hasErrored = true
