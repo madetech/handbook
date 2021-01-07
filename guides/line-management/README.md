@@ -27,6 +27,8 @@ Hold a review once a year, reflecting on the year's highlights and challenges.
 This usually includes a salary review.
 This may include setting goals or themes for the coming year.
 
+[See more guidance on annual reviews](./annual_reviews.md)
+
 ### Promotions
 Help your direct report make a case for being promoted.
 
