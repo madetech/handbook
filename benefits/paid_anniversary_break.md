@@ -29,7 +29,7 @@ You can opt to take the break as a bonus, paid at £3500 for three years or £70
 
 You can delay taking and using your holiday benefit for up to 12 months after your anniversary date, though we would consider extending this based on how long you've been subject to local travel restrictions.
 
-Please let the people team know what you'd like to do if you will be eleigible for either benefit during travel restrictions.
+Please let the people team know what you'd like to do if you will be eligible for either benefit during travel restrictions.
 
 ## Notice
 The usual guidelines for taking time off apply here - [Flexible Holiday](https://github.com/madetech/handbook/blob/master/benefits/flexible_holiday.md)
