@@ -1,6 +1,8 @@
 # Promotions
 
-This guidances is intended to help line managers to facilitate the career progression of the people they line manage.
+This guidance is written for line managers. It'll help you understand how promotions work at Made Tech. 
+
+You're responsible for supporting people you line manage when they want to get promoted.
 
 ## When should I look to promote someone?
 
