@@ -22,5 +22,14 @@ To book the accommodation and flights please use a Directors company credit card
 The spending money can either be claimed back via expenses (Xero) or you can request a pre-paid company credit card.
 There will be an extra budget if you bring your children along. To request the pre-paid card or extra budget, please speak to Yasemin.
 
+## COVID-19
+Given the nature of the pandemic, we're offering a temporary alternative to the paid anniversary break.
+
+You can opt to take the break as a bonus, paid at £3500 for three years or £7000 for five years. Please note that this will be paid as net income and subject to tax.
+
+You can delay taking and using your holiday benefit for up to 12 months after your anniversary date, though we would consider extending this based on how long you've been subject to local travel restrictions.
+
+Please let the people team know what you'd like to do if you will be eleigible for either benefit during travel restrictions.
+
 ## Notice
 The usual guidelines for taking time off apply here - [Flexible Holiday](https://github.com/madetech/handbook/blob/master/benefits/flexible_holiday.md)
