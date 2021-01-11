@@ -10,7 +10,7 @@ It's difficult to provide a one-size-fits-all answer to this question, but ultim
 
 - They exhibit some or all of the core competencies for their desired role
 - They are consistently evidencing some or all attributes that are described in the SFIA level that corresponds to their desired role
-- They have examples of exemplory work or feedback received
+- They have examples of exemplary work or feedback received
 - They have received endorsement from the leads of their current project
 - They display the potential to succeed in the desired role
 
