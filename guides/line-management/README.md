@@ -20,7 +20,7 @@ Hold regular 121 (one-to-one) meetings, at least once a month.
 Help your direct reports to pass their probation period.
 Work with the Market Principal to extend or fail probations, if necessary.
 
-[See more guidance on probation](./probation.md).
+[See more guidance on probation](./probation.md)
 
 ### Annual reviews
 Hold a review once a year, reflecting on the year's highlights and challenges.
@@ -34,3 +34,5 @@ Help your direct report make a case for being promoted.
 Help them understand where they are underperforming.
 Help them plan to improve in these areas.
 As a last resort, give notice of terminating employment.
+
+[See more guidance on performance management](./performance.md)
