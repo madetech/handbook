@@ -10,7 +10,7 @@ Our Engineers deliver digital, data and technology outcomes that improve society
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
-As an Engineer 2 you will collaboratively lead planning of work, seeking feedback and support when needed, influence the approach taken to deliver features for our customers and their users, and will be comfortable managing complex changes within a single system.
+As an Engineer 2 you will join a team delivering complex, modern solutions with a focus on meeting user needs. You'll be part of planning and completing work, seeking feedback and guidance when needed, and influence the approach and design of the systems you build.
 
 You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all our engineers to be keen on learning new skills.
 
