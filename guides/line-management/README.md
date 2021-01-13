@@ -32,6 +32,8 @@ This may include setting goals or themes for the coming year.
 ### Promotions
 Help your direct report make a case for being promoted.
 
+[See more guidance on promotions](./promotions.md)
+
 ### Help underperforming people
 Help them understand where they are underperforming.
 Help them plan to improve in these areas.
