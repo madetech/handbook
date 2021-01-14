@@ -50,7 +50,7 @@ Reassure your reportee that having extra support and direct intervention will ha
 
 ## Terminating employment
 
-It's really important to be explicit about what the outcomes we are looking for are and also balance that with eventual consequences of not seeing improvements to  persons performance.
+It's really important to be explicit about what the outcomes we are looking for are and also balance that with eventual consequences of not seeing improvements to a persons performance.
 
 We want to do everything we can to support someone who is not meeting expectations and that is our first aim.
 
