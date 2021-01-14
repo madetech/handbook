@@ -35,4 +35,4 @@ Help them understand where they are underperforming.
 Help them plan to improve in these areas.
 As a last resort, give notice of terminating employment.
 
-[See more guidance on performance management](./performance.md)
+[See more guidance on helping underperformance](./performance.md)

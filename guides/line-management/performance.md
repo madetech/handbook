@@ -22,9 +22,15 @@ Begin by speaking to the team lead that has raised concerns, your goal is to und
 
 It's important to note that each team should provide support and give useful, constructive feedback. If you aren't satisfied this is the case, you should be clear that you believe these steps need to be taken before performance management, and you should support the team to provide the necessary feedback and review performance periodically.
 
+<<<<<<< Updated upstream
 Meet with your reportee and the people team. The purpose of this is to begin with an empathetic approach and understand if there are external factors or issues affecting your reportee that we can provide support with, doing so may avoid direct intervention.
 
 The decision to begin performance management officially will be made between an individual's line manager, their team lead, and the people team.
+=======
+Meet with your reportee and the Head of People. The purpose of this is to begin with an empathetic approach and understand if there are external factors or issues affecting your reportee that we can provide support with, doing so may avoid direct intervention.
+
+The decision to begin performance management officially will be made between an individual's line manager, their team lead, and the Head of People.
+>>>>>>> Stashed changes
 
 ## Performance management is necessary, what's next?
 
@@ -33,14 +39,23 @@ The decision has been made to seek direct intervention, which will be your respo
 Unfortunately, giving detailed guidance for this is difficult as it will depend heavily on the situation at hand, the people team and the line manager community of practice will support you as much as possible. Remember the key points:
  - Approach the situation with empathy
  - Clearly identify what we need to do, and how
+<<<<<<< Updated upstream
  - Clearly identify how we will measure success and know when direct intervention can be eased
+=======
+ - Clearly identify how we will measure success
+ - Clearly define the timeframe for meeting expectations
+>>>>>>> Stashed changes
  - Be honest and open about the situation - remember that feedback is information
 
 Review progress as often as possible, ideally every week during this process. Remember that this process can be intense and a source of anxiety, again refer to the people team for support we can offer to everyone involved. Reassure your reportee that we want to see them succeed in their role!
 
 ## Ending performance management
 
+<<<<<<< Updated upstream
 Ideally, you reportee will be able to show progress and reach the goals you've set together, and will no longer need close monitoring. Gain endorsement from their team lead that this is the case, and inform the people team that you'll cease performance management officially.
+=======
+Ideally, you reportee will be able to show progress and reach the goals you've set together, and will no longer need close monitoring. Gain endorsement from their team lead that this is the case, and inform the Head of People that you'll cease performance management officially.
+>>>>>>> Stashed changes
 
 It's important from here that support structures you've built together don't immediately disappear, it's recommended to keep iterating on the goals and growth plan, and to review outcomes regularly, gradually reducing the review frequency to a normal cadence.
 
@@ -48,4 +63,12 @@ Reassure your reportee that having extra support and direct intervention will ha
 
 ## Terminating employment
 
+<<<<<<< Updated upstream
 It's possible that as a last resort, you may be asked to serve notice of termination to your reportee. This decision will not be taken lightly, and will be made after exhausting all other options. The people team will advise you based on the progress of performance management efforts so far if this is necessary, and will advise of what to do.
+=======
+It's really important to be explicit about what the outcomes we are looking for are and also balance that with eventual consequences of not seeing improvements to  persons performance.
+
+We want to do everything we can to support someone who is not meeting expectations and that is our first aim.
+
+In some cases, and as a last resort, we may need to serve notice of termination of employment. This would be supported by the Head of People and you should engage them in this process as soon as underperformance is identified.
+>>>>>>> Stashed changes
