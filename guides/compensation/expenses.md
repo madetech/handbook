@@ -11,10 +11,9 @@ We provide some examples below of what is okay to expense. We trust you to be ab
 - Small computer equipment (HDMI adapters etc.)
 - Amenities for the office (coffee, fruit, biscuits, etc.)
 - Lunch and drinks for a customer
-- Taxi to and from the office for a meeting
-- Taxi home after working late
 - Stationary (post-it notes, notepads, etc.)
 - Conference tickets (speak with a Director or Line Manager if over £150 per ticket)]
+- [Travel from your primary place of work](expenses/travel.md)
 - [Equipment to enable you to work from home](expenses/working_from_home.md)
 
 Sometimes as part of a delivery you may need to undertake travel (stay at a hotel, feed yourself etc.), and the customer agrees to cover this expense. When you pay for this off your own card, Made Tech will reimburse you and then seek to recoup the cost from the client via the monthly invoicing process. It is the responsibility of Delivery Leads to discuss with customers what is expensable or not, as customers may have guidelines about what can be expensed.
