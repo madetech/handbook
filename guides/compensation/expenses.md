@@ -8,13 +8,14 @@ We provide some examples below of what is okay to expense. We trust you to be ab
 
 - Books for work (programming, best practice, sales, etc.)
 - Training costs
-- Computer equipment (new monitor, keyboard, HDMI adapters, etc.)
+- Small computer equipment (HDMI adapters etc.)
 - Amenities for the office (coffee, fruit, biscuits, etc.)
 - Lunch and drinks for a customer
 - Taxi to and from the office for a meeting
 - Taxi home after working late
 - Stationary (post-it notes, notepads, etc.)
-- Conference tickets (speak with a Director or Line Manager if over £150 per ticket)
+- Conference tickets (speak with a Director or Line Manager if over £150 per ticket)]
+- [Equipment to enable you to work from home](expenses/working_from_home.md)
 
 Sometimes as part of a delivery you may need to undertake travel (stay at a hotel, feed yourself etc.), and the customer agrees to cover this expense. When you pay for this off your own card, Made Tech will reimburse you and then seek to recoup the cost from the client via the monthly invoicing process. It is the responsibility of Delivery Leads to discuss with customers what is expensable or not, as customers may have guidelines about what can be expensed.
 
@@ -41,7 +42,7 @@ To get reimbursed:
 
 All of the above criteria need to be included in your expense to be accepted by Finance.
 
-You do not need to use this method for expensing subscriptions to services required as part of a delivery, such as Trello/Sentry etc. For these delivery related expenses, please request card details via the [Third Party Expense Form](../../guides/3rd_party_services.md)
 
 ## Does Made Tech ever cover the cost of customer-related expenses?
-That depends. In the case of customer entertainment (e.g. buying drinks for customers), yes. In all other cases, such as signing up for a third party service to support a customer delivery, only as a only as a last resort and only with Director approval.
+
+That depends. In the case of customer entertainment (e.g. buying drinks for customers), yes. In all other cases, such as signing up for a third party service to support a customer delivery this should typically be procured by the customer.
