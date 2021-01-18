@@ -90,6 +90,10 @@ Compensating you fairly:
 * [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
+#### IT
+
+* [Software Licenses](guides/it/software_licenses.md)
+
 #### Security
 
 * [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
