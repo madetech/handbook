@@ -1,6 +1,6 @@
 # Software Licenses
 
-Should you require a software license, or access to an existing or new software service, please get in touch with IT support in the first instance by emailing [itsupport@madetech.com](itsupport@madetech.com).
+Should you require a software license, or access to an existing or new software service, please get in touch with IT support in the first instance by emailing [itsupport@madetech.com](mailto:itsupport@madetech.com).
 
 Please describe:
 
