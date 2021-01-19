@@ -1,6 +1,6 @@
 # Software Engineer 2
 
-Bristol, Manchester & London, UK.
+Bristol, Swansea, Manchester & London, UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
@@ -10,7 +10,7 @@ Our Engineers deliver digital, data and technology outcomes that improve society
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
-As an Engineer 2 you will collaboratively lead planning of work and the development of features, coordinating with stakeholders and thier users, and seeking freedback and support when needed, to help influence the approach taken.  You will be comfortable managing complex changes within a single system, and seek support when managing change across multiple systems, ensuring that features meet project outcomes and user needs. 
+As an Engineer 2 you will actively contribute to planning of work and the development of features, helping to define the features and approach to delivering them. You will proactively pick up complex features, seeking guidance and support when needed to complete them, and be comfortable architecting and delivering simple features in new contexts. 
 
 You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all our engineers to be keen on learning new skills.
 
@@ -75,7 +75,7 @@ Compensating you fairly:
 
 The salary for this role is location dependant:
 
-- Bristol: £36,900-£45,000
+- Bristol & Swansea: £36,900-£45,000
 - Manchester: £36,900-£45,000
 - London: £40,000-£50,000
 
