@@ -24,18 +24,6 @@ This Employee Referral Program Policy applies to all our employees who refer can
 
 __Charity__ – should you wish to not take us up on any of the exciting incentives then you can opt to make a charitable donation which we will make on your behalf to our associated charity for the given year of the campaign.
 
-## Additional rules for rewards
-
-* Employees will receive awards within 30 days of each stage
-* We never say no to a receiving a profile of a referral and will ensure that someone from our
-TA team contacts that individual within 72hrs of receipt of the profile – you can refer as many time as you wish.
-Please be sure to evaluate our roles and requirements and make a judgement on suitability to ensure everyone’s time and expectations are well managed.
-* If the same candidate is referred by multiple employees, the first employee gets a reward, so act fast if you know someone that could be suited to our open positions.
-* There is a 12 month time limit on a referred candidate, meaning if you refer someone to us and they are not right for the current positions now, you could still receive a payment if they are hired in the next 12 months.
-You will however not receive a payment if you leave Made Tech.
-However the reward will align to the level set at the time of the introduction for our standard scheme (ie. Outside of promotional campaigns or revisions of this policy)
-* Any financial reward is of course open to taxation and as such please contact finance should you have any questions regarding the deductions – which will be automatically made in your pay cycle
-
 ## Who is eligible to take part?
 
 All our permanent employees are eligible to take part in this program – as such the program does not include contractors or third-party vendors.
@@ -50,6 +38,18 @@ Not all candidates can be referred. The only groups of people who cannot be refe
 
 * That have applied in the past 6 months
 * Who were previously terminated from employment with us for any reason
+
+## Additional rules for rewards
+
+* Employees will receive awards within 30 days of each stage
+* We never say no to a receiving a profile of a referral and will ensure that someone from our
+TA team contacts that individual within 72hrs of receipt of the profile – you can refer as many time as you wish.
+Please be sure to evaluate our roles and requirements and make a judgement on suitability to ensure everyone’s time and expectations are well managed.
+* If the same candidate is referred by multiple employees, the first employee gets a reward, so act fast if you know someone that could be suited to our open positions.
+* There is a 12 month time limit on a referred candidate, meaning if you refer someone to us and they are not right for the current positions now, you could still receive a payment if they are hired in the next 12 months.
+You will however not receive a payment if you leave Made Tech.
+However the reward will align to the level set at the time of the introduction for our standard scheme (ie. Outside of promotional campaigns or revisions of this policy)
+* Any financial reward is of course open to taxation and as such please contact finance should you have any questions regarding the deductions – which will be automatically made in your pay cycle
 
 Thank you to all of our Made Tech employees for taking the time to consider their networks, social and professional as potential resources for referred candidates.
 
