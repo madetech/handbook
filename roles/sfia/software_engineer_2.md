@@ -44,7 +44,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Influencing a wider range of colleagues through sharing opinions and ideas in forums outside of their immediate deliveries
 - Expected to also seek opportunities to share opinions and ideas to peers within customer and partner organisations
 - Provides guidance and support to more junior members of the team in helping them identify what work to pick up
-"Able to iteratively deliver features of reasonable complexity, in known contexts
+- Able to iteratively deliver features of reasonable complexity, in known contexts
 - Able to architect and deliver simple features in new contexts
 - Uses a range of techniques and best practices to build easy to maintain solutions
 - Has developed strong debugging skills, and can remediate issues both locally and in deployed environments
@@ -52,7 +52,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Proficient in multiple languages, frameworks and technologies
 - Able to be proficient within many contexts due to varied and deepening knowledge of technologies
 - Able to mentor, train and coach others in their areas of knowledge
-- Are endorsed by colleagues as knowledgable in a number of skills
+- Are endorsed by colleagues as knowledgeable in a number of skills
 - Working towards industry recognised training certifications
 - Shares knowledge with others through blog posts and talks
 - Demonstrates effective communication skills
