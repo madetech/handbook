@@ -38,8 +38,8 @@ We provide 12 weeks Shared Parental Leave at full pay and up to 39 weeks at stat
 The breakdown of pay is as follows if you qualify for SPL:
 
 - 12 weeks at 100% pay (from Made Tech)
-- 6 weeks at 90% pay (Statutory Maternity Pay)
-- 33 weeks at £151.20 or 90% pay which ever is lower (Statutory Maternity Pay)
+- 6 weeks at 90% pay (Statutory Shared Parental Pay)
+- 33 weeks at £151.20 or 90% pay which ever is lower (Statutory Shared Parental Pay)
 - return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
 
 The rules around SPL are fairly complex, government guidelines are available here: [https://www.gov.uk/shared-parental-leave-and-pay](https://www.gov.uk/shared-parental-leave-and-pay).
