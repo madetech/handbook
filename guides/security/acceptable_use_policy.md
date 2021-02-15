@@ -42,7 +42,7 @@ Phishing and in particular spear phishing (which targets specific individuals wi
 If you experience or see anything suspicious, or anything that you know breaks one of our security policies, report it to either the IMS manager or CSO. As a general rule, if you are not sure whether to report something, report it anyway. We'd always rather know. 
 
 ## I will manage software responsibly
-Made Tech needs to account for, and report against all its software assets to comply with best industry practice, so you should install any software in accordance with the licensing requirements. You should also not remove any software installed by the Made Tech Internal IT team without first agreeing a case for doing so.
+Made Tech needs to account for, and report against all its software assets to comply with best industry practice, so you should install any software in accordance with the licensing requirements. You should also not remove any software installed by the Made Tech Internal IT team without first agreeing a case for doing so, and should install updates promptly if requested.
 
 ## I ensure any software I use is up to date
 You are responsible for keeping your device software up to date with updates and security patches. The Made Tech Internal IT Services team, will from time to time audit and validate the status of your device.
