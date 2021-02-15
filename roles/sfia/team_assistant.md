@@ -1,4 +1,4 @@
-# SFIA Role Guidance: Academy Software Engineer
+# SFIA Role Guidance: Team Assistant 
 
 [SFIA Level 2: Follow](https://sfia-online.org/en/sfia-7/responsibilities/level-2)
 
