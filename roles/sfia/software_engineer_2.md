@@ -61,3 +61,4 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Demonstrates an analytical and systematic approach to issue resolution
 - Takes the initiative in identifying and negotiating appropriate personal development opportunities
 - Understands how own role impacts security and demonstrates routine security practice and knowledge required for own work
+- is regularly participating in workshops and internal learning groups
