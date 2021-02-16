@@ -48,7 +48,7 @@ Please be sure to evaluate our roles and requirements and make a judgement on su
 * If the same candidate is referred by multiple employees, the first employee gets a reward, so act fast if you know someone that could be suited to our open positions.
 * There is a 12 month time limit on a referred candidate, meaning if you refer someone to us and they are not right for the current positions now, you could still receive a payment if they are hired in the next 12 months.
 You will however not receive a payment if you leave Made Tech.
-However the reward will align to the level set at the time of the introduction for our standard scheme (ie. Outside of promotional campaigns or revisions of this policy)
+* The amount of the reward will align to the level set at the time the introduction was made
 * Any financial reward is of course open to taxation and as such please contact finance should you have any questions regarding the deductions – which will be automatically made in your pay cycle
 
 Thank you to all of our Made Tech employees for taking the time to consider their networks, social and professional as potential resources for referred candidates.
