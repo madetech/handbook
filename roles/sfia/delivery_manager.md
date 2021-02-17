@@ -2,7 +2,7 @@
 
 [SFIA Level 4: Follow](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
 
-[next &raquo;](senior_delivery_manager.md)
+[&laquo; previous](junior_delivery_manager.md) | [next &raquo;](senior_delivery_manager.md)
 
 ## Required competency for role
 
