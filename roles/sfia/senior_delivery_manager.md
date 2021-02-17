@@ -2,6 +2,8 @@
 
 [SFIA Level 5: Follow](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
 
+[&laquo; previous](delivery_manager.md)
+
 ## Required competency for role
 
 ### Autonomy
