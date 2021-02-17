@@ -2,7 +2,7 @@
 
 [SFIA Level 3: Follow](https://sfia-online.org/en/sfia-7/responsibilities/level-3)
 
-[next &raquo;](delivery_manager.md)
+[&laquo; previous](team_assistant.md) | [next &raquo;](delivery_manager.md)
 
 ## Required competency for role
 
