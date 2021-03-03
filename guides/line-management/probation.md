@@ -13,22 +13,26 @@ This guidance is written for line managers, but may be useful for people on prob
 - [One-to-one meetings during probation](#one-to-one-meetings-during-probation)
 - [Finishing probation](#finishing-probation)
 
+
 ## What happens during probation?
 
 In the first week, explain probation to your direct report. Talk about what it is, and how to pass it.
 
-Each week, meet them one-to-one.
-Get feedback from their team, and reflect on it together.
-Talk often about whether they're on-track to pass.
 
-At the end of probation, pass or fail it, and explain what happens next.
+Each week, meet them one-to-one.
+Get feedback from their team, and reflect on it together. You should clarify the need for constructive feedback here - it's important to set progression goals and this helps identifying areas for development. 
+Ensure clarity on role expectations and core values.
+Talk often about whether they're on-track to pass. 
+Be honest and upfront about concerns or skills gaps and support your direct report by providing clarity on what those are, and discuss finding opportunities for them to demonstrate progress.
+
+Before the end of the probation period you must have confidence that the team member meets their role expectations and is aligned with our core values. Demonstrating both of these generally means that they are a great addition to our team and will help drive the company goals forward. Absence of either of those needs to be looked into more closely.
 
 ## Explaining how to pass probation
 
 Talk about what good looks like for your direct report's role. [The handbook role pages](../../roles/README.md) may help with this.
 It's good to spend the first two weeks talking about this.
 
-Explain that feedback is useful evidence on how they're performing.
+Explain that feedback is useful evidence on how they're performing. 
 
 Tell them to ask their team for feedback. You can talk to their team directly to help get more feedback, if needed.
 
@@ -53,6 +57,8 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 ## Finishing probation
 
 Make a recommendation on behalf of your direct report to the Market Principal. This could be by e-mail.
+
+Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values.
 
 The Market Principal has the final say on whether to pass or fail probation.
 
