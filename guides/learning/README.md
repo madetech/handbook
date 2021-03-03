@@ -1,36 +1,31 @@
 # Learning
 
-## Learn Tech
+## Learning & Development at Made Tech
 
-Every Friday between 13:30 and 17:00 the team come together to focus on learning new or developing existing skills.
+Learning & Mentoring is a core value at Made Tech and we strive to continuosly learn and improve ourselves. We want to share our own knowledge with others and default to a mentoring mindset when doing so internally and externally.
 
-Learn Tech consists of a number of tracks, where the whole company learn everything we need to know to make Made Tech an even more brilliant team. Tracks will run periodically throughout the year, between which more free-form learn tech sessions or personal development will take place.
+## What is available to me to develop myself
 
-* All permanent employees are expected to attend and be on time.
-* The time should be focussed on attaining, or be defining and/or improving skills relevant to your role at Made Tech.
+All team members have 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
+
+You will get a personal learning budget of £300 via our online learning platform, Learnerbly where you can access a variety of content, including buying books. 
+
+In addition to that, there will a variety of internally created content, plus partnerships with external providers for learning that we can't delivery inhouse - such as certifications and specialised courses.
+
+We also have a company wide learning budget for further training and courses. Our L&D Experience Manager is the best person to speak to if you want to learn more.
+
+* The 12 days should be focussed on attaining, and/or improving skills relevant to your role at Made Tech.
 
 ## Showcases
 
-Showcases are more free-form - between 16:30 and 17:00 there is an opportunity to present to the team.
+Showcases are free-form - every Friday between 16:30 and 17:00 there is an opportunity to present to the team.
 
 Use this as an opportunity to share with the wider group something of interest.
 
-This could be, for example, how you applied TDD discipline on your delivery team, or it could be how you approached infrastructure as code at your previous company.
+This could be, for example, how you applied TDD discipline on your delivery team, it could be how you approached infrastructure as code at your previous company or another learning topic such as 'What is active listening' 
 
-## Engineer roles
+* All permanent employees are expected to attend and be on time.
 
-### Onboarding
-
-Before joining a delivery team, you will spend some time with a mentor focussing on skills relevant to delivery teams.
-
-As a high level summary, we will cover the following -
-
-1. Watch the [introduction to TDD screencast](https://learn.madetech.com/videos/tennis.html).
-2. (Pair or mob with a mentor on) [code katas](https://learn.madetech.com/katas) using [Test Driven Development](https://learn.madetech.com/core-skills/tdd/) discipline.
-3. (Pair or mob with a mentor on) subcutaneous acceptance testing, and ATDD discipline.
-4. Explore with a mentor the central architectural concepts of Clean Architecture
-5. Discuss the SOLID principles with a mentor, with reference to Clean Architecture and (A)TDD.
-6. Be introduced to the [Tic Tac Toe sparring exercise](https://learn.madetech.com/sparring/tic-tac-toe/)
 
 ### Core Skills
 
