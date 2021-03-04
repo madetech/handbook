@@ -4,7 +4,7 @@
 
 Learning & Mentoring is a core value at Made Tech and we strive to continuosly learn and improve ourselves. We want to share our own knowledge with others and default to a mentoring mindset when doing so internally and externally.
 
-## What is available to me to develop myself
+## What resources are available to develop myself
 
 All team members have 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
 
