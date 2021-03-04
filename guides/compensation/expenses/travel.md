@@ -9,8 +9,8 @@ Some examples of work travel you can expense:
 - Travelling to work at a client site outside of the region of your Made Tech office
 
 
-## Using your own car
-You can use your private car where you cannot or it's not practical to use public transportation to travel for business. The current reimbursement rate as prescribed by HMRC is 45p per mile (up to 10k miles).
+## Using your own vehicle
+You can use your private car where you cannot or it's not practical to use public transportation to travel for business. The current reimbursement rate as [prescribed by HMRC](https://www.gov.uk/expenses-and-benefits-business-travel-mileage/rules-for-tax) is 45p per mile (up to 10k miles).
 
 When claiming your mileage, please use a journey planner such as Google Maps to get the round-trip distance and include a screenshot when expensing. 
 
