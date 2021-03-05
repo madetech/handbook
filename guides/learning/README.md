@@ -8,6 +8,8 @@ Learning & Mentoring is a core value at Made Tech and we strive to continuosly l
 
 All team members have 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
 
+* Find out [how to book learning time](guides/learning/booking_learning_time.md) 
+
 You will get a personal learning budget of £300 via our online learning platform, Learnerbly where you can access a variety of content, including buying books. 
 
 In addition to that, there will a variety of internally created content, plus partnerships with external providers for learning that we can't delivery inhouse - such as certifications and specialised courses.
