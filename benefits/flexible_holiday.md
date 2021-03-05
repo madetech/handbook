@@ -22,7 +22,7 @@ If you wish to book holiday outside of these guidelines, please raise this reque
 
 Having several team members away at the same time can make life really difficult for everyone else. Try to forward-plan your holiday, so it doesn't have a detrimental affect on your team members or on the company.
 
-Our guideline on this is that only 1 person from each team may be away at any one time. If you wish to book holiday outside of these guidelines, please raise this request with the people team.
+We recommend you check with your Delivery Lead whenever you join a new team. Our general guideline on this is that only 1 person from a small team (less than 4) may be away at any one time. For larger teams (5+) please refer to your Delivery or Team Lead to confirm what works best for your team. 
 
 ## Who approves holiday?
 
