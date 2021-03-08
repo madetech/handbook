@@ -4,7 +4,7 @@
 
 Made Tech hours are 35 per week, 7 hours per day full time. Part-time hours are prorated and reflected in Harvest according to your agreed hours. 
 
-Only billable team members need to complete a timesheet and you will be notified at your onboarding session if you need to complete one. The timesheet must be completed to account for all of your time in the working week. 
+All billable team members need to complete a timesheet and you will be notified at your onboarding session if you need to complete one. The timesheet must be completed to account for all of your time in the working week. Non-billable staff (e.g. group functions like Operations, Marketing and People) do not need to complete one.
 
 Time can be completed in advance but in your unplanned absence your delivery manager can complete your timesheet. 
 
