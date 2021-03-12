@@ -40,7 +40,7 @@ Some categories should be used where there is significant time spent, i.e. 2 hou
 * Conferences - external events and conferences
 * Culture and happiness - assisting with the service area
 * Holidays - vacation time
-* Learn tech - if you are using part of your 12 day self-directed learning time budget.
+* Learning & development- if you are using part of your 12 day self-directed learning time budget.
 * Made Tech website - if you are participating in updates to the Made tech website
 * Marketing - assisting with marketing activities e.g. writing blogs, attending events
 * Onboarding - you are attending onboarding week
