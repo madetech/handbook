@@ -15,7 +15,7 @@ Contact the Market Principal for your reportee's region in advance of the annual
 You should also take the time to prepare a summary of the highlights and notable events of the review period to share with your reportee, and think about guidance and goals for the next review period. Try to identify key areas of growth for the coming review period, constructive feedback from the individual's team and the Market Principal will be key to this.
 
 ## Summary
-1. Note the annual review data
+1. Note the annual review date
 2. Agree and set goals
 3. Collect evidence 
 - SFIA mapping 
