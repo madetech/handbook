@@ -2,7 +2,7 @@
 
 As a line manager, one of your responsibilities is to facilitate the annual reviews of the individuals you line manage. The annual review is a retrospective of the previous year, a look ahead at the coming year and typically a [salary review](../compensation/salary_reviews.md).
 
-The annual review date is based on the date of the last salary increase and not fixed to someones start date. 
+The annual review date is based on the date of the last salary increase and not fixed to someone's start date. 
 
 ## What should I do to prepare?
 
