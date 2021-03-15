@@ -74,23 +74,24 @@ When you enter time, press the green save button at the bottom to save your time
 ## Timesheet approval process
 
 
-Once a team member has submitted their timesheet on Friday by 12pm, Delivery Managers and Service Area owners need to approve their teams timesheets by 1pm.
+Once a team member has submitted their timesheet on Friday by 12pm, Delivery Managers and Service Area owners need to approve their team's timesheets by 1pm.
 
-Why we need to approve timesheets
+### Why we need to approve timesheets
+
 Timesheet data directly drives our client invoicing, so it’s important it’s accurate and complete at the end of every week. It will also save you time when checking invoice accuracy at the end of the month. When approving timesheets for the week we need to:
 * Check your team has completed their timesheet in full; and has accurately recorded the time they spent on the project (inc. absences like illness and holidays)
 * Make sure their project codes are correct (inc. for unbilled time)
-* Account for any differences between the team’s Forecast time and their actual time spent and report this to the Operations team
+* Account for any differences between the team’s forecast time and their actual time spent and report this to the Operations team
 
 The review and approval process should take 5-10 minutes; and picking up any errors or unexplained differences saves the business a lot of time!
 Here are the instructions to approve someone's time:
 * In [Harvest](https://madetech.harvestapp.com/time/week) at the top select Time from the heading options
-* From the subheadings select Pending Approval
-* You can select the the 'Project', ‘People’ or ‘Week’ option from the dropdown menu at the top left to see your preferred view of the list of pending approvals
+* From the subheadings select `Pending Approval`
+* You can select the `Project`, `People` or `Week` option from the dropdown menu at the top left to see your preferred view of the list of pending approvals
 * This will list all of the client and internal projects, and the team members who have submitted their timesheet against these projects and are awaiting approval
-* <b><u>DO NOT</u> hit the "approve timesheets" button on the first page (i.e. for all team members)</b>
+* **<u>DO NOT</u> hit the "approve timesheets" button on the first page (i.e. for all team members)**
 * Under the project you're responsible for, select the team member whose timesheet you need to approve
-* If the time is correct, press Approve Timesheet at the bottom, this will only approve  the remaining projects will be approved by the project owner
+* If the time is correct, press `Approve Timesheet` at the bottom, this will only approve  the remaining projects will be approved by the project owner
 * Delivery Managers are responsible for approving Learning and Development time, absence and holiday, all of which should match up with time booked in CharlieHR
 
 We also ask that if you are going on holiday, that you allocate it to another Delivery Manager or senior member of the team. Scheduling can change this in Harvest, and change it back to you when you return
