@@ -2,7 +2,7 @@
 
 We take part in Cyclescheme as we wish to support those who wish to cycle to work whether it's for pleasure, aiming to be healthier, trying to be more green or any other reasons.
 
-Made Tech use Cyclescheme, who will provide you with a voucher (with no price limit), which can be used to purchase a bike, parts and components, and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options by Cyclescheme around owning your bike. If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
+Made Tech use Cyclescheme, who will provide you with a voucher, which can be used to purchase a bike, parts and components, and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given [options](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) by Cyclescheme around owning your bike. If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
 
 You can calculate savings from Cyclescheme using their [calculator](https://www.cyclescheme.co.uk/calculator)
 
