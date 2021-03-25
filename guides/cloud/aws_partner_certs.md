@@ -35,12 +35,11 @@ In order for your AWS Certifications to appear within the Made Tech AWS Partner 
 
 Your AWS Certifications will not immediately appear, so check back at a later date.
 
-## Employee Offboarding
+## Employee offboarding
 
-When an employee leaves Made Tech they should unlink their personal Certification email address from their `@madetech.com` AWS Partner Account. This should be done while they have access to their `@madetech.com` email address as part of their offboarding.
+When an employee leaves Made Tech, they should unlink their personal Certification email address from their `@madetech.com` AWS Partner Account. This should be done while they have access to their `@madetech.com` email address as part of their offboarding.
 
-1. [Login](https://www.aws.training/SignIn) using the right hand login link to the Partner Portal.
-2. Login using your `@madetech.com` email address.
-3. Click on `View My Profile` from the left hand `QUICK LINKS` menu.
-4. Click the blue `Edit` button.
-5. Under `AWS CERTIFICATION` remove your personal AWS Certification email address to the `AWS T&C Account Email` field, and select `No` for `I consent to share my AWS Certifications with "Made Tech" *`
+1. [Log in](https://www.aws.training/SignIn) with your `@madetech.com` email address using the right hand login link to the Partner Portal.
+2. Click on `View My Profile` from the left hand `QUICK LINKS` menu.
+3. Click the blue `Edit` button.
+4. Under `AWS CERTIFICATION` remove your personal AWS Certification email address to the `AWS T&C Account Email` field, and select `No` for `I consent to share my AWS Certifications with "Made Tech" *`
