@@ -30,6 +30,6 @@ In order to do that, you will need to [complete a self assessment](https://www.g
 
 It's important to be aware that any additional tax rebate will be paid back to you directly and not into your pension plan. Therefore, you may wish to increase your pension contributions in order to achieve the desired percentage contribution from your gross salary.
 
-**Topping up your pension**
+### Topping up your pension
 
 In late May Made Tech will be rolling out an individual flexible benefits allowance which employees can distribute across a range of benefits including pensions and a health care cash plan. Updates leading up to the launch of this initiative will be shared in the announcement slack channel and via email. 
