@@ -24,7 +24,7 @@ Please ensure:
 
 ## Rubbish rules
 
-We are passionate about recycling at Made Tech, please familiarise yourself with which items should be recycled on [First Mile's](https://thefirstmile.co.uk/contact#faqs) website. The FAQ item for this is: "What is Mixed Recycling / Dry Mixed Recycling?".
+We are passionate about recycling at Made Tech, please familiarise yourself with which items should be recycled on [First Mile's Dry Mixed Recycling](https://thefirstmile.co.uk/business-waste/collection/mixed-recycling) page.
 
 When using the bins, there are a few things to keep in mind:
 
