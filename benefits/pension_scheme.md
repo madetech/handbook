@@ -29,3 +29,7 @@ If you are a higher rate tax payer you pay 40% income tax on any earnings above 
 In order to do that, you will need to [complete a self assessment](https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief#when-you-have-to-claim-tax-relief) form at the end of each tax year and will be entitled to a tax rebate that can be paid directly to your bank account.
 
 It's important to be aware that any additional tax rebate will be paid back to you directly and not into your pension plan. Therefore, you may wish to increase your pension contributions in order to achieve the desired percentage contribution from your gross salary.
+
+**Topping up your pension**
+
+In late May Made Tech will be rolling out an individual flexible benefits allowance which employees can distribute across a range of benefits including pensions and a health care cash plan. Updates leading up to the launch of this initiative will be shared in the announcement slack channel and via email. 
