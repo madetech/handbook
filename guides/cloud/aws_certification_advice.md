@@ -75,16 +75,17 @@ The [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certif
 
 ## AWS Solutions Architect Pathway
 
-After following the basic training and achieving the AWS Certified Cloud Practitioner Certification, Engineers working towards achieving the AWS Certified Solutions Architect - Professional should follow this pathway. This pathway only consists of the associate level and pro level Solutions Architect exams, but I would advise looking at other associate level courses before undertaking the AWS Solutions Architect Pro is it is very difficult exam!
+After following the basic training and achieving the AWS Certified Cloud Practitioner Certification, Engineers working towards achieving the AWS Certified Solutions Architect - Professional should follow this pathway.
+
+This pathway only consists of the Associate and Pro level Solutions Architect exams, but I would advise looking at other the Associate level courses before undertaking the AWS Solutions Architect Pro, is it is very difficult exam!
 
 ### AWS Certified Solutions Architect - Associate
 
-The [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) is the associate level Solutions Architect Certification and covers the following domains. Design Resilient Architectures, Design High-Performing Architectures, Design Secure Application & Architectures and Design Cost-Optimisted Architectures.
+The [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) is the Associate level Solutions Architect Certification and covers the following domains. Design Resilient Architectures, Design High-Performing Architectures, Design Secure Application & Architectures and Design Cost-Optimisted Architectures.
 
 #### Recommended Online Training
 1. [Cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 2. [ACloudGuru](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate)
-
 
 ### AWS Certified Solutions Architect - Professional
 
@@ -93,6 +94,7 @@ The [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/ce
 #### Recommended Online Training
 1. [Cantrill.io](https://learn.cantrill.io/p/aws-certified-solutions-architect-professional)
 2. [ACloudGuru](https://learn.acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
+
 
 ## AWS Speciality Certifications
 
