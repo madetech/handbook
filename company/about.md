@@ -14,7 +14,6 @@ We want to **empower** the public sector to deliver and continuously improve dig
 
 To achieve this, we help them to modernise working practices, accelerate digital delivery, drive better decisions through data and enable technology and delivery skills.
 
-
 ## Our missions – how we will get there
 
 We empower public sector organisations by helping them to become digitally native.
@@ -26,8 +25,8 @@ We empower public sector organisations by helping them to become digitally nativ
 
 ## Our values – who we are and how we operate
 
-**Customer focussed** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism we build strong and lasting relationships with our customers.
+**Client focussed** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism, we build strong and lasting relationships with our clients.
 
-**Drive to deliver** – We have a strong drive to deliver successful outcomes for our customers and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
+**Drive to deliver** – We have a strong drive to deliver successful outcomes for our clients and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
 
 **Learning & mentoring** – We are passionate about learning and growth, whether it’s an improvement of one's self, the team or the organisation, we recognise the power of continuous improvement.
