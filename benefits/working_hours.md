@@ -16,6 +16,6 @@ Some things to note:
 
  - We need to respect our commitments so if we have a meeting booked for a certain time you are expected to be accommodating. This isn't to say you can't be responsible for setting meeting times that fit your working style better.
 
- - If you are taking a half day, read about our [flexible holiday](https://github.com/madetech/handbook/blob/master/benefits/flexible_holiday.md)
+ - If you are taking a half day, read about our [flexible holiday](flexible_holiday.md)
 
  - It's worth noting most of our employment contracts with staff do in fact have set contractual hours. This is so we can withdraw this privilege if necessary.

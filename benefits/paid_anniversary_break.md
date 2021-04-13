@@ -32,4 +32,4 @@ You can delay taking and using your holiday benefit for up to 12 months after yo
 Please let the people team know what you'd like to do if you will be eligible for either benefit during travel restrictions.
 
 ## Notice
-The usual guidelines for taking time off apply here - [Flexible Holiday](https://github.com/madetech/handbook/blob/master/benefits/flexible_holiday.md)
+The usual guidelines for taking time off apply here - [Flexible Holiday](flexible_holiday.md)
