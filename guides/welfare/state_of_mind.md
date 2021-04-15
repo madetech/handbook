@@ -1,6 +1,6 @@
 # State of Mind
 
-We want every one to be happy, including our team. To that end we try and provide [flexible ways of working](https://github.com/madetech/handbook/tree/master/benefits) so that we can have a healthy work/life balance.
+We want every one to be happy, including our team. To that end we try and provide [flexible ways of working](../../benefits/flexible_working.md) so that we can have a healthy work/life balance.
 
 Sometimes though, personal circumstances, stress at work, and other factors can affect our state of mind. Rather than consider this shameful, or brushing it under the carpet, we want to recognise that we aren't always going to be happy and nor should we be expect to be.
 
