@@ -63,6 +63,7 @@ Definition of Hiring Manager: The person responsible for the contractor.
    Scheduling will check that the current project does not need them further, if there are no known opportunities, they will then offer this role out to all markets in Slack. If there are no needs, the People team will be contacted to serve their contract notice period.
 
   **How is notice served? Can I terminate a contractor earlier than the agreed end date?** 
+  
   Please inform the Scheduling team as soon as you anticipate a contractor will no longer needed on the project. We usually set an expectation of 1 calendar weeks’ notice but this is contract dependent so please check beforehand with Scheduling. 
 
   This will be initiated with the People team who manage contracts and will inform the agency if required. 
@@ -72,7 +73,9 @@ Definition of Hiring Manager: The person responsible for the contractor.
 
   
 
-  **Who should decide if a contractor can be unbilled for a certain period and who pays for this time?** Contractors should not be unbilled and we expect them to be working 5-days a week on client-work, except where we have agreed an onboarding period of half a day or where there is Market Principal approval. The start date needs to be agreed with the client and communicated to the contractor. If there’s any change in start date, the contractor should start in line with that date and should be informed if this change. The contract will also need to be updated. There should not be a period where the contractor is unbilled. Where there is a break between projects, the contractor will be asked to take holiday in between. 
+  **Who should decide if a contractor can be unbilled for a certain period and who pays for this time?** 
+  
+  Contractors should not be unbilled and we expect them to be working 5-days a week on client-work, except where we have agreed an onboarding period of half a day or where there is Market Principal approval. The start date needs to be agreed with the client and communicated to the contractor. If there’s any change in start date, the contractor should start in line with that date and should be informed if this change. The contract will also need to be updated. There should not be a period where the contractor is unbilled. Where there is a break between projects, the contractor will be asked to take holiday in between. 
 
 
 
