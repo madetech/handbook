@@ -43,10 +43,9 @@ Some categories should be used where there is significant time spent, i.e. 2 hou
 * Learning & development- if you are using part of your 12 day self-directed learning time budget
 * Made Tech website - if you are participating in updates to the Made tech website
 * Marketing - assisting with marketing activities e.g. writing blogs, attending events
-* Onboarding - you are attending onboarding week
+* Onboarding - you are attending onboarding week or facilitating sessions for onboarding
 * Recruitment - assisting in interviewing or recruitment activities
 * Sales and bid support - contributing to sales bids and activities
-* Training - e.g. onboarding support, preparation for LT sessions
 
 
 ## How to submit your timesheet
