@@ -36,3 +36,9 @@ Our Engineering team has built some Core Skills, which are courses around topics
 Currently, each Core Skill is comprised of 3 levels, with acompanying stickers (which you will see on people's laptops).
 
 You earn these stickers by doing coursework, or by passing an assessment, set by members of the Engineering team with expertise in that skill.
+
+
+## FAQs
+
+Please click on this link for frequently asked questions regarding your learning at Made Tech: 
+[FAQ](https://docs.google.com/document/d/14tdHZ72DXzZTwWLGwz6DoaSV1EXSI6D2K4lUY1dCGTY/edit?usp=sharing)
