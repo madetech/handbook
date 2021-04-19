@@ -1,6 +1,6 @@
 # Laptop replacements
 
-We hold an agreement with our IT supplier, Systemagic, regarding laptop upgrades. After 3 years staff will be contacted and offered a replacement laptop. The process is summarised below:
+We hold an agreement with our IT supplier, Systemagic, regarding laptop upgrades. After 3 years team members will be contacted and offered a replacement laptop. The process is summarised below:
 
 1. Systemagic will send a quarterly report with anyone coming up to 3 years ownership of the laptop
 2. Systemagic will contact individuals to let them know our policy for renewing laptops is every 3 years and theirs have come up if they'd like a replacement
