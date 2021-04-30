@@ -1,6 +1,6 @@
 # Work Ready
 
-We know you're ready to work and so we want you to be work ready. We'll equip you with a brand new Macbook, monitor, keyboard, adapters, and whatever other technical equipment you need to do your job. If you want a book, some software or you just want to go to a conference, it is on us. We just ask you to be reasonable with your spending.
+We know you're ready to work and so we want you to be work ready. We'll equip you with a brand new Macbook, monitor, keyboard, adapters, and whatever other technical equipment you need to do your job. If you want a book, some software or you just want to go to a conference, it is on us, everyone has a £250 working from home budget, just speak to your Community Manager.
 
 Here's some examples of things people have purchased:
 
