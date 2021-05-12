@@ -19,6 +19,10 @@ The maximum value you can apply for is £2500.
 ### How do I know how much to apply for?
 We recommend finding your perfect bike and accessories before applying so you know exactly what amount to apply for. This way you won’t apply for too much or too little – this is really important to get right because you cannot amend your application once you have been approved.
 
+### How often can I use the Cycle to Work scheme?
+
+You can only be in one agreement at a time, the next time you will be able to make an application will be once you've repaid your installments. So if you are going to be paying back over a year, you would be best to think about your cycling needs over the whole year, not just right now.
+
 ### Can I use Cycle to Work to get a bike for a family member, partner or friend?
 No, the items you select must be for yourself.
 
