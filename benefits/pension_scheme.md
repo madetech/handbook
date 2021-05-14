@@ -12,7 +12,7 @@ We provide a pension scheme inline with the UK Government's rollout of automatic
 
 As your employer we will contribute towards your pension alongside your own contribution. 
 
-From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%**—a total minimum contribution equivalent to **8%** of your [qualitifying earnings](https://www.gov.uk/government/publications/automatic-enrolment-review-of-the-earnings-trigger-and-qualifying-earnings-band-for-202122/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202122-supporting-analysis#qualifying-earnings-band--upper-limit).
+From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%** — a total minimum contribution equivalent to **8%** of your salary.
 
 Each employee in addition to their salary receives a flexible benefits allowance of 3.66% of their annual salary of which can be distributed across benefits including increased pension contributions.
 
