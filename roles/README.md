@@ -27,10 +27,10 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 
 ### User-Centred Design
 
-- [User Researcher](user_researcher.md)(SFIA Level 3)
-- [Designer](designer.md)(SFIA Level 3)
-- [Lead User Researcher](lead_user_researcher.md)(SFIA Level 5)
-- [Lead Designer](lead_designer.md)(SFIA Level 5)
+- [User Researcher](user_researcher.md) (SFIA Level 3)
+- [Designer](designer.md) (SFIA Level 3)
+- [Lead User Researcher](lead_user_researcher.md) (SFIA Level 5)
+- [Lead Designer](lead_designer.md) (SFIA Level 5)
 
 ### Operations and Finance
 
