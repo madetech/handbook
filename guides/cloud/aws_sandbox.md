@@ -6,7 +6,9 @@ Made Tech have an AWS Sandbox account for individuals to use for personal develo
 
 ## Usage Policy
 
-This AWS account should only be used for temporary short lived test type projects and any resources are subject to being destroyed on a nightly or weekly basis. Individuals are responsible for cleaning up any resources they create and could be held liable for any ludicrous bills incurred by accidentally leaving giant Elasticsearch clusters running.
+This AWS account should only be used for temporary short lived test type projects and resources are destroyed every Friday evening.
+
+The Terraform and config for this cleanup task lives in this [aws-sandbox](https://github.com/madetech/aws-sandbox) GitHub repo.
 
 ## Security
 
