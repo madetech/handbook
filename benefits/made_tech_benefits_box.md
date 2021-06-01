@@ -1,6 +1,6 @@
 # Made Tech Benefits Box
 
-[Made Tech Benefits Box](madetechbenefitsbox.com) is the platform which hosts all of our benefits seen below:
+[Made Tech Benefits Box](https://madetechbenefitsbox.rewardgateway.co.uk/) is the platform which hosts all of our benefits seen below:
 
 - Smart Tech (Our help to buy tech scheme)
 - Halfords Cycle to work scheme 
