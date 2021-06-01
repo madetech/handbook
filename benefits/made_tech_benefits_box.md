@@ -1,14 +1,14 @@
 # Made Tech Benefits Box
 
-Made Tech Benefits Box (madetechbenefitsbox.com) is the platform which hosts all of our benefits seen below.
+[Made Tech Benefits Box](https://madetechbenefitsbox.rewardgateway.co.uk/) is the platform which hosts all of our benefits seen below:
 
-Smart Tech (Our help to buy tech scheme)
-Halfords Cycle to work scheme 
-Health Care Cash Plan*
-Additional pension contribution*
-Wellbeing Centre
+- Smart Tech (Our help to buy tech scheme)
+- Halfords Cycle to work scheme 
+- Health Care Cash Plan*
+- Additional pension contribution*
+- Wellbeing Centre
 
-You also have instant access to discounts at over 850 different retailers including ; 
+You also have instant access to discounts at over 850 different retailers including: 
 Sainsburys, Tesco, Asda, Waitrose and Iceland
 Cineworld, Vue, Odeon
 ASOS, Topshop, Debenhams, John Lewis
@@ -16,7 +16,7 @@ Currys PC World, Vodafone, EE and many more
 
 Made Tech Benefits Box is fully accessible on your desktop, laptop, tablet and smartphone. So, no matter where you are you can be sure to never miss out.
 
-*These are benefits available via your flexible benefits allowance. For more information please see "Flexible Benefits Allowance in the handbook".
+*These are benefits available via your flexible benefits allowance. For more information please see [Flexible Benefits Allowance](https://github.com/madetech/handbook/blob/main/benefits/flexible_benefits_allowance.md) in the handbook.
 
 ### I've just started at Made Tech can I get access to Made Tech Benefits Box?
 
