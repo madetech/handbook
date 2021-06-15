@@ -54,3 +54,5 @@ Refunds generally take between 3-5 working days to confirm, this period can take
 ### 13. Can the price of my tech differ from SmartTech™ and Currys PC World?
 The SmartTech™ catalogue is updated daily with items, their prices, and availability coming directly from Currys PC World, however, there may be the odd occasion when a price you see in the SmartTech™ catalogue is different from what you see with Currys PC World. In the rare event of this happening, it’s because the price will have been recently changed by Currys PC World and it takes our catalogue 24-hours to update. If you want to be absolutely sure then we recommend double-checking the price at Currys PC World by following the link attached to each product. If you already have your voucher and see a difference in price, don’t worry, you can always use the voucher in conjunction with cash, as well as being able to use any money left on the voucher at a later date.
 
+### 14. I've applied when do I get the voucher?
+The requests are processed every Tuesday and the voucher should be with you 5 business days after (if not before). 
