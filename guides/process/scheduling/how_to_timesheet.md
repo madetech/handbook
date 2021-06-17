@@ -28,12 +28,11 @@ Client projects are separated into 3 categories; Billed, Investment and Chalet, 
 
 ## Made Tech internal projects
 
-
 You may be on an internal project full time or in conjunction with a client project. These need to be added in the same way as a client project and your time needs to be input against these projects, not exceeding 35 hours in total.
 
 Some categories should be used where there is significant time spent, i.e. 2 hours or more
 
-* Absence - sick leave and a specified break from Learn Tech
+* Absence - sick leave
 * Academy - assisting with the academy programme
 * Certifications (chalet) - currently studying for a certification
 * Chalet - you are not currently on a project and are available

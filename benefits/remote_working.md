@@ -14,7 +14,7 @@ There are tradeoffs when choosing between working from the office and from home.
 - Be a good Slack citizen and check in regularly and visibly with your team throughout the working day in public channels
 - Ensure you're clear on your workload for the day or days you wish to work from home and ensure that you won't benefit from working closely with others
 - Ensure you're not scheduled for any meetings or sessions
-- Barring any extraordinary circumstances, we like people to be in the office on Friday for [lunch](friday_lunch.md) and Learn Tech
+- Barring any extraordinary circumstances, we like people to be in the office on Friday
 
 ### Regular Remote Working
 
