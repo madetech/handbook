@@ -23,7 +23,13 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 - [Delivery Manager](delivery_manager.md)
 - Senior Delivery Manager
 - [Delivery Principal](delivery_principal.md)
-- [Head of Delivery](head_of_delivery.md)
+
+### User-Centred Design
+
+- [User Researcher](user_researcher.md) (SFIA Level 3)
+- [Designer](designer.md) (SFIA Level 3)
+- [Lead User Researcher](lead_user_researcher.md) (SFIA Level 5)
+- [Lead Designer](lead_designer.md) (SFIA Level 5)
 
 ### Operations and Finance
 

@@ -22,6 +22,6 @@ For Made Tech data (e.g. requests from Made Tech employees about personal data),
 
 ## Customer and Partner Data
 
-Where a customer or partner makes a request about their data, seek written approval from the that they have verified the request and authorise Made Tech to collate and release this data from systems we have access to. They will also need to provide proof of ID for the requester. 
+Where a customer or partner makes a request about their data, seek written approval from them that they have verified the request and authorise Made Tech to collate and release this data from systems we have access to. They will also need to provide proof of ID for the requester. 
 
 Once this is done, you can respond the request in line with the process outlined above.

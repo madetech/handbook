@@ -38,7 +38,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Pairs with and coaches junior members of the team and/or customer staff, supporting line managers to find career progression opportunities within the workstream
 - Able to lead a bootup and delivery of a product workstream where outcomes are known, and the product is complicated rather than complex, with support and coaching from a Lead
 - Continues to seek consensus with approaches, and feedback on work as it is iteratively delivered
-- Confidently facilitates retrospectives and other team ceremonies regularly, and delivers Learn Tech showcases
+- Confidently facilitates retrospectives and other team ceremonies regularly, and delivers Showcases
 - Has strong awareness of how Made Tech is perceived by customers and partners, as well as how colleagues and themselves are perceived by other colleagues. Will provide direct performance data and feedback in order to rectify the situation
 - Plays an active part in evolving Made Tech's approach to modern technology delivery
 - Identifies performance issues within the workstream team and works with individuals and line managers supporting corrective action where necessary

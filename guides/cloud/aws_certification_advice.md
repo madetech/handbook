@@ -1,5 +1,27 @@
 # AWS Certification Advice
 
+- [AWS Certification Advice](#aws-certification-advice)
+  - [Purpose of this guide](#purpose-of-this-guide)
+  - [General](#general)
+  - [Certification Costs](#certification-costs)
+  - [AWS Business Training](#aws-business-training)
+  - [AWS Technical Training](#aws-technical-training)
+  - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner)
+      - [Recommended Online Training](#recommended-online-training)
+  - [AWS DevOps Engineer Pathway](#aws-devops-engineer-pathway)
+    - [AWS Certified Developer - Associate](#aws-certified-developer---associate)
+      - [Recommended Online Training](#recommended-online-training-1)
+    - [AWS Certified SysOps Administrator - Associate](#aws-certified-sysops-administrator---associate)
+      - [Recommended Online Training](#recommended-online-training-2)
+    - [AWS Certified DevOps Engineer - Professional](#aws-certified-devops-engineer---professional)
+      - [Recommended Online Training](#recommended-online-training-3)
+  - [AWS Solutions Architect Pathway](#aws-solutions-architect-pathway)
+    - [AWS Certified Solutions Architect - Associate](#aws-certified-solutions-architect---associate)
+      - [Recommended Online Training](#recommended-online-training-4)
+    - [AWS Certified Solutions Architect - Professional](#aws-certified-solutions-architect---professional)
+      - [Recommended Online Training](#recommended-online-training-5)
+  - [AWS Speciality Certifications](#aws-speciality-certifications)
+
 ## Purpose of this guide
 
 Made Tech are an [AWS Advanced Consulting Partner](https://partners.amazonaws.com/partners/001E0000016ppWOIAY/Made%20Tech) and encourage both technical and non-technical staff to undertake AWS Training and Certifications. This guide will detail some training paths and associated costs.
@@ -8,7 +30,7 @@ AWS provides some non-technical training via the AWS Partner Portal. Guidance on
 
 ## General
 
-A guide on how to create an AWS Certification account and link it to your Made Tech AWS Partner Account is located [here](aws_partner_certs.md#aws-certification-account-creation)
+A guide on how to create an AWS Certification account and link it to your Made Tech AWS Partner Account is located [here](aws_partner_certs.md#creating-your-accounts)
 
 All AWS Exams can be taken remotely from home with either PSI or Pearson Vue.
 

@@ -22,7 +22,7 @@ There are detailed government guidelines here: [www.gov.uk/employers-maternity-p
 
 ## Paternity Leave
 
-We provide 12 weeks Paternity Leave at full pay and the option of shared parental leave. The leave must end within 56 days of the birth.
+We provide 12 weeks Paternity Leave at full pay and the option of shared parental leave.
 
 The breakdown of pay is as follows:
 
