@@ -34,7 +34,7 @@ Sometimes we collaborate with partner organisations. If that partner organisatio
 
 ### Internal initiatives
 
-If we're working on an internal initiative, such as a Service Area, Learn Tech, or running an internal project within a Market, there are a number of internal clients:
+If we're working on an internal initiative, such as a Service Area, or running an internal project within a Market, there are a number of internal clients:
 
 - Made Tech: this client is reserved for group-wide activities such as Service Areas, Holidays, Absence etc.
 
@@ -57,7 +57,7 @@ There are a number of components to a project code:
 A three letter code identifying the location of the project:
 
 - GRP - group (typically Service Areas)
-- NOL - no location (e.g. paid time off, absence, Learn Tech)
+- NOL - no location (e.g. paid time off, absence)
 - LDN - London
 - MCR - Manchester
 - BRS - Bristol

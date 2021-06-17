@@ -68,7 +68,7 @@ Compensating you fairly:
 #### Team
 
 * [Team Norms](team-norms)
-* [Learning & Learn Tech](guides/learning)
+* [Learning](guides/learning)
 * [Mentorship](guides/mentorship)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
 * [3rd Party Expenses](guides/3rd_party_services.md)

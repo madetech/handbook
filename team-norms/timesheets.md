@@ -21,8 +21,6 @@ The good news is that at Made Tech, Engineers are dedicated to one engagement at
 
 - *Project*: by default you're likely to be focused on a single engagement at any one time, and so you should timesheet 7 hours per working day against this engagement
 
-- *Learn Tech*: if you partake in Learn Tech you should timesheet 3.5 hours on a Friday afternoon against Learn Tech, and 3.5 hours against your current engagement
-
 - *Holidays*: prior to heading off on holiday, as well as completing any outstanding timesheets, and putting your out of office autoresponder on, you must proactively complete timesheets for the duration of your holiday, booking your time against Made Tech -> Holiday
 
 - *Absence*: when returning from a period of absence (e.g. sickness, hospital appointment, compassionate leave), you must update your timesheet to reflect that you were absent. If you're absent on a Friday or the last of the month, your Delivery Lead will be expected to complete a timesheet on your behalf. You should book your time against Made Tech -> Absence
