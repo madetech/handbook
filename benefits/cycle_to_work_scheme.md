@@ -85,5 +85,5 @@ Through Cycle2Work, you will save between 32% and 42% through tax and national i
 For example, a bike costing £1000 could cost as little as £56.60 a month over 12 months on Cycle2Work - compared to £83.33 through Interest Free Finance.
  
 ### Once I put in my application via Made Tech Benefit’s box how long will it take to process my application?
-It can take as little as a few hours, or up to a day. If you have not received any confirmation after 48 hours please contact Meesh.Pallo@MadeTech.com
+The requests are processed every Tuesday and the letter of collection should be with you 5 business days after (if not before). 
 
