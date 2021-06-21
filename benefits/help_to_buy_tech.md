@@ -29,7 +29,7 @@ Yes, of course. You can use SmartTech™ to purchase the majority of the product
 As this is not a tax efficient salary sacrifice scheme, you will wholly own the product from the moment of purchase.
 
 ### 8. Can I select more than one product?
-Yes, your spen limit is £2000, but it's up to you how use that amount all at once or over a few smaller products.
+Yes, your spend limit is £2000, but it's up to you how use that amount all at once or over a few smaller products.
 
 ### 9. What happens if I leave before the end of the payment period?
 If you leave before the end of the payment period, you must pay back the outstanding amount and this will deducted from your final net pay.
