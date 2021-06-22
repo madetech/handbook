@@ -33,7 +33,6 @@ Yes, your spend limit is £2000, but it's up to you how use that amount all at o
 
 ### 9. What happens if I leave before the end of the payment period?
 If you leave before the end of the payment period, you must pay back the outstanding amount and this will deducted from your final net pay.
-If you have an outstanding amount that is more than your final net pay, please contact Meesh.Pallo@MadeTech.com
 
 ### 10. What if my product gets stolen or damaged?
 It's recommended you obtain separate insurance, or check your product is covered under your home contents insurance policy. Payments from your salary will not stop or be suspended due to loss or damage of the product.
