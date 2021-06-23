@@ -1,4 +1,4 @@
-# Pension Scheme
+ # Pension Scheme
 
 We provide a pension scheme inline with the UK Government's rollout of automatic enrolment. We automatically enrol everyone in our pension scheme after their probation period (usually 3 months).
 
@@ -12,7 +12,7 @@ We provide a pension scheme inline with the UK Government's rollout of automatic
 
 As your employer we will contribute towards your pension alongside your own contribution. 
 
-From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%** — a total minimum contribution equivalent to **8%** of your salary.
+From April 2019 the minimum amount that you pay into your pension is **5%** and we pay **3%** — a total minimum contribution equivalent to **8%** overall. All contributions are capped on qualifying earnings of £50,270 per annum. This means your overll contributions of 8% will be on full salary up to a salary of £50,270 p.a. - any salary amount above £50,270 will not increase contributions.
 
 Each employee in addition to their salary receives a flexible benefits allowance of 3.66% of their annual salary of which can be distributed across benefits including increased pension contributions.
 
