@@ -18,7 +18,7 @@ When people get sick we ask that they follow these guidelines:
 
 * If you are taking four or more days sick leave, please supply a doctor's note.
 
-* Record your sick leave in Harvest (as Absence) and in CharlieHR, for every day that you are on sick leave.
+* Record your sick leave in Kimble (as Absence) and in CharlieHR, for every day that you are on sick leave.
 
 * The Account Team will have to report you as absent without reason to the People Team by 10:30 AM if we haven't heard from you. They will then get in touch, and if unable to get a hold of you, will call your emergency contact at 11:30 AM.
 
