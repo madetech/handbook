@@ -37,7 +37,20 @@ That is it! You should now be connected to the `Made Tech - VPN`. If you are exp
 
 ### Ubuntu/Debian
 
-https://docs.foxpass.com/docs/foxpass-linux-l2tpipsec
+The Made Tech VPN uses Layer 2 Tunneling Protocol which is not installed by default, but can be installed using:
+
+```bash
+sudo apt install network-manager-l2tp network-manager-l2tp-gnome
+```
+
+Once that's done create the VPN connection by:
+
+- Going to the Network section of Settings and clicking the `+` button near VPN
+- Select _"Layer 2 Tunneling Protocol (L2TP)"_
+- Under "General" enter "51.140.14.240" as the "Gateway"
+- Under "User Authentication" enter your username and password (supplied by Systemagic)
+- In _IPSec Settings_ enter the Pre-shared key (supplied by Systemagic)
+- In _PPP Settings_ enable _"Use Point-to-Point encryption (MPPE)"_ 
 
 ### Fedora
 
