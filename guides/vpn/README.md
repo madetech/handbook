@@ -40,7 +40,7 @@ That is it! You should now be connected to the `Made Tech - VPN`. If you are exp
 Create the VPN connection by:
 
 - Going to the Network section of Settings and clicking the `+` button near VPN
-- Select _"Layer 2 Tunneling Protocol (L2TP)"_. If this option is not available see (Installing l2tp libraries below)[#installing-l2tp-libraries]
+- Select _"Layer 2 Tunneling Protocol (L2TP)"_. If this option is not available see [Installing l2tp libraries](#installing-l2tp-libraries)
 - Under "General" enter "madetechvpn.uksouth.cloudapp.azure.com" as the "Gateway"
 - Under "User Authentication" enter your username and password (supplied by Systemagic)
 - In _IPSec Settings_ enter the Pre-shared key (supplied by Systemagic)
