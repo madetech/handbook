@@ -20,19 +20,17 @@ exit
 ```
 
 ## Account locking
-User accounts should be configured to lock after a maximum of 10 failed login attempts.
+User accounts should be configured to lock after a **maximum** of 10 failed login attempts.
 
 ### Linux (Ubuntu)
-To enable account locking on Ubuntu add the following line to `/etc/pam.d/common-auth`:
+To enable account locking on Ubuntu add the following line to `/etc/pam.d/common-auth`, directly after the `# here are the per-package modules (the "Primary" block)` comment:
 
 ```
-auth required pam_tally2.so onerr=fail deny=6 unlock_time=300 audit even_deny_root root_unlock_time=600
+auth required pam_tally2.so onerr=fail deny=10 unlock_time=300 audit even_deny_root root_unlock_time=600
 ```
-
-This line should be added directly after the `# here are the per-package modules (the "Primary" block)` comment.
 
 This will:
-- lock a user's account after 6 failed login attempts
+- lock a user's account after 10 failed login attempts - this can be reduced but should not be greater than 10
 - lock the account for 5 minutes (300 seconds)
 - log the username to the syslog if the user is not found
 - apply the same settings to the root account.
