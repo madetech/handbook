@@ -9,15 +9,15 @@ Definition of Hiring Manager: The person responsible for the contractor.
 1. To initiate a request with the Talent team, [This form](https://docs.google.com/forms/d/1HgIwXsW80r2RIpD0T4Oj6nHXsjOvoRF41CuJ9mHY4X0/edit) will need to be completed. Scheduling will work with you to fill this out. 
    * [from May 2021- the Scheduling team will complete an IR35 assessment to define whether the role falls inside or outside of IR35].
 
-2. The Talent team will source appropriate CVs and upload them to [Workable](https://made-tech.workable.com/backend) (our internal applicant tracking system) and tag the Hiring Manager for evaluation feedback on the system. 
-3. Once the CV’s have been evaluated and feedback uploaded to Workable, the Talent team will arrange and confirm interviews with the Hiring Manager. It’s advisable to block out some slots in your diary and loop in the appropriate persons to interview candidate capability beforehand to keep pace with the hiring process. 
-4. Once you have decided to offer a candidate, please inform the Talent team so they can relay feedback correctly and negotiate the offer where necessary. 
+2. The Talent team will add selected recruitment agencies to the vacancy who will upload them to [Workable](https://made-tech.workable.com/backend) (our internal applicant tracking system) and tag the Hiring Manager for evaluation feedback on the system. 
+3. The Hiring Manager can then directly deliver feedback and arrange interviews directly through the system. 
+4. Once you have identified a candidate to offer, please inform the Talent team so they can relay feedback correctly and negotiate the offer where necessary. 
 5. When we have an accepted offer and start date, the People team will complete the administration and contract, the Scheduling team will be kept informed. 
    * [from May - When a contractor begins work, they must complete an IR35 re-assessment to confirm the in-practice IR35 status of the role.]
 
 ## Points to consider
 
-* The client project team are responsible for the contractor. 
+* The client project team are responsible for the contractor. Please inform the agency and/or talent partner who the timesheet approver is.  
 
 * It is the project team’s responsibility to inform the Scheduling team of the contractor’s end date so that the contract notice can be served in time
 
