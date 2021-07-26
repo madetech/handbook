@@ -62,7 +62,23 @@ In Ubuntu this feature can be disabled by selecting _"Never prompt or start prog
 You must be have [Made Tech's VPN](../vpn/README.md) configured on your system.
 
 ## Anti-virus
-You must be running Anti-virus software with an up to date virus database.
+You must be running Anti-virus software. The installed AV software must:
+- be up to date (the most recent stable version, within 30 days of it's release)
+- contain an up to date database of viruses and malicious software
+- prevent access to, or the running of any malicious file or software (On-access scanning as opposed to scheduled scanning)
 
-### Linux (Ubuntu)
+You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/?page_id=3950). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
 
+### Linux
+Made Tech do not have a preferred/approved Anti-virus tool for Linux, but it is your responsibility to install a package that meets the above requirements.
+
+#### ClamAV
+[ClamAV](https://www.clamav.net/) is an open source AV tool that is popular on Linux - it can be configured in a way that meets the requirements above, but this involves enabling on-access scanning.
+
+The following resources are useful for configuring ClamAV:
+- The [Configuration](https://docs.clamav.net/manual/Usage/Configuration.html) section of the ClamAV documentation
+- The [On Access Scanning](https://docs.clamav.net/manual/OnAccess.html) section of the official docs
+- [Installation & Configuration of ClamAV Antivirus on Ubuntu 18.04](https://aaronbrighton.medium.com/installation-configuration-of-clamav-antivirus-on-ubuntu-18-04-a6416bab3b41) - this Medium article was 
+particularly helpful for installing on Ubuntu and enabling on-access scanning.
+
+The official Ubuntu PPA does not always provide the most recent version - at the time of writing the official PPA ships clamAV `0.103.2`, the most recent version is `0.103.3`.  Given that `0.103.3` was release more than 30 days ago, the PPA does not meet the requirement for running the latest version.
