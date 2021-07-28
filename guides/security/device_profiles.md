@@ -15,8 +15,8 @@ Your device will be set up with separate admin and standard profiles as standard
 If you are a member of a business team, and using a device with split admin and standard user profiles, you should follow these guidelines:
  - You should always log into your standard user profile as default.
  - You can download approved software from the list below using your admin credentials, or any software necessary for your regular work.
- - You should use your admin credentials to install any software or OS updates on a regular basis to ensure you are always running the latest version. 
- - If you are uncertain about what you are downloading and installing, please talk to the CSO or ISMS manager for support. 
+ - You should use your admin credentials to install any software or OS updates on a regular basis to ensure you are always running the latest version.
+ - If you are uncertain about what you are downloading and installing, please talk to the CSO or ISMS manager for support.
 
 
 ## Engineering and Delivery Teams
@@ -31,3 +31,5 @@ We have agreed a clear business case for people in engineering roles to use an a
  - Evernote
 
  For Mac users, any app downloaded from the App Store is considered safe to install on your device.
+
+For Linux users anything downloaded from the main stable Ubuntu/Debian repositories is considered safe to install on your device.
