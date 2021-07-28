@@ -17,12 +17,13 @@ function checkFile (fileName) {
       handleError(err)
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
-      
+
       const ignorePatterns = [
         { pattern: /www.glassdoor.co.uk/ },     // glassdoor returns 503 status to circle ci hosts
         { pattern: /www.aws.training/ },
         { pattern: /www.certmetrics.com/ },
         { pattern: /made-tech.workable.com/ },
+        { pattern: /clamav.net/ },
         { pattern: /docs.google.com/ } // Internal docs are hidden and will cause errors sometimes
       ]
 
