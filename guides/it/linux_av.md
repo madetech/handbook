@@ -122,6 +122,26 @@ eicar.com
 
 You'll see the file has not been downloaded to the directory you're in, but rather moved directly to the quarantine directory we set up earlier.
 
+By default clamonacc is quite resource hungry, (~100% CPU core, 1gb+ RAM). You can limit the CPU consumption somewhat by adding a CPUQuota to the systemd unit file:
+
+```
+# /etc/systemd/system/clamonacc.service
+[Unit]
+Description=ClamAV On Access Scanner
+Requires=clamav-daemon.service
+After=clamav-daemon.service syslog.target network.target
+
+[Service]
+Type=simple
+User=root
+ExecStartPre=/bin/bash -c "while [ ! -S /var/run/clamav/clamd.ctl ]; do sleep 1; done"
+ExecStart=/usr/sbin/clamonacc -F --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/root/quarantine
+CPUQuota=30%
+
+[Install]
+WantedBy=multi-user.target
+```
+
 The following resources are useful for configuring ClamAV:
 - The [Configuration](https://docs.clamav.net/manual/Usage/Configuration.html) section of the ClamAV documentation
 - The [On Access Scanning](https://docs.clamav.net/manual/OnAccess.html) section of the official docs
