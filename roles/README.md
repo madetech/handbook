@@ -21,11 +21,11 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 
 ### Delivery
 
-- Team Assistant (SFIA 2)
-- Junior Delivery Manager (SFIA 3)
-- [Delivery Manager](delivery_manager.md) (SFIA 4)
-- Senior Delivery Manager (SFIA 5)
-- [Delivery Principal](delivery_principal.md) (SFIA 6)
+- Team Assistant [(SFIA Level 2)](sfia/junior_delivery_manager.md)
+- Junior Delivery Manager [(SFIA Level 3)](sfia/junior_delivery_manager.md)
+- [Delivery Manager](delivery_manager.md) [(SFIA Level 4)](sfia/delivery_manager.md)
+- Senior Delivery Manager [(SFIA Level 5)](sfia/senior_delivery_manager.md)
+- [Delivery Principal](delivery_principal.md) (SFIA Level 6)
 
 ### User-Centred Design
 
