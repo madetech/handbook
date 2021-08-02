@@ -21,9 +21,9 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 
 ### Delivery
 
-- [Delivery Manager](delivery_manager.md)
-- Senior Delivery Manager
-- [Delivery Principal](delivery_principal.md)
+- [Delivery Manager](delivery_manager.md) (SFIA 4)
+- Senior Delivery Manager (SFIA 5)
+- [Delivery Principal](delivery_principal.md) (SFIA 6)
 
 ### User-Centred Design
 
