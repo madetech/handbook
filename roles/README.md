@@ -21,6 +21,8 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 
 ### Delivery
 
+- Team Assistant (SFIA 2)
+- Junior Delivery Manager (SFIA 3)
 - [Delivery Manager](delivery_manager.md) (SFIA 4)
 - Senior Delivery Manager (SFIA 5)
 - [Delivery Principal](delivery_principal.md) (SFIA 6)
