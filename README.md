@@ -93,6 +93,7 @@ Compensating you fairly:
 #### IT
 
 * [Software Licenses](guides/it/software_licenses.md)
+* [Laptop Security](guides/it/laptop_security.md)
 
 #### Security
 
