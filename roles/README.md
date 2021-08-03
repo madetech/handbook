@@ -13,11 +13,12 @@ looking for more responsibilities.
  - [Software Engineer 1](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
  - [Software Engineer 2](software_engineer_2.md) ([SFIA Level 3](sfia/software_engineer_2.md))
  - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
- - [Cloud/DevOps Engineer](cloud_devops_engineer.md)
  - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
  - [Principal Technologist](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
 
-You may have also seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
+You may have seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
+
+We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, recruitment platforms and social media to find people with specific experience in these areas. These roles do not reflect our internal structure as we have a single software engineer pathway. Our software engineers can stay broad or choose to specialise in a number of technologies and areas of expertise.
 
 ### Delivery
 
