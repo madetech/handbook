@@ -41,3 +41,5 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
+
+* We have 23 holiday days in our employment contracts but in practice we have Flexible Holiday as per this guidance. We'd only revert to the employment contract in the case of abusing our Flexible Holiday system though we've never needed to do this. If you leave Made Tech part way through the year we will also use 23 days to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
