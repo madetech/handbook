@@ -107,6 +107,6 @@ Compensating you fairly:
 
 #### Policies
 
-* [Anti Corruption and Bribery Policy](guides/policy/anti_corruption_and_bribery_policy.md)
+* [Anti-Corruption and Bribery Policy](guides/policy/anti_corruption_and_bribery_policy.md)
 * [Whistleblowing Policy](guides/policy/whistleblowing_policy.md)
-* [Anti Slavery and Human Trafficking Policy](guides/policy/anti_slavery_and_human_trafficking_policy.md)
+* [Anti-Slavery and Human Trafficking Policy](guides/policy/anti_slavery_and_human_trafficking_policy.md)
