@@ -1,4 +1,4 @@
-# Anti Corruption and Bribery Policy
+# Anti-Corruption and Bribery Policy
 
 ## About this policy
 

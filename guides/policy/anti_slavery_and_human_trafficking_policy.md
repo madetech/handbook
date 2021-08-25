@@ -1,4 +1,4 @@
-# Anti Slavery and Human Trafficking Policy
+# Anti-Slavery and Human Trafficking Policy
 
 ## Policy statement
 
