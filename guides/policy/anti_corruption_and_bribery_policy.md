@@ -4,11 +4,8 @@
 
 1. It is our policy to conduct all of our business in an honest and ethical manner. We are legally bound to comply with the provisions of the Bribery Act 2010 (“the Act”) and to uphold laws relevant to countering bribery and corruption in all jurisdictions in which we take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, fairly and with integrity in all our business dealings and relationships.
 1. Any employee who breaches this policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this policy may have their contract terminated with immediate effect.
-
 1. This policy does not form part of any employee's contract of employment and we may amend it at any time. It will be reviewed regularly.
-
 1. This policy will be periodically reviewed by the Company and updated when appropriate. We will assess those relevant workers who are more likely to be exposed to situations covered by the Act, and provide appropriate training where necessary on how to implement and adhere to this policy.
-
 1. We will communicate our anti-bribery and corruption stance to all customers, suppliers and contractors at the outset of our relationship with them, and as appropriate thereafter.
 
 ## Who must comply with this policy?
