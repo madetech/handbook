@@ -2,7 +2,7 @@
 
 ## Overview
 
-Made Tech have an AWS Sandbox account for individuals to use for personal development and testing. We run [AWS SSO](https://aws.amazon.com/single-sign-on/) to simplify and secure the IAM aspect of accessing this account.
+The Made Tech AWS Sandbox accounts are primaraly used for individuals personal development and testing. We run [AWS SSO](https://aws.amazon.com/single-sign-on/) to simplify and secure the IAM aspect of accessing this account.
 
 ## Usage Policy
 
@@ -16,7 +16,7 @@ The AWS Sandbox account is restricted by several service control policies blocki
 
 ## Access
 
-1. Request access in the #cop-cloud Slack channel.
+1. Request for a new user account in the #cop-cloud Slack channel in the `SandboxAdmin` group.
 2. AWS SSO login credentials will be emailed to you.
 3. Follow the instructions and setup MFA.
 4. Login via [https://madetech.awsapps.com/start/](https://madetech.awsapps.com/start/)
@@ -42,3 +42,15 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  3. Test with `aws-vault exec madesso -- aws sts get-caller-identity`
  4. This pops open a browser where you need to login to create a session.
  5. Run any CLI based command in the same way e.g `aws-vault exec madesso -- terraform apply`
+
+# Devops Pairing Interviews Account
+This is a seperate account for use in devops pairing exersises. 
+
+This accout diffrers in two ways from the main sandbox:
+- It allows the creation of iam users. 
+- It **deletes all resouces inside it every day!**
+
+## Access
+Only employes that are conductiong devops pairing interviews will be given acess
+
+1. Request you user account to be added to the `DevopsPairingInterviewer` group in the #cop-cloud Slack channel.
