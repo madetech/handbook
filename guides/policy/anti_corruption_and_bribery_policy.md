@@ -45,12 +45,12 @@
     | Over £100      | £100 to £500          | Board Director                       |
     | Above £250     | >£500 + business case | Board Decision                       |
 
-6. Gifts of a value less than £100 may be accepted with the approval of a director. No gifts of a value exceeding £100 should be accepted, and you should politely refuse the gift and advise the offer of our policy in respect of this. If this places you in a difficult position you should refer to The Chief Operating Officer for guidance.
+6. Gifts of a value less than £100 may be accepted with the approval of a director. No gifts of a value exceeding £100 should be accepted, and you should politely refuse the gift and advise the offerer of our policy in respect of this. If this places you in a difficult position you should refer to The Chief Operating Officer for guidance.
 
 ## Record-keeping
 
-1. You must keep a written record of all hospitality or gifts given or received. You must also submit all expenses claims relating to
-1. If you are offered hospitality, gifts or payments to third parties in accordance with our expenses policy and record the reason for expenditure.
+1. You must keep a written record of all hospitality or gifts given or received. 
+1. You must also submit all expense claims relating to any gifts or hospitality if you offer hospitality, gifts or payments to third parties in accordance with our expenses policy and record the reason for expenditure. 
 1. All accounts, invoices, and other records relating to dealings with third parties including suppliers and customers should be prepared with strict accuracy and completeness. Accounts must not be kept "off-book" to facilitate or conceal improper payments.
 
 ## Donations and sponsorship
