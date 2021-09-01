@@ -76,3 +76,5 @@ It’s OK to stop coding five minutes early and talk. You would do this to:
 Join the ‘debrief’ and share your feedback with the other interviewers.
 
 It’s OK to be unsure about whether you would hire the candidate.
+
+Note: See [devops pairing](./devops_pairing.md) for differences to this process
