@@ -24,7 +24,8 @@ function checkFile (fileName) {
         { pattern: /www.certmetrics.com/ },
         { pattern: /made-tech.workable.com/ },
         { pattern: /clamav.net/ },
-        { pattern: /docs.google.com/ } // Internal docs are hidden and will cause errors sometimes
+        { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
+        { pattern: /udemy.com/ }               // udemy returns 403 status to circle ci hosts
       ]
 
       markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
