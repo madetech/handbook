@@ -54,3 +54,15 @@ This accout diffrers in two ways from the main sandbox:
 Only employes that are conductiong devops pairing interviews will be given acess
 
 1. Request you user account to be added to the `DevopsPairingInterviewer` group in the #cop-cloud Slack channel.
+
+
+# Adding new users
+- Login to sso https://madetech.awsapps.com/start#/
+- Click on: `aws account` > `Made Tech` > `Management console`
+- Now go to console.aws.amazon.com/singlesignon 
+- On the left nav bar click `users` > `add user`
+- Fill in there deatils (use the part before the @ in there email as username)
+- Add them to the "SandboxAdmin" group
+- They shoud now get a email invite to join (valid for the next 7 days)
+
+
