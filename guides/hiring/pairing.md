@@ -6,20 +6,16 @@ We’re trying to hire people who we’d like to work with. This is a way to try
 It won’t give us certainty, but we hope it helps us make better decisions.
 
 ## When you’ll be needed
-You do not need to be there for the whole two-hour interview. 
-
-Remotely, it's good to say hello to the other interviewers so they know you are ready. 
-
-You’ll need to be there for the pairing. This starts 30 minutes after the start of the interview. It lasts 30 minutes.
-
-At 5pm on the day of the interview there is a debriefing session hosted by the recruiter. In attendance are the pairing interviewers, face to face interviewers and the Market Principle.
+You're only needed for:
+- The pairing, which starts 30 minutes after the start of the interview, and lasts 30 minutes
+- The debrief, which usually happens directly after the 1h30 interview, and lasts about 10 minutes
 
 For example:
-- An interview is taking place at 2pm, lasting until 4pm.
+- An interview is taking place at 2pm, lasting until 3.30pm.
 - You’ll be needed to pair from 2:30pm, until 3pm.
-- You’ll be needed to discuss the candidate from 3:30pm, until 4pm.
+- You'll be invited to discuss the pairing from 3:30pm, for about 10 minutes ("debrief").
 
-These times may change slightly on the day. It’s good to talk to the other Made Tech people involved in the interview if this happens.
+Sometimes an interview might overrun. Read the thread in slack before joining the call.
 
 ## What you are looking for
 You’ll want to answer these questions about the candidate:
@@ -36,7 +32,6 @@ Taking notes while pairing can help to answer these questions.
 It's good for some of your feedback to have more detail than "yes" or "no".
 
 ## Meeting the candidate
-
 The Made Tech people running the interview will let you know when to join. 
 
 It’s OK to spend five minutes getting comfortable at the beginning. Introduce yourself, ask how they are doing.
@@ -57,7 +52,6 @@ Tell the candidate the key facts:
 - If you’re remote, decide how you’ll pair. You could use Tuple, Live Share, or screen sharing.
 
 ## Writing code together
-
 It’s OK to help, but give space for the candidate to show their skills and knowledge. If they get stuck, guide them to the next small step. 
 
 Ask them to write the first test. 
@@ -67,12 +61,11 @@ Keep writing code and tests until you've got five minutes left.
 It's OK to keep coding for the last five minutes, or to stop and talk with the candidate instead.
 
 ## Ending the pairing session
-
 It’s OK to stop coding five minutes early and talk. You would do this to:
 - Ask any extra questions
 - Make the candidate more comfortable (e.g. remind them it’s OK to not finish)
 
 ## Sharing your feedback
-Join the ‘debrief’ and share your feedback with the other interviewers.
+Join the debrief and share your feedback with the other interviewers.
 
 It’s OK to be unsure about whether you would hire the candidate.
