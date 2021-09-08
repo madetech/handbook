@@ -12,7 +12,7 @@ Read our [Equality, Diversity & Inclusion Policy](policy.md).
 
 We have a number of ways we support equality, diversity and inclusion at Made Tech.
 
-We have a [diversity and inclusion service team](about-service-team.md) who are responsible for defining our strategy, setting KPIs and objectives, supporting the wider organisation to take action to deliver on these objectives, and reporting on progress to our leadership team. This team is an escalation point for D&I related issues and manages the operation of equality data collection and reporting. 
+We have a [diversity and inclusion service team](about-service-team.md) who are responsible for defining our strategy, setting KPIs and objectives, supporting the wider organisation to take action to deliver on these objectives, and reporting on progress to our leadership team and the wider company. This team is an escalation point for D&I related issues and manages the operation of equality data collection and reporting. 
 
 We have a regular forum, our diversity and inclusion community meetup for discussing diversity and inclusion matters, scrutinising decisions being made by the diversity and inclusion service team, and making suggestions for future strategy.
 
