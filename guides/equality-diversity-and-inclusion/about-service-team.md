@@ -31,4 +31,4 @@ The service team is also responsible for ensuring the diversity and inclusion co
 
 The service team shall be available for issues to be raised via members of the diversity and inclusion community, open/closed communities or any other individual at Made Tech. Details on who to raise issues to should be documented in the [#supply-diversity-and-inclusion](https://madetechteam.slack.com/archives/CRAJF24CR) Slack channel.
 
-We have documented general guidance on [raising an issue](guides/welfare/raising_an_issue.md) elsewhere in the Handbook.
+We have documented general guidance on [raising an issue](../welfare/raising_an_issue.md) elsewhere in the Handbook.
