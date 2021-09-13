@@ -44,7 +44,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  5. Run any CLI based command in the same way e.g `aws-vault exec madesso -- terraform apply`
 
 # Devops Pairing Interviews Account
-This is a seperate account for use in devops pairing exersises. 
+This is a separate account for use in devops pairing exercises. 
 
 This accout diffrers in two ways from the main sandbox:
 - It allows the creation of iam users. 
