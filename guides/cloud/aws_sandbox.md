@@ -39,9 +39,9 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  output=json
  ```
  
- 3. Test with `aws-vault exec madesso -- aws sts get-caller-identity`
+ 3. Test with `aws-vault exec mt-playground -- aws sts get-caller-identity`
  4. This pops open a browser where you need to login to create a session.
- 5. Run any CLI based command in the same way e.g `aws-vault exec madesso -- terraform apply`
+ 5. Run any CLI based command in the same way e.g `aws-vault exec mt-playground -- terraform apply`
 
 # Devops Pairing Interviews Account
 This is a separate account for use in devops pairing exercises. 
@@ -74,7 +74,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  ```
 
 # Admin actions
-This section is for Sadbox Admin administrators (e.e pepole in the `@sandbox-admins` group)
+This section is for Sandbox Admin administrators (e.e pepole in the `@sandbox-admins` group)
 
 ## Adding new users
 For when a user has requested to be added to the AWS sandbox
