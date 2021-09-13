@@ -14,7 +14,7 @@ The DevOps pairing process needs a little more preparation than normal
 - Use [this terraform project](https://github.com/madetech/devops-pairing-terraform) to create temporary credentials for the pair
 
 ## Writing code together
-Currently, we are still building the exercises to use for this kind of interview. For a link to the currently used exercise, ask on slack.
+Currently, we are still building the exercises to use for this kind of interview. For a link to the currently used exercise check the channel topic/description in slack `#cop-cloud`
 
 ## Ending the pairing session
 When there are five minutes left in the session:
