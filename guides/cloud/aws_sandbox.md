@@ -48,7 +48,7 @@ This is a separate account for use in devops pairing exercises.
 
 This accout diffrers in two ways from the main sandbox:
 - It allows the creation of iam users. 
-- It **deletes all resouces inside it every day!**
+- It **deletes all resources inside it every day!**
 
 ## Access
 Only employes that are conductiong devops pairing interviews will be given acess
