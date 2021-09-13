@@ -31,7 +31,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
 2. Add the following config to your `~/.aws/config` file.
 
 ```
- [profile madesso]
+ [profile mt-playground]
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=261219435789
@@ -65,7 +65,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
 2. Add the following config to your `~/.aws/config` file.
 
 ```
- [profile madesso]
+ [profile mt-devops]
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=612473995106
