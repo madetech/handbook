@@ -55,8 +55,29 @@ Only employees that are conducting devops pairing interviews will be given acces
 
 1. Request your user account to be added to the `DevopsPairingInterviewer` group in the #cop-cloud Slack channel.
 
+## CLI Usage
 
-# Adding new users
+Use [aws-vault](https://github.com/99designs/aws-vault) to run CLI commands.
+
+Reasons for using this tool can be found [here](https://github.com/99designs/aws-vault#how-it-works).
+
+1. Install [aws-vault](https://github.com/99designs/aws-vault#installing)
+2. Add the following config to your `~/.aws/config` file.
+
+```
+ [profile madesso]
+ sso_start_url=https://madetech.awsapps.com/start
+ sso_region=eu-west-2
+ sso_account_id=612473995106
+ sso_role_name=SandboxAdmin
+ output=json
+ ```
+
+# Admin actions
+This section is for Sadbox Admin administrators (e.e pepole in the `@sandbox-admins` group)
+
+## Adding new users
+For when a user has requested to be added to the AWS sandbox
 - Login to sso https://madetech.awsapps.com/start#/
 - Click on: `aws account` > `Made Tech` > `Management console`
 - Now go to console.aws.amazon.com/singlesignon 
