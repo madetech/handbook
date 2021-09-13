@@ -46,14 +46,14 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
 # Devops Pairing Interviews Account
 This is a separate account for use in devops pairing exercises. 
 
-This accout diffrers in two ways from the main sandbox:
+This account differs in two ways from the main sandbox:
 - It allows the creation of iam users. 
 - It **deletes all resources inside it every day!**
 
 ## Access
-Only employes that are conductiong devops pairing interviews will be given acess
+Only employees that are conducting devops pairing interviews will be given access
 
-1. Request you user account to be added to the `DevopsPairingInterviewer` group in the #cop-cloud Slack channel.
+1. Request your user account to be added to the `DevopsPairingInterviewer` group in the #cop-cloud Slack channel.
 
 
 # Adding new users
@@ -61,8 +61,8 @@ Only employes that are conductiong devops pairing interviews will be given acess
 - Click on: `aws account` > `Made Tech` > `Management console`
 - Now go to console.aws.amazon.com/singlesignon 
 - On the left nav bar click `users` > `add user`
-- Fill in there deatils (use the part before the @ in there email as username)
+- Fill in their details (use the part before the @ in their email as username)
 - Add them to the "SandboxAdmin" group
-- They shoud now get a email invite to join (valid for the next 7 days)
+- They should now get a email invite to join (valid for the next 7 days)
 
 
