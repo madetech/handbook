@@ -74,7 +74,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  ```
 
 # Admin actions
-This section is for Sandbox Admin administrators (e.e pepole in the `@sandbox-admins` group)
+This section is for Sandbox Admin administrators (i.e. pepole in the `@sandbox-admins` group)
 
 ## Adding new users
 For when a user has requested to be added to the AWS sandbox
