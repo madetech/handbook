@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Made Tech AWS Sandbox accounts are primaraly used for individuals personal development and testing. We run [AWS SSO](https://aws.amazon.com/single-sign-on/) to simplify and secure the IAM aspect of accessing this account.
+The Made Tech AWS Sandbox accounts are primarily used for individuals' personal development and testing. We run [AWS SSO](https://aws.amazon.com/single-sign-on/) to simplify and secure the IAM aspect of accessing this account.
 
 ## Usage Policy
 
