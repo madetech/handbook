@@ -1,9 +1,9 @@
-DevOps pairing works similarly to [regular paring](./pairing.md)
-Please [read the regular paring document](./pairing.md) before this one
+DevOps pairing works similarly to [regular pairing](./pairing.md)
+Please [read the regular pairing document](./pairing.md) before this one
 
 ## Goals
 
-- Our DevOps paring process is designed to simulate solving a real problem in a delivery
+- Our DevOps pairing process is designed to simulate solving a real problem in a delivery
 Therefore work should be done on an actual cloud account so that the pair can work past unexpected problems
 
 - We insist on using infrastructure as code so that interviews can demonstrate these skills as this is often always used in a delivery
@@ -19,4 +19,4 @@ Currently, we are still building the exercises to use for this kind of interview
 ## Ending the pairing session
 When there are five minutes left in the session:
 - Start to Destroy the resources created in the session
-- While this is happening its good to ask how they thought the interview went, what they would change etc
+- While this is happening, it's good to ask how they thought the interview went, what they would change etc
