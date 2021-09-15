@@ -4,6 +4,12 @@
 
 The Made Tech AWS Sandbox accounts are primarily used for individuals' personal development and testing. We run [AWS SSO](https://aws.amazon.com/single-sign-on/) to simplify and secure the IAM aspect of accessing this account.
 
+Currently there are 2 accounts you can use:
+- [Playgound account](#playgound-account)
+- [Devops Pairing Interviews Account](#devops-pairing-interviews-account)
+
+# Playgound account
+
 ## Usage Policy
 
 This AWS account should only be used for temporary short lived test type projects and resources are destroyed every Friday evening.
