@@ -6,7 +6,7 @@ Learning & Mentoring is a core value at Made Tech and we strive to continuosly l
 
 ## What resources are available to develop myself
 
-All team members have 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
+All team members have up to 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
 
 * Find out [how to book learning time](booking_learning_time.md) 
 
@@ -17,6 +17,13 @@ In addition to that, there will a variety of internally created content, plus pa
 We also have a company wide learning budget for further training and courses. Our L&D Experience Manager is the best person to speak to if you want to learn more.
 
 * The 12 days should be focussed on attaining, and/or improving skills relevant to your role at Made Tech.
+
+### When joining Made Tech
+Both the number of learning days and your learning budget allowances will be prorated based on your joining date:
+- Q1 starters- 12 learning days & £300 personal learning spend 
+- Q2 starters - 9 learning days and £225 personal learning spend
+- Q3 starters - 6 learning days and £150 personal learning spend
+- Q4 starters - 3 learning days and £75 personal learning spend
 
 ## Showcases
 
