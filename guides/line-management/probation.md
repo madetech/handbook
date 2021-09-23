@@ -27,6 +27,17 @@ Be honest and upfront about concerns or skills gaps and support your direct repo
 
 Before the end of the probation period you must have confidence that the team member meets their role expectations and is aligned with our core values. Demonstrating both of these generally means that they are a great addition to our team and will help drive the company goals forward. Absence of either of those needs to be looked into more closely.
 
+### Week 6
+This is a great time for a half way review. Discuss how their time has gone so far, reflect and review on feedback and work examples you have already discussed and identify what you want to focus on for the following 6 weeks.
+Feedback is easier to receive if you colleagues a heads up and a chance to better observe you. Send out a probation feedback request to the team leads, peers and other stakeholders they work with via Small Improvements asking to observe the team member for the following 4 - 6 week. A template 'Probation Feedback' is available to use'. 
+
+### Week 10
+It's time to review the feedback you have received over the past few weeks. If you are missing feedback then this is a good time to nudge colleagues.
+Reviewing the feedback during week 10 will allow a further 2 weeks (week 12 is your probation review) to reflect and work through anything that is unclear or outstanding. 
+
+### Week 10 - 12
+Please see 'Finishing probation' below. 
+
 ## Explaining how to pass probation
 
 Talk about what good looks like for your direct report's role. [The handbook role pages](../../roles/README.md) may help with this.
