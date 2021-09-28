@@ -7,7 +7,7 @@
 
 ## Key responsibilities 
 
-- Responsible to the Head of User-Centred Design for successfully informing the design and delivery public services
+- Responsible to the Lead User Researcher for successfully informing the design and delivery public services
 - Scope focus of research, so everyone involved has a shared understanding of successful outcomes 
 - Plan research that informs the design of public services so they are useful, usable and create successful outcomes
 - Do research with people that makes them comfortable sharing details of their lives, that teams must understand to design good services
