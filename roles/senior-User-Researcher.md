@@ -1,6 +1,6 @@
 # Senior User Researcher
 
-- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- SFIA: [Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
 - Salary outside London: £44,000 - £53,000
 - Salary inside London: £50,000-£60,000 
 
@@ -37,5 +37,6 @@
 
 ## Salary
 
-This role has a salary of £60,000-£70,000 per annum depending on experience. 
+- Salary outside London: £44,000 - £53,000
+- Salary inside London: £50,000-£60,000 
 
