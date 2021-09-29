@@ -46,3 +46,4 @@ We want to ensure teams own their holidays and that includes thinking about the 
 
 ## Christmas at Made Tech 
 * Made Tech closes from Christmas Eve until the first working day back in January
+* You will not need to book this time off
