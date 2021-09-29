@@ -45,6 +45,4 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * We have 23 holiday days in our employment contracts but in practice we have Flexible Holiday as per this guidance. We'd only revert to the employment contract in the case of abusing our Flexible Holiday system though we've never needed to do this. If you leave Made Tech part way through the year we will also use 23 days to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
 
 ## Christmas at Made Tech 
-
-* Made Tech closes for Christmas and New Year - you will not need to book this time off.
-* This year (2018) Made Tech will be closed from the 24th of December (inclusive), and coming back to work on the 2nd of January.
+* Made Tech closes from Christmas Eve until the first working day back in January
