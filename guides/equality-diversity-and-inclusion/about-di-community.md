@@ -14,7 +14,7 @@ In particular it was set up to:
 
 ## When and how does the community meet?
 
-The community meets on a fortnightly basis via Google Meet. It is facilitated by a representative from the diversity and inclusion service team or another nominated individual. The format uses the [Lean Coffee](https://leancoffee.org/) approach where topics can be suggested, prioritised by voting and then discussed in order. The invite is open on Google Calendar so you may add yourself to be reminded, [ask on Slack](https://madetechteam.slack.com/archives/CRAJF24CR) for more information.
+The community meets on a fortnightly basis via Google Meet. It is facilitated by a representative from the [diversity and inclusion service team](./about-service-team.md) or another nominated individual. The format uses the [Lean Coffee](https://leancoffee.org/) approach where topics can be suggested, prioritised by voting and then discussed in order. The invite is open on Google Calendar so you may add yourself to be reminded, [ask on Slack](https://madetechteam.slack.com/archives/CRAJF24CR) for more information.
 
 From time-to-time the diversity and inclusion service team may change the format as it sees fit to deliver on its goals and objectives.
 
@@ -24,15 +24,15 @@ Minutes are added to the [inclusion repository](https://github.com/madetech/incl
 
 ## How else can I get involved?
 
-The community also hangs out on [Slack](https://madetechteam.slack.com/archives/CRAJF24CR). You may also consider joining one or more open or closed community groups.
+The community also hangs out on [Slack](https://madetechteam.slack.com/archives/CRAJF24CR). You may also consider joining one or more [open or closed community groups](about-open-and-closed-community.md).
 
 ## Who can join?
 
-Anyone can join the community meet up and Slack channel. It is attended by all available members of the diversity and inclusion service team and anyone else who wants to join in or just watch. It’s totally fine to join for part of the meet up and to keep your camera off if you prefer.
+Anyone can join the community meet up and Slack channel. It is attended by all available members of the [diversity and inclusion service team](./about-service-team.md) and anyone else who wants to join in or just watch. It’s totally fine to join for part of the meet up and to keep your camera off if you prefer.
 
 ## How do I raise an issue?
  
-Issues can be raised using the Lean Coffee format ahead of and during community meetings. This can be useful for organisational-wide issues but if the issue is about someone’s personal experience  it may be best to talk to a member of the service team first.
+Issues can be raised using the Lean Coffee format ahead of and during community meetings. This can be useful for organisational-wide issues but if the issue is about someone’s personal experience  it may be best to talk to a member of the [diversity and inclusion service team](./about-service-team.md) first.
 
 Anyone can contact the service team about an issue, or you could choose to raise it through a member of the diversity and inclusion community, or your diversity community group. Details on who to raise issues to are documented in the [#supply-diversity-and-inclusion Slack channel](https://madetechteam.slack.com/archives/CRAJF24CR).
 
