@@ -12,8 +12,8 @@ Specifically, the diversity and inclusion service team is funded to and is respo
 - Being an escalation point with the ability to raise issues at an executive and board-level
 - Manage operation of equality data collection
 - Reporting on equality data to drive future decisions and investments
-- Running the diversity and inclusion community
-- Supporting open/closed communities to form and operate
+- Running the [diversity and inclusion community](about-di-community.md)
+- Supporting [open and closed communities](about-open-and-closed-community.md) to form and operate
 
 ## Membership
 
