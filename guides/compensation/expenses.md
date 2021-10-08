@@ -11,7 +11,7 @@ We provide some examples below of what is okay to expense. We trust you to be ab
 - Small computer equipment (HDMI adapters etc.)
 - Amenities for the office (coffee, fruit, biscuits, etc.)
 - Lunch and drinks for a customer
-- Stationary (post-it notes, notepads, etc.)
+- Stationery (post-it notes, notepads, etc.)
 - Conference tickets (speak with a Director or Line Manager if over £150 per ticket)]
 - [Work related travel](expenses/travel.md)
 - [Equipment to enable you to work from home](expenses/working_from_home.md)
