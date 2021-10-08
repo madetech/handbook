@@ -1,7 +1,8 @@
 # Designer 
 
 - SFIA: [Level 3](https://sfia-online.org/en/sfia-7/responsibilities/level-3)
-- Salary: £40,000-£50,000 per year
+- Salary outside London: £36,000 - £45,000 
+- Salary inside London: £40,000 - £50,000
 
 Designers might aleady be a product designer, UX designer, service designer or interaction designer. 
 
