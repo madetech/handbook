@@ -4,7 +4,7 @@
 - Salary outside London: £63,000-£81,000
 - Salary inside London: £70,000-£90,000 
 
-UCD Principals might come from doiing leadership roles in user research, design or content. 
+UCD Principals might come from doing leadership roles in user research, design or content designer. 
 
 ## Summary
 
