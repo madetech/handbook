@@ -4,13 +4,11 @@
 - Salary outside London: £63,000-£81,000
 - Salary inside London: £70,000-£90,000 
 
-Designers might aleady be a product designer, UX designer, service designer or interaction designer. 
+UCD Principals might come from doiing leadership roles in user research, design or content. 
 
 ## Summary
 
-Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
-
-Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
+As a User Centred Design Principal, reporting into the Market Principal, you will enable public sector organisations to better design services in order to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior design leader.
 
 ## Responsibilities 
 
