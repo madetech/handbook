@@ -1,6 +1,6 @@
 # User-Centred Principal
 
-- SFIA: [Level 6](https://sfia-online.org/en/sfia-6/responsibilities/level-6)
+- SFIA: [Level 6](https://sfia-online.org/en/sfia-7/responsibilities/level-6)
 - Salary outside London: £63,000-£81,000
 - Salary inside London: £70,000-£90,000 
 
