@@ -11,6 +11,9 @@ Check [Ubuntu releases](https://wiki.ubuntu.com/Releases) to ensure that your ve
 The user account that you use on a day to day basis must be a standard non-administrator account. If you require administrator rights to do your job, you can create a separate admin user and switch to this when required.
 
 ### Linux (Ubuntu)
+
+**Note: This is optional for Linux users, though recommended by Cyber Essentials Plus.**
+
 A standard account is not on the `sudoers list`, so in order to run commands that require `sudo` access you can temporarily switch to an admin account, run the `sudo` command then logout of the admin user:
 
 ```bash
