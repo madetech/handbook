@@ -3,7 +3,7 @@
 Agile Business Analyst who wants to actually see the real-world impact from what you help to create? Our mission is simple! We believe we can use tech to make public services better. We also believe this can happen best when our own team represents the society that actually uses the services we work on. At Made Tech, we’re collectively continuing to grow a culture that is happy, healthy, safe and inspiring for people of all backgrounds and experiences, so we encourage all people from underrepresented groups to apply for roles with us. Have we caught your interest? Please read on…
 As an Agile Business Analyst you will be a valued person understanding user and business needs for the products and services in the public sector as part of our rapidly growing Manchester team.
 
-##Your role at Made Tech  
+## Your role at Made Tech  
 
 Accurately capturing business and service needs ensuring processes are mapped out clearly for the delivery team
 Using business analysis principles and tools to define requirements and processes that align with project goals
@@ -11,7 +11,7 @@ Carrying out research and identifying risks
 Documenting detailed requirements, functional and non-functional, that can be fed back to the relevant collaborators
 Being an active part of the digital service delivery team to assist the team's successful project delivery
 
-##Required skills
+## Required skills
 
 Knowledge of business analysis methods and tools
 Working directly with clients, organisations and users using agile processes (Lean UX, Scrum, XP, and/or Kanban)
@@ -24,7 +24,7 @@ Understanding of enterprise and business architecture
 Experienced working with Government Digital Service
 
 
-##Growing at Made Tech
+## Growing at Made Tech
 
 We want our teams and individuals to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following: 
 
@@ -36,11 +36,11 @@ Showcasing and presentation skills
 Product and Service documentation
 
 
-##Our Benefits
+## Our Benefits
 
 We are always listening to our growing teams and evolving the benefits available to our people.  As we scale, as do our benefits and we are scaling quickly. We've recently introduced a flexible benefit platform which includes a Smart Tech scheme, Cycle to work scheme, and an individual benefits allowance which you can invest in a Health care cash plan or Pension plan. We’re also big on connection and have an optional social and wellbeing calendar of events for all employees to join should they choose to. 
 
-##Salary
+## Salary
 
 This role has a salary of £40,000-£50,000 per annum depending on experience and location. 
 
