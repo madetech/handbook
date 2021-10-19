@@ -34,7 +34,7 @@ From 1st September 2021 until the 31st December 2021:
 
 From the 1st January 2022: 
 - Learning spend and learning days will be withdrawn as a benefit from the day it has been agreed that they will be leaving the business (e.g. when someones notice  has been accepted)
-- If someone has used more learning days than their prorated amount, the cost of the days ***will be*** clawed back
+- If someone has used more learning days than their prorated amount, the cost of the days ***will be*** clawed back by deduction from your final pay packet
 - We will not claw back any of your allocated personal learning spend
 
 
