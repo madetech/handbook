@@ -1,13 +1,13 @@
-#Product Manager
+# Product Manager
 
 Our Product Managers are accountable for the quality of complex, high-risk products and services in the public sector and work with stakeholders and teams to set visions and priorities. They champion the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
 
-##Your role at Made Tech
+## Your role at Made Tech
 
 Made Tech are experiencing a period of rapid growth and are scaling quickly to keep pace with demand. We help public sector leaders to modernise legacy applications and working practices, accelerate digital service delivery, drive smarter decisions with data and enable improved technology skills within teams. We are working with an increasing number of projects and stakeholders, resulting in the expansion of the current product management function.
 Our Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and MadeTech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation.
 
-##Required skills
+## Required skills
 
 Effective workshop facilitation, enabling the delivery team to interpret research outcomes into actionable insights, continued by using product management principles and approaches to define what is built meeting user, service and organisation needs, alongside understanding and experience of agile methodology and how to apply the agile mindset to all aspects of their work.
 Ensuring that the outcomes of any engagement have identifiable outcomes that are measurable and deliver value to the user and our client.
@@ -16,7 +16,7 @@ Ensuring roadmaps are prioritised by business value and risk you will ensure our
 Working with the delivery manager to accurately monitor the progress of a project. That will include accessible weekly and monthly dashboards that can be fed back to the relevant stakeholders, including Directors. These will incorporate budget requirements and outcomes as well as outlining blockers and risks. 
 Focusing on improving the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros, etc.
  
-What we need from you
+## What we need from you
 While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
 
 Working directly with clients, ideally in a Consultancy with multiple services
@@ -35,7 +35,7 @@ Assist sales and marketing team with product knowledge
 You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client objectives into epics and user stories.
 Communication will be key to your success, so you should feel comfortable presenting to senior stakeholders in a professional manner, so that the needs of everyone involved in a project are kept in balance, whilst mediating disputes when required.
 
-##Optional experience
+## Optional experience
 
 Experienced working with Government Digital Service
 Writing blog posts and giving talks
@@ -53,9 +53,9 @@ As a technologically driven company that espouses best practice and aims to beco
 You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
 Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a delivery focused direction, or transition towards agile coaching (either internally or externally), or evolve into a Senior or Lead Product Manager position – we're happy to support you to take charge of your future and follow your passions!
 
-#What we will provide you
+# What we will provide you
 
-##Balancing life and work:
+## Balancing life and work:
 
 ✈️ Flexible Holiday – We trust you to take as much holiday as you need
 🕰️ Flexible Working Hours – We are flexible with what hours you work
@@ -77,5 +77,5 @@ Compensating you fairly:
 🚲 Cycle To Work Scheme – We offer the cycle to work scheme to help pay for your bicycle
 🚕 Expenses Paid – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
 
-##Salary
+## Salary
 This role has a salary of £40-60k depending on experience and location.
