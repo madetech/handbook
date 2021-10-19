@@ -20,10 +20,23 @@ We also have a company wide learning budget for further training and courses. Ou
 
 ### When joining Made Tech
 Both the number of learning days and your learning budget allowances will be prorated based on your joining date:
-- Q1 starters- 12 learning days & £300 personal learning spend 
+- Q1 starters- 12 learning days and £300 personal learning spend 
 - Q2 starters - 9 learning days and £225 personal learning spend
 - Q3 starters - 6 learning days and £150 personal learning spend
 - Q4 starters - 3 learning days and £75 personal learning spend
+
+### When leaving Made Tech
+
+From 1st September 2021 until the 31st December 2021:
+- Learning spend and learning days will be withdrawn as a benefit from the day it has been agreed that they will be leaving the business (e.g. when someones notice has been accepted)
+- If someone has used more learning days than their prorated amount, the cost of the days ***will not*** be clawed back
+- We will not claw back any of your allocated personal learning spend 
+
+From the 1st January 2022: 
+- Learning spend and learning days will be withdrawn as a benefit from the day it has been agreed that they will be leaving the business (e.g. when someones notice  has been accepted)
+- If someone has used more learning days than their prorated amount, the cost of the days ***will be*** clawed back
+- We will not claw back any of your allocated personal learning spend
+
 
 ## Showcases
 
