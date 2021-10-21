@@ -30,7 +30,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 ### Product & Business Analysis
 
-- Team Assistant [(SFIA Level 2)](sfia/junior_delivery_manager.md)
+- Senior Business Analyst [(SFIA Level 4)](sfia/Senior_Business_Analyst.md)
 - Junior Delivery Manager [(SFIA Level 3)](sfia/junior_delivery_manager.md)
 - [Delivery Manager](delivery_manager.md) [(SFIA Level 4)](sfia/delivery_manager.md)
 - Senior Delivery Manager [(SFIA Level 5)](sfia/senior_delivery_manager.md)
