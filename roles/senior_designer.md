@@ -1,8 +1,8 @@
 # Senior Designer 
 
 - SFIA: [Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
-- Salary outside London: £54,000 - £63,000
-- Salary inside London: £60,000-£70,000 
+- Salary outside London: £44,000 - £53,000
+- Salary inside London: £50,000-£60,000
 
 Designers might aleady be a product designer, UX designer, service designer or interaction designer. 
 
