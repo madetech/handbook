@@ -2,35 +2,35 @@
 
 We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, or from a coffee shop. We acknowledge that working remotely can lead to increased productivity, and have positive effects on wellbeing.
 
-There are tradeoffs when choosing between working from the office and from home. Below is some general etiquette for occasional remote work, along with guidelines for working remotely on a regular basis.
+### Made Tech offices
+Our current requirements for working from Made Tech offices are no longer fixed to a specifc number of days per week. This means we now default to remote working with the option to work from your regional Made Tech office as and when needed. 
+However, you must be able to travel to your assigned regional office when required to do so. We currently expect this to be on average 1 day per month.
+
+### Client office
+Each of our clients will have their own requirements for Made Tech team members to work from their offices. All client facing team members will be required to be able to travel to their assigned client office. We currently expect the needs to be varied, from ‘no office time required’ to ‘2-3 days per week’. Typically, this should be less than 2 days per week though. 
+
+We’ll try to make the requirements for travel as clear as possible as part of the scheduling process. 
+
+### Travel expenses
+Team members may expense travel to client sites that are outside of their regional office. Travel within your regional office area is not expensable. 
+
+#### What is part of my regional office?
+- London - within the M25
+- Manchester - all Manchester postcodes (M postcodes)
+- Bristol - within a 25KM radius of Bristol city centre 
+- Swansea - within a 25KM radius of Swansea city centre
 
 
-### Occasional Remote Working
-- Check and clear any remote work with the rest of your team before the end of the previous working day
-- Ensure your absence does not negatively impact the productivity and/or success of other team members
-- Once agreed with your team and customers add time off as 'Working from home' in Charlie HR
-- Check that you're not needed on-site by a customer or your team
+### Remote Working guidance
+- Check that you're not needed on-site by a client or your team
 - Ensure you're available for your team ceremonies as normal, and are able to dial in without interruption
 - Be a good Slack citizen and check in regularly and visibly with your team throughout the working day in public channels
-- Ensure you're clear on your workload for the day or days you wish to work from home and ensure that you won't benefit from working closely with others
-- Ensure you're not scheduled for any meetings or sessions
-- Barring any extraordinary circumstances, we like people to be in the office on Friday
+- Ensure you're not scheduled for any in-person meetings or sessions
 
-### Regular Remote Working
-
-There are some additional considerations when working from home regularly
-
-- Talk to your team ahead of committing yourself to working remotely on a regular basis. Team members on Delivery should check in with the Delivery Lead. Members of business teams should check with their Head of Department.
-- Once agreed, put a recurring event in Charlie HR
-- We recommend remote working on a recurring basis a maximum of 2 days per week when part of a delivery team to ensure you don't lose context.
-- Make sure you choose days that will have the least impact on customers. A larger organisation's time will be less flexible and you'll need to ensure there are clearly set expectations around when showcases will be etc.
-- It is also important to ensure that a regular absence doesn't impact the productivity and success of other team members (such as a pairing partner), or interrupt the flow of regular team ceremonies.
-
-Note: 
-For fixed remote working requirements (i.e. I need to work from home every Wednesday) there are additional considerations. We would generally want to try and faciliate this but it is dependant on the types of projects we have at that time. For customer facing roles (tech and delivery) we'll have to communicate this to clients in advance to manage their expectations. In some instances a fixed remote working requirement may not suit a particular engagement which could limit the engagements we can assign to you. 
 
 ### Refusing a Request for Remote Working
 
+For the days that Made Tech or the client requires you to be onsite only:
 All requests to work from home should be considered in their individual circumstances. The decision ultimately resides with teams, but below are some guidelines around when you may want to refuse a request to work from home
 
 - If the request will clash with and important ceremony with the client or the rest of the team (planning, retros, etc.)
