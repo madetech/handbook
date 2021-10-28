@@ -28,6 +28,20 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 - Senior Delivery Manager [(SFIA Level 5)](sfia/senior_delivery_manager.md)
 - [Delivery Principal](delivery_principal.md) (SFIA Level 6)
 
+### Product & Business Analysis
+
+#### Product
+
+- [Lead Product Manager](lead_product_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Senior Product Manager](senior_product_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Product Manager](product_manager.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+
+#### Business Analysis
+
+- [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Business Analyst](business_analyst.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+
 ### User-Centred Design
 
 #### User Research
