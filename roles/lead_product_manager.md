@@ -1,65 +1,71 @@
-# Senior Software Engineer
+# Lead Product Manager
 
-Bristol, Manchester & London, UK.
+Our Lead Product Managers are accountable for the quality of complex, high-risk products and services in the public sector and work with stakeholders and teams to set visions and priorities. 
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
-
-Our Senior Software Engineers deliver digital, data and technology outcomes that improve society. They do this by delivering and architecting software, and coaching others to do so in public sector organisations.
+They will work closely with the Head of Product to provide leadership and direction to all products in a programme or a local product community. They are experts in their field, and will be involved in line management and hiring of Product Managers. They champion the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
 
 ## What does the job entail?
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+Our Lead Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and MadeTech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client objectives into epics and user stories. You’ll achieve this through:
 
-As a Senior Software Engineer you will combine your technical excellence, drive to deliver and coaching skills to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations.
+- Maintaining high-level roadmap across programmes of work.
+- Managing and leading the product community.
+- Understanding the marketplace, realising the benefit and persuading others that a product is the right one to use. Integrating a product with other services, and ensuring that products get used.
+- Effective workshop facilitation, adopting a senior approach to oversee and enable the delivery team to interpret research outcomes into actionable insights, continued by using product management principles and approaches to define what is built meeting user, service and organisation needs, alongside understanding and experience of agile methodology and how to apply the agile mindset to all aspects of their work.
+- Ensuring that the outcomes of any engagement have identifiable outcomes that are measurable and deliver value to the user and our client.
+- Influencing and leading multidisciplinary teams, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business objectives to create the product roadmap. You will work with a range of stakeholders, including the delivery managers, software engineers, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to decide on best practice and design epics/user stories to work from.
+- Leading the production of roadmaps that are prioritised by business value and risk. You will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
+- Developing long term visions and objectives, and understanding how to develop the existing capability to anticipate future problems and projects. 
+- Focusing on enhancing the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients to define and create approaches by implementing new ways of working and coaching teams in these.
 
-You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all our engineers to be keen on learning new skills.
 
-High performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
-
-We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies and we offer official AWS and other cloud training.
-
-We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogether. Right tool for the job.
-
-For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other peoples work into production. You'll empower teams with the mantra: you build it, you run it!
-
-We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. You will need to be comfortable sharing your knowledge and skills with others. We’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
-
-## What experience are we looking for?
+## What we need from you
 
 While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
 
-- Written code with tests
-- Delivered in an agile environment
-- Worked with more than one programming language
-- Worked with databases
-- Worked with APIs
-- Worked with a cloud platform such as AWS, GCP and/or Azure
-- Debugging experience in a range of systems
+- As much interest in managing people as managing products
+- Working directly with clients, ideally in a Consultancy with multiple services
+- In-depth knowledge and experience of Lean and Agile processes 
+- Articulate a problem and help others to do it. You know how to build problem-solving capabilities in others
+- Able to lead a team, overcoming constraints to become high performing
+- Designing, facilitating and leading workshops to shape vision and set direction
+- Working within multidisciplinary teams with product, design, and technology working within the same cycles
+- Agile and lean practices such as Lean UX, Scrum, XP, and/or Kanban
+- Showcasing and presentation skills
 - Evidence of self-development – we value keen learners
 - Drive to deliver outcomes for users
 - Desire to mentor others
 - Empathy and people skills
+- Assist sales and marketing team with product knowledge
 
 ## Optional experience
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
-- Experience in technology consultancy
-- Working directly with customers and users
-- Working within multidisciplinary teams with product, design, and technology working within the same cycles
-- Showcasing and presentation skills
-- Agile practices such as Scrum, XP, and/or Kanban
-- Pair programming
-- Writing code with test-driven development
-- Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
-- Debugging infrastructure
-- The React ecosystem including a test-driven approach
-- Infrastructure as code technology like Terraform and Cloud Formation
-- Familiarity with architectural and design patterns
-- Use of architectural decision records
+- Experienced working with Government Digital Service
+- Provide direction on tools and methods to use
+- Acting as an escalation point for operational issues
 - Writing blog posts and giving talks
+- User research planning and execution
+- User testing planning and execution
+- Agile estimation/Sprint planning & story definition
+- Service design
+- UI/UX Interaction design
+- User Centred Design (UCD)
 
-## What we will provide you
+Whilst we are an agile software development company and truly believe in the benefits of an agile mindset, we are also aware that not all companies have bought into the process to the same extent. As a result, you will need to be flexible in adapting to meet the specific needs of each client and we will want to hear about times that you have applied that flexibility previously, and the benefits that it brought.
+
+## What you will get from the role
+
+You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with a wealth of market-leading companies.
+
+As a technologically driven company that espouses best practice and aims to become a Thought Leader within the world of software delivery, Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
+
+You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
+
+Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a delivery focused direction, or transition towards agile coaching (either internally or externally), or evolve into a more senior position – we're happy to support you to take charge of your future and follow your passions!
+
+## Our Benefits
 
 Balancing life and work:
 
@@ -91,9 +97,9 @@ Compensating you fairly:
 
 The salary for this role is location dependant:
 
-- Bristol: £45,900-£63,000
-- Manchester: £45,900-£63,000
-- London: £51,000-£70,000
+- Bristol: £60,000-£70,000
+- Manchester: £60,000-£70,000
+- London: £70,000-£80,000
 
 ## Applying
 
