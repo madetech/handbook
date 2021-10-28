@@ -4,7 +4,7 @@ Our Lead Product Managers are accountable for the quality of complex, high-risk 
 
 They will work closely with the Head of Product to provide leadership and direction to all products in a programme or a local product community. They are experts in their field, and will be involved in line management and hiring of Product Managers. They champion the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
 
-## What does the job entail?
+## Your role at Made Tech
 
 Our Lead Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and MadeTech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client objectives into epics and user stories. You’ll achieve this through:
 
@@ -19,9 +19,7 @@ Our Lead Product Managers are expected to work across the whole digital service 
 - Focusing on enhancing the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients to define and create approaches by implementing new ways of working and coaching teams in these.
 
 
-## What we need from you
-
-While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
+## In the application process the following skills will be assessed but if you don’t have everything on this list, please still apply
 
 - As much interest in managing people as managing products
 - Working directly with clients, ideally in a Consultancy with multiple services
@@ -38,7 +36,7 @@ While we will look for you to have experience in these things, if you don’t ha
 - Empathy and people skills
 - Assist sales and marketing team with product knowledge
 
-## Optional experience
+## We want our teams and individuals to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
