@@ -37,7 +37,7 @@ From the 1st January 2022:
 - If someone has used more learning days than their prorated amount, the cost of the days ***will be*** clawed back by deduction from your final pay packet
 - We will not claw back any of your allocated personal learning spend
 
-## When do the learning allowance expire?##
+### When do the learning allowances expire?
 
 Everyone’s learning allowance expire at on the 31st December 2021. You will be given a new allowance on the 1st January 2022. 
 As we are in the process of aligning the learning allowance calendar to the Made Tech Financial year, all exisiting team members will be given 6 learning days and a personal learning budget of £150 to spend between the 1st January to the 31st May 2022. Then the allowances will be reset and the full year allowance will be given to spend between the 1st June 2022 to the 31st Decemeber 2022.
