@@ -32,15 +32,15 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### Product
 
-- [Lead Product Manager](lead_product_manager.md) [(SFIA Level 5)](sfia/lead_product_manager.md)
-- [Senior Product Manager](senior_product_manager.md) [(SFIA Level 4)](sfia/senior_product_manager.md)
-- [Product Manager](product_manager.md) [(SFIA Level 3)](sfia/product_manager.md)
+- [Lead Product Manager](lead_product_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Senior Product Manager](senior_product_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+- [Product Manager](product_manager.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
 
 #### Business Analysis
 
-- [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](sfia/lead_business_analyst.md)
-- [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](sfia/senior_business_analyst.md)
-- [Business Analyst](business_analyst.md) [(SFIA Level 3)](sfia/business_analyst.md)
+- [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+- [Business Analyst](business_analyst.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
 
 ### User-Centred Design
 
