@@ -31,7 +31,6 @@ As a Lead (Principal) Business Analyst you will be a valued person leading and p
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
-- Experience working with GDS standards
 - Experience working in a consultancy
 - Writing blog posts and giving talks
 - User research planning and execution
