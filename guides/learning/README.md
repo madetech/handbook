@@ -46,7 +46,7 @@ We are in the process of aligning the learning allowance calendar to the Made Te
 
 However, if you joined on or after the 1st September 2021
 - Your learning allowance expires on the 31st May 2022
-- You will be give a new, full year allownance on the 1st June 2022
+- You will be give a new, full year allowance on the 1st June 2022
 
 ## Showcases
 
