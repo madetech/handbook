@@ -27,6 +27,10 @@ The service team shall meet with all available members on a weekly basis to revi
 
 The service team is also responsible for ensuring the diversity and inclusion community  meets on a regular basis.
 
+Minutes for these meetings are publically available.
+Historical records (03/09/2021 - 29/10/2021) are available on [GitHub](https://github.com/madetech/inclusion/tree/master/minutes/SA-weekly)
+More recent minutes (05/11/2021 onwards) are available in a [Google Doc](https://docs.google.com/document/d/1KlCwH72h7zqmbRFugwTzbcn_fawofRysWyi6qZRaZXg/view)
+
 ## Managing issues
 
 The service team shall be available for issues to be raised via members of the diversity and inclusion community, open/closed communities or any other individual at Made Tech. Details on who to raise issues to should be documented in the [#supply-diversity-and-inclusion](https://madetechteam.slack.com/archives/CRAJF24CR) Slack channel.
