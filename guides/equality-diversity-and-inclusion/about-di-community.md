@@ -20,7 +20,8 @@ From time-to-time the diversity and inclusion service team may change the format
 
 ## Can I see what is discussed without joining?
 
-Minutes are added to the [inclusion repository](https://github.com/madetech/inclusion) for all meetings from the community.
+Minutes are added to the [inclusion repository](https://github.com/madetech/inclusion) for all meetings from the community up to 27/10/2021.
+More recent minutes are available in this [Google Doc](https://docs.google.com/document/d/1JtDxGlA2v1uX2dycJQKZ_8Ff41t8jeriWqzFkGPQI7w/view)
 
 ## How else can I get involved?
 
