@@ -3,7 +3,7 @@ Please [read the regular pairing document](./pairing.md) before this one
 
 ## Goals
 
-- Our DevOps pairing process is designed to simulate solving a real problem in a delivery
+- Our DevOps pairing process is designed to simulate solving a real problem in a delivery.
 Therefore work should be done on an actual cloud account so that the pair can work past unexpected problems
 
 - We insist on using infrastructure as code so that interviews can demonstrate these skills as this is often always used in a delivery
