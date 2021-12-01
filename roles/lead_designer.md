@@ -42,8 +42,3 @@ Lead Designers are expert practitioners who influence and mentor others. They wo
 - Experienced in their Profession
 - Facilitation
 - Thinking through Making
-
-## Salary
-
-This role has a salary of £60,000-£70,000 per annum depending on experience. 
-
