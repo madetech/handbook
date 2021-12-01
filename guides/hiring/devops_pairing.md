@@ -14,9 +14,9 @@ The DevOps pairing process needs a little more preparation than normal
 - Use [this terraform project](https://github.com/madetech/devops-pairing-terraform) to create temporary credentials for the pair
 
 ## Writing code together
-Currently, we are still building the exercises to use for this kind of interview. For a link to the currently used exercise check the channel topic/description in slack `#cop-cloud`
+Please use one of [these scenarios](https://learn.madetech.com/scenarios/cloud/) for the interview pairing exercise.
 
 ## Ending the pairing session
 When there are five minutes left in the session:
 - Start to Destroy the resources created in the session
-- While this is happening, it's good to ask how they thought the interview went, what they would change etc
+- While this is happening, it's good to ask how they thought the interview went, what they would change, how they would write tests to ensure the infrastructure has deployed correctly etc.
