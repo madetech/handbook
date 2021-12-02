@@ -47,10 +47,10 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 Here are some of our most popular benefits listed below:
 
-- [Flexible Holiday](https://github.com/madetech/handbook/blob/master/benefits/flexible_holiday.md)
-- [Flexible Working Hours](https://github.com/madetech/handbook/blob/master/benefits/working_hours.md)
-- [Flexible Parental Leave](https://github.com/madetech/handbook/blob/master/guides/welfare/parental_leave.md)
-- [Remote Working](https://github.com/madetech/handbook/blob/master/benefits/remote_working.md)
-- [Paid counselling](https://github.com/madetech/handbook/blob/master/guides/welfare/employee_assistance.md)
-- [Paid anniversary break](https://github.com/madetech/handbook/blob/master/benefits/paid_anniversary_break.md)
+- [Flexible Holiday](../benefits/flexible_holiday.md)
+- [Flexible Working Hours](../benefits/working_hours.md)
+- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
+- [Remote Working](../benefits/remote_working.md)
+- [Paid counselling](../guides/welfare/employee_assistance.md)
+- [Paid anniversary break](../benefits/paid_anniversary_break.md)
 
