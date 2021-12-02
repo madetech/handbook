@@ -51,6 +51,6 @@ Here are some of our most popular benefits listed below:
 - [Flexible Working Hours](../benefits/working_hours.md)
 - [Flexible Parental Leave](../guides/welfare/parental_leave.md)
 - [Remote Working](../benefits/remote_working.md)
-- [Paid counselling](../guides/welfare/employee_assistance.md)
+- [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
 
