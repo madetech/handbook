@@ -76,7 +76,7 @@ Academy Engineers: you can skip these two for now, but you will probably need th
 
 #### Academy Engineers
 
-There will be a scheduled [workshop](https://github.com/madetech/learn/tree/master/guides/00-Setup) that will get your machine setup for development.
+There will be a scheduled [workshop](https://github.com/madetech/learn/tree/HEAD/guides/00-Setup) that will get your machine setup for development.
 
 #### Engineers
 

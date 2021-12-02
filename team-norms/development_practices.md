@@ -10,7 +10,7 @@ Regularly validate your delivery against our [Delivery Standards](delivery_stand
 
 ## Commit little and often
 
-Engineers should commit frequently (5, 10, 15+ times per day) using short-lived branches that are merged back in to master via PR the same day. Commit messages should be well [structured and descriptive](https://github.com/erlang/otp/wiki/writing-good-commit-messages).
+Engineers should commit frequently (5, 10, 15+ times per day) using short-lived branches that are merged back in to main via PR the same day. Commit messages should be well [structured and descriptive](https://github.com/erlang/otp/wiki/writing-good-commit-messages).
 
 ## Bring the pain forward
 

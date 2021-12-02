@@ -32,7 +32,7 @@ Every team is expected to deliver a production-ready application from the first 
 
 ## 6. Use Pull Requests
 
-Every team is expected to make use of the Pull Request workflow, and work in appropriately short-lived branches. Teams should not allow Pull Requests to span multiple days work. Pull Requests should be reviewed by at least one other person before merging to master.
+Every team is expected to make use of the Pull Request workflow, and work in appropriately short-lived branches. Teams should not allow Pull Requests to span multiple days work. Pull Requests should be reviewed by at least one other person before merging to main.
 
 ## 7. Deliver Done features
 
