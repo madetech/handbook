@@ -46,7 +46,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### Content Design
 
-- [Lead Content Designer](lead_conent_designer.md) (SFIA Level 5)
+- [Lead Content Designer](lead_content_designer.md) (SFIA Level 5)
 
 #### User Research
 
