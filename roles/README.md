@@ -2,7 +2,7 @@
 
 Roles are a way for us to describe a Made Tech employee's primary purpose and
 value they are expected to bring to the business. A role is a job title that comes with a set of clear expectations. We also use them
-to indicate next steps for staff who have mastered their current role and are
+to indicate next steps for staff who have become an expert in their current role and are
 looking for more responsibilities.
 
 ## Our roles
