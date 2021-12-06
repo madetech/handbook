@@ -63,4 +63,4 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Can navigate complex stakeholder and organisational environments
 - Able to support and manage multiple workstreams, while delivering within one or more of those workstreams
 - Able to coordinate and manage supplier, partner and customer staff alongside Made Tech
-- Able to lead interviews for Senior Engineers to Engineer 1
+- Able to lead hiring interviews for Engineer 1 to Senior Engineer candidates
