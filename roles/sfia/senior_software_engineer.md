@@ -56,6 +56,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Can deliver legacy migrations
 - Able to maintain a calm and collected approach to fixing issues in chaotic environments
 - Has deep knowledge of Made Tech both commercially and technically
+- Able to lead hiring interviews for Engineer 1 to Senior Engineer candidates
 - Are endorsed by colleagues as expert in a number of skills
 - Seen by customer as an expert in their domain
 - Able to apply technical knowledge within complex environments
