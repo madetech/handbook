@@ -90,7 +90,7 @@ Compensating you fairly:
 #### IT
 
 * [Software & Licences](guides/it/software_licenses.md)
-* [Hardware](guides/it/hardware.md)
+* [Hardware](https://github.com/madetech/handbook/blob/main/guides/it/Hardware.md)
 * [Information Security](guides/it/laptop_security.md)
 
 #### Security
