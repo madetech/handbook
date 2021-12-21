@@ -1,6 +1,6 @@
 # Lead Designer 
 
-- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
+- SFIA: [Level 5](/roles/sfia/lead_designer.md)
 - Salary outside London: £54,000 - £63,000
 - Salary inside London: £60,000-£70,000 
 
