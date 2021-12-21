@@ -1,6 +1,7 @@
 # SFIA Role Guidance: Lead Designer
 
 [SFIA Level 5: Ensure, Advise](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
+[Job description](/roles/lead_designer.md)
 
 ## Summary of role
 
