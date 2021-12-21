@@ -58,7 +58,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 - [Designer](designer.md) (SFIA Level 3)
 - [Senior Designer](senior_designer.md) (SFIA Level 4)
-- [Lead Designer](lead_designer.md) (SFIA Level 5)
+- [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
 
 #### UCD Principal / Head of Design
 
