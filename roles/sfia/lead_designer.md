@@ -112,7 +112,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Work with engineers and delivery manager to design and deliver a MVP live services with a client. 
 
-A- dvises on the achievable target for a design sprint on a live service, prioritises value for users and impact for the client organisation. 
+- Advises on the achievable target for a design sprint on a live service, prioritises value for users and impact for the client organisation. 
 
 - Drafts the team shape and delivery rhyme bid proposal with a new client to do a discovery for a public service. 
 
