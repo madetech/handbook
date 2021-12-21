@@ -71,9 +71,6 @@ Compensating you fairly:
 * [Learning](guides/learning)
 * [Mentorship](guides/mentorship)
 * [Marketing Assets](https://github.com/madetech/marketing-assets)
-* [3rd Party Expenses](guides/3rd_party_services.md)
-* [VPN](guides/vpn)
-* [WiFi](guides/wifi)
 * [Line Management](guides/line-management)
 
 #### People
@@ -92,8 +89,9 @@ Compensating you fairly:
 
 #### IT
 
-* [Software Licenses](guides/it/software_licenses.md)
-* [Laptop Security](guides/it/laptop_security.md)
+* [Software & Licences](guides/it/software_licenses.md)
+* [Hardware](https://github.com/madetech/handbook/blob/main/guides/it/Hardware.md)
+* [Information Security](guides/it/laptop_security.md)
 
 #### Security
 
