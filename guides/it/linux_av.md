@@ -3,7 +3,7 @@ In order to reach the standards for [Cyber Essentials Plus](https://www.ncsc.gov
 
 The documentation below is valid in places and out of date (but not incorrect) in others. A new set of standards is being put together but it won't be ready until January 2022. At that point this new information will move on to the Knowledge Base.
 
-In the meantime, any questions to [operations@madetech.com](operations@madetech.com) or the #linuxination Slack channel.
+In the meantime, any questions to [operations@madetech.com](mailto:operations@madetech.com) or the #linuxination Slack channel.
 
 
 
