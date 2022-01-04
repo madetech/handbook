@@ -62,7 +62,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### UCD Principal / Head of Design
 
-- [UCD Principal](ucd_principal.md) (SFIA Level 6)
+- [UCD Principal](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 ### Operations and Finance
 
