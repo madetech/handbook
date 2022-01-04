@@ -1,6 +1,6 @@
 # User-Centred Principal
 
-- SFIA: [Level 6](/sfia/ucd_principal)
+- SFIA: [Level 6](sfia/ucd_principal)
 - Salary outside London: £63,000-£81,000
 - Salary inside London: £70,000-£90,000 
 
