@@ -1,6 +1,6 @@
 # SFIA Role Guidance: UCD Principal
 
-- [SFIA Level 6: Initiate, Influence](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-6)
+- ([SFIA Level 6](sfia/ucd_principal.md))
 - [Job description](https://github.com/madetech/handbook/blob/main/roles/ucd_principal.md)
 
 ## Summary of role
