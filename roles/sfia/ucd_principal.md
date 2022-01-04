@@ -1,4 +1,4 @@
-# SFIA Role Guidance: Lead Designer
+# SFIA Role Guidance: UCD Principal
 
 - [SFIA Level 6: Initiate, Influence](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-6)
 - [Job description](https://github.com/madetech/handbook/blob/main/roles/ucd_principal.md)
