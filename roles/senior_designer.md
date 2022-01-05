@@ -10,7 +10,7 @@ Designers might aleady be a product designer, UX designer, service designer or i
 
 Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
+Our Senior Designer are strong practitioners who works with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
 ## Key responsibilities 
 
