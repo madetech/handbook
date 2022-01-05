@@ -67,7 +67,9 @@ Currently, each Core Skill is comprised of 3 levels, with acompanying stickers (
 
 You earn these stickers by doing coursework, or by passing an assessment, set by members of the Engineering team with expertise in that skill.
 
+### Communities of practice
 
+We also have [communities of practice](guides/communities-of-practice) that meet regularly to get better at what we do in a group setting.
 ## FAQs
 
 Please click on this link for frequently asked questions regarding your learning at Made Tech: 
