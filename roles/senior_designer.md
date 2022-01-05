@@ -1,6 +1,6 @@
 # Senior Designer 
 
-- SFIA: [Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- SFIA: [Level 4](/sfia/senior_designer.md)
 - Salary outside London: £44,000 - £53,000
 - Salary inside London: £50,000-£60,000
 
