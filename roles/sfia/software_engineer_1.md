@@ -38,7 +38,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Still learning how Made Tech delivers technology, and may need to pair on occasion to be effective
 - Is able to more often than not participate equally in a pair with others
 - For the majority of the time, is able to contribute independently without pairing
-- Seeks feedback and guidance where appropriate; typically receives some constructive feedback and occassionally guidance highlights gaps in knowledge and skills
+- Seeks feedback and guidance where appropriate; typically receives some constructive feedback and occasionally guidance highlights gaps in knowledge and skills
 - Influencing immediate colleagues regularly by sharing opinions and ideas
 - Challenges other Made Tech colleagues ideas tactfully when in disagreement
 - Has been involved in workshops, retrospectives or other activities where ideas and opinions are shared between customers and Made Tech colleagues
