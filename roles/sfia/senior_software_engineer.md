@@ -40,7 +40,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Continues to seek consensus with approaches, and feedback on work as it is iteratively delivered
 - Confidently facilitates retrospectives and other team ceremonies regularly, and delivers Showcases
 - Has strong awareness of how Made Tech is perceived by customers and partners, as well as how colleagues and themselves are perceived by other colleagues. Will provide direct performance data and feedback in order to rectify the situation
-- Plays an active part in evolving Made Tech's approach to modern technology delivery
+- Plays an active part in evolving Made Tech's approach to modern technology delivery, such as with the [Technology COP CARE team](guides/communities-of-practice/technology/CARE.md)
 - Identifies performance issues within the workstream team and works with individuals and line managers supporting corrective action where necessary
 - Facilitates the design of architecture with customers, partners and workstream team through workshops and other collaborative formats
 - Shapes backlog collaboratively, providing technical leadership within backlog planning and refinement sessions, as well as in three amigos

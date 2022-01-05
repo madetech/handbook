@@ -41,7 +41,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Will take initiative as to whether they can resolve issues themselves or need to loop in more senior member of the team
 - Is building an awareness of how Made Tech is perceived by customers and partners, as well as how they and their colleagues are perceived by other colleagues – is developing a sense when something isn't right and needs escalating
 - Influencing workstream at a feature level, helping to define features and approaches for delivering them
-- Influencing a wider range of colleagues through sharing opinions and ideas in forums outside of their immediate deliveries
+- Influencing a wider range of colleagues through sharing opinions and ideas in forums outside of their immediate deliveries, such as with the [Technology COP CARE team](guides/communities-of-practice/technology/CARE.md)
 - Expected to also seek opportunities to share opinions and ideas to peers within customer and partner organisations
 - Provides guidance and support to more junior members of the team in helping them identify what work to pick up
 - Able to iteratively deliver features of reasonable complexity, in known contexts
