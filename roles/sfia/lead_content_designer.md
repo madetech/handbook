@@ -5,13 +5,13 @@
 
 ## Summary of role
 
-Lead Content Designers are expert practitioners who lead  and mentor others. They work with teams and clients to meet user needs and make complex processes easy to understand. . They do this by setting the direction, assuring the quality of content design delivery across teams, and ensuring content aligns to strategy and objectives.. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
+Lead Content Designers are expert practitioners who lead  and mentor others. They work with teams and clients to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery across teams, and ensuring content aligns to strategy and objectives. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
 
 ## Required competency for role
 ### Autonomy
 Self-initates and works with little direction of where to focus energy to design and deliver good public services with their team. Takes responsibility for the team designing the right solutions for their problems. Works to define and assign design tasks to themselves and others.
 
-###Examples of behaviour and responsibilities
+### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 - Assess quickly what design leadership a team needs to deliver a user-centred service and fills this role without being asked to.
 - Assures the quality and accessibility of content design work going into software production
@@ -20,10 +20,10 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Develops content design guides / operating models setting out roles and responsibilities within teams and stakeholders 
 - Works closely with designers inputting into pattern libraries and style guides. 
 
-###Influence
+### Influence
 Drives team towards design excellence by influencing team, stakeholders and partners.
 
-###Examples of behaviour and responsibilities
+### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
 - Creates tangible, understandable vision for a service's design and direction
@@ -35,10 +35,10 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Able to explain content design best practice and the reasons for it to senior service stakeholders to successfully influence them and ensure project decisions are based on what best meets user needs
 - Works closely with Product Managers and Service Designers to ensure one approach is taken across client and service portfolios
 
-###Complexity
+### Complexity
 Leads content design with their team within a wider programme of work in multi-organisation stakeholder environments. Shows the minimum design to deliver value, that balances complex user needs, client goals and legacy process or systems.
 
-###Examples of behaviour and responsibilities
+### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
 - Can guide teams to build and create the most appropriate ways to visualise their work in context for different audiences.
@@ -50,10 +50,10 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Shares research with other delivery teams within the client organisation and shows the need for closely coordination between teams
 - Working with designer to turn a new government policy into a prototypes to test with users
 
-###Knowledge
+### Knowledge
 Develops a deep understanding of design and policy landscape in UK public sector.
 
-###Examples of behaviour and responsibilities
+### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
 - Can fully explain the purpose and activities of each GDS phase of service delivery to a clients unfamiliar or uncomfortable with that way of working.
@@ -64,7 +64,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Put in place new standards for how we content review design work across different client teams
 Quickly assesses the suitability of a Content Designer role for someone interviewing to join Made Tech
 
-###Business Skills
+### Business Skills
 
 Demonstrates leadership. Communicates effectively, both formally and informally.
 Examples of behaviours and responsibilities
