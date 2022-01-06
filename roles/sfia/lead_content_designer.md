@@ -1,14 +1,15 @@
 # SFIA role guidance Lead Content Designer
-- SFIA Level 5: Ensure, Advise
-- Job description
-
+- [SFIA Level 5: Ensure, Advise](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
+- [Job description](/roles/lead_content_designer.md)
 
 ## Summary of role
 
 Lead Content Designers are expert practitioners who lead  and mentor others. They work with teams and clients to meet user needs and make complex processes easy to understand. They do this by setting the direction, assuring the quality of content design delivery across teams, and ensuring content aligns to strategy and objectives. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
 
 ## Required competency for role
+
 ### Autonomy
+
 Self-initates and works with little direction of where to focus energy to design and deliver good public services with their team. Takes responsibility for the team designing the right solutions for their problems. Works to define and assign design tasks to themselves and others.
 
 ### Examples of behaviour and responsibilities
@@ -68,6 +69,8 @@ Quickly assesses the suitability of a Content Designer role for someone intervie
 
 Demonstrates leadership. Communicates effectively, both formally and informally.
 Examples of behaviours and responsibilities
+
+### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
 - Represents content design at Made Tech at public and internally company wide events.
