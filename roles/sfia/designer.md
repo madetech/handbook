@@ -58,8 +58,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 * Can take a design through from initial research, ideas, prototyping, testing and analysing what iterations are needed. 
 * Applies their design process to different organisations and problem spaces. 
-* Can draft a research plan with their team in different organisations and problem spaces. 
-* Synthesing key insights for teams to priorities from raw research. 
+* Can quickly see changes needed to designs when observing user research. 
 * Can clearly communicate the user problems the team needs to solve.  
 
 ### Knowledge
