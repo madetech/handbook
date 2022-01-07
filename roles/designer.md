@@ -37,7 +37,3 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 - Facilitation
 - Thinking through Making
 
-## Salary
-
-This role has a salary of £40,000-£50,000 per annum depending on experience. 
-
