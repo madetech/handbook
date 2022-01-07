@@ -1,4 +1,4 @@
-# SFIA Role Guidance: Senior Designer
+# SFIA Role Guidance: Designer
 
 * [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
 * [Job description](https://github.com/madetech/handbook/blob/main/roles/designer.md)
