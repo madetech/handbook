@@ -1,7 +1,7 @@
 # SFIA Role Guidance: Senior Designer
 
 - [SFIA Level 4: Enable](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/senior_designer.md)
+- [Job description](../senior_designer.md)
 
 ## Summary of role
 
