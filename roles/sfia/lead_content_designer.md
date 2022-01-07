@@ -1,6 +1,6 @@
 # SFIA role guidance Lead Content Designer
 - [SFIA Level 5: Ensure, Advise](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
-- [Job description](/roles/lead_content_designer.md)
+- [Job description](https://github.com/madetech/handbook/blob/main/roles/lead_content_designer.md)
 
 ## Summary of role
 
