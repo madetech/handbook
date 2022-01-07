@@ -1,6 +1,6 @@
 # Designer 
 
-- SFIA: [Level 3](https://github.com/madetech/handbook/blob/main/roles/sfia/designer.md)
+- [SFIA: Level 3](https://github.com/madetech/handbook/blob/main/roles/sfia/designer.md)
 - Salary outside London: £36,000 - £45,000 
 - Salary inside London: £40,000 - £50,000
 
