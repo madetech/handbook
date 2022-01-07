@@ -57,7 +57,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### Design (interaction/service design)
 
-- [Designer](designer.md) (SFIA Level 3)
+- [Designer](designer.md) ([SFIA Level 3](sfia/designer.md))
 - [Senior Designer](senior_designer.md) ([SFIA Level 4](sfia/senior_designer.md))
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
 
