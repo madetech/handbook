@@ -9,13 +9,13 @@ There are 3 routes for requesting Security Clearance (SC) and the route taken de
 All new joiners are asked whether they already have SC and if so a process is started to transfer that clearance to Made Tech.
 
 ### Timings
-Via the Warwickshire Police route we pay extra for the premium service which fast tracks the application in 25 days HOWEVER that is 25 days from the point the application and all relevant information has been received. That requires the individual being cleared to fill out the forms and provide all supporting information when asked.
+Via the Warwickshire Police route we pay extra for the premium service which fast tracks the application in 25 days however that is 25 days from the point the application and all relevant information has been received. That requires the individual being cleared to fill out the forms and provide all supporting information when asked.
 
 ### Updates
 The [tracking sheet](https://docs.google.com/spreadsheets/d/19pQ9r3HI44oYv6nDKtteXGIkdtMla_8X/edit#gid=1771661157) (internal link) will be updated as we are given updates but be aware, once the application is underway updates are very limited and mostly go to the candidate.
 
 ### Source of truth
-The source of truth for who in the company has been SC cleared is Kimble. There is a report available [internally here](https://madetech.lightning.force.com/lightning/r/Report/00O8e000001BAVhEAO/view)
+The source of truth for who in the company has been SC cleared is Kimble. There is a report available [internally here](https://madetech.lightning.force.com/lightning/r/Report/00O8e000001BAVhEAO/view).
 
 
 ## How to request Security Clearance
@@ -32,7 +32,7 @@ Vikki or Cam will acknowledge the request, put the individual into the spreadshe
 
 
 ## Information for individuals
-More detailed information and the relevant documents for individuals starting or going through the SC process is available [internally here](https://drive.google.com/drive/folders/1hSax2iN6sE3EQJ7bWEe4xQCKhj-Dum2z)
+More detailed information and the relevant documents for individuals starting or going through the SC process is available [internally here](https://drive.google.com/drive/folders/1hSax2iN6sE3EQJ7bWEe4xQCKhj-Dum2z).
 
 
 ## Change in circumstances
@@ -43,3 +43,4 @@ Certain changes in personal circumstances require you to notify the government. 
 - There is a significant change in your financial circumstances, either by making it more difficult or by improving it. 
 
 In these circumstances, you must inform the People Team who will assist you to notify the relevant authority.
+More information on this is available [internally here](https://docs.google.com/document/d/1nExumOwtA9rDtTyih94r8sD8CN9pc-Dl4apDA7PrPh8/edit#heading=h.lk7u9et1xly3).
