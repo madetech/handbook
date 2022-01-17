@@ -16,7 +16,7 @@ When people get sick we ask that they follow these guidelines:
 
 * Provide regular updates to your team, and an expected return date as soon as you have one.
 
-* If you are taking four or more days sick leave, please supply a doctor's note.
+* If you need to take several days of sick leave, you may need to prove a doctor’s fit note. The number of days meets the current [government guidance for employees](https://www.gov.uk/government/publications/the-fit-note-a-guide-for-patients-and-employees).
 
 * Record your sick leave in Kimble (as Absence) and in CharlieHR, for every day that you are on sick leave.
 
