@@ -5,21 +5,19 @@
 
 ## Summary of role
 
-Our Senior Designer are strong practitioners who works with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
-## Required competency for role
+## Required competency for the role
 
 ### Autonomy
 
-Works under general direction from Lead Designers and UCD Principals within a clear idea what they are accountable for delivering. 
-
-Exercises substantial personal responsibility and autonomy for delivering quality work on time and assisting others in their team. 
-
-Plans own design to meet given team goals and ways of working."
+* Works under general direction from Lead Designers and UCD Principals within a clear idea of what they are accountable for delivering. 
+* Exercises substantial personal responsibility and autonomy for delivering quality work on time and assisting others in their team. 
+* Plans own design to meet given team goals and ways of working."
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only. 
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._ 
 
 - Takes ownership for user research happening regularly. Works to involve teammates in planning, conducting and analysing user research sessions. 
 
@@ -27,28 +25,24 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Works with team to understand why key ideas are being tested. 
 
-- Documents prototpyes changes and versions after each round of research for transparency and trust. 
+- Documents prototypes changes and versions after each round of research for transparency and trust. 
 
 - Works within their team to create an efficient design process for testing ideas little and often. 
 
 - Owns and advocates for the usability and accessibility of design work going to production. 
 
-- Works closely with engineers to ensure major usability and accessibility issues within the teams control are addressed. 
+- Works closely with engineers to ensure major usability and accessibility issues within the team's control are addressed. 
 
+---
 
 ### Influence
 
-Drives team towards good quality design by influencing their whole team to work on the useful problems in a suitable way. 
-
-Mentors non-designers in their teams about design techniques and approaches. Line managing a small number of mid and junior designers. 
-
-Participates in external activities related to design. 
-
-Makes design decisions which influence the success of project and team goals. 
-
-Collaborates regularly with teammates and service users. 
-
-Engages to ensure that user needs are being met throughout.
+* Drives team towards good quality design by influencing their whole team to work on the useful problems in a suitable way. 
+* Mentors non-designers in their teams about design techniques and approaches. Line managing a small number of mid and junior designers. 
+* Participates in external activities related to design. 
+* Makes design decisions that influence the success of the project and team goals. 
+* Collaborates regularly with teammates and service users. 
+* Engages to ensure that user needs are being met throughout.
 
 #### Examples of behaviour and responsibilities
 
@@ -62,46 +56,45 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Prototypes key features to form part of a minimal viable service a team can ship as its first release. 
 
-- Interprets what is most value to users and feasible given the current systems being users. 
+- Interprets what is most valuable to users and feasible given the current systems being users. 
 
 - Advocates for the user consistently and regularly in and outside the team. Pushing for design changes that will have the most important while actually possible to deliver quickly. 
 
 - Breaks a service down into features that can be delivered incrementally while still delivering value for users and outcomes for the client organisation. 
 
+---
 
 ### Complexity
 
-Leads service design within their team. Investigates, defines and resolves complex design problems within a service. Remove and added features to make a simple services that can delivered quickly and improved upon with real user feedback. 
+Leads service design within their team. Investigates, defines and resolves complex design problems within a service. Remove and add features to make simple services that can be delivered quickly and improved upon with real user feedback. 
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
 - Translates a paper form into prototype flow of pages, breaking down information into logical steps and tasks. 
 
 - Audits existing design of a service. Identifies opportunities for consolidation and removal of design features. Where to apply gov.uk design patterns and components. 
 
-- Working with content designer to turn a new government policy into a prototypes to test with users
+- Working with a content designer to turn a new government policy into prototypes to test with users
 
 - Prototypes three different ways to potentially solve the same problem for a user task 
 
 - Visualises a complex user journey of an existing service to improve team discussion
 
+---
+
 ### Knowledge
 
-Has a thorough understanding of different design techniques and ways of working. Can either quickly apply own design knowledge to public sector or has personal experience of it their can draw upon. 
-
-Gained a thorough knowledge of the domain of a client organisation. 
-
-Applies knowledge effectively in unfamiliar situations and actively maintains own knowledge and contributes to the development of others. 
-
-Rapidly absorbs new information about a probelm space and its users and applies it effectively. 
-
-Maintains an awareness of developing design practices and their application and takes responsibility for driving own personal growth.
+* Has a thorough understanding of different design techniques and ways of working. Can either quickly apply their own design knowledge to the public sector or have personal experience to draw upon. 
+* Gained a thorough knowledge of the domain of a client organisation. 
+* Applies knowledge effectively in unfamiliar situations and actively maintains own knowledge and contributes to the development of others. 
+* Rapidly absorbs new information about a problem space and its users and applies it effectively. 
+* Maintains an awareness of developing design practices and their application and takes responsibility for driving own personal growth.
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
 - Thorough understanding of GOV.UK Design System and why it’s needed. Keeps to design components wherever possible and understand the team time needed to create a new component. 
 
@@ -111,11 +104,13 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Suggests activities and tools to their team for designing a service with fewer berries for people with disabilities and other access needs. 
 
-- Attends events relating to public sector design or user research. Share learnings with wider community of practice at Made Tech about what ideas from the idea might copying and trialling. 
+- Attends events relating to public sector design or user research. Share learnings with the wider community of practice at Made Tech about what ideas from the idea might copying and trialling. 
 
-- Trials a new design technique from another organisation in their own team. Evaluates how effective the tool is and shares learning with wider community of practice. 
+- Trials a new design technique from another organisation in their own team. Evaluate how effective the tool is and shares learning with the wider community of practice. 
 
-- Decides wht is the most effective way to test a idea, be that a paper prototype or A/B test. 
+- Decides what is the most effective way to test an idea, be that a paper prototype or A/B test. 
+
+---
 
 ### Business Skills
 
@@ -128,14 +123,14 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Selects appropriately from applicable design standards, methods, tools and applications.
 
 
-## Examples of behaviours and responsibilities
+#### Examples of behaviours and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Blogs clearly about ideas that have test well and badly. Communicates what work (and didn't) and why. 
+- Blogs clearly about ideas that have been tested. Communicates what work (and didn't) and why. 
 
-- Manages own time to get prototype work ready for testing with users. Is able to to fit in other responsibilities like line management without it effecting their teams ability to learn and delivery value. 
+- Manages own time to get prototype work ready for testing with users. Is able to fit in other responsibilities like line management without it affecting their team's ability to learn and deliver value. 
 
 - Facilitates a workshop with their team and some stakeholders to show how the different steps of a service might fit together. Is able to hold and move on conversations and visualise team thinking in artefacts like user journeys. 
 
-- Advise on protype techniques that make most sense for a team’s ideas and hypotheses to test. 
+- Advise on prototype techniques that make the most sense for a team’s ideas and hypotheses to test. 

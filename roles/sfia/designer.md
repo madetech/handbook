@@ -7,7 +7,7 @@
 
 Designers are experienced practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by influencing the direction, assuring the quality of design delivery within their team, and by leading the end-to-end design of a chosen service. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
 
-## Required competency for role
+## Required competency for the role
 
 ### Autonomy
 
@@ -24,7 +24,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Spots likely usability issues on a public sector website their delivery team has been tasked to replace.
 * Produces designs for services using a predefined design system.
 * Gives Adhoc feedback about a user interface and what to improve. 
-* Produces documents that clearly articulate how a users can interact with a service.
+* Produces documents that clearly articulate how users can interact with a service.
 * Comfortable showing in-progress design work  
 * Incorporates feedback from groups sessions about improving a specific way of working.
 
@@ -54,7 +54,7 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 ### Complexity
 
 * Performs a range of work, sometimes complex and non-routine, in a variety of environments. 
-* Applies methodical approach to issue definition and resolution.
+* Applies a methodical approach to issue definition and resolution.
 
 #### Examples behaviours and responsibilities
 
@@ -78,10 +78,10 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 
 _Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-* Applies the GDS design system components to existing software system. 
+* Applies the GDS design system components to an existing software system. 
 * Describes how to begin to make a service more accessible. 
 * Aware of some research biases and how to try to avoid them. 
-* Strucutures their own work for others to give feedback. 
+* Structures their own work for others to give feedback. 
 * Awareness of the wider reasons a project is slower or not always concentrating on the user needs.
 * Proactively takes time off for learning new skills or strengthening existing ones.
 
