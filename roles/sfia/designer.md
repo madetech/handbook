@@ -28,6 +28,8 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Comfortable showing in-progress design work  
 * Incorporates feedback from groups sessions about improving a specific way of working.
 
+---
+
 ### Influence
 
 * Interacts with and influences colleagues. 
@@ -47,6 +49,8 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Shares design thinking little and often within their team. 
 * Advocates for other UCD roles, eg. is involved in encouraging teammates to take part in user research sessions.
 
+---
+
 ### Complexity
 
 * Performs a range of work, sometimes complex and non-routine, in a variety of environments. 
@@ -59,7 +63,9 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Can take a design through from initial research, ideas, prototyping, testing and analysing what iterations are needed. 
 * Applies their design process to different organisations and problem spaces. 
 * Can quickly see changes needed to designs when observing user research. 
-* Can clearly communicate the user problems the team needs to solve.  
+* Can clearly communicate the user problems the team needs to solve.
+
+---
 
 ### Knowledge
 
@@ -78,6 +84,8 @@ _Below are examples of behaviours and responsibilities a person in this role mig
 * Strucutures their own work for others to give feedback. 
 * Awareness of the wider reasons a project is slower or not always concentrating on the user needs.
 * Proactively takes time off for learning new skills or strengthening existing ones.
+
+---
 
 ### Business Skills
 
