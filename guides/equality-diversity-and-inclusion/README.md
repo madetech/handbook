@@ -4,6 +4,8 @@ Creating a better, fairer society is part of our purpose as an organisation. Thi
 
 We strive to make Made Tech an equitable, diverse and inclusive workplace and to provide a working environment that is free from discrimination at all times.
 
+We understand that everyone has varying needs. We’ll work to make sure that everyone’s needs are supported and met.
+
 We recognise that our different backgrounds, experiences, views, beliefs, cultures and physical/neurological differences represented enrich us as a company and as individuals. We embrace diversity in all of our activities and acknowledge that variety and difference are integral to the success and future development of our business. 
 
 Read our [Equality, Diversity & Inclusion Policy](policy.md).
