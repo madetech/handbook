@@ -44,6 +44,19 @@ You should allocate your time to a project when you’ve spent 2 hours or more.
 
 We use Kimble to complete timesheets. All resources on how to complete and approve timesheets are in the [Knowledge base](https://sites.google.com/madetech.com/signpost/home/kimble-resources?authuser=0).
 
+### Why we need you to do timesheets
+
+Timesheet data directly drives our client invoicing. Incomplete and incorrect timesheets can lead to us under or overcharging clients which can create significant challenges for account and finance teams.
+
+Timesheet data also creates wider business-critical data about utilisation, client investments and time spent on other activities that's needed for reporting and planning.
+
+### Why we need you to do timesheets weekly
+Whilst we invoice our clients monthly it's vitally important that the data driving these invoices is accurate at a week by week level. Many clients do check the individual items driving an invoice to validate that they've been correctly charged by us. Weekly timesheets ensure we capture time spent while it's fresh in our memories.
+
+Doing them weekly provides immediate visibility of time spent for line and delivery managers to create better quality project level conversations about time spent and weekly-level understanding of budget burn-down for client conversations. This allows us to update our monthly revenue forecast in real time: helping us understand whether we're on course to meet projected income due to things like sick leave, or last minute changes to time allocation, and readjust targets and cashflow forecasts as we go.
+
+It’s important that the data is accurate and complete at the end of every week. That means midday on Friday, not 9am the following Monday morning. A number of business processes - including scheduling, revenue forecasting and cashflow - need accurate data to drive them on a Monday. Any timesheet submitted after 12pm on a Friday impacts our ability to generate good quality data and causes significant extra work for the Ops and Finance teams. Please do them on time!
+
 ## Timesheet approval process
 
 Once a team member has submitted their timesheet on Friday by 12pm, Delivery Managers and Service Area owners need to [approve their team's timesheets](https://trello.com/c/k12r2uja/40-approving-timesheets) by 1pm.

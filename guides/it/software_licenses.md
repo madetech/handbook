@@ -21,3 +21,6 @@ They will need to know:
 - How long you'll need this software (e.g. if it's only for a specific event or client delivery)
 
 If a client is requesting use of a specific tool that isn't part of our standard toolset email [operations@madetech.com](mailto:operations@madetech.com)
+
+## Standard Software
+[Miro](https://github.com/madetech/handbook/blob/main/guides/it/Miro.md)
