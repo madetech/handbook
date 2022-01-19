@@ -7,17 +7,17 @@
 
 Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy user-centred design (UCD) community and culture at Made Tech.
 
-## Required competency for role
+## Required competency for the role
 
 ### Autonomy
 
-Self-initiates  and works with little direction of where to focus energy to design and deliver good public services with their team. Takes responsibility for the team designing the right solutions for their problems. Works to define and assign design tasks to themselves and others. 
+Self-initiates and works with little direction of where to focus energy to design and deliver good public services with their team. Takes responsibility for the team designing the right solutions for their problems. Works to define and assign design tasks to themselves and others. 
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Assess quickly what design leadership a team needs to deliver a user-centred service and fills this role without being asked to. 
+- Quickly assesses what design leadership a team needs and fulfils the role without being asked to. 
 
 - Assures the quality of design work going into software production. 
 
@@ -25,6 +25,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Starts community show and tells.
 
+---
 
 ### Influence
 
@@ -32,9 +33,9 @@ Drives team towards design excellence by influencing team, stakeholders and part
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Works with client product owner to set team priorities for the coming sprint.
+- Works with the client product owner to set team priorities for the coming sprint.
 
 - Creates tangible, understandable vision for a service's design and direction.
 
@@ -46,8 +47,9 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Designs the key stages of a service that is delivered to users. 
 
-- Coaches senior designers taking on line management for the first time and how to grow into this new responsibility.
+- Coaches senior designers; establishes line management and grows the practice within the team.
 
+---
 
 ### Complexity
 
@@ -55,19 +57,21 @@ Leads service design with their team within a wider programme of work in multi-o
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Facilitates a team to visualise and agree what its service is from end-to-end, front to back of user interactions and internal processes. 
+- Facilitates a team to visualise and agree on what its service is from end-to-end, front to the back of user interactions and internal processes. 
 
-- Prototypes what a minimal viable service could be, balancing complex user needs, urgent client goals and legacy systems or processes.
+- Prototypes a minimal viable service, balancing complex user needs, urgent client goals and legacy systems or processes.
 
-- Establishes design sprints activities and structure within a team previously no working in a agile, open or user-centred way
+- Establishes design sprints activities and structure within a team previously not working in an agile, open or user-centred way
 
 - Breaks down silos within their team and has UCD roles and people in other disciplines working towards the same goals.
 
-- Shares research with other delivery teams within the client organisation and shows the need for closely coordination between teams.
+- Shares research with other delivery teams within the client organisation and shows the need for close coordination between teams.
 
-- Works with a content designer to turn a new government policy into a prototypes to test with users.
+- Works with a content designer to turn a new government policy into prototypes to test with users.
+
+---
 
 ### Knowledge
 
@@ -75,9 +79,9 @@ Develops a deep understanding of design and policy landscape in the UK public se
 
 #### Examples of behaviour and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Can fully explain the purpose and activities of each GDS phase of service delivery to a clients unfamiliar or uncomfortable with that way of working. 
+- Can fully explain the purpose and activities of each GDS phase of service delivery to clients unfamiliar or uncomfortable with that way of working. 
 
 - Gets teams to choose the suitable type of testing for hypothesis, communicating the strengths and weaknesses each type brings.
 
@@ -93,17 +97,19 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Quickly assesses the suitability of a Designer role for someone interviewing to join Made Tech.
 
+---
+
 ### Business Skills
 
 Demonstrates leadership. Communicates effectively, both formally and informally.
 
 #### Examples of behaviours and responsibilities
 
-Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
+_Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only._
 
-- Represents user-centred design at Made Tech at public and internally company wide events. 
+- Represents user-centred design at Made Tech at public and internal company-wide events. 
 
-- Brings together less designers to do a retro about challenges felt across the discipline. Works with others to begin actioning priorities.
+- Brings together designers to do a retro about challenges felt across the discipline. Works with others to begin actioning priorities.
 
 - Holds senior management to account for improving their team conditions and ways of working. 
 
@@ -111,11 +117,11 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Facilitates workshops with indecisive stakeholders to achieve teams goals for the coming weeks. 
 
-- Work with engineers and delivery managers to design and deliver a MVP live services with a client. 
+- Work with engineers and delivery managers to design and deliver an MVP live services with a client. 
 
-- Advises on the achievable target for a design sprint on a live service, prioritises value for users and impact for the client organisation. 
+- Advises on the achievable target for a design sprint on a live service, prioritises value for users and impacts for the client organisation. 
 
-- Drafts the team shape and delivery rhyme bid proposal with a new client to do a discovery for a public service. 
+- Drafts the team shape and delivery rhyme bid proposal with a new client to do a discovery for public service. 
 
 - Highlights the risks their team shipping a live service with solutions not proven with any research or other evidence.
 
