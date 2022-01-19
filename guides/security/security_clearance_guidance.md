@@ -1,22 +1,20 @@
 # Guidance for Security Cleared Staff
 
-## General information
-There are 3 routes for requesting Security Clearance (SC) and the route taken depends on the project.
-- Home Office - for Home Office projects only
-- MoJ - for MOJ projects only
-- Warwickshire Police - this is currently the default route for all SC and transfers
+## General information & timings
+There are different routes for requesting Security Clearance (SC) and the route taken depends on the project. There is [more information here](https://docs.google.com/document/d/1hVPR5nvnbwzkAcZHogTqKl8HHpACZKwHyXayB3lr0SY/edit) (internal link). 
+
+If you are joining Made Tech and have questions about the process please ask your Community Manager or contact from the Talent Team who can send on the relevant information.  
 
 All new joiners are asked whether they already have SC and if so a process is started to transfer that clearance to Made Tech.
 
 ### Timings
-Via the Warwickshire Police route we pay extra for the premium service which fast tracks the application in 25 days however that is 25 days from the point the application and all relevant information has been received. That requires the individual being cleared to fill out the forms and provide all supporting information when asked.
+Timings to be cleared are a minimum of 25 working days (5 weeks) from the point the application and all relevant information has been received. However it is usual for timings to be significantly longer.
 
 ### Updates
 The [tracking sheet](https://docs.google.com/spreadsheets/d/19pQ9r3HI44oYv6nDKtteXGIkdtMla_8X/edit#gid=1771661157) (internal link) will be updated as we are given updates but be aware, once the application is underway updates are very limited and mostly go to the candidate.
 
 ### Source of truth
 The source of truth for who in the company has been SC cleared is Kimble. There is a report available [internally here](https://madetech.lightning.force.com/lightning/r/Report/00O8e000001BAVhEAO/view).
-
 
 ## How to request Security Clearance
 Put a request in the #supply-sc slack channel with the following info:
@@ -26,9 +24,9 @@ Put a request in the #supply-sc slack channel with the following info:
 - Perm or contractor
 - Start date (if they haven't started yet)
 - Tag the individual so they are automatically added to the channel
-- Tag Cam for Home Office or Vikki for Warwickshire Police
+- Tag the relevant person from the People Team for the route required.
 
-Vikki or Cam will acknowledge the request, put the individual into the spreadsheet and kick off the process.
+The People Team will acknowledge the request, put the individual into the spreadsheet and kick off the process.
 
 
 ## Information for individuals
