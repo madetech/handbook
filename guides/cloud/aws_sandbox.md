@@ -86,8 +86,8 @@ This section is for Sandbox Admin administrators (i.e. pepole in the `@sandbox-a
 For when a user has requested to be added to the AWS sandbox
 - Login to sso https://madetech.awsapps.com/start#/
 - Click on: `aws account` > `Made Tech` > `Management console`
-- Now go to console.aws.amazon.com/singlesignon 
-- On the left nav bar click `users` > `add user`
+- Now go to https://eu-west-2.console.aws.amazon.com/singlesignon/identity/home?region=eu-west-2#!/users
+- On the top right click `add user`
 - Fill in their details (use the part before the @ in their email as username)
 - Add them to the "SandboxAdmin" group
 - They should now get a email invite to join (valid for the next 7 days)
