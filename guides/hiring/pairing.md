@@ -31,6 +31,9 @@ Taking notes while pairing can help to answer these questions.
 
 It's good for some of your feedback to have more detail than "yes" or "no".
 
+## Legal guidance
+Made Tech have a legal duty to ensure that interviews are fair and free of discrimination. There are [illegal interview questions](https://www.interview-skills.co.uk/free-information/interview-guide/illegal-interview-questions) that must not be asked. While it's unlikely that these would be asked directly in a pairing session, it is important that conversation doesn't stray into these areas.
+
 ## Meeting the candidate
 The Made Tech people running the interview will let you know when to join. 
 
