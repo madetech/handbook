@@ -7,7 +7,7 @@ To give you an idea of what to expect from your on-boarding, we have written thi
 Over the next few days and weeks we'll introduce:
 
 1. **Company mission, [values](about.md#our-values), business services and EOSs** - We'll talk about our mission and why the business exists. We'll tell you why we think it's important to improve software delivery in every organisation and how you can help us to achieve our mission.
-2. **Peer buddy** — As part of our on-boarding process, we'll introduce you to a company buddy who will be available whenever you need them. If anything crops (from simple questions to emergencies), feel free to let your buddy know and they will do all they can to help.
+2. **Peer buddy** — As part of our on-boarding process, we'll introduce you to a company buddy who will be available whenever you need them. If anything crops up (from simple questions to emergencies), feel free to let your buddy know and they will do all they can to help.
 
    It goes without saying that myself and the other directors (+ rest of the team) are here too, so there should be plenty of places to turn if you need anything.
 3. [**Role expectations**](../roles/README.md) — All our team members have role expectations and we'll work with you to introduce these to you over the coming weeks.
