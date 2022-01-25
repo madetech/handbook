@@ -19,6 +19,6 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "glob": "^7.1.6",
-    "markdown-link-check": "^3.8.0"
+    "markdown-link-check": "^3.9.2"
   }
 }
