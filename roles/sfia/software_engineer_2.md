@@ -12,11 +12,11 @@ Contributor to digital, data and technology outcomes that improve society. They 
 
 ### Autonomy
 
-Collaboratively leads planning of work, development of features and coordinating with stakeholders though continues to seek feedback and support on complex change.
+Collaboratively leads planning of work, development of features and coordinating with stakeholders through continues to seek feedback and support on complex change.
 
 ### Influence
 
-Influences approaches taken by workstream team to deliver features, contributes to quality assurance of teams work and ensures features meet project outcomes and user needs.
+Influences approaches taken by the workstream team to deliver features, contributes to quality assurance of the teams work and ensures features meet project outcomes and user needs.
 
 ### Complexity
 
@@ -46,7 +46,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Provides guidance and support to more junior members of the team in helping them identify what work to pick up
 - Able to iteratively deliver features of reasonable complexity, in known contexts
 - Able to architect and deliver simple features in new contexts
-- Uses a range of techniques and best practices to build easy to maintain solutions
+- Uses a range of techniques and best practises to build easy to maintain solutions
 - Has developed strong debugging skills, and can remediate issues both locally and in deployed environments
 - Able to work effectively in brownfield projects within days
 - Proficient in multiple languages, frameworks and technologies
