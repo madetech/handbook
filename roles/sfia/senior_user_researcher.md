@@ -1,7 +1,11 @@
 # Senior User Researcher
 
+- [SFIA Level 4: Enable](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- [Job description](../senior_user_researcher.md)
+
 ## Summary of role
 Our Senior User Researchers play a key role in leading project teams and setting direction for project work. They’re expert practitioners, confident leading the planning and running of user research on complicated and large scale public sector projects. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Made Tech.
+
 ## Required competency for role (with example behaviours)
 ### Autonomy
 Self-initates and works with little direction of where to focus energy to research, design and deliver good public services with their team. Takes responsibility for the team focusing their research in the right areas, using the most appropriate methodologies and expertise in guiding teams to producing the most impactful research outputs. Works with to define and assign research tasks to themselves and others.
@@ -15,7 +19,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Assess quickly what design leadership a team needs to deliver a user-centred service and fills this role without being asked to.
 - Assures the quality of research work going into software production
 - Shares good practice from own experience and other sources for how and why a team does activities like in-depth interviews with users or low fidelity prototypes
-- Starts community show and tells
+- Shows work at community show and tells
 
 ### Influence 
 Drives team towards research excellence by influencing team, stakeholders and partners.
@@ -29,7 +33,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Works with the client to set team priorities for work
 - Able to create and share a clear, tangible and understandable vision for the role and direction of user research
 - Is an advocate for users and able to focus teams on the key needs
-- Shows they are role model for less senior researchers and set an example for how to be professional, supportive and effective.
+- Shows they are role model for less senior researchers and set an example for how to be professional, supportive and effective
 - Successfully challenges decisions not informed by user research
 - Coaches less senior researchers taking on line management for the first time and how to grow into this new responsibility
 
