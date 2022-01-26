@@ -12,7 +12,7 @@ Contributor to digital, data and technology outcomes that improve society. They 
 
 ### Autonomy
 
-Collaboratively leads planning of work, development of features and coordinating with stakeholders through continues to seek feedback and support on complex change.
+Collaboratively leads planning of work, development of features and coordinating with stakeholders though continues to seek feedback and support on complex change.
 
 ### Influence
 
