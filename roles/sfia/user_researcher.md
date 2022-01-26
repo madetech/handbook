@@ -1,6 +1,6 @@
 #### User Researcher
-- SFIA Level 3 (link needed)
-- Job Description (link needed)
+* [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
+* [Job description](https://github.com/madetech/handbook/blob/main/roles/user_researcher.md)
 
 ### Summary of role
 Our User Researchers work within project teams. They support the planning of user research activities and carry them out . They’re confident practitioners, able to support our seniors and leads to  plan and run user research as part of a team on public sector projects. They are keen to become contributors to our user-centred design (UCD) community and culture at Made Tech.
