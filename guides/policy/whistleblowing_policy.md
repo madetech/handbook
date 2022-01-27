@@ -38,4 +38,4 @@
 | Contact                                          | Details                                                                            |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | Head of People                                   | Yasemin Ercan<br/>yasemin@madetech.com                                             |
-| Protect<br/>(Independent whistleblowing charity) | Helpline: 0203 117 2520<br/>E-mail: whistle@pcaw.co.uk<br/>Website: www.pcaw.co.uk |
+| Protect<br/>(Independent whistleblowing charity) | Helpline: 0203 117 2520<br/>E-mail: whistle@pcaw.co.uk<br/>Website: https://protect-advice.org.uk/pcawchangesnametoprotect/ |
