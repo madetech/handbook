@@ -23,6 +23,7 @@ function checkFile (fileName) {
         { pattern: /www.aws.training/ },
         { pattern: /www.certmetrics.com/ },
         { pattern: /made-tech.workable.com/ },
+        { pattern: /retrospectivewiki.org/ },
         { pattern: /clamav.net/ },
         { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
         { pattern: /udemy.com/ }               // udemy returns 403 status to circle ci hosts
