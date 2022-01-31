@@ -5,6 +5,7 @@
 ## Summary of role
 Our Lead User Researchers play a key role in scoping and managing multiple, complex user research projects in the public sector and supporting our sales time to sell new work to clients. They’re expert practitioners comfortable conducting and managing user research. They play an important role in creating an inclusive, nurturing and safe environment for our more junior user researchers to grow and develop. They are vocal and visible contributors to our user-centred design (UCD) community and culture at Made Tech.
 ## Required competency for role (with example behaviours)
+
 ### Autonomy
 Self-initates and works with no direction of where to focus energy to strategy, research, design and deliver good public services with their team. Takes responsibility for scoping, coordinating and supporting multiple user research projects.
 #### Examples of behaviour and responsibilities
@@ -34,7 +35,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Successfully challenges sceptical clients and stakeholders about the value of UCD and user research
 - Coaches senior researchers taking on line management for the first time and how to grow into this new responsibility
 - Shows they are role models for less senior researchers and set an example for how to be professional, supportive and effective
- 
+
 ### Complexity
 Shift from project planning to programme planning. 
 Leads multiple UCD teams on projects and wider programmes of work.
