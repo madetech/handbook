@@ -37,13 +37,12 @@ function checkFile (fileName) {
         results.forEach(function (result) {
           if (result.status === 'ignored') {
             console.log(chalk.grey(' [' + chalk.yellow('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
-          } else if (result.status !== 'alive') {
-            if (!hasErrored) {
-              console.log('%s', fileName)
-              hasErrored = true
-            }
-
+          } else if (result.status == 'alive') {
+            console.log(chalk.grey(' [' + chalk.green('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
+	  } else {
             console.log(chalk.grey(' [' + chalk.red('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
+            console.log('located": %s', fileName)
+            hasErrored = true
           }
         })
 
@@ -71,6 +70,7 @@ glob('**/*.md', (err, fileNames) => {
       handleError('Broken links found')
     } else {
       console.log(chalk.green('%s'), 'No broken links found')
+      process.exit(0)
     }
   })
 })
