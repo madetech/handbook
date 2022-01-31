@@ -7,7 +7,7 @@ Our Lead User Researchers play a key role in scoping and managing multiple, comp
 ## Required competency for role (with example behaviours)
 
 ### Autonomy
-Self-initates and works with no direction of where to focus energy to strategy, research, design and deliver good public services with their team. Takes responsibility for scoping, coordinating and supporting multiple user research projects.
+Works without direction to guide their team on where to focus energy within strategy, research and design areas to deliver good public services. Takes responsibility for scoping, coordinating and supporting multiple user research projects.
 #### Examples of behaviour and responsibilities
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
