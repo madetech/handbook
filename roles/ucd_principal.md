@@ -1,4 +1,4 @@
-# User-Centred Principal
+# User-Centred Design Principal
 
 - [SFIA Level 6](sfia/ucd_principal.md)
 - Salary outside London: £63,000-£81,000
