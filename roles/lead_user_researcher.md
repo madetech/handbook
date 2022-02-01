@@ -1,8 +1,10 @@
 # Lead User Researcher
 
-- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
 - Salary outside London: £54,000 - £63,000
 - Salary inside London: £60,000-£70,000 
+- Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
+- Hybrid working: Client-site/office 1-2 days per week
+- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
 
 ## Summary
 
@@ -43,7 +45,13 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 - Experienced in their Profession
 - Facilitation
 
-## Salary
+## Benefits
 
-This role has a salary of £60,000-£70,000 per annum depending on experience. 
+Here are some of our most popular benefits listed below:
 
+- [Flexible Holiday](../benefits/flexible_holiday.md)
+- [Flexible Working Hours](../benefits/working_hours.md)
+- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
+- [Remote Working](../benefits/remote_working.md)
+- [Paid counselling](../guides/welfare/paid_counselling.md)
+- [Paid anniversary break](../benefits/paid_anniversary_break.md)
