@@ -1,6 +1,6 @@
 # SFIA Role Guidance: Senior User Researcher 
 
-- [SFIA Level 4: Enable](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- [SFIA Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4): Enable
 - [Job description](../senior_user_researcher.md)
 
 ## Summary of role
