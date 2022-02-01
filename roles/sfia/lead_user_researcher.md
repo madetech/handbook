@@ -1,6 +1,6 @@
 # SFIA Role Guidance: Lead User Researcher 
 
-- SFIA [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5): Ensure, Advise  
+- [SFIA Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5): Ensure, Advise  
 - [Job description](https://github.com/madetech/handbook/blob/main/roles/lead_user_researcher.md)
 
 ## Summary of role
