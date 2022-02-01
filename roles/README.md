@@ -51,7 +51,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### User Research
 
-- [User Researcher](user_researcher.md) [SFIA Level 3](sfia/user_researcher.md))
+- [User Researcher](user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
 - [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](sfia/senior_user_researcher.md))
 - [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](sfia/lead_user_researcher.md))
 
