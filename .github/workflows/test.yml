@@ -15,4 +15,4 @@ jobs:
 
     - run: npm ci
 
-    - run: npm test
+    - run: FORCE_COLOR=2 npm test
