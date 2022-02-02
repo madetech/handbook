@@ -1,10 +1,10 @@
 # Designer 
 
-- SFIA: [Level 3](sfia/designer.md)
 - Salary outside London: £36,000 - £45,000 
 - Salary inside London: £40,000 - £50,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
+- SFIA: [Level 3](sfia/designer.md)
 
 Designers might already be a product designer, UX designer, service designer or interaction designer. 
 
