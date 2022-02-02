@@ -4,7 +4,7 @@
 - Salary inside London: £50,000-£60,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- SFIA: [Level 4](sfia/senior_content_designer.md)
 
 ## Summary
 
