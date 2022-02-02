@@ -1,16 +1,18 @@
 # Senior Designer 
 
-- SFIA: [Level 4](sfia/senior_designer.md)
 - Salary outside London: £44,000 - £53,000
 - Salary inside London: £50,000-£60,000
+- Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
+- Hybrid working: Client-site/office 1-2 days per week
+- SFIA: [Level 4](sfia/senior_designer.md)
 
-Designers might aleady be a product designer, UX designer, service designer or interaction designer. 
+Designers might already be a product designer, UX designer, service designer or interaction designer. 
 
 ## Summary
 
 Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Our Senior Designer are strong practitioners who works with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Designer are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working on a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
 ## Key responsibilities 
 
@@ -41,7 +43,15 @@ Our Senior Designer are strong practitioners who works with minimal support and 
 - Facilitation
 - Thinking through Making
 
-## Salary
+## Benefits
 
-This role has a salary of £60,000-£70,000 per annum depending on experience. 
+Here are some of our most popular benefits listed below:
+
+- [Flexible Holiday](../benefits/flexible_holiday.md)
+- [Flexible Working Hours](../benefits/working_hours.md)
+- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
+- [Remote Working](../benefits/remote_working.md)
+- [Paid counselling](../guides/welfare/paid_counselling.md)
+- [Paid anniversary break](../benefits/paid_anniversary_break.md)
+
 
