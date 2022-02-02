@@ -1,10 +1,12 @@
 # Lead Designer 
 
-- SFIA: [Level 5](sfia/lead_designer.md)
 - Salary outside London: £54,000 - £63,000
-- Salary inside London: £60,000-£70,000 
+- Salary inside London: £60,000-£70,000
+- Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
+- Hybrid working: Client-site/office 1-2 days per week
+- SFIA: [Level 5](sfia/lead_designer.md)
 
-Designers might aleady be a product designer, UX designer, service designer or interaction designer. 
+Designers might already be a product designer, UX designer, service designer or interaction designer.
 
 ## Summary
 
@@ -42,3 +44,14 @@ Lead Designers are expert practitioners who influence and mentor others. They wo
 - Experienced in their Profession
 - Facilitation
 - Thinking through Making
+
+## Benefits
+
+Here are some of our most popular benefits listed below:
+
+- [Flexible Holiday](../benefits/flexible_holiday.md)
+- [Flexible Working Hours](../benefits/working_hours.md)
+- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
+- [Remote Working](../benefits/remote_working.md)
+- [Paid counselling](../guides/welfare/paid_counselling.md)
+- [Paid anniversary break](../benefits/paid_anniversary_break.md)
