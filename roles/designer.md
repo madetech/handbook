@@ -21,7 +21,7 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 - Make things real by caring about content and design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society
 - Assure the quality of design delivery within their team 
-- Show teams by doing good habits for sharing and improving design work
+- Introduce good habits for sharing and improving design work into teams
 - Take part occasionally in the hiring of designers and researchers
 - Help define Made Tech design principles through delivering good public services
 - Contribute to a design studio culture at Made Tech and client offices

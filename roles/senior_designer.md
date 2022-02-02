@@ -21,7 +21,7 @@ Our Senior Designers are strong practitioners who work with minimal support and 
 - Make things real by caring about content and interaction design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society
 - Assure the quality of design delivery across multiple teams 
-- Show teams by doing good habits for sharing and improving design work
+- Introduce good habits for sharing and improving design work into teams
 - Line management of designers
 - Support the hiring and onboarding of designers and researchers
 - Help define Made Tech design principles through delivering good public services

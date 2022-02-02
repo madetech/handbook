@@ -21,7 +21,7 @@ Lead Designers are expert practitioners who influence and mentor others. They wo
 - Make things real by caring about content and interaction design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society
 - Assure the quality of design delivery across multiple teams 
-- Show teams by doing good habits for sharing and improving design work
+- Introduce good habits for sharing and improving design work into teams
 - Build relationships with clients, earning their trust and understanding their needs
 - Support the sales team to win new work and review bids relating to UCD
 - Line management of designers
