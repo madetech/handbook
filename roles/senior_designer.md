@@ -10,7 +10,7 @@ Designers might already be a product designer, UX designer, service designer or 
 
 ## Summary
 
-Made Tech wants to positively impact country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
 Our Senior Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction and assuring the quality of design delivery within a team working on complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
