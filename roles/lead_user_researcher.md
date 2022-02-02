@@ -4,7 +4,7 @@
 - Salary inside London: £60,000-£70,000 
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
+- SFIA: [Level 5](/sfia/lead_user_researcher.md)
 
 ## Summary
 
@@ -17,9 +17,9 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 
 - Responsible to the Head of User-Centred Design for successfully informing the design and delivery of public services
 - Scope focus of research, so everyone involved has a shared understanding of successful outcomes 
-- Plan research that informs the design of public services, so they are helpful, usable and create successful outcomes
-- Do research with people that makes them comfortable sharing details of their lives, that teams must understand to design good services
-- Analyse and interpret raw research into findings so that teams can confidently confirm or challenge their understandings of problems and ideas
+- Plan research that informs the design of public services that are helpful, usable and successful
+- Put research participants at ease, so they're comfortable sharing information
+- Analyse and interpret research findings so that teams can confidently confirm or challenge their understandings of problems and ideas
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
 - Assure the quality of decisions across multiple teams 
 - Share research freely and often
