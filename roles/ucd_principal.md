@@ -47,9 +47,9 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 
 - Working within an account or programme leadership team
 - Working with sales teams to win new work
-- Worked with multidisciplinary digital and technology teams
-- Worked within healthcare
-- Worked in the open - sharing, working little and often
+- Working with multidisciplinary digital and technology teams
+- Experience in healthcare
+- Working in the open - sharing little and often
 - Experience in re-designing legacy services
 - Maintain a deep working knowledge of design and research techniques
 

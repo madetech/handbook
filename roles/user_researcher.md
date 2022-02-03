@@ -4,7 +4,7 @@
 - Salary inside London: £40,000 - £50,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 3](https://sfia-online.org/en/sfia-7/responsibilities/level-3)
+- SFIA: [Level 3](sfia/user_researcher.md)
 
 ## Summary
 
