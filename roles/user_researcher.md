@@ -20,7 +20,7 @@ User Researchers are experienced practitioners who collaborate with others to un
 - Analyse and interpret raw research into findings so that teams can confidently confirm or challenge their understandings of problems and ideas
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
 - Assure the quality of decisions within their team 
-- Show teams by doing good habits for sharing research and making decisions 
+- Introduce good habits for sharing and improving design work into teams 
 - Take part occasionally in the hiring of designers and researchers
 - Help define Made Tech design principles through delivering good public services
 - Contribute to a design studio culture at Made Tech and client offices
