@@ -16,7 +16,7 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 
 ## Key responsibilities 
 
-- Responsible to the Lead Designer for successfully designing and delivering of good public services
+- Responsible to the Senior Designer for successfully designing and delivering good public services
 - Turn team conversations and research into drawings and prototypes to create a shared understanding of problems to solve and ideas to test
 - Make things real by caring about content and design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society

@@ -14,7 +14,7 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 
 ## Key responsibilities 
 
-- Responsible to the UCD Principal for success of designing and delivering good public services
+- Responsible to the Lead Content Designer for successfully designing and delivering good public services
 - Turn team conversations and research into user-centred content to create a shared understanding of problems to solve and ideas to test
 - Make things real, by caring about content enough to ensure everyone can use public services
 - Make public services simple to explain and understand, by removing complexity and keeping designs focused on creating outcomes for people and society
