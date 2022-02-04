@@ -4,13 +4,13 @@
 - Salary inside London: £60,000-£70,000 
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 5](https://sfia-online.org/en/sfia-7/responsibilities/level-5)
+- SFIA: [Level 5](sfia/lead_content_designer.md)
 
 ## Summary
 
-Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
+Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
 
 ## Key responsibilities 
 

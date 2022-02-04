@@ -4,7 +4,7 @@
 - Salary inside London: £50,000-£60,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 4](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
+- SFIA: [Level 4](sfia/senior_content_designer.md)
 
 ## Summary
 
@@ -14,7 +14,7 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 
 ## Key responsibilities 
 
-- Responsible to the UCD Principal for success of designing and delivering good public services
+- Responsible to the Lead Content Designer for successfully designing and delivering good public services
 - Turn team conversations and research into user-centred content to create a shared understanding of problems to solve and ideas to test
 - Make things real, by caring about content enough to ensure everyone can use public services
 - Make public services simple to explain and understand, by removing complexity and keeping designs focused on creating outcomes for people and society
