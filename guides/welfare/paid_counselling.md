@@ -26,3 +26,5 @@ We will be informed when the phone line and online service is used, and we will 
 ## Other options
 
 You are also welcome to pick your own therapist/counsellor. We can contribute up to £60 per session for the first 6 sessions.
+
+If there's anything we're not currently doing or offering to support your wellbeing at Made Tech, you can reach out to the People Team via Slack or people@madetech.com to share what we could be doing to support you better. 
