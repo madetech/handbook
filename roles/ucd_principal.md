@@ -1,6 +1,6 @@
 # User-Centred Design Principal
 
-- Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
+- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - Salary outside London: £63,000-£81,000
 - Salary inside London: £70,000-£90,000 
