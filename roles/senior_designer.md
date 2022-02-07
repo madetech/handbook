@@ -2,7 +2,7 @@
 
 - Salary outside London: £44,000 - £53,000
 - Salary inside London: £50,000-£60,000
-- Location: Birmingham, Bristol, Glasgow, London, Manchester or Newcastle
+- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 4](sfia/senior_designer.md)
 
