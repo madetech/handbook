@@ -1,0 +1,43 @@
+# Junior Designer
+
+- Salary outside London: £X - £X
+- Salary inside London: £X - £X
+- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
+- Hybrid working: Client-site/office 1-2 days per week
+- SFIA: [Level 2](#todo)
+
+Junior Designers might 
+
+* have a degree in a subject like UX design or interaction design;
+* be a graduate of a vocational course in UX design;
+* or, already be a product designer, UX designer, service designer or interaction designer. 
+
+## Summary
+
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+
+Junior Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
+
+## Key responsibilities 
+
+- Responsible to the Designer for assisting in the successfully designing and delivering good public services
+- x
+- x
+- x
+
+## Key measures
+
+- Delivery of good public services for users with clients
+
+## Competencies 
+
+## Benefits
+
+Here are some of our most popular benefits:
+
+- [Flexible Holiday](../benefits/flexible_holiday.md)
+- [Flexible Working Hours](../benefits/working_hours.md)
+- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
+- [Remote Working](../benefits/remote_working.md)
+- [Paid counselling](../guides/welfare/paid_counselling.md)
+- [Paid anniversary break](../benefits/paid_anniversary_break.md)
