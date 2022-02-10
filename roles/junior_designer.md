@@ -4,7 +4,7 @@
 - Salary inside London: £X - £X
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 2](#todo)
+- SFIA: [Level 2](sfia/junior_designer.md)
 
 Junior Designers might 
 
