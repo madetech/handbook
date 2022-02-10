@@ -20,16 +20,25 @@ Junior Designers are practitioners who collaborate with others to tackle challen
 
 ## Key responsibilities 
 
-- Responsible to the Designer for assisting in the successfully designing and delivering good public services
-- x
-- x
-- x
+- Responsible to the Designer for assisting in the design and delivery of public services
+- Come up with creative solutions to problems revealed in research
+- Make things real by prototyping your ideas
+- Take responsibility for sharing your own work with your team
+- Improve your designs over time
+- With the support of your team, explain your design decisions to stakeholders
+- Take part in Made Tech community activities
 
 ## Key measures
 
-- Delivery of good public services for users with clients
+- Delivery of good public services for users in partnership with Made Tech’s clients
 
 ## Competencies 
+
+- Client focus
+- Drive to deliver
+- Learning
+- Facilitation
+- Thinking through making
 
 ## Benefits
 
