@@ -20,7 +20,7 @@ Junior Designers are practitioners who collaborate with others to tackle challen
 
 ## Key responsibilities 
 
-- Responsible to the Designer for assisting in the design and delivery of public services
+- Responsible to the Senior Designer for assisting in the design and delivery of public services
 - Come up with creative solutions to problems revealed in research
 - Make things real by prototyping your ideas
 - Take responsibility for sharing your own work with your team
