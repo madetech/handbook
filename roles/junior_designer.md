@@ -1,7 +1,7 @@
 # Junior Designer
 
-- Salary outside London: £X - £X
-- Salary inside London: £X - £X
+- Salary outside London: £26,000 - £35,000
+- Salary inside London: £30,000 - £39,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 2](sfia/junior_designer.md)
