@@ -1,12 +1,12 @@
-# Junior Designer
+# Associate Designer
 
 - Salary outside London: £26,000 - £35,000
 - Salary inside London: £30,000 - £39,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 2](sfia/junior_designer.md)
+- SFIA: [Level 2](sfia/associate_designer.md)
 
-Junior Designers might 
+Associate Designers might 
 
 * have a degree in a subject like UX design or interaction design;
 * be a graduate of a vocational course in UX design;
@@ -16,7 +16,7 @@ Junior Designers might
 
 Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Junior Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
+Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
 
 ## Key responsibilities 
 
