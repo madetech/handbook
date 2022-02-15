@@ -1,11 +1,11 @@
-# SFIA Role Guidance: Junior Designer
+# SFIA Role Guidance: Associate Designer
 
 * [SFIA Level 2](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-2)
-* [Job description](../junior_designer.md)
+* [Job description](../associate_designer.md)
 
 ## Summary of role
 
-Junior Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
+Associate Designers are practitioners who collaborate with others to tackle challenges faced by people and society. They work within a team to design and deliver public services. They do this by understanding problems and creating solutions that work for equally well for users and stakeholders. They are active members of a healthy User-Centred Design (UCD) community and culture at Made Tech.
 
 ## Required competency for the role
 
