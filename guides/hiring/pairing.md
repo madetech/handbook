@@ -1,5 +1,7 @@
 # Pairing with interview candidates
 
+If you are a Made Tech employee, please refer to this [guide for Software Engineers on how to pair](https://docs.google.com/document/d/1x8fVCx-FB-VU_1EHbGU6yLDn1fDyfa5R/edit?usp=sharing&ouid=113960202795862454830&rtpof=true&sd=true).
+
 ## Why we pair with candidates
 We’re trying to hire people who we’d like to work with. This is a way to try out "working" with them. 
 
