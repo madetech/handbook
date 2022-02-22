@@ -23,7 +23,7 @@ Your net pay will be reduced by a monthly amount equivalent to the total cost of
 No, you're receiving an Instant eGift Card that you can spend online or in-store at any Currys PC World. This enables you to get total flexibility just in case something changes in-store and you can change your mind.
 
 ### 6. Where can I get my Product?
-From Currys PC World network of over 450 stores, which have the largest selection of technology in the UK including all the top brand products. You can purchase online at www.currys.co.uk or www.pcworld.co.uk too.
+From Currys PC World network of over 450 stores, which have the largest selection of technology in the UK including all the top brand products. You can purchase online at https://www.currys.co.uk/ or https://www.pcworld.co.uk/ too.
 
 ### 7. Can I spend more on top of what I buy on SmartTech™?
 Yes, of course. You can use SmartTech™ to purchase the majority of the product and then use one of our discounted Instant Vouchers to complete the purchase in-store or online.
