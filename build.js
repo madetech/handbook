@@ -26,7 +26,8 @@ function checkFile (fileName) {
         { pattern: /retrospectivewiki.org/ },
         { pattern: /clamav.net/ },
         { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
-        { pattern: /udemy.com/ }               // udemy returns 403 status to circle ci hosts
+        { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
+	{ pattern: /moneysavingexpert.com/ }
       ]
 
       markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
