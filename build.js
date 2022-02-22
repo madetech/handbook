@@ -27,7 +27,9 @@ function checkFile (fileName) {
         { pattern: /clamav.net/ },
         { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
         { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
-	{ pattern: /moneysavingexpert.com/ }
+	{ pattern: /moneysavingexpert.com/ },
+	{ pattern: /currys.co.uk/ },
+	{ pattern: /pcworld.co.uk/ }
       ]
 
       markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
