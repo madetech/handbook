@@ -4,10 +4,9 @@ We know you're ready to work and so we want you to be work ready. We'll equip yo
 
 Here's some examples of things people have purchased:
 
-- Books for work (programming, best practice, sales, etc.)
 - New monitor
 - Home office equipment
-- Adapters (HDMI, USB, etc.)
+- Adapters (HDMI, USBC, etc.)
 - Keyboards
 - Ergonomic chairs, stools, stands
 - Standing desks
