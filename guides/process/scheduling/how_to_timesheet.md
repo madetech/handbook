@@ -36,9 +36,13 @@ Chalet is where you are not assigned to a client and are completely available fo
 
 ## Made Tech internal projects
 
-You may be on an internal project full time or in conjunction with a client project.
+You may be asked to support internal Made Tech initiatives while on a billed engagement. This includes activities such as hiring, bid writing, helping with our academy, or supporting one of our service areas.
 
-You should allocate your time to a project when you’ve spent 2 hours or more.
+Where these commitments total less than 5 hours per week, they should be included in our standard operating overhead and should not be accounted for separately from billed hours.
+
+When the commitment exceeds 5 hours in a week, each element should be allocated individually to the appropriate project in Kimble and not included in billable hours.
+
+Please ensure that you get approval in advance from your account team for all non-delivery commitments. You must also get agreement from the relevant service area leader before booking any time against their service area project.
 
 ## How to submit your timesheet
 
