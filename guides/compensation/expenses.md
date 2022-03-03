@@ -22,7 +22,7 @@ Sometimes as part of a delivery you may need to undertake travel (stay at a hote
 
 There are two methods of purchasing items listed above. The first is the easiest, using a company credit card. You will not incur any personal costs if you used this method. 
 
-The second is paying for an item yourself and then expensing that payment via the Xero Expenses app.
+The second is paying for an item yourself and then expensing that payment via the Xero Expenses app or [website](https://go.xero.com).
 
 Importantly, all receipts for both company credit card and personal expenses need to be VAT receipts for tax reasons.
 
@@ -30,7 +30,7 @@ Importantly, all receipts for both company credit card and personal expenses nee
 
 If you have purchased an item with your own money that is listed above, you can submit this expense and you will be compensated via bank transfer when expenses are processed.
 
-You need to submit these expenses via the Xero Expenses app. You can download this to your phone from App Store/Google Play.
+You need to submit these expenses via the Xero Expenses app. You can download this to your phone from App Store/Google Play. Alternatively you can submit these via the [website](https://go.xero.com).
 
 To get reimbursed:
 
