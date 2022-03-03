@@ -45,7 +45,7 @@ Pumps and puncture repair kits, tool kits and tyre sealant to allow for minor re
 Reflective clothing and reflectors
 Child seats
 
-Accessories that are not available include forks, frames, Sat Navs, cycle computers, Go pro cameras, turbo trainers and cycle racks. Items such as frames and forks are cycle components not safety equipment: safety equipment is something you add to the cycle or the cyclist to make cycling safer.
+Accessories that are not available include forks, frames, Sat Navs, cycle computers, GoPro cameras, turbo trainers and cycle racks. Items such as frames and forks are cycle components not safety equipment: safety equipment is something you add to the cycle or the cyclist to make cycling safer.
 
 ### Where can I get my bike and accessories from?
 You can shop in-store at Halfords, Tredz or one of the independent shops we work with. If you prefer to shop online, you can redeem your Letter of Collection online at Tredz.co.uk or by using Click & Collect at Halfords.com. If you’d like some help or advice, get in touch with the Cycle2Work Customer Support Team on 0345 504 6444.
