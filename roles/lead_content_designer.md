@@ -1,7 +1,6 @@
 # Lead Content Designer 
 
-- Salary outside London: £54,000 - £63,000
-- Salary inside London: £60,000-£70,000 
+- Salary: £54,000 - £63,000 with a London-weighting of £60,000-£70,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 5](sfia/lead_content_designer.md)

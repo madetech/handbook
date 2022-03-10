@@ -1,9 +1,8 @@
 # Senior User Researcher
 
+- Salary: £44,000 - £53,000 with a London-weighting of £50,000-£60,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- Salary outside London: £44,000 - £53,000
-- Salary inside London: £50,000-£60,000 
 - SFIA: [Level 4](sfia/senior_user_researcher.md)
 
 

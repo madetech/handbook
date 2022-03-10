@@ -1,7 +1,6 @@
 # Designer 
 
-- Salary outside London: £36,000 - £45,000 
-- Salary inside London: £40,000 - £50,000
+- Salary: £36,000 - £45,000 with a London-weighting of £40,000 - £50,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 3](sfia/designer.md)

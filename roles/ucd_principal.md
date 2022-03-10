@@ -1,9 +1,8 @@
 # User-Centred Design Principal
 
+- Salary: £63,000-£81,000 with a London-weighting of £70,000-£90,000 
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- Salary outside London: £63,000-£81,000
-- Salary inside London: £70,000-£90,000 
 - [SFIA Level 6](sfia/ucd_principal.md)
 
 UCD Principals might come from doing leadership roles in user research, design or content design. 

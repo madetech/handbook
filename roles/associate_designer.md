@@ -1,7 +1,7 @@
 # Associate Designer
 
-- Salary outside London: £26,000 - £35,000
-- Salary inside London: £30,000 - £39,000
+
+- Salary: £26,000 - £35,000 with a London-weighting of £30,000 - £39,000
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 2](sfia/associate_designer.md)
