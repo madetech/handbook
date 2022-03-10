@@ -26,3 +26,5 @@ We will be informed when the phone line and online service is used, and we will 
 ## Other options
 
 You are also welcome to pick your own therapist/counsellor. We can contribute up to £60 per session for the first 6 sessions.
+
+We are also looking to improve our offering by introducing Unum Help@hand which will provide additional medical benefits to all team members. 
