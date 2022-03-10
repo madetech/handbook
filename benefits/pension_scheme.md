@@ -40,3 +40,13 @@ On May 17th 2021 Made Tech rolled out an individual flexible benefits allowance 
 2. Log in
 3. Select Pension on the homepage
 4. Here you will find options which will allow you to choose a pension contribution amount which will be transfered from your benefits allowance.
+
+## Upcoming changes to pensions 
+
+We have completed the review of our pension offering and will be introducing a much-improved pension offering for all employees from April 2022. The new pension scheme will be run by Scottish Widows and will follow a contribution matching model where Made Tech matches the level of contribution you decide to make. 
+
+The pension available to you will be tied to your SFIA level, with pensions for SFIA 2-4 being up to 12% (6% matched), pensions for SFIA 5 being up to 14% (7% matched), pensions for SFIA 6 being up to 16% (8% matched) and pensions for SFIA 7 being up to 18% (9% matched). 
+
+The new pension scheme will be based on a salary sacrifice approach which is more tax-efficient for both employer and employee. We’ll be removing the qualifying earnings limit, which should significantly simplify pension management for those of you who are higher rate taxpayers. 
+
+We’ll kick off the work to transition to the new scheme in the coming weeks, more information to follow soon. 
