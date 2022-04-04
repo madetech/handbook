@@ -22,12 +22,12 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 ### Delivery
 
-- [Academy Delivery Manager](delivery_manager.md) (SFIA Level 1)
-- [Associate Delivery Manager](delivery_manager.md) (SFIA Level 2)
-- [Delivery Manager](delivery_manager.md)(SFIA Level 3)
-- [Senior Delivery Manager](delivery_manager.md) (SFIA Level 4)
-- [Lead Delivery Manager](delivery_manager.md) (SFIA Level 5)
-- [Delivery Principal / Head of Delivery](delivery_principal.md) (SFIA Level 6)
+- [Academy Delivery Manager](delivery_manager.md) [(SFIA Level 1)](https://sfia-online.org/en/sfia-8/responsibilities/level-1)
+- [Associate Delivery Manager](delivery_manager.md) [(SFIA Level 2)](https://sfia-online.org/en/sfia-8/responsibilities/level-2)
+- [Delivery Manager](delivery_manager.md)[(SFIA Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3)
+- [Senior Delivery Manager](delivery_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
+- [Lead Delivery Manager](delivery_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5)
+- [Delivery Principal / Head of Delivery](delivery_principal.md) [(SFIA Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
 
 ### Product & Business Analysis
 
