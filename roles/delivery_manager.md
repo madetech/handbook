@@ -82,16 +82,29 @@ Compensating you fairly:
 ## Salary
 The salary for this role is location and experience dependent: 
 
-### Delivery Manager
+### Academy Delivery Manager - SFIA 1
+UK: £22,500\
+London & South East: £25,000\
 
-South West: £46,000 - £62,000\
-North: £46,000 - £65,000\
-London: £51,000 - £69,000
+### Associate Delivery Manager - SFIA 2
+UK: £24,975 - £40,500\
+London & South East: £26,223 - £42,525\
 
-### Senior Delivery Manager
-South West: £63,000 - £72,000\
-North: £66,000 - £75,000\
-London: £70,000 - £80,000
+### Delivery Manager - SFIA 3
+UK: £31,500 - £45,000\
+London & South East: £33,075 - £47,250\
+
+### Senior Delivery Manager - SFIA 4
+UK: £40,500 - £76,500\
+London & South East: £42,525 - £80,325\
+
+### Lead Delivery Manager - SFIA 5 
+UK: £63,000 - £90,000\
+London & South East: £66,150 - £ 94,500\
+
+### Principal Delivery Manager - SFIA 6
+UK: £76,500 - £121,500\
+London & South East: £80,325 - £127,575\
 
 ## Applying
 
