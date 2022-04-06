@@ -79,7 +79,7 @@ You can test the configuration of your AV software using the test files provided
 #### ClamAV
 [ClamAV](https://www.clamav.net/) is an open source AV tool that is popular on Linux - it can be configured in a way that meets the requirements above, but this involves enabling on-access scanning.
 
-[Installation and configuration instructions](linux_av.md)
+Installation and configuration instructions
 
 Unfortunately the version in the Ubuntu repositories isn't kept up to date with upstream releases as fast as we need it to be so the current recommendation is to compile from source:
 

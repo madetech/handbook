@@ -30,7 +30,7 @@ If you need information for a client or bid, email [operations@madetech.com](mai
 For any urgent security issues then Slack, email or call anyone in the Ops team.
 
 ### Useful links
-- [All about Linux](https://github.com/madetech/handbook/blob/main/guides/it/linux_av.md)
+- [Linux Laptop Security](https://github.com/madetech/handbook/blob/main/guides/it/linux_laptop_security.md)
 
 The below are all internal only links
 - [VPN - When to use it and how to access it](https://docs.google.com/document/d/1NhgadCEFMTETzIHdEkPCHFVUi1_U_BKZFCPI1dub9EU/edit) 
