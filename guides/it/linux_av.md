@@ -45,11 +45,9 @@ This will:
 - apply the same settings to the root account.
 
 #### Root account
-[Ubuntu disables the root account by default](https://ubuntu.com/server/docs/security-users) by not setting a password. This allows a user to boot into a root shell via GRUB / recovery mode. To prevent this you should set a password for the root user:
+Some systems [(e.g. Ubuntu)](https://ubuntu.com/server/docs/security-users) have a security vulnerability due to the root account being disabled by not setting a password. This allows a user to boot into a root shell via GRUB / recovery mode on an unencrypted machine.
 
-```bash
-sudo passwd root
-```
+You may leave the root account disabled, because your machine will have full-disk encryption (requiring the key to boot the system) so the vulnerability is not an issue.
 
 ## Firewall
 You should be running a local firewall configured to block any incoming traffic.
