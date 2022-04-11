@@ -31,11 +31,16 @@ During this week we cover some overviews on:
 - Feedback Workshop
 - Commercial 
 - Public Sector 
-- Delivery and Methodology 
 - Marketing 
 - Methodology Activity 
 - Feedback Role Play Session
-- Finance and Operations 
+- Finance
+- Operations
+- Propositions and Capabilities
+- Compliance
+- Scheduling
+- User-Centred Design
+- Agile Methodology
 
 If you join during group onboarding week, we’ll likely start a little earlier than usual to get you set up with accounts before you join the rest of the team. 
 
