@@ -2,22 +2,18 @@
 
 ## Employee Assistance
 
-We have setup an employee assistance programme to provide our team self-service access to all kinds of help. The confidential service provides:
+We have setup an employee assistance programme to provide our team with advice on a range of life and work issues, including: financial, legal, and family concerns, as well as tools and information to support health and wellbeing. 
 
-- Legal advice (for personal and work)
-- Emotional help and counselling
-- External HR advice (completely unbiased help and support)
-- Health (pregnancy, sickness, personal injury, stress)
-- Family (rights, divorce, child support, teenagers)
-- Older people (bereavement, elderly care, support)
-- Financial advice (pay, pensions, tax, debt help, benefits)
-- Relationships (divorce & separation, counselling, bullying)
-- Addiction (substance and gambling, support for family, rehabilitation
+- 24/7 Helplines: Immediate and confidential access to qualified counsellors and experts, supporting you on a broad range of topics whenever you need it.
+- Financial wellbeing: Helping you to feel in control of your finances with tailored guidance to improve overall financial wellbeing.
+- Health and fitness plans: Custom work-out plans and nutritional advice to help you reach your health and fitness goals
+- Life event resources: Guidance on key life events such as moving home, becoming a parent, elder care or starting a new job
+- Line manager support: Helping managers on all aspects of their management role, including a referral service and access to advice from professional consultants. 
 
 ### Getting assistance
 
-- **Online:** You can visit http://employeeassistance.org.uk to access help via the website. You'll find the password pinned to the Wellbeing Slack channel.
-- **By phone:** You can call the 24/7 help line on 0800 328 1437
+- **Online:** You can visit http://www.unumlifeworks.co.uk to access help via the website. You'll receive an email in your Made Tech inbox to activate your account. Alternative log ins are pinned to the Wellbeing Slack channel.
+- **By phone:** You can call the 24/7 help line on 0800 048 2702 
 
 ### Confidentiality
 
@@ -27,4 +23,4 @@ We will be informed when the phone line and online service is used, and we will 
 
 You are also welcome to pick your own therapist/counsellor. We can contribute up to £60 per session for the first 6 sessions.
 
-We are also looking to improve our offering by introducing Unum Help@hand which will provide additional medical benefits to all team members. 
+Unum Help@hand also provide additional medical benefits to all team members, including up to 8 counselling sessions. 
