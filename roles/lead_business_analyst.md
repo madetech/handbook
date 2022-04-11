@@ -82,9 +82,8 @@ Compensating you fairly:
 
 The salary for this role is location dependant:
 
-- Bristol: £60,000-£70,000
-- Manchester: £60,000-£70,000
-- London: £60,000-£70,000
+- UK: £59,500 - £85,000
+- London & South East: £62,475 - £89,250
 
 ## Applying
 

@@ -1,4 +1,4 @@
-# Software Engineer 2
+# Software Engineer
 
 Bristol, Swansea, Manchester & London, UK.
 
@@ -75,9 +75,8 @@ Compensating you fairly:
 
 The salary for this role is location dependant:
 
-- Bristol & Swansea: £36,900-£45,000
-- Manchester: £36,900-£45,000
-- London: £40,000-£50,000
+- UK: £35,000 - £50,000
+- London & South East: £36,750 - £52,500
 
 ## Applying
 
