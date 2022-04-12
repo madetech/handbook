@@ -1,4 +1,4 @@
-# Software Engineer 1
+# Associate Software Engineer
 
 Bristol, Manchester & London, UK.
 
@@ -46,9 +46,8 @@ Compensating you fairly:
 
 The salary for this role is location dependant:
 
-- Bristol: £27,000-£36,000
-- Manchester: £27,000-£36,000
-- London: £30,000-£39,000
+- UK: £27,750 - £45,000
+- London & South East: £29,137 - £47,250
 
 ## Applying
 
