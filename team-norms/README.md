@@ -10,7 +10,7 @@ Our accepted practices for structuring deliveries.
 
 Our expected reporting standards for delivery teams.
 
-## [The Made Tech Way](principles.md)
+## [The Made Tech Way (DRAFT)](principles.md)
 
 Our principles describing how we deliver in teams and work with clients.
 
