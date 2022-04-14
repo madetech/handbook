@@ -1,6 +1,6 @@
-# The Made Tech Way (DRAFT)
+# Principles (DRAFT)
 
-**How we deliver in teams and work with clients**
+**_How we deliver in teams and work with clients_**
 
 ## Create impact for all
 We create services that balance needs, policy goals and what's possible now. Public services exist to create an impact on people's lives. Good services deliver positive outcomes for society that are fair and equitable for all. Be that cleaner air, safer roads, more jobs or better use of taxes. We understand all that we do has an impact, no matter how large or small. 
