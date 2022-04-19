@@ -21,6 +21,14 @@ OR
 - 512GB SSD
 - Windows 10 Pro
 
+Due to the current difficulties in getting stock of Thinkpads, the temporary PC hardware is:
+
+- HP ZBook, 14"
+- Intel Core i7 Processor
+- 16GB of RAM
+- 512GB SSD
+- Windows 10 Pro
+
 **All other roles**
 - Macbook Air
 - Apple M1 chip with 8‐core CPU, 7‐core GPU and 16‐core Neural Engine
