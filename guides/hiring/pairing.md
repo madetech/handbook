@@ -51,7 +51,7 @@ Tell the candidate the key facts:
 - Ask if they’re familiar with pair programming. If not, explain briefly.
 - Decide on a pairing style together.
 - Ask if they’ve done a kata before. If not, explain briefly.
-- Ask which kata they’d like to do. If they’re not sure, suggest one from [this list](https://learn.madetech.com/katas/). Tennis or Bowling work well, and if the candidate is applying for a Senior or Lead Engineer role, then they must pick one of these two.
+- Ask which kata they’d like to do. If they’re not sure, suggest one from [this list](https://learn.madetech.com/katas/). Tennis or Bowling work well and, if the candidate is applying for a Senior or Lead Engineer role, then they must pick one of these two.
 - Ask if they’re familiar with test-driven development (TDD). If not, explain briefly.
 - Tell the candidate you’d like to write tests as part of doing the kata.
 - If you’re remote, decide how you’ll pair. You could use Tuple, Live Share, or screen sharing.
