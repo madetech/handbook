@@ -39,6 +39,7 @@ We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, 
 
 #### Business Analysis
 
+- [Principal Business Analyst](Principal_Business_Analyst.md) [(SFIA Level 6)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
 - [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
 - [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
 - [Business Analyst](business_analyst.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
