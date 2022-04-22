@@ -25,64 +25,88 @@ If there are no activities that need to be done that match your role and availab
 
 Priorities for chalet time:
 
-1. New opportunities on client teams
-a. Billed opportunities, where clients pay for someone’s time
-b. Invested opportunities, working on a client team, but not billed to begin with, showing value first
-b. Shadowing, getting experience of how teams work
-2. New business and revenue
-a. Bid writing - leading / pairing / shadowing / case studies / research
-b. Support marketing team create content, like blogging, case studies, talks that promote Made Tech
-3. Hiring
+#### 1. New opportunities on client teams
+1. Billed opportunities, where clients pay for someone’s time
+2. Invested opportunities, working on a client team, but not billed to begin with, showing value first
+3. Shadowing, getting experience of how teams work
+
+##### 2. New business and revenue
+1. Bid writing - leading / pairing / shadowing / case studies / research
+2. Support marketing team create content, like blogging, case studies, talks that promote Made Tech
+
+#### 3. Hiring
 a. Pairing on interviews
 b. Outreach to potential candidates
-4. Research and development
+
+#### 4. Research and development
 a. Product development 
 b. Research projects
-5. Communities of practice
+
+#### 5. Communities of practice
 a. Communities Improvements Backlog 
-6. Learning time
---Reading
---Training courses
---Conferences
---Pairing and group learning
-7. Holiday that can flexibly be moved
+
+#### 6. Learning time
+- Reading
+- Training courses
+- Conferences
+- Pairing and group learning
+
+#### 7. Holiday that can flexibly be moved
 
 ## Booking or scheduling chalet time
 Chalet time activities will be booked and scheduled as follows:
 
-1. New opportunities on client teams
-a. Billed or invested time - like other times someone joins a client team this will be booked by the Scheduling team and the individual will fill out timesheets for time spent in this team
-b. Shadowing - this time should be recorded as ‘Bench/Chalet’ time in timesheets
-2. New business and revenue
-a. Bid writing - booked by the Scheduling team and the individual will fill out timesheets for time spent on a bid
-b. Marketing - this time should be recorded as ‘Bench/Chalet’ in timesheets
-3. Hiring
-a. This time should be recorded as ‘Hiring’ in timesheets
-4. Research and development
+#### 1. New opportunities on client teams
+Billed or invested time - like other times someone joins a client team this will be booked by the Scheduling team and the individual will fill out timesheets for time spent in this team
+
+Shadowing - this time should be recorded as ‘Bench/Chalet’ time in timesheets
+
+#### 2. New business and revenue
+Bid writing - booked by the Scheduling team and the individual will fill out timesheets for time spent on a bid
+
+Marketing - this time should be recorded as ‘Bench/Chalet’ in timesheets
+
+#### 3. Hiring
+This time should be recorded as ‘Hiring’ in timesheets
+
+#### 4. Research and development
 This time should be recorded as ‘R&D’ time in timesheets
-5. Communities of practice
-a. Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets
-6. Learning time
-a. People with chalet time will [book learning time](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) in the normal way. 
-7. Holiday
-a. People with chalet time will [book holiday through](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) as they would any other holiday or leave. 
+
+#### 5. Communities of practice
+Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets
+
+#### 6. Learning time
+People with chalet time will [book learning time](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) in the normal way. 
+
+#### 7. Holiday
+1. People with chalet time will [book holiday through](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) as they would any other holiday or leave. 
 
 ## Responsibility to make activities visible and  doable 
 Different parts of the business will be responsible for making people aware of activities they can do with chalet time:
 
-1. New opportunities on client teams
-a. A list of live accounts, teams and leads will be automatically published from Kimble to #chalettimeteam Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams. 
-b. Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing
-2. New revenue and business
-a. Bids team will update the Scheduling team each week of bids people with chalet time can get involved with
-b. Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the #chalettimeteam Slack channel at the beginning of each week. 
-3. Hiring
-a. Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so
+#### 1. New opportunities on client teams
+
+A list of live accounts, teams and leads will be automatically published from Kimble to #chalettimeteam Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams. 
+
+Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing
+
+#### 2. New revenue and business
+Bids team will update the Scheduling team each week of bids people with chalet time can get involved with
+
+Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the #chalettimeteam Slack channel at the beginning of each week. 
+
+#### 3. Hiring
+Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so
+
 Scheduling team will giving the Talent team coordinators access to the Kimble report of who’s has chalet 
-4. Research and development
-a. The R&D team will maintain a visible backlog of tasks people with chalet time can do either to help build products or research new opportunities. This will be posted in the #chalettimeteam Slack channel at the beginning of each week. 
-5. Communities of practice
-a. Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both #chalettimeteam and #cop-improvements-backlog Slack channels 
+
+#### 4. Research and development
+
+The R&D team will maintain a visible backlog of tasks people with chalet time can do either to help build products or research new opportunities. This will be posted in the #chalettimeteam Slack channel at the beginning of each week. 
+
+##### 5. Communities of practice
+
+Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both #chalettimeteam and #cop-improvements-backlog Slack channels 
 
 ## Length of chalet time activities
 Chalet time activities must be able to deliver some value in small blocks of time: half day, single day or 3-5 days, eaning chalet time can add value if someone joins a client team at short notice. 
