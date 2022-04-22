@@ -35,15 +35,15 @@ Priorities for chalet time:
 2. Support marketing team create content, like blogging, case studies, talks that promote Made Tech
 
 #### 3. Hiring
-a. Pairing on interviews
-b. Outreach to potential candidates
+1. Pairing on interviews
+2. Outreach to potential candidates
 
 #### 4. Research and development
-a. Product development 
-b. Research projects
+1. Product development 
+2. Research projects
 
 #### 5. Communities of practice
-a. Communities Improvements Backlog 
+[Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog)
 
 #### 6. Learning time
 - Reading
