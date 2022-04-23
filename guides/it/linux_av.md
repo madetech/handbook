@@ -5,71 +5,103 @@ The documentation below is valid in places and out of date (but not incorrect) i
 
 In the meantime, any questions to [operations@madetech.com](mailto:operations@madetech.com) or the #linuxination Slack channel.
 
+- [Running a supported OS](#ref_1)
+- [User accounts](#ref_2)
+- [Firewall](#ref_3)
+- [Disabling auto mount/auto run](#ref_4)
+- [VPN](#ref_5)
+- [Antivirus](#ref_6)
 
 
+<a id="ref_1"></a>
 ## Running a supported OS
-The operating system must be a current, supported version, that continues to receive security updates.
+The operating system must be a current, supported version, that continues to receive security updates. Most people use Debian/Ubuntu or Fedora.
 
-### Linux (Ubuntu)
-Check [Ubuntu releases](https://wiki.ubuntu.com/Releases) to ensure that your version is supported.
+Check releases for your distribution to ensure that your version is supported.
+[Ubuntu releases](https://wiki.ubuntu.com/Releases)
+[Debian releases](https://www.debian.org/releases/)
+[Fedora releases](https://docs.fedoraproject.org/en-US/releases/)
 
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+<a id="ref_2"></a>
 ## User accounts
-The user account that you use on a day to day basis must be a standard non-administrator account. If you require administrator rights to do your job, you can create a separate admin user and switch to this when required.
+The root account must be disabled. On Ubuntu this is the case by default.
 
-### Linux (Ubuntu)
+**Note: This is optional for Linux users, though recommended by Cyber Essentials Plus:**
 
-**Note: This is optional for Linux users, though recommended by Cyber Essentials Plus.**
-
-A standard account is not on the `sudoers list`, so in order to run commands that require `sudo` access you can temporarily switch to an admin account, run the `sudo` command then logout of the admin user:
+Use a standard account that is not on the `sudoers list` and provision a separate user with sudo for admin tasks. In order to run commands that require `sudo` access you then temporarily switch to the admin account, run the `sudo` command then switch back to the standard user:
 
 ```bash
 su - [admin account]
 sudo [command]
 exit
 ```
+**/Note**
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
 
-## Account locking
+
+### Account locking
 User accounts should be configured to lock after a **maximum** of 10 failed login attempts.
 
-### Linux (Ubuntu)
-To enable account locking on Ubuntu add the following line to `/etc/pam.d/common-auth`, directly after the `# here are the per-package modules (the "Primary" block)` comment:
+**Debian/Ubuntu:**
+To enable account locking add the following line to `/etc/pam.d/common-auth`, directly after the `# here are the per-package modules (the "Primary" block)` comment:
 
 ```
-auth required pam_tally2.so onerr=fail deny=10 unlock_time=300 audit even_deny_root root_unlock_time=600
+auth required pam_tally2.so onerr=fail deny=10 unlock_time=300 audit
 ```
 
 This will:
 - lock a user's account after 10 failed login attempts - this can be reduced but should not be greater than 10
 - lock the account for 5 minutes (300 seconds)
 - log the username to the syslog if the user is not found
-- apply the same settings to the root account.
 
-#### Root account
-[Ubuntu disables the root account by default](https://ubuntu.com/server/docs/security-users) by not setting a password. This allows a user to boot into a root shell via GRUB / recovery mode. To prevent this you should set a password for the root user:
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
 
-```bash
-sudo passwd root
-```
-
+<a id="ref_3"></a>
 ## Firewall
 You should be running a local firewall configured to block any incoming traffic.
 
-### Linux (Ubuntu)
-Ubuntu ships with `ufw`, but it is disabled by default. Enable it by running:
+**Debian/Ubuntu:**
+Ubuntu ships with `ufw`, but it is disabled by default, on Debian it can be installed with apt. Enable it by running:
 
 ```bash
+sudo apt install ufw
 sudo ufw enable
 ```
 
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
+
+<a id="ref_4"></a>
 ## Auto mount / auto run disabled
 Your system should *not* auto mount or auto run files when media, such as a removable USB disk, is inserted.
 
-### Linux (Ubuntu)
-In Ubuntu this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
+**Gnome:**
 
+In Gnome settings this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
+
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
+
+<a id="ref_5"></a>
 ## VPN
 You must be have [Made Tech's VPN](../vpn/README.md) configured on your system.
 
+**Debian/Ubuntu:**
+```bash
+sudo apt install network-manager-l2tp network-manager-l2tp-gnome
+sudo systemctl restart NetworkManager.service
+```
+
+<br />
+------------------------------------------------------------------------------------------------------------------------------------
+
+<a id="ref_6"></a>
 ## Anti-virus
 You must be running Anti-virus software. The installed AV software must:
 - be up to date (the most recent stable version, within 30 days of it's release)
@@ -81,50 +113,25 @@ You can test the configuration of your AV software using the test files provided
 #### ClamAV
 [ClamAV](https://www.clamav.net/) is an open source AV tool that is popular on Linux - it can be configured in a way that meets the requirements above, but this involves enabling on-access scanning.
 
-[Installation and configuration instructions](linux_av.md)
-
-Unfortunately the version in the Ubuntu repositories isn't kept up to date with upstream releases as fast as we need it to be so the current recommendation is to compile from source:
-
-[ClamAV compilation guide](https://docs.clamav.net/manual/Installing/Installing-from-source-Unix.html)
-
-You may need to replace
-```
-python3 -m pip install --user cmake pytest
-```
-
-with
-
-```
-sudo python3 -m pip install cmake
+**Debian/Ubuntu:**
+```bash
+sudo apt install clamav clamav-daemon
 ```
 
 Once installed enable and start the systemd service:
 
-```
+```bash
 sudo systemctl enable clamav-daemon
 sudo systemctl start clamav-daemon
 ```
 
 We also want to make a quarantine directory:
-```
+```bash
 sudo mkdir /root/quarantine
 ```
 
-You can check the installed version using:
-
-```
-clamscan --version
-```
-
-and scan using:
-
-```
-clamscan
-```
-
 To configure on-access scanning we need to add the following lines to the clam-daemon configuration file `/etc/clamav/clamd.conf`:
-
-```
+```bash
 OnAccessIncludePath /home
 OnAccessIncludePath /var/www
 OnAccessExcludeUname clamav
@@ -137,79 +144,7 @@ The `clamonacc` daemon runs as root while `clamd` runs as user `clamav` so the s
 
 Create a SystemD unit file for `clamonacc`
 
-```
-# /etc/systemd/system/clamonacc.service
-[Unit]
-Description=ClamAV On Access Scanner
-Requires=clamav-daemon.service
-After=clamav-daemon.service syslog.target network.target
-
-[Service]
-Type=simple
-User=root
-ExecStartPre=/bin/bash -c "while [ ! -S /var/run/clamav/clamd.ctl ]; do sleep 1; done"
-ExecStart=/usr/sbin/clamonacc -F --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/root/quarantine
-
-[Install]
-WantedBy=multi-user.target
-```
-
-The `ExecStartPre` script here ensures that `clamd` waits for ClamAv to finish loading virus definitions into memory and create the required socket before starting up (Otherwise it would error).
-
-You will likely need to increase the number of inotify watchers available from the default 65536.
-
-```
-echo fs.inotify.max_user_watches=1048576 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
-```
-
-Enable and start the service:
-
-```
-sudo systemctl enable clamonacc
-sudo systemctl start clamonacc
-```
-
-Check that clamonacc is running correctly by tailing logs:
-
-```
-sudo tail /var/log/clamav/clamonacc.log
-```
-
-You should see output like:
-
-```
---------------------------------------
-ClamInotif: watching '/home' (and all sub-directories)
-ClamInotif: watching '/var/www' (and all sub-directories)
-```
-
-If you see:
-
-```
---------------------------------------
-ClamInotif: watching '/home' (and all sub-directories)
-ClamInotif: watching '/var/www' (and all sub-directories)
-ERROR: ClamInotif: could not watch path '/home', No space left on device
-ClamScanQueue: stopped
-Clamonacc: stopped
-```
-
-That likely indicates you need to increase the number of inotify watchers available as mentioned above.
-
-We can test this is running correctly by downloading a test file:
-
-```
-$ wget www.eicar.org/download/eicar.com
-$ ls | grep eicar
-$ sudo ls /root/quarantine
-eicar.com
-```
-
-You'll see the file has not been downloaded to the directory you're in, but rather moved directly to the quarantine directory we set up earlier.
-
-By default clamonacc is quite resource hungry, (~100% CPU core, 1gb+ RAM). You can limit the CPU consumption somewhat by adding a CPUQuota to the systemd unit file:
-
-```
+```bash
 # /etc/systemd/system/clamonacc.service
 [Unit]
 Description=ClamAV On Access Scanner
@@ -227,8 +162,62 @@ CPUQuota=30%
 WantedBy=multi-user.target
 ```
 
+The `ExecStartPre` script here ensures that `clamd` waits for ClamAv to finish loading virus definitions into memory and create the required socket before starting up (Otherwise it would error).
+
+Enable and start the service:
+
+```bash
+sudo systemctl enable clamonacc
+sudo systemctl start clamonacc
+```
+
+Check that everything is running correctly by downloading a test file:
+
+```bash
+$ wget www.eicar.org/download/eicar.com
+$ ls | grep eicar
+$ sudo ls /root/quarantine
+eicar.com
+```
+
+You'll see the file has not been downloaded to the directory you're in, but rather moved directly to the quarantine directory we set up earlier.
+
+
 The following resources are useful for configuring ClamAV:
 - The [Configuration](https://docs.clamav.net/manual/Usage/Configuration.html) section of the ClamAV documentation
 - The [On Access Scanning](https://docs.clamav.net/manual/OnAccess.html) section of the official docs
 - [Installation & Configuration of ClamAV Antivirus on Ubuntu 18.04](https://aaronbrighton.medium.com/installation-configuration-of-clamav-antivirus-on-ubuntu-18-04-a6416bab3b41) - this Medium article was
 particularly helpful for installing on Ubuntu and enabling on-access scanning.
+
+
+#### Troubleshooting ClamAV
+Check that clamonacc is running correctly by tailing logs:
+
+```bash
+sudo tail /var/log/clamav/clamonacc.log
+```
+
+You should see output like:
+
+```bash
+--------------------------------------
+ClamInotif: watching '/home' (and all sub-directories)
+ClamInotif: watching '/var/www' (and all sub-directories)
+```
+
+If you see:
+
+```bash
+--------------------------------------
+ClamInotif: watching '/home' (and all sub-directories)
+ClamInotif: watching '/var/www' (and all sub-directories)
+ERROR: ClamInotif: could not watch path '/home', No space left on device
+ClamScanQueue: stopped
+Clamonacc: stopped
+```
+
+You may need to increase the number of inotify watchers available from the default 65536.
+
+```bash
+echo fs.inotify.max_user_watches=1048576 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+```
