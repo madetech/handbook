@@ -3,7 +3,7 @@
 **_How we deliver in teams and work with clients_**
 
 ## Create impact for all
-We create services that balance needs, policy goals and what's possible now. Public services exist to create an impact on people's lives. Good services deliver positive outcomes for society that are fair and equitable for all. Be that cleaner air, safer roads, more jobs or better use of taxes. We understand that all that we do has an impact, no matter how large or small. 
+We create services that balance user needs, policy goals and what's possible now. Public services exist to create an impact on people's lives. Good services deliver positive outcomes for society that are fair and equitable for all. Be that cleaner air, safer roads, more jobs or better use of taxes. We understand that all that we do has an impact, no matter how large or small. 
 
 ## Build successful teams
 Success comes from our culture of a people-first approach. To build the right team we focus on inclusivity, making sure we’re truly representative of the communities we serve. We bring people together with a mixture of seniority and experience of skill sets, and give everyone the opportunity to explore. We trust one another, assume best intentions, respect hands-on skills and always make time for building relationships.
