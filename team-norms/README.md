@@ -10,6 +10,10 @@ Our accepted practices for structuring deliveries.
 
 Our expected reporting standards for delivery teams.
 
+## [Principles (DRAFT)](principles.md)
+
+Our principles describing how we deliver in teams and work with clients.
+
 ## [Development Practices](development_practices.md)
 
 Our accepted development standards.
@@ -19,5 +23,4 @@ Our accepted development standards.
 Our methods of running team-wide and company-wide retrospectives.
 
 ## [Timesheets](timesheets.md)
-
-Guidance on how to fill in the dreaded timesheet.
+Guidance on how to fill in timesheets.
