@@ -97,7 +97,7 @@ Compensating you fairly:
 
 * [Acceptable Usage Policy](guides/security/acceptable_use_policy.md)
 * [BYOD Policy](guides/security/bring_your_own_device.md)
-* [Device profiles](guides/security/device_profiles.md)
+* [Device Profiles](guides/security/device_profiles.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
@@ -108,3 +108,9 @@ Compensating you fairly:
 * [Anti-Corruption and Bribery Policy](guides/policy/anti_corruption_and_bribery_policy.md)
 * [Whistleblowing Policy](guides/policy/whistleblowing_policy.md)
 * [Anti-Slavery and Human Trafficking Policy](guides/policy/anti_slavery_and_human_trafficking_policy.md)
+
+### Communities of Practice
+
+#### ☁️ Cloud and Engineering
+
+* 📚 [Book Club](communities-of-practice/cloud-and-engineering/book-club/welcome.md) - Check out what we're reading / have read!
