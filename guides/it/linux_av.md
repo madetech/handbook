@@ -125,9 +125,9 @@ sudo systemctl enable clamav-daemon
 sudo systemctl start clamav-daemon
 ```
 
-We also want to make a quarantine directory:
+We also want to make a quarantine directory that requires elevated privileges to access:
 ```bash
-sudo mkdir /root/quarantine
+sudo mkdir -p /home/clamav/quarantine && sudo chown -R clamav:clamav /home/clamav
 ```
 
 To configure on-access scanning we need to add the following lines to the clam-daemon configuration file `/etc/clamav/clamd.conf`:
@@ -155,7 +155,7 @@ After=clamav-daemon.service syslog.target network.target
 Type=simple
 User=root
 ExecStartPre=/bin/bash -c "while [ ! -S /var/run/clamav/clamd.ctl ]; do sleep 1; done"
-ExecStart=/usr/sbin/clamonacc -F --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/root/quarantine
+ExecStart=/usr/sbin/clamonacc -F --fdpass --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/home/clamav/quarantine
 CPUQuota=30%
 
 [Install]
