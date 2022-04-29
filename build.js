@@ -27,9 +27,10 @@ function checkFile (fileName) {
         { pattern: /clamav.net/ },
         { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
         { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
-	{ pattern: /moneysavingexpert.com/ },
-	{ pattern: /currys.co.uk/ },
-	{ pattern: /pcworld.co.uk/ }
+        { pattern: /moneysavingexpert.com/ },
+        { pattern: /currys.co.uk/ },
+        { pattern: /pcworld.co.uk/ },
+        { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
       ]
 
       markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
