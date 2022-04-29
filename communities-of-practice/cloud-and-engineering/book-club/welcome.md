@@ -2,7 +2,7 @@
 
 👋 Welcome to our Cloud and Engineering Book Club! At Made Tech we are passionate about [learning](../../../guides/learning/README.md). In this Book Club, we choose a technical book in the cloud and engineering space and gather once per month to discuss it. We hope to see you there soon!
 
-This page is about what the Book Club is all about. For all things books, take a look at our [library](library.md).
+This page is about what the Book Club is all about. For all things books, take a look at our [library](/communities-of-practice/cloud-and-engineering/book-club/library/library.md).
 
 ## Purpose
 
