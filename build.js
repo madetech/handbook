@@ -30,7 +30,7 @@ function checkFile (fileName) {
         { pattern: /moneysavingexpert.com/ },
         { pattern: /currys.co.uk/ },
         { pattern: /pcworld.co.uk/ },
-        { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it.
+        { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
       ]
 
       markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
