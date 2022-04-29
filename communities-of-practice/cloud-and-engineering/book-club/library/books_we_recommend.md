@@ -7,4 +7,4 @@
 | [Infrastructure as Code](https://www.goodreads.com/book/show/26544394-infrastructure-as-code) | Kief Morris | Reuben |
 | [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) | Kent Beck | Reuben |
 
-[👈 Library](/communities-of-practice/cloud-and-engineering/book-club/library/library.md)
+[👈 Library](./library.md)

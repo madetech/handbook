@@ -6,4 +6,4 @@ Please contribute to this list if there's a book you're interested in! We'll inc
 | --- | --- | --- |
 | [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_) | Michael Nygard | Reuben |
 
-[👈 Library](/communities-of-practice/cloud-and-engineering/book-club/library/library.md)
+[👈 Library](./library.md)
