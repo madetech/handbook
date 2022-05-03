@@ -6,7 +6,7 @@ We have adopted a flexible holiday policy, where each team member is given the f
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. We intend untracked holiday to prevent burn-out in situations, where individuals feel that they need to "save up" holiday days, or plan elaborate strategies around using your holiday allowance "effectively" later in the year, rather than taking holiday when needed most.
 
-Flexible Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
+Flexible Holiday is not meant as a way to regularly take large portions of time off work e.g. 1 week every month, or 4 months off straight.  Made Tech will support holiday requests that are up to 4 consecutive weeks, if you wish to take longer than this the additional time may be unpaid. Please see our [Flexible Working](flexible_working.md) as the alternative to Flexible Holiday in those situations.
 
 ## How long are you taking?
 
