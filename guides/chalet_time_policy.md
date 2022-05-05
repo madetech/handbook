@@ -30,7 +30,7 @@ Priorities for chalet time:
 2. Invested opportunities, working on a client team, but not billed to begin with, showing value first
 3. Shadowing, getting experience of how teams work
 
-##### 2. New business and revenue
+#### 2. New business and revenue
 1. Bid writing - leading / pairing / shadowing / case studies / research
 2. Support marketing team create content, like blogging, case studies, talks that promote Made Tech
 
