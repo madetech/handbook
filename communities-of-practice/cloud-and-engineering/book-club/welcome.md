@@ -13,7 +13,7 @@ As engineers in delivery teams, we want to continously improve our capabilities 
 - It should be a free-flowing session and we'll use the book to provide direction.
 - At the end, we'll have a chat about what to read before the next meet-up.
 - We meet on the third Friday of the month at 1600.
-- It's an open invite to anyone at Made Tech. Just head over to the #eng-book-club Slack channel to pick up the link!
+- It's an open invite to anyone at Made Tech. Just head over to the #eng-bookclub Slack channel to pick up the link!
 
 ## What do I need to do?
 
