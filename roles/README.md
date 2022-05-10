@@ -4,6 +4,22 @@ This is a list of roles at Made Tech including details on the skills and seniori
 
 We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://madetech.com/careers).
 
+## Seniority levels
+
+We use the SFIA Framework to indicate seniority. We use prefixes in role titles to indicate their SFIA level.
+
+| SFIA Level | Role prefix | Examples |
+| :- | :- | :- |
+| SFIA 1 | Academy | Academy Designer, Academy Software Engineer |
+| SFIA 2 | Associate | Associate Designer, Associate Software Engineer |
+| SFIA 3 | Mid | Designer, Software Engineer |
+| SFIA 4 | Senior | Senior Designer, Senior Software Engineer |
+| SFIA 5 | Lead | Lead Designer, Lead Software Engineer |
+| SFIA 6 | Principal | Principal Designer, Principal Software Engineer, Head of Capability Practice |
+| SFIA 7 | Director | Director of Capability Practice |
+
+## Role teams
+
 We have grouped them by relevant teams so that you can find relevant roles together:
 
 - [Delivery Management](#delivery-management)
