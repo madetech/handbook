@@ -125,8 +125,8 @@ Leadership
 
 Security Engineering
  - Senior Security Engineer
- - Lead Security Engineer
- - Principal Security Engineer
+ - [Lead Security Engineer](lead_security_engineer.md)
+ - [Principal Security Engineer](principal_security_engineer.md)
 
 Leadership
 
