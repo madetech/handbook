@@ -79,21 +79,21 @@ Doing activities on the [Communities Improvements Backlog](https://trello.com/b/
 People with chalet time will [book learning time](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) in the normal way. 
 
 #### 7. Holiday
-People with chalet time will [book holiday through](https://github.com/madetech/handbook/blob/main/guides/learning/booking_learning_time.md) as they would any other holiday or leave. 
+People with chalet time will [book holiday](https://github.com/madetech/handbook/blob/main/benefits/flexible_holiday.md) as they would any other holiday or leave. 
 
 ## Responsibility to make activities visible and  doable 
 Different parts of the business will be responsible for making people aware of activities they can do with chalet time:
 
 #### 1. New opportunities on client teams
 
-A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team` Slack channel](https://madetechteam.slack.com/archives/C03F23K2RL0) Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams. 
+A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team` Slack channel][1] Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams. 
 
 Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing
 
 #### 2. New revenue and business
 Bids team will update the Scheduling team each week of bids people with chalet time can get involved with
 
-Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the [`#chalet-time-team`](https://madetechteam.slack.com/archives/C03F23K2RL0) Slack channel at the beginning of each week. 
+Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the [`#chalet-time-team`][1] Slack channel at the beginning of each week. 
 
 #### 3. Hiring
 Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so
@@ -102,11 +102,11 @@ Scheduling team will giving the Talent team coordinators access to the Kimble re
 
 #### 4. Research and development
 
-The R&D team will maintain a visible backlog of tasks people with chalet time can do either to help build products or research new opportunities. This will be posted in the [`#chalet-time-team`](https://madetechteam.slack.com/archives/C03F23K2RL0) Slack channel at the beginning of each week. 
+The R&D team will maintain a visible backlog of tasks people with chalet time can do either to help build products or research new opportunities. This will be posted in the [`#chalet-time-team`][1] Slack channel at the beginning of each week. 
 
 ##### 5. Communities of practice
 
-Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both [`#chalet-time-team`](https://madetechteam.slack.com/archives/C03F23K2RL0) and [`#cop-improvements-backlog`](https://madetechteam.slack.com/archives/C03BMF2E39S) Slack channels 
+Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both [`#chalet-time-team`][1] and [`#cop-improvements-backlog`](https://madetechteam.slack.com/archives/C03BMF2E39S) Slack channels 
 
 ## Length of chalet time activities
 Chalet time activities must be able to deliver some value in small blocks of time: half day, single day or 3-5 days, eaning chalet time can add value if someone joins a client team at short notice. 
@@ -114,3 +114,4 @@ Chalet time activities must be able to deliver some value in small blocks of tim
 Some activities may need more than a week but still be able to deliver business or personal value in increments of a half day, single day or 3-5 days.
 
 
+[1]: https://madetechteam.slack.com/archives/C03F23K2RL0
