@@ -33,7 +33,9 @@ function checkFile (fileName) {
         { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
       ]
 
-      markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
+      const retryCount = 5
+
+      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryCount }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
@@ -43,9 +45,9 @@ function checkFile (fileName) {
             console.log(chalk.grey(' [' + chalk.yellow('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
           } else if (result.status == 'alive') {
             console.log(chalk.grey(' [' + chalk.green('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
-	  } else {
+          } else {
             console.log(chalk.grey(' [' + chalk.red('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
-            console.log('located": %s', fileName)
+            console.log('located: %s', fileName)
             hasErrored = true
           }
         })
