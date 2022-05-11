@@ -75,7 +75,7 @@ Design including interaction and service design
 
 Leadership
 
-- Head of Capability Practice, User-Centred
+- [Head of Capability Practice](head_of_capability_practice.md), User-Centred
 
 ## Cloud & Engineering Practice
 
@@ -100,7 +100,7 @@ Cloud Engineering
 
 Leadership
 
-- Head of Capability Practice, Cloud & Engineering
+- [Head of Capability Practice](head_of_capability_practice.md), Cloud & Engineering
 
 ## Data Practice
 
@@ -119,7 +119,7 @@ Data Science
 
 Leadership
 
-- Head of Capability Practice, Data
+- [Head of Capability Practice](head_of_capability_practice.md), Data
 
 ## Cyber Security Practice
 
@@ -130,7 +130,7 @@ Security Engineering
 
 Leadership
 
-- Head of Capability Practice, Cyber Security
+- [Head of Capability Practice](head_of_capability_practice.md), Cyber Security
 
 ## Operations and Finance
 
