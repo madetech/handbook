@@ -40,7 +40,7 @@ Delivery Management
 - [Principal Delivery Manager](principal_delivery_manager.md)
 
 Leadership
-- Head of Delivery Management
+- [Head of Delivery Management](head_of_delivery_management.md)
 
 ## User-Centred Practice
 
