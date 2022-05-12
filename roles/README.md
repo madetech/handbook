@@ -56,22 +56,22 @@ Business Analysis
 - [Principal Business Analyst](Principal_Business_Analyst.md)
 
 Content Design
-- [Senior Content Designer](senior_content_designer.md)
-- [Lead Content Designer](lead_content_designer.md)
-- [Principal Content Designer](ucd_principal.md)
+- [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](sfia/senior_content_designer.md))
+- [Lead Content Designer](lead_content_designer.md) ([SFIA Level 5](sfia/lead_content_designer.md))
+- [Principal Content Designer](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 User Research
-- [User Researcher](user_researcher.md)
-- [Senior User Researcher](senior_user_researcher.md)
-- [Lead User Researcher](lead_user_researcher.md)
-- [Principal User Researcher](ucd_principal.md)
+- [User Researcher](user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
+- [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](sfia/senior_user_researcher.md))
+- [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](sfia/lead_user_researcher.md))
+- [Principal User Researcher](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 Design including interaction and service design
-- [Associate Designer](associate_designer.md)
-- [Designer](designer.md)
-- [Senior Designer](senior_designer.md)
-- [Lead Designer](lead_designer.md)
-- [Principal Designer](ucd_principal.md)
+- [Associate Designer](associate_designer.md) ([SFIA Level 2](sfia/associate_designer.md))
+- [Designer](designer.md) ([SFIA Level 3](sfia/designer.md))
+- [Senior Designer](senior_designer.md) ([SFIA Level 4](sfia/senior_designer.md))
+- [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
+- [Principal Designer](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 Leadership
 
@@ -80,12 +80,12 @@ Leadership
 ## Cloud & Engineering Practice
 
 Software Engineering
- - [Academy Software Engineer](academy_software_engineer.md)
- - [Associate Software Engineer](software_engineer_1.md)
- - [Software Engineer](software_engineer_2.md)
- - [Senior Software Engineer](senior_software_engineer.md)
- - [Lead Software Engineer](lead_software_engineer.md)
- - [Principal Software Engineer](principal_technologist.md)
+ - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
+ - [Associate Software Engineer](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
+ - [Software Engineer](software_engineer_2.md) ([SFIA Level 3](sfia/software_engineer_2.md))
+ - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
+ - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
+ - [Principal Software Engineer](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
 
 Technical Architecture
  - Lead Technical Architect
