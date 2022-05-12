@@ -13,7 +13,7 @@ Flexible Holiday is not meant as a way to regularly take large portions of time 
 We trust you'll use your best judgement when taking holidays. This is the level of notice we expect when you take your holiday:
 
 * **For 1 day** – you must give at least 2 weeks notice
-* **For between 2 days - 2 weeks** –  ou must give at least 4 weeks notice, and ideally more
+* **For between 2 days - 2 weeks** – you must give at least 4 weeks notice, and ideally more
 * **For greater than 2 weeks** – you must give 3 months notice
 
 If you wish to book holiday outside of these guidelines, please make a request to your Head of Capability, Head of Industry, or Head of Business Service who will help you plan for this time off. 
