@@ -34,8 +34,9 @@ function checkFile (fileName) {
       ]
 
       const retryCount = 5
+      const timeout = '30s'
 
-      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryCount }, (err, results) => {
+      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryCount, timeout }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
