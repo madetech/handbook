@@ -53,7 +53,7 @@ Business Analysis
 - [Business Analyst](mid_business_analyst.md)
 - [Senior Business Analyst](senior_business_analyst.md)
 - [Lead Business Analyst](lead_business_analyst.md)
-- [Principal Business Analyst](Principal_Business_Analyst.md)
+- [Principal Business Analyst](principal_business_analyst.md)
 
 Content Design
 - [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](sfia/senior_content_designer.md))
