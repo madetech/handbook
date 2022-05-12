@@ -32,11 +32,11 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 ## Delivery Management
 
 Delivery Management
-- [Academy Delivery Manager](delivery_manager.md)
-- [Associate Delivery Manager](delivery_manager.md)
-- [Delivery Manager](delivery_manager.md)
-- [Senior Delivery Manager](delivery_manager.md)
-- [Lead Delivery Manager](delivery_manager.md)
+- [Academy Delivery Manager](_delivery_manager.md)
+- [Associate Delivery Manager](_delivery_manager.md)
+- [Delivery Manager](_delivery_manager.md)
+- [Senior Delivery Manager](_delivery_manager.md)
+- [Lead Delivery Manager](_delivery_manager.md)
 - [Principal Delivery Manager](delivery_principal.md)
 
 Leadership
@@ -134,6 +134,6 @@ Leadership
 
 ## Operations and Finance
 
-- [Operations Coordinator](operations_coordinator.md)
-- [Operations Manager](operations_manager.md)
-- [Financial Controller](financial_controller.md)
+- [Operations Coordinator](_operations_coordinator.md)
+- [Operations Manager](_operations_manager.md)
+- [Financial Controller](_financial_controller.md)
