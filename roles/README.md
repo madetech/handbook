@@ -81,7 +81,7 @@ Leadership
 
 Software Engineering
  - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
- - [Associate Software Engineer](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
+ - [Associate Software Engineer](associate_software_engineer.md) ([SFIA Level 2](sfia/software_engineer_1.md))
  - [Software Engineer](mid_software_engineer.md) ([SFIA Level 3](sfia/software_engineer_2.md))
  - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
  - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
