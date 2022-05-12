@@ -12,6 +12,8 @@ At Made Tech we want to positively impact the future of the country by using tec
 
 As a Lead Data Engineer, you may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll serve as a technical lead for a project, focusing on both delivering engineering work as well as upskilling members of the client team. At other points, you might play more of a technical architect role, ensuring that the wider context of a delivery is considered and maintaining alignment between the operational and analytical aspects of the engineering solution.
 
+As a senior member of the data capability within Made Tech, you will also be responsible for our hiring and continued development of the team, as well as representing us both internally to the organisation and publicly via presentations. At times, you will participate in the bid process of winning new contracts as a technical representative for the capability, using your data expertise to demonstrate the value that we can deliver. You will also line-manage members of the team up to a senior level.
+
 You will need to be comfortable sharing your knowledge and skills with others. We'd love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two!
 
 ## What experience are we looking for?
