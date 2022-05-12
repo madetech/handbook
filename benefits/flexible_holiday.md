@@ -10,13 +10,13 @@ Flexible Holiday is not meant as a way to regularly take large portions of time 
 
 ## How long are you taking?
 
-We trust you'll use your best judgement when taking holidays but in case you want some guidance on the kind of notice we expect when you take your holiday:
+We trust you'll use your best judgement when taking holidays. This is the level of notice we expect when you take your holiday:
 
-* **Less than 1 week** – We recommend giving at least 2 weeks notice for a 1 day off and closer to 4 weeks notice for more
-* **Between 1 and 2 weeks** – We recommend giving at least 4 weeks notice for this kind of holiday, ideally more.
-* **Greater than 3 weeks** – Please try to provide at least three months notice, so we can prepare for your absence.
+* **For 1 day** – you must give at least 2 weeks notice
+* **For between 2 days - 2 weeks** –  ou must give at least 4 weeks notice, and ideally more
+* **For greater than 2 weeks** – you must give 3 months notice
 
-If you wish to book holiday outside of these guidelines, please raise this request with your line manager, the ops team or the people team who will help you plan for longer time off.
+If you wish to book holiday outside of these guidelines, please make a request to your Head of Capability, Head of Industry, or Head of Business Service who will help you plan for this time off. 
 
 ## How will it affect your team?
 
@@ -29,14 +29,18 @@ We recommend you check with your Delivery Lead whenever you join a new team. Our
 We want to ensure teams own their holidays and that includes thinking about the commercial impact of taking them. To that affect we need to make sure you've done the following before booking holiday:
 
 * Ask your team members if it's okay with them
-* Ask your customers if it's okay with them
+* Ask your clients if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
+* Ensure the Made Tech person leading your client workstream or your line manager provides their agreement
 * Ensure that the holiday is placed into CharlieHR
-* Ask your line manager, the ops or people team only if you wish to book holiday outside of the guidelines
+
+## How is holiday approved?
+
+It is the responsibiblity of the person agreeing to a holiday booking to ensure it is made in aligment to this policy and that the holiday will not impact the quality of service we're able to provide our clients
 
 ## Additional considerations
 
-* We use the calendar when working out project allocation and the number of days being billed to customers, so it's important that it is always up-to-date and accurate.
+* We use the CharlieHR calendar when working out project allocation and the number of days being billed to clients, so it's important that it is always up-to-date and accurate.
 
 * Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
