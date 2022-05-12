@@ -45,12 +45,12 @@ Leadership
 ## User-Centred Practice
 
 Product
-- [Product Manager](product_manager.md)
+- [Product Manager](mid_product_manager.md)
 - [Senior Product Manager](senior_product_manager.md)
 - [Lead Product Manager](lead_product_manager.md)
 
 Business Analysis
-- [Business Analyst](business_analyst.md)
+- [Business Analyst](mid_business_analyst.md)
 - [Senior Business Analyst](senior_business_analyst.md)
 - [Lead Business Analyst](lead_business_analyst.md)
 - [Principal Business Analyst](Principal_Business_Analyst.md)
@@ -61,14 +61,14 @@ Content Design
 - [Principal Content Designer](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 User Research
-- [User Researcher](user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
+- [User Researcher](mid_user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
 - [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](sfia/senior_user_researcher.md))
 - [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](sfia/lead_user_researcher.md))
 - [Principal User Researcher](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 Design including interaction and service design
 - [Associate Designer](associate_designer.md) ([SFIA Level 2](sfia/associate_designer.md))
-- [Designer](designer.md) ([SFIA Level 3](sfia/designer.md))
+- [Designer](mid_designer.md) ([SFIA Level 3](sfia/designer.md))
 - [Senior Designer](senior_designer.md) ([SFIA Level 4](sfia/senior_designer.md))
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
 - [Principal Designer](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
@@ -82,7 +82,7 @@ Leadership
 Software Engineering
  - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
  - [Associate Software Engineer](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
- - [Software Engineer](software_engineer_2.md) ([SFIA Level 3](sfia/software_engineer_2.md))
+ - [Software Engineer](mid_software_engineer.md) ([SFIA Level 3](sfia/software_engineer_2.md))
  - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
  - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
  - [Principal Software Engineer](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
