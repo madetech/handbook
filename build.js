@@ -18,21 +18,29 @@ function checkFile (fileName) {
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
 
-      const ignorePatterns = [
-        { pattern: /www.glassdoor.co.uk/ },     // glassdoor returns 503 status to circle ci hosts
-        { pattern: /www.aws.training/ },
-        { pattern: /www.certmetrics.com/ },
-        { pattern: /made-tech.workable.com/ },
-        { pattern: /retrospectivewiki.org/ },
-        { pattern: /clamav.net/ },
-        { pattern: /docs.google.com/ },         // Internal docs are hidden and will cause errors sometimes
-        { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
-        { pattern: /moneysavingexpert.com/ },
-        { pattern: /currys.co.uk/ },
-        { pattern: /pcworld.co.uk/ },
-        { pattern: /goodreads.com/ },            // regularly returning as dead
-        { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
-      ]
+      let ignorePatterns
+      
+      if (process.env.IGNORE_EXTERNAL_LINK_CHECKING) {
+        ignorePatterns = [
+          { pattern: /http/ }, // skip all external links
+        ]
+      } else {
+        ignorePatterns = [
+          { pattern: /www.glassdoor.co.uk/ },     // glassdoor returns 503 status to circle ci hosts
+          { pattern: /www.aws.training/ },
+          { pattern: /www.certmetrics.com/ },
+          { pattern: /made-tech.workable.com/ },
+          { pattern: /retrospectivewiki.org/ },
+          { pattern: /clamav.net/ },
+          { pattern: /docs.google.com/ },         // Internal docs are hidden and will cause errors sometimes
+          { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
+          { pattern: /moneysavingexpert.com/ },
+          { pattern: /currys.co.uk/ },
+          { pattern: /pcworld.co.uk/ },
+          { pattern: /goodreads.com/ },            // regularly returning as dead
+          { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
+        ]
+      }
 
       const retryCount = 5
       const timeout = '30s'
