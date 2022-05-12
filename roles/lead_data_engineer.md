@@ -4,13 +4,11 @@ UK-based in Birmingham, Bristol, Glasgow, Manchester, Newcastle, London & Swanse
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-Our Lead Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the customer's needs. They lead teams to develop, operate, and maintain these services, as well as ensuring they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Lead Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the client's needs. They lead teams to develop, operate, and maintain these services, as well as ensuring they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## What does the job entail?
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our customers.
-
-You will work closely with clients to help shape their data strategy, as well as leading engineering teams tasked with with the implementation of data platforms.
+At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
 
 As a Lead Data Engineer, you may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll serve as a technical lead for a project, focusing on both delivering engineering work as well as upskilling members of the client team. At other points, you might play more of a technical architect role, ensuring that the wider context of a delivery is considered and maintaining alignment between the operational and analytical aspects of the engineering solution.
 
@@ -33,7 +31,7 @@ While we will look for you to have experience in these things, if you don't have
 
 ## Optional experience
 
-Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
+Don't forget to mention any of the experience listed below. While it's optional, it's all highly desired!
 
 - Experience in technology consultancy
 - Pair programming
