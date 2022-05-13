@@ -73,7 +73,7 @@ Compensating you fairly:
 
 ## Salary
 
-The salary for this role is location dependant:
+The salary for this role is location-dependent:
 
 - UK: £38,500 - £49,500
 - London & South East: £40,425 - £57,750

@@ -106,9 +106,9 @@ Leadership
 
 Data Engineering
  - Associate Data Engineer
- - Data Engineer
- - Senior Data Engineer
- - Lead Data Engineer
+ - [Data Engineer](mid_data_engineer.md)
+ - [Senior Data Engineer](senior_data_engineer.md)
+ - [Lead Data Engineer](lead_data_engineer.md)
  - Principal Data Engineer
 
 Data Science
