@@ -67,11 +67,11 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 
 ## Finishing probation
 
-Make a recommendation on behalf of your direct report to the Market Principal. This could be by e-mail.
+Make a recommendation on behalf of your direct report to your 'Head of'. This could be by e-mail.
 
 Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values.
 
-The Market Principal has the final say on whether to pass or fail probation.
+Your 'Head of' has the final say on whether to pass or fail probation.
 
 ### Passing probation
 
@@ -79,7 +79,7 @@ Congratulate them on passing probation. Tell them their new notice period.
 
 Decide together how often to have one-to-ones from now on.
 
-If they're doing very well, you can pass probation early. Talk to the Market Principal about this.
+If they're doing very well, you can pass probation early. Talk to your 'Head of' about this, and please ensure to notify the people team via e-mail of the outcome. 
 
 ### Failing probation
 
@@ -91,7 +91,7 @@ We don't have guidance on how to give notice in the handbook yet. It can be diff
 
 Sometimes, it's not clear at the end of probation if someone would succeed at Made Tech long-term.
 
-In these rare cases, work with the Market Principal to extend probation, agreeing on a fixed amount of time.
+In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time.
 
 Being on probation can be stressful. Think carefully when deciding between extending and failing.
 
