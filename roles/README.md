@@ -48,6 +48,7 @@ Product
 - [Product Manager](mid_product_manager.md)
 - [Senior Product Manager](senior_product_manager.md)
 - [Lead Product Manager](lead_product_manager.md)
+- Principal Product Manager
 
 Business Analysis
 - [Business Analyst](mid_business_analyst.md)
@@ -58,20 +59,20 @@ Business Analysis
 Content Design
 - [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](sfia/senior_content_designer.md))
 - [Lead Content Designer](lead_content_designer.md) ([SFIA Level 5](sfia/lead_content_designer.md))
-- [Principal Content Designer](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 User Research
 - [User Researcher](mid_user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
 - [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](sfia/senior_user_researcher.md))
 - [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](sfia/lead_user_researcher.md))
-- [Principal User Researcher](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 Design including interaction and service design
 - [Associate Designer](associate_designer.md) ([SFIA Level 2](sfia/associate_designer.md))
 - [Designer](mid_designer.md) ([SFIA Level 3](sfia/designer.md))
 - [Senior Designer](senior_designer.md) ([SFIA Level 4](sfia/senior_designer.md))
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
-- [Principal Designer](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
 Leadership
 
