@@ -6,17 +6,35 @@
 - SFIA: [Level 4](sfia/senior_user_researcher.md)
 
 
-## Key responsibilities 
+## Key responsibilities
+
+### Scope
 
 - Responsible to the Lead User Researcher for informing the design and delivery of public services
-- Scope the focus of research, so everyone involved has a shared understanding of what success looks like 
+- Hands-on research and research leadership for one product/team
+- Acts as the research subject matter expert on a product team, helping to facilitate the design process and communicating design decisions to the team and stakeholders
+- Considers strategic approaches to research
+- Concerned about user research practices within Made Tech
+- Works with full autonomy and work doesn’t need to be reviewed
+- Contributes to and may lead communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
+- May mentor and coach within the research community and line manage researchers
+
+### Practice
+
+- Scope the focus of research, so everyone involved has a shared understanding of what success looks like
 - Plan research that informs the design of public services that are helpful, usable and successful
 - Put research participants at ease, so they're comfortable sharing information
 - Analyse and interpret research findings so that teams can confidently confirm or challenge their understandings of problems and ideas
+
+### Leading teams
+
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
-- Assure the quality of decisions across multiple teams 
+- Assure the quality of decisions across multiple teams
 - Share research freely and often
 - Make decisions based on research findings; model this behaviour to the rest of your team
+
+### Community
+
 - Line manage other user researchers
 - Support the hiring and onboarding of designers and researchers
 - Help define Made Tech design principles through delivering good public services
