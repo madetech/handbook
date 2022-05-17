@@ -13,12 +13,30 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 
 ## Key responsibilities 
 
+### Scope
+
 - Responsible to the Lead Content Designer for successfully designing and delivering good public services
+- Hands-on content design and design leadership for one product/team
+- Acts as the content design subject matter expert on a product team, facilitating the design process and communicating design decisions to the team and stakeholders
+- Considers strategic approaches to design
+- Concerned about design and product practices within Made Tech
+- Works with full autonomy and work doesn’t need to be reviewed
+- Contributes to and may lead communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
+- May mentor and coach within the design community and line manage designers
+
+### Practice
+
 - Turn team conversations and research into user-centred content to create a shared understanding of problems to solve and ideas to test
 - Make things real, by caring about content enough to ensure everyone can use public services
 - Make public services simple to explain and understand, by removing complexity and keeping designs focused on creating outcomes for people and society
-- Assure the quality of content delivery within your team 
-- Show teams by doing, good habits for sharing and improving content 
+
+### Leading teams
+
+- Assure the quality of content delivery within your team
+- Show teams by doing, good habits for sharing and improving content
+
+### Community
+
 - Line management of content designers
 - Support the hiring and onboarding of content designers
 - Help define Made Tech design principles through delivering good public services
