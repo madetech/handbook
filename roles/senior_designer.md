@@ -15,17 +15,33 @@ Our Senior Designers are strong practitioners who work with minimal support and 
 
 ## Key responsibilities 
 
-- Responsible to the Lead Designer for successfully designing and delivering good public services
+### Scope
+
+- Responsible to a Lead Designer for successfully designing and delivering good public services
+- Hands-on design and design leadership for one product/team
+- Acts as the design subject matter expert on a product team, facilitating the design process and communicating design decisions to the team and stakeholders
+- Considers strategic approaches to design
+- Concerned about design and product practices within Made Tech
+- Works with full autonomy and work doesn’t need to be reviewed
+- Contributes to and may lead communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
+- May mentor and coach within the design community and line manage designers
+
+### Practice
+
 - Turn team conversations and research into drawings and prototypes to create a shared understanding of problems to solve and ideas to test
 - Make things real by caring about content and interaction design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society
-- Assure the quality of design delivery across multiple teams 
+
+### Leading teams
+
+- Assure the quality of design delivery across multiple teams
 - Introduce good habits for sharing and improving design work into teams
+
+### Community
+
 - Line management of designers
 - Support the hiring and onboarding of designers and researchers
-- Help define Made Tech design principles through delivering good public services
 - Help establish a design studio culture at Made Tech and client offices
-- Represent user-centred design publicly and internally
 
 ## Key measures
 
