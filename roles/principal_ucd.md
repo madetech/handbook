@@ -11,13 +11,13 @@ UCD Principals might come from doing leadership roles in user research, design o
 
 Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery. 
 
-As a User Centred Design Principal, reporting to the Head of Design, you’ll enable public sector organisations to better design services that improve society. You will do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior design leader.
+As a User Centred Design Principal, reporting to the Head of Design, you’ll enable public sector organisations to better design services that improve society. You will do this by building and managing strategic relationships, finding new opportunities and advising as a senior design leader.
 
 ## Responsibilities 
 
 - Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision.
-- As part of an account team, alongside Technology, Delivery, Client Leads, help shape account plans and deliver against them.
-- Collaborate with Made Tech’s leadership to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work. 
+- As part of an account team, help shape account plans and deliver against them.
+- Collaborate with the senior team to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work. 
 - Alongside other senior leaders, write bids that win work
 - Hire and line manage designers and researchers
 - Coach and support Lead Designers and User Researchers to steer their teams towards success. 
