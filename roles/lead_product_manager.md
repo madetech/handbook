@@ -2,20 +2,20 @@
 
 Our Lead Product Managers are accountable for the quality of complex, high-risk products and services in the public sector and work with stakeholders and teams to set visions and priorities. 
 
-They will work closely with the Head of Product to provide leadership and direction to all products in a programme or a local product community. They are experts in their field, and will be involved in line management and hiring of Product Managers. They champion the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
+They will work closely with the Head of Product to provide leadership and direction to all products in a programme or a local product community. They are experts in their field, and will be involved in line management and hiring of Product Managers. They represent the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
 
 ## Your role at Made Tech
 
-Our Lead Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and MadeTech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client objectives into epics and user stories. You’ll achieve this through:
+Our Lead Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and Made Tech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client goals into epics and user stories. You’ll achieve this through:
 
 - Maintaining high-level roadmap across programmes of work.
-- Managing and leading the product community.
+- Managing and supporting the product community.
 - Understanding the marketplace, realising the benefit and persuading others that a product is the right one to use. Integrating a product with other services, and ensuring that products get used.
 - Effective workshop facilitation, adopting a senior approach to oversee and enable the delivery team to interpret research outcomes into actionable insights, continued by using product management principles and approaches to define what is built meeting user, service and organisation needs, alongside understanding and experience of agile methodology and how to apply the agile mindset to all aspects of their work.
 - Ensuring that the outcomes of any engagement have identifiable outcomes that are measurable and deliver value to the user and our client.
-- Influencing and leading multidisciplinary teams, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business objectives to create the product roadmap. You will work with a range of stakeholders, including the delivery managers, software engineers, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to decide on best practice and design epics/user stories to work from.
-- Leading the production of roadmaps that are prioritised by business value and risk. You will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
-- Developing long term visions and objectives, and understanding how to develop the existing capability to anticipate future problems and projects. 
+- Influencing and supporting multidisciplinary teams, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business goals to create the product roadmap. You will work with a range of stakeholders, including the delivery managers, software engineers, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to choose on best practice and design epics/user stories to work from.
+- Facilitate the production of roadmaps that are prioritised by business value and risk. You will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
+- Developing long term visions and goals, and understanding how to develop the existing capability to anticipate future problems and projects. 
 - Focusing on enhancing the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients to define and create approaches by implementing new ways of working and coaching teams in these.
 
 
@@ -36,7 +36,7 @@ Our Lead Product Managers are expected to work across the whole digital service 
 - Empathy and people skills
 - Assist sales and marketing team with product knowledge
 
-## We want our teams and individuals to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
+## We want our teams to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
@@ -55,13 +55,13 @@ Whilst we are an agile software development company and truly believe in the ben
 
 ## What you will get from the role
 
-You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with a wealth of market-leading companies.
+You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with public sector organisations.
 
-As a technologically driven company that espouses best practice and aims to become a Thought Leader within the world of software delivery, Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
+Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
 
 You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
 
-Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a delivery focused direction, or transition towards agile coaching (either internally or externally), or evolve into a more senior position – we're happy to support you to take charge of your future and follow your passions!
+Finally, as we continue to grow rapidly there are many opportunities to progress within the company. The role could develop in a delivery focused direction, or transition towards agile coaching, or promotion to Principal Product Manager – we're happy to support you to take charge of your future and follow your passions!
 
 ## Our Benefits
 

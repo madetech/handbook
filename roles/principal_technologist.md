@@ -10,11 +10,11 @@ Our Principal Technologists enable public sector organisations to better use tec
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
-As a Principal Technologist you will work closely with our customers senior leadership to help inform their strategy and to ensure our teams are delivering to a high quality and are aligned to our customers technology vision. As part of an account team, alongside Delivery and Client Leads, you will help shape account plans and be responsible for delivering against them.
+As a Principal Technologist you will work closely with our customers senior leadership to help inform their strategy and to ensure our teams are delivering to a high quality and are aligned to our customers technology vision. As part of an account team, you will help shape account plans and be responsible for delivering against them.
 
 Working with Made Tech's regional and group leadership you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting wider sales team and developing new business is critical to this role.
 
-You will coach and support Lead Software Engineers to steer their team's towards success. You will also be responsible for hiring and line managing Lead Software Engineers.
+You will coach and support Lead Software Engineers to steer their team's towards success. You will also be responsible for hiring and line managing them.
 
 While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern software development practices, be able to shape technology strategy and roadmaps, and hold others to account for technical quality.
 
