@@ -15,15 +15,33 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 
 ## Responsibilities 
 
-- Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision.
-- As part of an account team, alongside Technology, Delivery, Client Leads, help shape account plans and deliver against them.
-- Collaborate with Made Tech’s leadership to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work. 
-- Alongside other senior leaders, write bids that win work
-- Hire and line manage designers and researchers
-- Coach and support Lead Designers and User Researchers to steer their teams towards success. 
+### Scope
+
+- Responsible to the Head of User-Centred Design for successfully informing the design and delivery of public services
+- Expert level knowledge of user centred practices
+- Works with other leads in a client area to oversee multiple products - leading on quality and consistency
+- Autonomously identifies new problems & opportunities, and delivers impactful solutions
+- Leads the User Centred communities in Made Tech, concerned with insuring we are improving the user centred function
+- Work happens completely autonomously without regular need for review.
+- Concerned about retention, hiring, and team quality
+
+### Practice
+
 - Maintain a broad technical knowledge of user-centred design practices, be able to shape service design strategy, statements of work and roadmaps
 - Hold others to account for design quality.
+
+### **Community**
+
+- Hire and line manage designers and researchers
+- Coach and support Lead Designers and User Researchers to steer their teams towards success.
 - As a design leader within Made Tech, you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
+
+### Client and sales
+
+- Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision.
+- As part of an account team, alongside Technology, Delivery, Client Leads, help shape account plans and deliver against them.
+- Collaborate with Made Tech’s leadership to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work.
+- Alongside other senior leaders, write bids that win work
 
 ## Skills
 
