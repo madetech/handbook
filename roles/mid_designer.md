@@ -15,12 +15,29 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 
 ## Key responsibilities 
 
-- Responsible to the Senior Designer for successfully designing and delivering good public services
-- Turn team conversations and research into drawings and prototypes to create a shared understanding of problems to solve and ideas to test
-- Make things real by caring about content and design enough to ensure everyone can use public services
+### Scope
+
+- Responsible to a Senior Designer for successfully designing and delivering good public services
+- Hands-on design for one product/team
+- Acts as the design subject matter expert on a product team, facilitating the design process and communicating design decisions to the team and stakeholders
+- Expected to find out potential problems, shape them, and conduct solutions.
+- Recognises when to ask for further guidance and support
+- Work is reviewed with the occasional need for direction or implementation changes.
+- Contributes to communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
+
+### Practice
+
+- Knows how to turn team conversations and research into drawings and prototypes to create a shared understanding of problems to solve and ideas to test
+- Make things real by caring about content and interaction design enough to ensure everyone can use public services
 - Make public services simple to explain and understand by removing complexity and keeping designs focused on creating outcomes for people and society
-- Assure the quality of design delivery within their team 
-- Introduce good habits for sharing and improving design work into teams
+
+### Leading teams
+
+- Assure the quality of design delivery within their team
+- Introduce good habits for sharing and improving design work into team
+
+### Community
+
 - Take part occasionally in the hiring of designers and researchers
 - Help define Made Tech design principles through delivering good public services
 - Contribute to a design studio culture at Made Tech and client offices
