@@ -22,8 +22,10 @@ Key outcomes for the Head of Delivery Managment and the DMO:
 
 The Head of Delivery Management is responsible for delivering the above outcomes by collaborating with the business. They are responsible to the Executive Director for Delivery and Capabilities who is their line manager and representative in the Executive Committee.
 
-Strategy
-- Contribute to annual and quarter planning
+Strategy and Management
+- Influence policy and strategy on behalf of the Delivery Management Organisation
+- Contribute to annual/quarter planning and be responsible for the delivery of goals
+- Support integration and collaboration of the Delivery Management Organisation and Capability Practices with each other and the wider organisation
 
 Service Delivery and Delivery Assurance
 - Manage delivery across all workstreams by embedding delivery managers into Industry Practices
@@ -33,15 +35,16 @@ Service Delivery and Delivery Assurance
 Hiring and Careers
 - Scale supply of delivery managers ahead of demand
 - Management of delivery managers including performance, progression, career paths and succession planning
-- Make sure delivery managers are engaged and happy in their day to day
+- Maintain high-levels of motivation and retention in the delivery management team
 
 Demand Generation
 - Bid support, quality assurance and sponsorship
 
 Community and Thought Leadership
-- Continuously evolve ways of working, techniques, and technologies based on data on successful outcomes delivered for clients and improve the experience of our practitioners
+- Continuously improve service delivery and ways of working based on past successes and failures
 - Foster thriving community of practice and shared identity
-Consistently deliver thought leadership content and work with marketing to promote and drive growth
+- Consistently deliver thought leadership content and work with marketing to promote and drive growth
+- Encourage cross-community and multi-disciplinary collaboration
 
 ## Competencies
 

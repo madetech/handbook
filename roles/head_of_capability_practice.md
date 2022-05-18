@@ -18,8 +18,10 @@ Capability Practices share a common set of outcomes and KPIs that work towards o
 
 A Head of Capability Practice is responsible for delivering the above outcomes by collaborating with the business. They are responsible to the Executive Director for Delivery and Capabilities who is their line manager and representative in the Executive Committee.
 
-Strategy
-- Contribute to annual and quarter planning
+Strategy and Management
+- Influence policy and strategy on behalf of the Capability Practice
+- Contribute to annual/quarter planning and be responsible for the delivery of goals
+- Support integration and collaboration of the Delivery Management Organisation and Capability Practices with each other and the wider organisation
 
 Demand Generation
 - Develop and maintain capability and industry-specific go-to-markets and propositions
@@ -28,14 +30,14 @@ Demand Generation
 
 Hiring and Careers
 - Scale supply of capability team ahead of demand
-- Management of capability staff including performance, progression, career paths and succession planning
-- Make sure their team are engaged and happy in their day to day
+- Management of capability team including performance, progression, career paths and succession planning
+- Maintain high-levels of motivation and retention in the capability team
 
 Community and Thought Leadership
-- Continuously evolve ways of working, techniques, and technologies based on data on successful outcomes delivered for clients and improve the experience of our practitioners
-- Contribute to central resources in collaboration with the Delivery Management Organisation and other Capability Practices
-- Foster a thriving community of practice and shared identity
+- Continuously improve service delivery and ways of working based on past successes and failures
+- Foster thriving community of practice and shared identity
 - Consistently deliver thought leadership content and work with marketing to promote and drive growth
+- Encourage cross-community and multi-disciplinary collaboration
 
 ## Competencies
 
