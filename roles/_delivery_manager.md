@@ -1,55 +1,111 @@
 # Delivery Manager
 
+**Work as part of a Delivery Team to ensure the team is able to deliver at their full potential.**
+
 Manchester, London, and Bristol UK.
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
+Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). 
 
-Our Delivery Managers are accountable for the effective delivery of complex, high-risk products and services. They have strong communication skills and are comfortable engaging with senior stakeholders. They typically manage one or two agile projects as part of a highly skilled, multidisciplinary team.
 
 ## What does the job entail?
 
-Made Tech are experiencing a period of rapid growth and are scaling quickly to keep pace with demand. We are working with larger-scale projects and an increasing number of stakeholders, resulting in the expansion of the current delivery function. We have identified that a new, senior layer within the function is needed to ensure consistent direction, free up the delivery teams and provide a clear line of contact for client relationships.
+Delivery Managers support delivery teams to meet their full potential. This will probably include facilitating scrum ceremonies and monitoring project budget, supporting team admin and managing project risk. You may work with a Lead or Principal Delivery Manager to manage stakeholder relationships, ensure successful delivery outcomes and lead external workshops.  
 
-As a result, we are looking for an experienced agile Delivery Manager to truly own the delivery of large scale programmes and manage key client and internal relationships, aiming to create a healthy delivery roadmap and increase repeat business. Reporting to our Delivery Director, Chris Blackburn, the role will monitor between 1-3 delivery teams – typically comprised of 2 Full-Stack Engineers, 1 Lead Engineer and 1 Senior Engineer – allocating resources as required and balancing customer expectations to ensure that large-scale, complex enterprise projects are delivered effectively. In turn this will free up the current team to focus on backlogs, prioritisation and delivery.
+As a Delivery Manager, you will work on a small or mature agile team and learn on the job. At this level, you may work alongside a more senior delivery manager on a larger team, shadowing and providing support, or working to deliver an element themselves under guidance and mentorship. You will work under general direction and attempt to solve problems with your delivery team, but will seek out and accept guidance where necessary.
 
-We'll expect you to take a true leadership role throughout the delivery lifecycle, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business objectives to create the delivery roadmap. You will work with a range of stakeholders, including the Product Owners, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to decide on best practice and design epics/user stories to work from.
+You’ll use cross-functional skills to support your delivery team deliver successful outcomes to the client. You use empathy and effective listening to help the team collaborate. You will use your previous project management experience to identify and manage project dependencies, risks and issues collectively with the team. You use your communication skills to help communicate complex information to technical and non-technical stakeholders, and facilitate discussion within a multidisciplinary team. You will be able to answer most questions that client stakeholders ask, but know who to speak to for more complex issues or queries.
 
-By ensuring roadmaps are prioritised by business value and risk you will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
+With support, you will use your excellent attention to detail to ensure the project is delivered within budget, using tools such as Google Sheets to match up the time spent by the team with the amount of work left to complete.
 
-You will design appropriate reporting metrics and health checks to accurately monitor the progress of a project. That will include accessible weekly and monthly dashboards that can be fed back to the relevant stakeholders, including Directors. These will incorporate budget requirements and outcomes as well as outlining blockers and risks.
+You are passionate about learning and developing your skill set, so are an active member of the Delivery Community of Practice (COP), and spend time learning from other Capabilities (Cloud & Engineering, User Centred Design, Product & Business Analysis) about what good looks like in their areas of expertise.
 
-As Delivery Manager, you will identify training needs and provide coaching to customers and team members where necessary. Using retrospectives, pair programming and feedback loops, you will facilitate continuous improvement, nurturing your team's capabilities and promoting appropriate agile and lean techniques and tools.
+## Definition of success
 
-You will focus on improving the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, such as ad hoc client meetings or excessive time spent in stand-ups; instead, engaging the teams with the clients in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros, etc.
+Success as a Delivery Manager is predominantly measured by effectively contributing to a team, to support them in delivering successful outcomes to our clients. It is also assessed based on personal development and learning, as you move towards autonomy and being solely accountable for a delivery.
 
-Appropriate communication channels, such as daily stand-ups, Trello/Asana boards and catch-ups, must be setup, maintained and used for each project to avoid or minimise blockers within the delivery team. They also provide greater levels of visibility and transparency over the project for all relevant parties, including the Account Lead.
+### Expected outcomes
+* Effective quality and risk management
+* Enabling a team by identifying and unblocking dependencies
+* Accurate and timely adherence to all critical business processes within the delivery 
+* Contribute to the Delivery Community of Practice
+* Contribute to growing Made Tech’s impact
+* Becoming autonomous and accountable for a Delivery through personal development, learning, mentorship and shadowing
 
-Through positioning yourself as the main point of contact for the client, you will gain their trust and foster an exceptional working relationship. You are ultimately responsible for the delivery of customer objectives, so you must understand them completely and manage expectations appropriately. You should aim to delight the client at any opportunity, converting them into a long-term advocate of Made Tech.
+### KPIs
+* Quality
+* Risk
+* Timesheet accuracy
+* Invoice accuracy
+* Learning & development objectives
 
-Finally, you will be responsible for budget maintenance and requirements throughout the delivery lifecycle, ensuring that budgets are being burned effectively using a Time and Materials (T&M) contract approach so that invoicing reflects the time spent on any given project. That will include proactively managing and mitigating risks whilst ensuring that customer expectations are exceeded.
+## Responsibilities
 
-## What we need from you
+Delivery Managers are responsible for delivering the above outcomes by collaborating with other members of their delivery team. 
 
-You must have client-facing experience and a proven track record of working with customers to build delivery roadmaps. We'll want to discuss previous roadmap processes you have been a part of, including how you helped to distil key client objectives into epics and user stories.
+### Project Level Delivery Assurance
+* Ensure delivery success with support, managing scope, budget and quality
+* Feed into the status of quality and risk reported to Heads of Delivery on a weekly basis 
+* Support the Delivery Team by facilitating ceremonies, doing administrative tasks and unblocking dependencies
+* Work with the team to identify and manage risks, issues and dependencies, escalating where necessary 
+* Review and approve timesheets, invoices and Kimble Forecasts, ensuring accuracy at all stages 
 
-Communication will be key to your success, so you should feel comfortable presenting to and negotiating with senior stakeholders in a professional manner, so that the needs of everyone involved in a project are kept in balance, whilst mediating disputes when required.
+### Personal Development
+* Ensure regular feedback (constructive and/or appreciative) is shared with all individuals working on your projects
+* Regularly gather and act on feedback about personal development
+* Define and work towards a learning and development plan to ensure you are able to autonomously manage a project as quickly as possible
 
-Whilst we are an agile software development company and truly believe in the benefits of an agile mindset, we are also aware that not all companies have bought in to the process to the same extent. As a result, you will need to be flexible in adapting delivery style to meet the specific needs of each client and we will want to hear about times that you have applied that flexibility previously, and the benefits that it brought.
+### Growing Made Tech’s Impact
+* Ensure your clients are motivated to bring repeat business and recommend our services to others
+* Identify opportunities for Made Tech to deliver value for the client beyond the current project
+* Build relationships with stakeholders within your project, and engage with other experts in the organisation for example at the client Community of Practice 
 
-Additionally, you will have a good understanding of the pros and cons of using Scrum and other agile methodologies, particularly when it comes to coaching and empowering delivery teams. You should be able to provide examples of when having a Scrum approach has become problematic for a team and how you helped them to overcome those issues.
+### Community and Thought Leadership
+* Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Contribute to developing a thriving community of practice and shared identity
 
-As you will be adopting a servant leader approach to management in this role we will want to hear about how you have worked this way within previous teams, particularly focusing on how you have encouraged servant leadership and why you believe it is a beneficial model for team management.
-You should have experience managing a budget effectively, preferably using a T&M approach. We will want to discuss how you have approached budget management in the past and would love to hear of projects that you budgeted which exceeded the customer's expectations in terms of what they received within their financial constraints.
 
-## What you will get from the role
+## Competencies and behaviours
 
-You will take ownership of the delivery function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with a wealth of market-leading companies.
+Delivery Managers are expected to be operating at, or working towards, [SFIA level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-As a technologically driven company that espouses best practice and aims to become a Thought Leader within the world of software delivery, Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
+**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
 
-You'll have the chance to develop and adapt our agile processes, coaching both internal and external teams on best practice and designing workshops for building capabilities within customer organisations.
+### Articulation and role modelling of Made Tech values, purpose, and vision
+* Describe each with examples
+* Demonstrate role modelling
 
-Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a commercially focused direction, or transition towards agile coaching (either internally or externally), or even evolve into a Principal Delivery or Head of Delivery position – we're happy to support you to take charge of your future and follow your passions!
+### Commercial awareness
+* Articulate project commercial fundamentals (Statements of Work, Purchase Orders, Gross Profit Margin, Forecasting, Burndown)
+* Describe how they are supporting commercial activities within their delivery
+* Be able to demonstrate that the team is on track to meet the deliverables defined in the SOW
+
+### Time management and prioritisation
+* Demonstrate prioritisation and time management
+* Effectively manage delivery risk and quality 
+* Demonstrate working with a team to perform risk management activities including identification, assessment, mitigation, assessment and reporting to key stakeholders, with support as required
+* Demonstrate activities to ensure that delivery teams have appropriate practices in place to define and meet required quality levels, with support as required
+* Articulate approach to managing budget and burndown within the project, being able show how this is being managed
+
+### Coach teams to successfully deliver projects 
+* Articulate the benefits and use cases of a variety of delivery approaches, methods and tools - for example Kanban, Scrum, and Waterfall
+* Understand why it’s necessary to collaborate with capability experts (e.g. Lead Engineer / Lead Designer) to ensure deliveries adhere to best practices such as Security, DevOps, User Centred Design and Data Ethics
+* Be able to explain the purpose of the GDS phase you are currently working on (Discovery/Alpha/Beta/Live), and where applicable, what to expect in the next phase
+* Demonstrate knowledge of where to find and how to use the GDS service standard
+* Be able to explain the Roles and Responsibilities of all of the roles on the team you are working on
+
+### Facilitation and communication
+* Demonstrate experience of running ceremonies and facilitating meetings - with post meeting feedback
+* Demonstrate experience of presenting information to stakeholders using reports or presentations
+
+### Trust building with your seniors, peers, juniors and client stakeholders
+* Demonstrate with feedback from seniors, peers, juniors and client stakeholders
+* Demonstrate moving towards taking ownership for the success of the delivery, through feedback from your Delivery Lead
+
+### Continuous improvement and feedback
+* Demonstrate positive response to feedback with course correction
+* Demonstrate providing regular feedback for team members
+
+
 
 ## What we will provide you
 
@@ -82,94 +138,9 @@ Compensating you fairly:
 ## Salary
 The salary for this role is location and experience dependent: 
 
-### Academy Delivery Manager - SFIA 1
-UK: £22,500\
-London & South East: £25,000\
-
-### Associate Delivery Manager - SFIA 2
-UK: £24,975 - £40,500\
-London & South East: £26,223 - £42,525\
-
-### Delivery Manager - SFIA 3
 UK: £31,500 - £45,000\
-London & South East: £33,075 - £47,250\
-
-### Senior Delivery Manager - SFIA 4
-UK: £40,500 - £76,500\
-London & South East: £42,525 - £80,325\
-
-### Lead Delivery Manager - SFIA 5 
-UK: £63,000 - £90,000\
-London & South East: £66,150 - £ 94,500\
-
-### Principal Delivery Manager - SFIA 6
-UK: £76,500 - £121,500\
-London & South East: £80,325 - £127,575\
+London & South East: £33,075 - £47,250
 
 ## Applying
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). If you don't quite fit the role, the role doesn't quite fit you, or you have questions please email us at [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
-
-## Delivery Manager Expectations
-
-### Plan and lookahead
-
-We expect our Delivery Managers to ensure epics are ready for teams to begin work on with no known blockers. We expect Delivery Managers to work with customers and the team to transform the customer's high level business objectives in to a roadmap with at least 3 months runway.
-
-### Nurture highly performing teams
-
-We expect our Delivery Managers to nurture a culture of high performance in their teams. Where customers do not provide adequate pressure to deliver, we expect our Delivery Managers to constructively challenge our teams. It is important that we're doing the right thing for our customers: delivering valuable, working software as expediently as we're able.
-
-### Manage risks and budgets
-
-We expect our Delivery Managers to proactively manage and mitigate risks to our deliveries and customer relationships. We expect our Delivery Managers to ensure the customer is delighted with what we deliver for their budget.
-
-### Define, capture and share necessary reporting materials
-
-We expect our Delivery Managers to work with customers and Account Leads to the define the frequency and type of reporting that will be most valuable to them.
-
-### Facilitate dialogue with Account Lead
-
-We expect our Delivery Managers to facilitate a regular dialogue with their Account Lead to ensure both parties are abreast of relevant account and delivery activity.
-
-### Ensure teams and individuals take responsibility for delivery quality
-
-We expect our Delivery Managers to ensure teams are delivering with acceptable levels of quality. We expect Delivery Managers to encourage their team to identify and proactively 'pull' from others when they need testing support. We expect Delivery Managers to *not* provide a safety net to their team by automatically testing features.
-
-## Delivery Lead Expectations
-
-### Be the point of contact for the customer
-
-We expect our Delivery Leads to naturally position themselves as the day to day point of contact for the customer. A Delivery Lead is expected to gain the trust of the customer such that they’re seen as the first port of call for all customer contacts.
-
-### Ensure customer expectations are exceeded given the budget available
-
-We expect our Delivery Leads to understand the financial constraints, as well as the customer objectives for the delivery. A Delivery Lead is accountable for ensuring the customer’s expectations are exceeded for the available budget.
-
-### Ultimately accountable for the successful delivery of customer engagements
-
-We expect our Delivery Leads to assume ultimate responsibility for the successful delivery of customer engagements. The performance of the team and the delivery as a whole is understood as the Delivery Lead’s responsibility.
-
-### Provide accurate and honest reporting of Delivery Healthcheck to Directors
-
-We expect our Delivery Leads to proactively provide regular reporting to the Directors on the health of their delivery.
-
-### Ensure that at all times the team is delivering according to the Made Tech Delivery Standards
-
-We expect our Delivery Leads to be the guardians of the Made Tech Delivery Standards, ensuring the team understands and is proactively practising them. A Delivery Lead is expected to encourage conversation on both more widely evolving the Delivery Standards, and ahead of deciding to follow a different path on their delivery.
-
-### Ensure that the customer becomes a long-term advocate for Made Tech
-
-We expect our Delivery Leads to take accountability for ensuring the customer is delighted with the quality of our delivery to the level that they would not hesitate to recommend Made Tech to their peers.
-
-### Protect the team from influences that may impact their ability to deliver
-
-We expect our Delivery Leads to demonstrate strong diplomacy when protecting their team from influences that may impact the team’s ability to deliver its objectives and commitments.
-
-### Ensure the team collaborates, communicates and focuses on what is most important
-
-We expect our Delivery Leads to ensure the team is actively collaborating and communicating, both between team members and with the customer. A Delivery Lead is expected to ensure the team have a shared understanding of what is most important to the customer.
-
-### Coach team members and customers, facilitate continuous improvement, and apply the most appropriate agile and lean tools and techniques for their environment
-
-We expect our Delivery Leads to be an expert in the application of agile and lean practices. A Delivery Lead is expected to understand the most appropriate methods to apply given the situation. A Delivery Lead is expected to coach team members and customers on the application of lean and agile practices.
