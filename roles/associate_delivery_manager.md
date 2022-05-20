@@ -123,8 +123,8 @@ Compensating you fairly:
 The salary for this role is location and experience dependent: 
 
 ### Associate Delivery Manager - SFIA 2
-UK: £24,975 - £40,500\
-London & South East: £26,223 - £42,525\
+UK: £24,975 - £40,500
+London & South East: £26,223 - £42,525
 
 ## Applying
 
