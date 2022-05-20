@@ -1,6 +1,6 @@
 # Lead Delivery Manager
 
-**Successfully leading complex digital projects to ensure that our clients get great experiences and outcomes, and our teams deliver at their full potential.
+**Successfully leading complex digital projects to ensure that our clients get great experiences and outcomes, and our teams deliver at their full potential.**
 
 Manchester, London, and Bristol UK.
 
@@ -66,7 +66,7 @@ Lead Delivery Managers are responsible for delivering the above outcomes by coll
 ## Competencies and behaviours
 Lead Delivery Managers are expected to be operating at, or working towards, [SFIA level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.
+**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -142,7 +142,7 @@ The salary for this role is location and experience dependent:
 
 ### Lead Delivery Manager - SFIA 5 
 UK: £63,000 - £90,000\
-London & South East: £66,150 - £ 94,500\
+London & South East: £66,150 - £ 94,500
 
 ## Applying
 
