@@ -81,7 +81,7 @@ Senior Delivery Managers are expected to be operating at, or working towards, [S
 ### Performance management 
 *NB not all SDMs will be line managers, but this will not impact assessment of performance*
 
-* Demonstrate fast remediation of performance issues, including highlighting issues to the relevant capability *lead and requesting support where necessary*
+* Demonstrate fast remediation of performance issues, including highlighting issues to the relevant capability lead and requesting support where necessary*
 * Demonstrate encouragement of high performers, to support them towards successful promotions*
 * Maintain compliance with all expectations of line management at Made Tech, with support*
 * Demonstrate providing regular feedback for team members
