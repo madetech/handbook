@@ -1,6 +1,6 @@
 # Principal Delivery Manager
 
-**Accountable for the successful delivery of a portfolio of projects whilst developing senior client relationships and demonstrating delivery leadership
+**Accountable for the successful delivery of a portfolio of projects whilst developing senior client relationships and demonstrating delivery leadership**
 
 Manchester, London, and Bristol UK.
 
@@ -75,7 +75,7 @@ Delivery Principals are responsible for delivering the above outcomes by collabo
 ## Competencies and behaviours
 Delivery Principals are expected to be operating at, or working towards, [SFIA level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies.
+**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies.**
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -146,8 +146,9 @@ Compensating you fairly:
 * 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
 ## Salary
 
-The salary for this role is location dependant: 
-UK: £76,500 - £121,500
+The salary for this role is location dependant:
+
+UK: £76,500 - £121,500\
 London & South East: £80,325 - £127,575
 
 ## Applying
