@@ -144,7 +144,7 @@ The salary for this role is location and experience dependent:
 
 ### Senior Delivery Manager - SFIA 4
 UK: £40,500 - £76,500\
-London & South East: £42,525 - £80,325\
+London & South East: £42,525 - £80,325
 
 ## Applying
 
