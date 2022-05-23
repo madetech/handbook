@@ -23,7 +23,7 @@ While we will look for you to have experience in these things, if you don't have
 - Working directly with customers, users and data engineers
 - Good understanding of linear algebra (vectors, matrices, tensors etc) and statistics (probability distributions, probability, bayesian stats etc.)
 - Good working knowledge of Python
-- Implementing end-to-end ML pipeline
+- Implementing end-to-end ML pipelines
 - Hand-on experience in Python data science ecosystem (e.g. numpy, scipy, pandas, scikit-learn, matplotlib etc)
 - Deep Learning frameworks (TensorFlow or PyTorch)
 - Popular classification and regression techniques
