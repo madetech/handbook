@@ -82,8 +82,8 @@ Compensating you fairly:
 
 The salary for this role is location-dependent:
 
-- Birmingham, Bristol, Glasgow, Manchester and Newcastle: £49,500 - £93,500
-- London & South East: £51,975 - £98,175
+- UK: £77,000 - £110,000
+- London & South East: £80,850 - £115,500
 
 ## Applying
 
