@@ -55,5 +55,5 @@ Don’t forget to mention any of the experiences listed below. While it’s opti
 
 The salary for this role is location dependant:
 
-Birmingham, Bristol, Glasgow, Manchester and Newcastle: £81,900+
-London: £91,000+
+- Birmingham, Bristol, Glasgow, Manchester and Newcastle: £93,500 - £148,500
+- London & South East: £98,175 - £155,925
