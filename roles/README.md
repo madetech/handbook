@@ -109,11 +109,11 @@ Data Engineering
  - [Data Engineer](mid_data_engineer.md)
  - [Senior Data Engineer](senior_data_engineer.md)
  - [Lead Data Engineer](lead_data_engineer.md)
- - Principal Data Engineer
+ - [Principal Data Engineer](principal_data_engineer.md)
 
 Data Science
  - Data Scientist
- - Senior Data Scientist
+ - [Senior Data Scientist](senior_data_scientist.md)
  - Lead Data Scientist
  - Principal Data Scientist
 
