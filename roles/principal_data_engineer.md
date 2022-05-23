@@ -10,7 +10,7 @@ Our Principal Data Engineers enable public sector organisations to transform ser
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. To do this we work alongside brilliant public servants to drive better decisions through data and automation.
 
-As a Principal Data Engineer you will work closely with our customers senior leadership to help inform their data strategy and to ensure our teams are delivering to a high quality and are aligned to our customers data vision. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
+As a Principal Data Engineer you will work closely with our clients' senior leadership teams to help inform their data strategy, as well as ensuring our teams are delivering to a high quality and aligned to our clients' data vision. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
 
 Working with Made Tech's leadership you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting sales teams and developing new business is critical to this role.
 
