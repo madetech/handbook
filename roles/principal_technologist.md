@@ -14,7 +14,7 @@ As a Principal Technologist you will work closely with our customers senior lead
 
 Working with Made Tech's regional and group leadership you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting wider sales team and developing new business is critical to this role.
 
-You will coach and support Lead Software Engineers to steer their team's towards success. You will also be responsible for hiring and line managing them.
+You will coach and support Lead Software Engineers to steer their teams towards success. You will also be responsible for hiring and line managing them.
 
 While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern software development practices, be able to shape technology strategy and roadmaps, and hold others to account for technical quality.
 
