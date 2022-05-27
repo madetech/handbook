@@ -1,34 +1,31 @@
-# Principal Technologist
+# Data Engineer
 
-Bristol, Manchester & London, UK.
+UK-based in Birmingham, Bristol, Glasgow, Manchester, Newcastle, London & Swansea.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-Our Principal Technologists enable public sector organisations to better use technology in order to improve society. They do this by building and managing strategic relationships, leading accounts, finding new opportunities and advising as a senior technology leader.
+Our Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the client's needs. They develop, operate, and maintain these services, as well as ensuring they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## What does the job entail?
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients.
 
-As a Principal Technologist you will work closely with our customers senior leadership to help inform their strategy and to ensure our teams are delivering to a high quality and are aligned to our customers technology vision. As part of an account team, you will help shape account plans and be responsible for delivering against them.
+As a Data Engineer, you'll play a hands-on role as a contributor to client projects, focusing on both delivering engineering work as well as upskilling members of the client team.
 
-Working with Made Tech's regional and group leadership you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting wider sales team and developing new business is critical to this role.
+As a member of the data capability within Made Tech, you will also participate in our hiring process and continued development of the team, as well as representing us both internally to the organisation and publicly via presentations.
 
-You will coach and support Lead Software Engineers to steer their teams towards success. You will also be responsible for hiring and line managing them.
-
-While this is not a hands-on technical role, the importance of credibility in internet-era approaches to digital and technology in the public sector cannot be understated. You will be expected to maintain a broad technical knowledge of modern software development practices, be able to shape technology strategy and roadmaps, and hold others to account for technical quality.
-
-As a technology leader within Made Tech you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
+You will need to be comfortable sharing your knowledge and skills with others. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two!
 
 ## What experience are we looking for?
 
-While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
+While we will look for you to have experience in these things, if you don't have one of these don't let that stop you applying.
 
 - Working directly with customers and users
-- Working within a technology consultancy
-- Strong understanding of agile ways of working
-- Strong understanding of software engineering practice
-- Strong understanding of cloud technologies
+- Designing and implementing efficient data transformation processes at scale, in either batch or streaming use cases
+- Contributing to the cloud infrastructure underpinning data systems through a DevOps approach
+- Basic understanding of the possible architectures involved in modern data system design (e.g. warehouses, lakes and meshes)
+- Agile practices such as Scrum, XP, and/or Kanban
+- Showcasing and presentation skills
 - Evidence of self-development – we value keen learners
 - Drive to deliver outcomes for users
 - Desire to mentor others
@@ -36,15 +33,15 @@ While we will look for you to have experience in these things, if you don’t ha
 
 ## Optional experience
 
-Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
+Don't forget to mention any of the experience listed below. While it's optional, it's all highly desired!
 
-- Working within an account or programme leadership team
-- Working within bid teams to win contracts exceeding value of £1m
+- Experience in technology consultancy
+- Pair programming
+- Working with data scientists to productionise advanced data deliverables, such as machine learning models
+- Infrastructure-as-Code (e.g. Terraform, Cloud Formation)
+- Working knowledge of statistics
 - Working with multidisciplinary digital and technology teams
 - Working within the public sector
-- Experience in hiring, forming and running software teams
-- Experience in legacy application modernisation
-- Maintain a deep working knowledge of technology and programming languages
 
 ## What we will provide you
 
@@ -76,10 +73,10 @@ Compensating you fairly:
 
 ## Salary
 
-The salary for this role is location dependant:
+The salary for this role is location-dependent:
 
-- UK: £85,000 - £135,000
-- London & South East: £89,250 - £141,750
+- UK: £38,500 - £49,500
+- London & South East: £40,425 - £57,750
 
 ## Applying
 

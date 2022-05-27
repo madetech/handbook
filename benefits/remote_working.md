@@ -1,6 +1,6 @@
 # Remote Working
 
-We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, or from a coffee shop. We acknowledge that working remotely can lead to increased productivity, and have positive effects on wellbeing.
+We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, from a coffee shop, or outside of the UK. We acknowledge that working remotely can lead to increased productivity, and have positive effects on wellbeing. 
 
 ### Made Tech offices
 Our current requirements for working from Made Tech offices are no longer fixed to a specifc number of days per week. This means we now default to remote working with the option to work from your regional Made Tech office as and when needed. 
@@ -10,6 +10,15 @@ However, you must be able to travel to your assigned regional office when requir
 Each of our clients will have their own requirements for Made Tech team members to work from their offices. All client facing team members will be required to be able to travel to their assigned client office. We currently expect the needs to be varied, from ‘no office time required’ to ‘2-3 days per week’. Typically, this should be less than 2 days per week though. 
 
 We’ll try to make the requirements for travel as clear as possible as part of the scheduling process. 
+
+### Working abroad
+Where possible we will support remote working from outside of the UK, in some cases this may not be feasible. 
+When considering this option, you will need to: 
+- Discuss with your team (as in some cases, client requirements may not support this)
+- Inform your line manager
+- Ensure you're familiar with our security requirements 
+
+If you remain uncertain, please reach out to the Compliance team, Ops, or People. 
 
 ### Travel expenses
 Team members may expense travel to client sites that are outside of their regional office. Travel within your regional office area is not expensable. 

@@ -14,7 +14,7 @@ You will get a personal learning budget of £300 via our online learning platfor
 
 In addition to that, there will a variety of internally created content, plus partnerships with external providers for learning that we can't delivery inhouse - such as certifications and specialised courses.
 
-We also have a company wide learning budget for further training and courses. Our L&D Experience Manager is the best person to speak to if you want to learn more.
+We also have a company wide learning budget for further training and courses. Our Learning and Development team are the best people to speak to if you want to learn more.
 
 * The 12 days should be focussed on attaining, and/or improving skills relevant to your role at Made Tech.
 

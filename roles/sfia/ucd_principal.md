@@ -1,7 +1,7 @@
 # SFIA Role Guidance: UCD Principal
 
 - [SFIA Level 6](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-6)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/ucd_principal.md)
+- [Job description](https://github.com/madetech/handbook/blob/main/roles/principal_ucd.md)
 
 ## Summary of role
 

@@ -18,22 +18,34 @@ function checkFile (fileName) {
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
 
-      const ignorePatterns = [
-        { pattern: /www.glassdoor.co.uk/ },     // glassdoor returns 503 status to circle ci hosts
-        { pattern: /www.aws.training/ },
-        { pattern: /www.certmetrics.com/ },
-        { pattern: /made-tech.workable.com/ },
-        { pattern: /retrospectivewiki.org/ },
-        { pattern: /clamav.net/ },
-        { pattern: /docs.google.com/ },        // Internal docs are hidden and will cause errors sometimes
-        { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
-        { pattern: /moneysavingexpert.com/ },
-        { pattern: /currys.co.uk/ },
-        { pattern: /pcworld.co.uk/ },
-        { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
-      ]
+      let ignorePatterns
+      
+      if (process.env.IGNORE_EXTERNAL_LINK_CHECKING) {
+        ignorePatterns = [
+          { pattern: /http/ }, // skip all external links
+        ]
+      } else {
+        ignorePatterns = [
+          { pattern: /www.glassdoor.co.uk/ },     // glassdoor returns 503 status to circle ci hosts
+          { pattern: /www.aws.training/ },
+          { pattern: /www.certmetrics.com/ },
+          { pattern: /made-tech.workable.com/ },
+          { pattern: /retrospectivewiki.org/ },
+          { pattern: /clamav.net/ },
+          { pattern: /docs.google.com/ },         // Internal docs are hidden and will cause errors sometimes
+          { pattern: /udemy.com/ },               // udemy returns 403 status to circle ci hosts
+          { pattern: /moneysavingexpert.com/ },
+          { pattern: /currys.co.uk/ },
+          { pattern: /pcworld.co.uk/ },
+          { pattern: /goodreads.com/ },            // regularly returning as dead
+          { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
+        ]
+      }
 
-      markdownLinkCheck(md, { baseUrl, ignorePatterns }, (err, results) => {
+      const retryCount = 5
+      const timeout = '30s'
+
+      markdownLinkCheck(md, { baseUrl, ignorePatterns, retryCount, timeout }, (err, results) => {
         handleError(err)
 
         let hasErrored = false
@@ -43,9 +55,9 @@ function checkFile (fileName) {
             console.log(chalk.grey(' [' + chalk.yellow('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
           } else if (result.status == 'alive') {
             console.log(chalk.grey(' [' + chalk.green('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
-	  } else {
+          } else {
             console.log(chalk.grey(' [' + chalk.red('%s') + '(%s)] %s'), result.status, result.statusCode, result.link)
-            console.log('located": %s', fileName)
+            console.log('located: %s', fileName)
             hasErrored = true
           }
         })

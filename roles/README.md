@@ -1,94 +1,139 @@
 # Roles at Made Tech
 
-Roles are a way for us to describe a Made Tech employee's primary purpose and
-value they are expected to bring to the business. A role is a job title that comes with a set of clear expectations. We also use them
-to indicate next steps for staff who have become an expert in their current role and are
-looking for more responsibilities.
+This is a list of roles at Made Tech including details on the skills and seniority level they operate at.
 
-## Our roles
+We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://madetech.com/careers).
 
-### Technology
+## Seniority levels
 
- - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
- - [Software Engineer 1](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
- - [Software Engineer 2](software_engineer_2.md) ([SFIA Level 3](sfia/software_engineer_2.md))
- - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
- - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
- - [Principal Technologist](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
+We use the SFIA Framework to indicate seniority. We use prefixes in role titles to indicate their SFIA level.
 
-You may have seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
+| SFIA Level | Role prefix | Examples |
+| :- | :- | :- |
+| [SFIA 1](https://sfia-online.org/en/sfia-8/responsibilities/level-1) | Academy | Academy Designer, Academy Software Engineer |
+| [SFIA 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2) | Associate | Associate Designer, Associate Software Engineer |
+| [SFIA 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) | Mid | Designer, Software Engineer |
+| [SFIA 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4) | Senior | Senior Designer, Senior Software Engineer |
+| [SFIA 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5) | Lead | Lead Designer, Lead Software Engineer |
+| [SFIA 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6) | Principal | Principal Designer, Principal Software Engineer, Head of Capability Practice |
+| [SFIA 7](https://sfia-online.org/en/sfia-8/responsibilities/level-7) | Director | Director of Capability Practice |
 
-We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, recruitment platforms and social media to find people with specific experience in these areas. These roles do not reflect our internal structure as we have a single software engineer pathway. Our software engineers can stay broad or choose to specialise in a number of technologies and areas of expertise.
+## Role teams
 
-### Delivery
+We have grouped them by relevant teams so that you can find relevant roles together:
 
-- [Academy Delivery Manager](delivery_manager.md) [(SFIA Level 1)](https://sfia-online.org/en/sfia-8/responsibilities/level-1)
-- [Associate Delivery Manager](delivery_manager.md) [(SFIA Level 2)](https://sfia-online.org/en/sfia-8/responsibilities/level-2)
-- [Delivery Manager](delivery_manager.md)[(SFIA Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3)
-- [Senior Delivery Manager](delivery_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
-- [Lead Delivery Manager](delivery_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5)
-- [Delivery Principal / Head of Delivery](delivery_principal.md) [(SFIA Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
+- [Delivery Management](#delivery-management)
+- [User-Centred Practice](#user-centred-practice)
+- [Cloud & Engineering Practice](#cloud--engineering-practice)
+- [Data Practice](#data-practice)
+- [Cyber Security Practice](#cyber-security-practice)
+- [Operations and Finance](#operations-and-finance)
 
-### Product & Business Analysis
+## Delivery Management
 
-#### Product
+Delivery Management
+- [Associate Delivery Manager](associate_delivery_manager.md)
+- [Delivery Manager](_delivery_manager.md)
+- [Senior Delivery Manager](senior_delivery_manager.md)
+- [Lead Delivery Manager](lead_delivery_manager.md)
+- [Principal Delivery Manager](principal_delivery_manager.md)
 
-- [Lead Product Manager](lead_product_manager.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
-- [Senior Product Manager](senior_product_manager.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
-- [Product Manager](product_manager.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/product-management)
+Leadership
+- [Head of Delivery Management](head_of_delivery_management.md)
 
-#### Business Analysis
+## User-Centred Practice
 
-- [Principal Business Analyst](Principal_Business_Analyst.md) [(SFIA Level 6)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
-- [Lead Business Analyst](lead_business_analyst.md) [(SFIA Level 5)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
-- [Senior Business Analyst](senior_business_analyst.md) [(SFIA Level 4)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
-- [Business Analyst](business_analyst.md) [(SFIA Level 3)](https://sfia-online.org/en/legacy-sfia/sfia-7/skills/business-analysis)
+Product
+- [Product Manager](mid_product_manager.md)
+- [Senior Product Manager](senior_product_manager.md)
+- [Lead Product Manager](lead_product_manager.md)
+- Principal Product Manager
 
-### User-Centred Design
+Business Analysis
+- [Business Analyst](mid_business_analyst.md)
+- [Senior Business Analyst](senior_business_analyst.md)
+- [Lead Business Analyst](lead_business_analyst.md)
+- [Principal Business Analyst](principal_business_analyst.md)
 
-#### Content Design
-
+Content Design
 - [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](sfia/senior_content_designer.md))
 - [Lead Content Designer](lead_content_designer.md) ([SFIA Level 5](sfia/lead_content_designer.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
-#### User Research
-
-- [User Researcher](user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
+User Research
+- [User Researcher](mid_user_researcher.md) ([SFIA Level 3](sfia/user_researcher.md))
 - [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](sfia/senior_user_researcher.md))
 - [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](sfia/lead_user_researcher.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
-#### Design (interaction/service design)
-
+Design including interaction and service design
 - [Associate Designer](associate_designer.md) ([SFIA Level 2](sfia/associate_designer.md))
-- [Designer](designer.md) ([SFIA Level 3](sfia/designer.md))
+- [Designer](mid_designer.md) ([SFIA Level 3](sfia/designer.md))
 - [Senior Designer](senior_designer.md) ([SFIA Level 4](sfia/senior_designer.md))
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](sfia/lead_designer.md))
+- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](sfia/ucd_principal.md))
 
-#### UCD Principal / Head of Design
+Leadership
 
-- [UCD Principal](ucd_principal.md) ([SFIA Level 6](sfia/ucd_principal.md))
+- [Head of Capability Practice](head_of_capability_practice.md), User-Centred
 
-### Operations and Finance
+## Cloud & Engineering Practice
 
-- [Operations Coordinator](operations_coordinator.md)
-- [Operations Manager](operations_manager.md)
-- [Financial Controller](financial_controller.md)
+Software Engineering
+ - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
+ - [Associate Software Engineer](associate_software_engineer.md) ([SFIA Level 2](sfia/software_engineer_1.md))
+ - [Software Engineer](mid_software_engineer.md) ([SFIA Level 3](sfia/software_engineer_2.md))
+ - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
+ - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
+ - [Principal Software Engineer](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
 
-## Defining roles
+Technical Architecture
+ - Lead Technical Architect
+ - Principal Technical Architect
 
-Roles within Made Tech are created to explicitly define how everyone can provide value to the business and help us achieve our mission. A role must be defined before hiring someone as it is important to be clear about the expectations we have before, during and after hiring someone.
+Cloud Engineering
+ - Associate Cloud Engineer
+ - Cloud Engineer
+ - Senior Cloud Engineer
+ - Lead Cloud Engineer
+ - Principal Cloud Engineer
 
-### Expectations
+Leadership
 
-Expectations are measurable requirements defined for each role. We expect someone in a particular role to be meeting these requirements or be actively working towards them.
+- [Head of Capability Practice](head_of_capability_practice.md), Cloud & Engineering
 
-Defining expectations is a useful practice so that potential recruits know what will be expected of them when they join. We also use expectations to build skills within our teams, they outline what we are looking for and we can create career development plans to help the team meet them.
+## Data Practice
 
-### Beyond a role
+Data Engineering
+ - Associate Data Engineer
+ - [Data Engineer](mid_data_engineer.md)
+ - [Senior Data Engineer](senior_data_engineer.md)
+ - [Lead Data Engineer](lead_data_engineer.md)
+ - [Principal Data Engineer](principal_data_engineer.md)
 
-The expectations define the bar for the role, but what about going above and beyond? We would love everyone in the company to go above and beyond these expectations! In fact we pretty much expect everyone in the company to be meeting them and then asking us what more they can do to help the company.
+Data Science
+ - Data Scientist
+ - [Senior Data Scientist](senior_data_scientist.md)
+ - Lead Data Scientist
+ - Principal Data Scientist
 
-When we see people pushing the limits of their current role, and when we see people already fulfilling other roles we will jump on this as soon as we notice to offer up extra activities or even a new role.
+Leadership
 
-We want to foster a culture where everybody feels empowered to do their role and
-as they feel comfortable and ready push in any direction they wish.
+- [Head of Capability Practice](head_of_capability_practice.md), Data
+
+## Cyber Security Practice
+
+Security Engineering
+ - Senior Security Engineer
+ - [Lead Security Engineer](lead_security_engineer.md)
+ - [Principal Security Engineer](principal_security_engineer.md)
+
+Leadership
+
+- [Head of Capability Practice](head_of_capability_practice.md), Cyber Security
+
+## Operations and Finance
+
+- [Operations Coordinator](_operations_coordinator.md)
+- [Operations Manager](_operations_manager.md)
+- [Financial Controller](_financial_controller.md)

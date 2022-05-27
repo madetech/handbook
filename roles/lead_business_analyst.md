@@ -1,16 +1,16 @@
 # Lead Business Analyst
 
-Are you a Lead (Principal) Business Analyst that wants to actually see the real-world impact from what you help to create? Our mission is simple! We believe we can use tech to make public services better. We also believe this can happen best when our own team represents the society that actually uses the services we work on. At Made Tech, we’re collectively continuing to grow a culture that is happy, healthy, safe and inspiring for people of all backgrounds and experiences, so we encourage all people from underrepresented groups to apply for roles with us. Have we caught your interest? Please read on…
+Are you a business analyst that wants to actually see the real-world impact from what you help to create? Our mission is simple! We believe we can use tech to make public services better. We also believe this can happen best when our own team represents the society that actually uses the services we work on. At Made Tech, we’re collectively continuing to grow a culture that is happy, healthy, safe and inspiring for people of all backgrounds and experiences, so we encourage all people from underrepresented groups to apply for roles with us. Have we caught your interest? Please read on…
  
-As a Lead (Principal) Business Analyst you will be a valued person leading and proactively sharing knowledge within the BA Community, be seen as a ‘Go-to’ person in your field, own and manage relationships with key collaborators, and manage both people and functional business areas as part of our rapidly growing Manchester team.
+You will proactively share knowledge within the user-centred community, be seen as a ‘go-to’ person in your field, own and manage relationships with key collaborators, and manage both people and functional business areas as part of our rapidly growing team.
 
 ## Your role at Made Tech
 
-- Leading the Business Analysis Community through implementing and advising on best practice, and directing a strategic approach to all elements of Business Analysis
+- Supporting the community through implementing and advising on best practice, and directing strategy
 - Take responsibility for investigating business and service needs, continued by using business analysis principles and tools to define recommendations for service improvements.
 - Working with the product manager and the delivery manager to accurately document the product or service; including detailed requirements, functional and non-functional, that can be fed back to the relevant collaborators.
 - Apply the agile mindset to all aspects of your role, and help your team decide the best approaches to take
-- Take the lead in improving the delivery team's ability to meet deadlines and adhere to the roadmap by adding clarity as well as playing a part in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros etc. 
+- Improve the delivery team's ability to meet deadlines and adhere to the roadmap by adding clarity as well as playing a part in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros etc. 
 
 ## In the application process the following skills will be assessed but if you don’t have everything on this list, please still apply
 
@@ -26,8 +26,9 @@ As a Lead (Principal) Business Analyst you will be a valued person leading and p
 - Understanding of enterprise and business architecture
 - Experienced working with Government Digital Service
 - Mentoring and supporting the development of less experienced team members
+- Empathy and people skills
 
-## We want our teams and individuals to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
+## We want our teams to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
 
 Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
 
@@ -42,13 +43,13 @@ Don’t forget to mention any of the experience listed below. While it’s optio
 
 ## What you will get from the role
 
-You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with a wealth of market-leading companies.
+You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with public sector organisations.
 
-As a technologically driven company that espouses best practice and aims to become a Thought Leader within the world of software delivery, Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
+Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
 
 You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
 
-Finally, as we continue to grow rapidly there are a wealth of directions that a driven individual can progress to within the company, depending on their personal interests. The role could develop in a delivery focused direction, or transition towards agile coaching (either internally or externally), or evolve into a more senior position – we're happy to support you to take charge of your future and follow your passions!
+Finally, as we continue to grow rapidly there are many opportunities to progress within the company. The role could develop in a delivery focused direction, or transition towards agile coaching, or promotion to Principal Business Analyst – we're happy to support you to take charge of your future and follow your passions!
 
 ## Our Benefits
 
