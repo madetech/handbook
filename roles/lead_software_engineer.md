@@ -4,13 +4,13 @@ Bristol, Manchester & London, UK.
 
 Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
-Our Lead Engineers lead teams to deliver digital, data and technology outcomes that improve society. They do this by establishing and leading teams to deliver software in public sector organisations.
+Our Lead Engineers work with teams to deliver digital, data and technology outcomes that improve society. They do this by establishing and managing teams to deliver software in public sector organisations.
 
 ## What does the job entail?
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
-As a Lead Software Engineer you will combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. You will find yourself working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers.
+You will combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. You will find yourself working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers.
 
 Depending on our customers' needs you may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect in one or more teams.
 

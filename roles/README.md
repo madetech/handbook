@@ -32,11 +32,10 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 ## Delivery Management
 
 Delivery Management
-- [Academy Delivery Manager](_delivery_manager.md)
-- [Associate Delivery Manager](_delivery_manager.md)
+- [Associate Delivery Manager](associate_delivery_manager.md)
 - [Delivery Manager](_delivery_manager.md)
-- [Senior Delivery Manager](_delivery_manager.md)
-- [Lead Delivery Manager](_delivery_manager.md)
+- [Senior Delivery Manager](senior_delivery_manager.md)
+- [Lead Delivery Manager](lead_delivery_manager.md)
 - [Principal Delivery Manager](principal_delivery_manager.md)
 
 Leadership
@@ -110,11 +109,11 @@ Data Engineering
  - [Data Engineer](mid_data_engineer.md)
  - [Senior Data Engineer](senior_data_engineer.md)
  - [Lead Data Engineer](lead_data_engineer.md)
- - Principal Data Engineer
+ - [Principal Data Engineer](principal_data_engineer.md)
 
 Data Science
  - Data Scientist
- - Senior Data Scientist
+ - [Senior Data Scientist](senior_data_scientist.md)
  - Lead Data Scientist
  - Principal Data Scientist
 
