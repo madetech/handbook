@@ -13,19 +13,40 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 ## Key responsibilities 
 
+### Scope
+
 - Responsible to the UCD Principal for success of designing and delivering good public services
+- Oversees multiple products, concerned about consistency
+- Hands-on content design and design leadership for products and teams
+- Acts as the content design subject matter expert, facilitating the design process and communicating design decisions to teams and stakeholders
+- Takes an active role in the User Centred communities, leading on developing good practice
+- Work happens completely autonomously without regular need for review
+- Concerned about retention, hiring, and team quality
+- Mentors and coaches within the content design community and line manages designers
+
+### Practice
+
 - Turn team conversations and research into user-centred content to create a shared understanding of problems to solve and ideas to test
 - Make things real, by caring about content enough to ensure everyone can use public services
 - Make public services simple to explain and understand, by removing complexity and keeping designs focused on creating outcomes for people and society
-- Assure the quality of content delivery within your team 
-- Show teams by doing, good habits for sharing and improving content 
-- Build relationships with clients, earning their trust and understanding their needs
-- Support sales team to win new work and review bids relating to UCD
+
+### Leading teams
+
+- Assure the quality of content delivery within your team
+- Show teams by doing, good habits for sharing and improving content
+
+### Community
+
 - Line management of content designers
 - Support the hiring and onboarding of content designers
 - Help define Made Tech design principles through delivering good public services
 - Help establish a design studio culture at Made Tech and client offices
 - Represent user-centred design publicly and internally
+
+### Client and sales
+
+- Build relationships with clients, earning their trust and understanding their needs
+- Support the sales team to win new work and review bids relating to UCD
 
 ## Key measures
 

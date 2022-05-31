@@ -20,12 +20,24 @@ Associate Designers are practitioners who collaborate with others to tackle chal
 
 ## Key responsibilities 
 
-- Responsible to the Senior Designer for assisting in the design and delivery of public services
+### Scope
+
+- Responsible to a Senior Designer for assisting in the design and delivery of public services
+- Hands-on design for one product/team under guidance from a more senior designer
+- Recognises when to ask for further guidance and support
+- Work is reviewed regularly
+- Contributes to communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
+
+### Practice
+
 - Come up with creative solutions to problems revealed in research
 - Make things real by prototyping your ideas
 - Take responsibility for sharing your own work with your team
 - Improve your designs over time
 - With the support of your team, explain your design decisions to stakeholders
+
+### Community
+
 - Take part in Made Tech community activities
 
 ## Key measures

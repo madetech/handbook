@@ -14,22 +14,43 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 
 ## Key responsibilities 
 
+### Scope
+
 - Responsible to the Head of User-Centred Design for successfully informing the design and delivery of public services
-- Scope focus of research, so everyone involved has a shared understanding of successful outcomes 
+- Oversees multiple products, concerned about consistency
+- Hands-on research and research leadership for products and team
+- Acts as the research subject matter expert, facilitating the design process and communicating design decisions to teams and setting expectations with stakeholders
+- Takes an active role in the User Centred communities, leading on developing good practice
+- Work happens completely autonomously without regular need for review
+- Concerned about retention, hiring, and team quality
+- Mentors and coaches within the research community and line manages researchers
+
+### Practice
+
+- Scope focus of research, so everyone involved has a shared understanding of successful outcomes
 - Plan research that informs the design of public services that are helpful, usable and successful
 - Put research participants at ease, so they're comfortable sharing information
 - Analyse and interpret research findings so that teams can confidently confirm or challenge their understandings of problems and ideas
+
+### Leading teams
+
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
-- Assure the quality of decisions across multiple teams 
+- Assure the quality of decisions across multiple teams
 - Share research freely and often
 - Make decisions based on research findings; model this behaviour to the rest of your team
-- Build relationships with clients, earn their trust and understand their needs
-- Support sales team to win new work and review bids relating to UCD
+
+### Community
+
 - Line management of user researchers
 - Support the hiring and onboarding of designers and researchers
 - Help define Made Tech design principles through delivering good public services
 - Help establish a design studio culture at Made Tech and client offices
 - Represent user-centred design publicly and internally
+
+### Client and sales
+
+- Build relationships with clients, earn their trust and understand their needs
+- Support sales team to win new work and review bids relating to UCD
 
 ## Key measures
 
