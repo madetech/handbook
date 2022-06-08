@@ -10,7 +10,7 @@ The current standard laptop specs for new purchases are:
 **Engineers and UCD**
 - 14‐inch MacBook Pro
 - Apple M1 Pro with 8-core CPU, 14-core GPU, 16-core Neural Engine
-- 32GB unified memory
+- 16GB unified memory
 - 512GB SSD storage
 
 OR
