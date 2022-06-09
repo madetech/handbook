@@ -4,7 +4,7 @@ As a **purpose-driven organisation**, we believe the **outcomes** we create are 
 
 ## Our purpose – why we do what we do
 
-We want to positively impact the future of the country by using **technology** to improve **society**.
+We want to positively impact the future of the country by using technology to improve society, **for everyone**.
 
 We are already working with **brilliant public servants** to **modernise technology** and **accelerate digital delivery**. But we know we can do more to help those who share our vision.
 
@@ -16,7 +16,7 @@ To achieve this, we help them to modernise working practices, accelerate digital
 
 ## Our missions – how we will get there
 
-We empower public sector organisations by helping them to become digitally native.
+We empower public sector organisations by helping them to become digital by default.
 
 - **Modernise** legacy technology and working practices
 - **Accelerate** digital service and technology delivery
@@ -25,7 +25,7 @@ We empower public sector organisations by helping them to become digitally nativ
 
 ## Our values – who we are and how we operate
 
-**Client focussed** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism, we build strong and lasting relationships with our clients.
+**Client focused** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism, we build strong and lasting relationships with our clients.
 
 **Drive to deliver** – We have a strong drive to deliver successful outcomes for our clients and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
 
