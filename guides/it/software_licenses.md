@@ -29,5 +29,8 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Small Improvements (slack #team-people)
 
 ### Role specific
-- Jetbrains (email support@systemagic.co.uk)
+- Jetbrains (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
+- [Docker](https://github.com/madetech/handbook/blob/main/guides/it/Docker.md)
 - Figma
+- Dovetail
+- Consent Kit
