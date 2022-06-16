@@ -36,7 +36,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 
 ## How is holiday approved?
 
-It is the responsibiblity of the person agreeing to a holiday booking to ensure it is made in aligment to this policy and that the holiday will not impact the quality of service we're able to provide our clients
+It is the responsibility of the person agreeing to a holiday booking to ensure it is made in aligment to this policy and that the holiday will not impact the quality of service we're able to provide our clients
 
 ## Additional considerations
 
