@@ -14,12 +14,12 @@ You will get a personal learning budget of £300 via our online learning platfor
 
 In addition to that, there will a variety of internally created content, plus partnerships with external providers for learning that we can't delivery inhouse - such as certifications and specialised courses.
 
-We also have a company wide learning budget for further training and courses. Our Learning and Development team are the best people to speak to if you want to learn more.
+You will get a personal learning budget of £300 via **Learnerbly** our online learning platform, where you can access a variety of content, including buying books. It is important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you are working towards.
 
-* The 12 days should be focussed on attaining, and/or improving skills relevant to your role at Made Tech.
+* The 12 days should be focussed on attaining and/or improving skills relevant to your role.
 
 ### When joining Made Tech
-Both the number of learning days and your learning budget allowances will be prorated based on your joining date:
+Both the number of learning days and your learning budget allowances will be pro-rated based on your joining date:
 - Q1 starters- 12 learning days and £300 personal learning spend 
 - Q2 starters - 9 learning days and £225 personal learning spend
 - Q3 starters - 6 learning days and £150 personal learning spend
