@@ -10,7 +10,7 @@ All team members have up to 12 days per year of personal learning time that can 
 
 * Find out [how to book learning time](booking_learning_time.md) 
 
-**You will get a personal learning budget of £300 via **Learnerbly** our online learning platform, where you can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It is important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you are working towards.**
+You will get a personal learning budget of £300 via **Learnerbly** our online learning platform, where you can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It is important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you are working towards.
 
 In addition to that, there will be a variety of internally created content, plus partnerships with external providers for anything that we can't delivery in-house, e.g. certifications and specialised courses.
 
