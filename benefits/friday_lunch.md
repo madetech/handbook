@@ -4,8 +4,9 @@ FRIDAY LUNCHERS
 
 **How it works:**
 
-The People team will organise lunches, inviting people from each region: you can only expense your lunch if invited to do so by them.
-While we're working remotely, order from your favourite restaurant, or purchasing ingredients from a supermarket (up to a maximum of £20) and expense that back using Xero.
+The People team will organise one lunch each region: you can only expense your lunch if invited to do so by them.
+
+While we're working remotely, order from your favourite restaurant, or purchase ingredients from a supermarket (up to a maximum of £20) and expense back under the "Staff Meals" section on Xero.
 
 Any questions, ask the People or Finance teams.
 
