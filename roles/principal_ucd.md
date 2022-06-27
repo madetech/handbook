@@ -4,6 +4,7 @@
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - [SFIA Level 6](sfia/ucd_principal.md)
+- Minimum of 50% of time billed on client work
 
 UCD Principals might come from doing leadership roles in user research, design or content design. 
 
