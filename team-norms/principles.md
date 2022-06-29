@@ -15,7 +15,7 @@ We’re passionate about learning. We strive to leave our clients, partners and 
 We measure value in our work by delivering real things that impact our clients, citizens and society. By inviting feedback and seeking the shortest path to deliver real value, we see the change our work creates in people’s lives. 
 
 ## 5. Do less to achieve more
-Big ideas are central to fundamental change. We keep our approaches simple so we can solve the difficult challenges that come with these big ideas. By working in agile teams, designing fewer features and using words everyone understands, we create strong foundations to build on.
+By working in agile teams, designing fewer features and using words everyone understands, we make a meaningful impact sooner, and create strong foundations to build on.
 
 ## 6. Deliver little and often
 By delivering features step by step we can get the small stuff out first, giving real value to the people who need it - quickly. We invite feedback early and to learn, iterate and reduce risk.
