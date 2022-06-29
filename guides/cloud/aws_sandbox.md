@@ -22,7 +22,7 @@ The AWS Sandbox account is restricted by several service control policies blocki
 
 ## Access
 
-1. Request for a new user account in the #cop-cloud-capability Slack channel in the `SandboxAdmin` group.
+1. Request for a new user account in the #cop-cloud Slack channel in the `SandboxAdmin` group.
 2. AWS SSO login credentials will be emailed to you.
 3. Follow the instructions and setup MFA.
 4. Login via [https://madetech.awsapps.com/start/](https://madetech.awsapps.com/start/)
