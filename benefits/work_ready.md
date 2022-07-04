@@ -24,4 +24,4 @@ Examples of things you can order:
 
 [See a list of popular purchases of office equipment](https://docs.google.com/spreadsheets/d/1aVJx2Qvd6U3H6tHkzeCOY1kVsfcuwXfmXzVWJOFsVYk/edit#gid=0) (internal link). We also have a Slack channel #x-swap-shop for anyone who wants to join and see what people are offering.
 
-If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](operations@madetech.com) or #ops
+If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or #ops
