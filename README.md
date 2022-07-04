@@ -47,7 +47,7 @@ Compensating you fairly:
 
 * 💷 [Transparent Salary Bands](roles/README.md) – We publish salary bands so you know you're being fairly compensated
 * 👌 [Annual Salary Reviews](guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* 🌟 [Promotions](guides/line-management/promotions.md) - We have two promotion windows every year
+* 🌟 [Promotions](guides/compensation/salary_reviews.md) - We have two promotion windows every year
 * ⛷️ [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
 * 🚄 [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
