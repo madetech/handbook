@@ -9,7 +9,7 @@ You're responsible for supporting people you line manage when they want to get p
 It's difficult to provide a one-size-fits-all answer to this question, but ultimately this decision is made when both you and the individual you line manage feel that individual is ready to take on the role they're to be promoted. Signs this might be the case could include:
 
 - They exhibit some or all of the core competencies for their desired role
-- They are consistently evidencing some or all attributes that are described in the SFIA level that corresponds to their desired role
+- They are consistently evidencing some or all attributes that are described in the [SFIA level](https://sfia-online.org/en/sfia-8/sfia-8) that corresponds to their desired role
 - They have examples of exemplary work or feedback received
 - They have received endorsement from the leads of their current project
 - They display the potential to succeed in the desired role
