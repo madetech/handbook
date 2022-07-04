@@ -1,5 +1,5 @@
 # Salary Reviews
 
-Salaries are reviewed on an annual basis and are adjusted based on individual performance and market rates. We reserve the right not to increase salary at review and any increase in one year will not influence any future years’ increase or set a precedent. 
+Salaries are reviewed in line with the organisation's pay review policy on an annual basis, aligned to the business financial year. They may be adjusted taking into consideration business performance, individual performance and market rates. We reserve the right not to increase salary at review and any increase in one year will not set any ongoing precedent or influence any future years’ changes. 
 
-Where your salary is changed part-way through a year, for example as a result of a promotion, your next annual review will be due on the anniversary of this salary change.
+As we have two promotion windows per year (autumn and spring), autumn promotion related salary uplifts will be applied from the 1st December. Spring promotion related salary uplifts will be applied from 1st June. 
