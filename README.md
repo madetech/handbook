@@ -53,6 +53,7 @@ Compensating you fairly:
 * 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * 🚕 [Expenses Paid](guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
 * 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – A more affordable way for our team to buy the latest tech gadgets
+* :bank: [Income Protection & Life Assurance](benefits/income_protection_and_life_insurance.md) - Financial support provision when you or your family might need it most
 
 ### Welfare
 
