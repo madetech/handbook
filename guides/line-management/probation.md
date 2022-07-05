@@ -10,7 +10,7 @@ This guidance is written for line managers, but may be useful for people on prob
 
 - [What happens during probation?](#what-happens-during-probation)
 - [Explaining how to pass probation](#explaining-how-to-pass-probation)
-- [One-to-one meetings during probation](#one-to-one-meetings-during-probation)
+- [One-to-one meetings during probation](#one-to-one-121-meetings-during-probation)
 - [Finishing probation](#finishing-probation)
 
 
@@ -67,31 +67,33 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 
 ## Finishing probation
 
-Make a recommendation on behalf of your direct report to your 'Head of'. This could be by e-mail.
+Make a recommendation on behalf of your direct report to your 'Head of'. This would usually be by e mail and copy the people team in. 
 
-Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values.
+Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values. Be sure to include balanced feedback that also includes areas for development or further focus and growth for your team member based on the feedback provided or that you have observed as line manager.
 
-Your 'Head of' has the final say on whether to pass or fail probation.
+Your 'Head of' will make the final decision on whether to pass, extend, or fail probation, informed by your feedback, and will confirm to the people team to finalise this. If the decision is a pass, the People team will then get in touch with your direct report and copy you in.
 
 ### Passing probation
 
-Congratulate them on passing probation. Tell them their new notice period.
+Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be in the e mail from the people team too).
 
-Decide together how often to have one-to-ones from now on.
-
-If they're doing very well, you can pass probation early. Talk to your 'Head of' about this, and please ensure to notify the people team via e-mail of the outcome. 
+Decide together how often to have one-to-ones from now on (we'd recommend a minimum of monthly).
 
 ### Failing probation
 
-Tell them they haven't passed probation, and give them notice of termination.
+Ensure conversations happen early on to assess and review progress during the probation period and gives your direct report an opportunity to improve.
 
-We don't have guidance on how to give notice in the handbook yet. It can be difficult and stressful. Talk to the people team for support.
+If there is no/limited progress, get in touch with your Head of and the people team. Explore and agree next steps.
+
+If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Made Tech ending.
+
+It can be difficult and stressful for all involved. Talk to the people team for support.
 
 ### Extending probation
 
 Sometimes, it's not clear at the end of probation if someone would succeed at Made Tech long-term.
 
-In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time.
+In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the people team know of any extension so they can update relevant systems too.
 
 Being on probation can be stressful. Think carefully when deciding between extending and failing.
 
