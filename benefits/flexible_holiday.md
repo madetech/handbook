@@ -16,6 +16,8 @@ We trust you'll use your best judgement when taking holidays. This is the level 
 * **For between 2 days - 2 weeks** – you must give at least 4 weeks notice, and ideally more
 * **For greater than 2 weeks** – you must give 3 months notice
 
+The ability to book holiday/learning days at shorter notice whilst you are within the chalet is an accepted exception to the above notice periods - in those instances please check in with Scheduling to ensure you are not due to be imminently assigned to an account and let your line manager know. 
+
 If you wish to book holiday outside of these guidelines, please make a request to your Head of Capability, Head of Industry, or Head of Business Service who will help you plan for this time off. 
 
 ## How will it affect your team?
