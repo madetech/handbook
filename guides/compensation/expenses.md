@@ -4,15 +4,14 @@ We trust the team to be able to expense the things they need to perform their jo
 
 ## What can you expense?
 
-We provide some examples below of what is okay to expense. We trust you to be able to follow these guidelines. If you feel like you need clarification, speak to a Director or Line Manager.
+We provide some examples below of what is okay to expense. We trust you to be able to follow these guidelines. If you feel like you need clarification, do speak to your Head of or your Line Manager.
 
 - Books for work (programming, best practice, sales, etc.)
 - Some training costs (not available for purchase via Learnerbly)
-- Small computer equipment (HDMI adapters etc.)
 - Amenities for the office (coffee, fruit, biscuits, etc.)
 - Lunch and drinks for a customer
 - Stationery (post-it notes, notepads, etc.)
-- Conference tickets (speak with a Director or Line Manager if over £150 per ticket)]
+- Conference tickets (speak with your Head of or Line Manager if over £150 per ticket)]
 - [Work related travel](expenses/travel.md)
 - [Equipment to enable you to work from home](../../benefits/work_ready.md)
 
