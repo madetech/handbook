@@ -1,4 +1,4 @@
-# Contributing to the Handbook
+# Contributing to the Handbook 
 
 This guide aims to make it easier to submit changes to the Handbook without using `git` or a text editor.
 
