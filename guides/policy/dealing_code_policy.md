@@ -18,7 +18,7 @@ Schedule 1 sets out the meaning of capitalised words used in this code.
 
    1.1. You cannot at any time tell anyone (including your family, friends and business acquaintances) any confidential information about the Company. In addition, if any information you have about the Company is Inside Information you cannot:
    
-    >(A)deal in any Securities of the Company or any instruments linked to them;
+    >(A) deal in any Securities of the Company or any instruments linked to them;
     >
     >(B) recommend, encourage or induce somebody else to do the same; and/or  
     >
