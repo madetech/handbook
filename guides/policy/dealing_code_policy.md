@@ -219,6 +219,3 @@ Please send your completed form to Debbie Lovegrove (debbie.lovegrove@madetech.c
 |Transactions undertaken by persons professionally arranging or executing transactions or by another person on behalf of a PDMR or a PCA, including where discretion is exercised|
 |Transactions made under a life insurance policy, where the policyholder is a PDMR or a PCA and they bear the investment risk and have the power or discretion to make investment decisions in relation to the policy.  No notification obligation is imposed on the insurance company|
 
-
-
-![](Aspose.Words.c212a1b8-a881-4dc0-b044-1eca2846574d.001.png)
