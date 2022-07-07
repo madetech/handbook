@@ -79,7 +79,7 @@ Schedule 1 sets out the meaning of capitalised words used in this code.
    6.1. You must notify the Company and the FCA in writing of every Notifiable Transaction in Company Securities conducted for your account as follows:
     >(A) Notifications to the Company must be made using the template in Schedule 3 and sent to the Company Secretary, or designated director, by you or as soon as practicable and in any event within one business day of the transaction date. You should ensure that your investment managers (whether discretionary or not) notify you of any Notifiable Transactions conducted on your behalf promptly so as to allow you to notify the Company within this time frame.
     >
-    >(E) Notifications to the FCA must be made within two working days of the transaction date electronically using the PDMR Notification Form on the FCA’s website <https://www.the-fca.org.uk/markets/ukla/regulatory-disclosures/mar-implementation>. If you would like, the Company Secretary can assist you with this notification, provided that you ask him to do so within one business day the transaction date.
+    >(E) Notifications to the FCA must be made within two working days of the transaction date electronically using the PDMR Notification Form on the FCA’s website <https://www.the-fca.org.uk/markets/ukla/regulatory-disclosures/mar-implementation>. If you would like, the Company Secretary can assist you with this notification, provided that it is asked for within one working day of the transaction date.
     
    6.2. Once you have notified the Company of a Notifiable Transaction as required by 4.1(A), it will be required to make a market announcement of the Notifiable Transaction within two working days of the transaction date. The Company will use the information in the notification sent to the Company Secretary in order to release the relevant RNS.
    
@@ -110,13 +110,13 @@ Schedule 1 sets out the meaning of capitalised words used in this code.
 
 **FCA** means the Financial Conduct Authority.
 
-**Inside Information** means information which relates to the Company or any Company Securities, which is not publicly available, which is likely to have a non-trivial effect on the price of Company Securities and which an investor would be likely to use as part of the basis of his or her investment decision.
+**Inside Information** means information which relates to the Company or any Company Securities, which is not publicly available, which is likely to have a non-trivial effect on the price of Company Securities and which an investor would be likely to use as part of the basis of their investment decision.
 
 **Investment Programme** means a share acquisition scheme relating only to the Company’s shares under which: (A) shares are purchased by a Restricted Person pursuant to a regular standing order or direct debit or by regular deduction from the person’s salary or director’s fees; or (B) shares are acquired by a Restricted Person by way of a standing election to re-invest dividends or other distributions received; or (C) shares are acquired as part payment of a Restricted Person’s remuneration or director’s fees.
 
 **Market Abuse Regulation** means the Market Abuse Regulation as in force in the United Kingdom from time to time.
 
-**Notifiable Transaction** means any transaction relating to Company Securities conducted for the account of a PDMR or PCA, whether the transaction was conducted by the PDMR or PCA or on his or her behalf by a third party and regardless of whether or not the PDMR or PCA had control over the transaction. This captures every transaction which changes a PDMR’s or PCA’s holding of Company Securities, even if the transaction does not require clearance under this code. It also includes pledging or lending Company Securities, gifts of Company Securities, the grant of options or share awards, the exercise of options or vesting of share awards and transactions carried out by investment managers or other third parties on behalf of a PDMR, including where discretion is exercised by such investment managers or third parties and including under Trading Plans or Investment Programmes. Further details of transactions which are deemed Notifiable Transactions are set out in Schedule 4.
+**Notifiable Transaction** means any transaction relating to Company Securities conducted for the account of a PDMR or PCA, whether the transaction was conducted by the PDMR or PCA or on behalf of the PDMR or PCA by a third party and regardless of whether or not the PDMR or PCA had control over the transaction. This captures every transaction which changes a PDMR’s or PCA’s holding of Company Securities, even if the transaction does not require clearance under this code. It also includes pledging or lending Company Securities, gifts of Company Securities, the grant of options or share awards, the exercise of options or vesting of share awards and transactions carried out by investment managers or other third parties on behalf of a PDMR, including where discretion is exercised by such investment managers or third parties and including under Trading Plans or Investment Programmes. Further details of transactions which are deemed Notifiable Transactions are set out in Schedule 4.
 
 **PCA** means a person closely associated with a PDMR, being:
 
@@ -132,13 +132,13 @@ Schedule 1 sets out the meaning of capitalised words used in this code.
 
 (A) a director of the Company; or
 
-(B) any other employee who has been told that he or she is a PDMR.
+(B) any other employee who has been told is a PDMR.
 
 **Restricted Person** means:
 
 (A) a PDMR; or
 
-(A) any other person who has been told by the Company that the clearance procedures in Part A of this code apply to him or her.
+(A) any other person who has been told by the Company that the clearance procedures in Part A of this code are applied.
 
 **Trading Plan** means a written plan entered into by a Restricted Person and an independent third party that sets out a strategy for the acquisition and/or disposal of Company Securities by the Restricted Person, and:
 
