@@ -111,7 +111,7 @@ Compensating you fairly:
 * [Anti-Corruption and Bribery Policy](guides/policy/anti_corruption_and_bribery_policy.md)
 * [Whistleblowing Policy](guides/policy/whistleblowing_policy.md)
 * [Anti-Slavery and Human Trafficking Policy](guides/policy/anti_slavery_and_human_trafficking_policy.md)
-
+* [Dealing Code Policy](guides/policy/dealing_code_policy.md)
 ### Communities of Practice
 
 #### ☁️ Cloud and Engineering
