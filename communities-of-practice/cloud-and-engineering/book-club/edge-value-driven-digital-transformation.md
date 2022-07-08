@@ -15,10 +15,10 @@ _Authored by Reuben_. I forgot to take notes... but we spoke about Tech@Core :D
 _Authored by Reuben_. I missed this session and I am indebted to Tom for running it. The team chatted about the "EDGE principles", what kinds of governance can reduce waste and increase autonomy, and asked the question of how often principles should change.
 
 ## 8th July
-_Authored by Reuben_. We had a whopper and covered two chapters - "Chapter 4: Building a Value-Driven Portfolio" and "Chapter 5: Measuring and Prioritizing Value". We were pleased to welcome Catherine (a DP) into the conversation this week and was great to have her insight! We talked about the value we get from having User Researchers in our delivery teams and working closely with us, the issues we have with teams not having the ideal relationships between the goals, bets and initiatives, and how the EDGE operating model is value-centre rather than being implementation-specific although it tends to have enterprise in mind. The measures of success example on page 81 were very good for seeing how to put customer outcomes first!
+_Authored by Reuben_. We had a whopper and covered two chapters - "Chapter 4: Building a Value-Driven Portfolio" and "Chapter 5: Measuring and Prioritizing Value" before deciding it was time to enjoy the Friday afternoon sun (location dependent). We were pleased to welcome Catherine (a DP) into the conversation this week and was great to have her insight! We talked about the value we get from having User Researchers in our delivery teams and working closely with us, the issues we have with teams not having the ideal relationships between the goals, bets and initiatives, and how the EDGE operating model is value-centre rather than being implementation-specific although it tends to have enterprise in mind. The measures of success example on page 81 were very good for seeing how to put customer outcomes first!
 
 ## Resources
 👉 [An interview with Linda Luu](https://www.youtube.com/watch?v=-HPnr4yuUqc) going over the high-level stuff  
-👉 [An introduction to value-stream mapping](https://www.youtube.com/watch?v=tGDrt8SV5H4) (spin off from 20th May)
-👉 [A lean-value tree example](https://miro.medium.com/max/1094/1*9KIk8YmivQxv53lEgestAA.png) (image for those without the book)
-👉 [Weighted Shortest Job First (WSJF)](https://www.scaledagileframework.com/wsjf/) from SAFe is an implementation based on Cost of Delay
+👉 [An introduction to value-stream mapping](https://www.youtube.com/watch?v=tGDrt8SV5H4) (spin off from 20th May)  
+👉 [A lean-value tree example](https://miro.medium.com/max/1094/1*9KIk8YmivQxv53lEgestAA.png) (image for those without the book)  
+👉 [Weighted Shortest Job First (WSJF)](https://www.scaledagileframework.com/wsjf/) from SAFe is an implementation based on Cost of Delay  
