@@ -22,7 +22,7 @@ The AWS Sandbox account is restricted by several service control policies blocki
 
 ## Access
 
-1. Request for a new user account in the #cop-cloud Slack channel in the `SandboxAdmin` group.
+1. Request for a new user account in the #cop-cloud Slack channel in the `SandboxUsers` group.
 2. AWS SSO login credentials will be emailed to you.
 3. Follow the instructions and setup MFA.
 4. Login via [https://madetech.awsapps.com/start/](https://madetech.awsapps.com/start/)
@@ -41,7 +41,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=261219435789
- sso_role_name=SandboxAdmin
+ sso_role_name=SandboxUsers
  output=json
  ```
  
@@ -75,12 +75,12 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=612473995106
- sso_role_name=SandboxAdmin
+ sso_role_name=SandboxUsers
  output=json
  ```
 
 # Admin actions
-This section is for Sandbox Admin administrators (i.e. pepole in the `@sandbox-admins` group)
+This section is for SSO administrators (i.e. pepole in the `@sandbox-admins` group on slack)
 
 ## Adding new users
 For when a user has requested to be added to the AWS sandbox
@@ -89,7 +89,7 @@ For when a user has requested to be added to the AWS sandbox
 - Now go to https://eu-west-2.console.aws.amazon.com/singlesignon/identity/home?region=eu-west-2#!/users
 - On the top right click `add user`
 - Fill in their details (use the part before the @ in their email as username)
-- Add them to the "SandboxAdmin" group
+- Add them to the "SandboxUsers" group
 - They should now get a email invite to join (valid for the next 7 days)
 
 
