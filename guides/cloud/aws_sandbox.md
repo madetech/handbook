@@ -41,7 +41,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=261219435789
- sso_role_name=SandboxUsers
+ sso_role_name=SandboxUser
  output=json
  ```
  
@@ -75,7 +75,7 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  sso_start_url=https://madetech.awsapps.com/start
  sso_region=eu-west-2
  sso_account_id=612473995106
- sso_role_name=SandboxUsers
+ sso_role_name=SandboxUser
  output=json
  ```
 
