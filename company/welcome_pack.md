@@ -23,7 +23,6 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 
 * [ ] Signed Contract
 * [ ] Tour of the office
-* [ ] Complete [welcome form](https://madetech.typeform.com/to/neqgrr) (the password for this form can be found in the `int-onboarding` 1password vault)
 * [ ] Introduction to company mission, business services, and EOS
 * [ ] Meet your buddy
 * [ ] Attend first career development 121 to introduce role expectations
@@ -34,7 +33,6 @@ Our on-boarding checklist is hosted on airtable. You will receive a link to your
 * [ ] Office keys (if applicable)
 * [ ] Read the [Acceptable Use Policy](../guides/security/acceptable_use_policy.md) & [Bring Your Own Device Policy](../guides/security/bring_your_own_device.md)
 * [ ] Ensure your own devices used for [work are secure](../guides/security/bring_your_own_device.md)
-* [ ] Get added to team@madetech.com mailing list
 * [ ] Set up Slack account with picture, name(s), name pronunciation guide and [pronouns](https://www.mypronouns.org/)
 * [ ] Enrollment to Baseline Personnel Security Standard (BPSS)
 
