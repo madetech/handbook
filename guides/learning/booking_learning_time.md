@@ -35,7 +35,8 @@ Just like booking a holiday
 
 Log into HiBob
 
-Click Request Time Off (on the home page) or My Time Off (on the Time page), (once it’s been okayed  by everyone) and then choose Learning Time from the drop down menu.
+Click Request Time Off on the home page (once it’s been okayed  by everyone), and then choose Learning Time from the drop down menu.
+(You can also navigate to the same page by selecting My Time Off in the Time tab)
 
 Remember pre-approval by your Team Leader is required before you book, it’s then auto-approved by HiBob.
 
