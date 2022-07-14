@@ -6,4 +6,6 @@ As we have two promotion windows per year (autumn and spring), autumn promotion 
 
 ## Promotions
 
-In order to standardise and provide a fair evaluation of promotions, there are two promotion windows each year - April/May (spring) and October/November (autumn). Team members seeking a promotion should discuss this with their line manager, complete a promotion pack and submit this to your manager in advance of the promotion window. More information can be found in our [Promotion Guidance](https://docs.google.com/document/d/1SU_vMpC2Bp3M1qLO6kvKwmyUN4GWjSnCnJVxrdLUv5U/edit).
+In order to standardise and provide a fair evaluation of promotions, there are two promotion windows each year - April/May (spring) and October/November (autumn).
+Team members seeking a promotion should discuss this with their line manager, complete a promotion pack and submit this to your manager in advance of the promotion window. More information can be found in our [Promotion Guidance](https://docs.google.com/document/d/1SU_vMpC2Bp3M1qLO6kvKwmyUN4GWjSnCnJVxrdLUv5U/edit).
+A successful promotion will ordinarily result in an uplift to the base of the new role's salary band or a 5% uplift, whichever is the greater.
