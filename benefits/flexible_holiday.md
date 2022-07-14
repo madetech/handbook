@@ -34,7 +34,7 @@ We want to ensure teams own their holidays and that includes thinking about the 
 * Ask your clients if it's okay with them
 * Ensure your responsibilities are covered whilst you're away
 * Ensure the Made Tech person leading your client workstream or your line manager provides their agreement
-* Ensure that the holiday is placed into CharlieHR
+* Ensure that the holiday is placed into HiBob
 
 ## How is holiday approved?
 
@@ -42,7 +42,7 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 ## Additional considerations
 
-* We use the CharlieHR calendar when working out project allocation and the number of days being billed to clients, so it's important that it is always up-to-date and accurate.
+* We use the HiBob calendar when working out project allocation and the number of days being billed to clients, so it's important that it is always up-to-date and accurate.
 
 * Time off due to illness and/or injury are handled separately. Flexible holiday cannot be used for these types of absences.
 
@@ -52,4 +52,4 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 ## Christmas at Made Tech 
 * Made Tech closes from Christmas Eve until the first working day back in January
-* You will need to book this time off as holiday in CharlieHR unless you were working
+* You will need to book this time off as holiday in HiBob unless you were working

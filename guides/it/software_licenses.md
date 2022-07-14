@@ -25,7 +25,7 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Salesforce / Kimble
 - 1Password
 - Learnably (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
-- Charlie HR (slack #team-people)
+- HiBob (slack #team-people)
 - Small Improvements (slack #team-people)
 
 ### Role specific

@@ -16,7 +16,7 @@ You can use these to join your onboarding morning call.
 You’ll spend the morning with one of our Community Managers, who will introduce you to the wider team, and talk you through everything you need to know to be successful at Made Tech.
 
 Your onboarding will cover:
-- all the accounts we use at Made Tech (Slack, G Suite, CharlieHR, etc.)
+- all the accounts we use at Made Tech (Slack, G Suite, HiBob, etc.)
 - a run through of how to use our tools (timesheets, booking holiday, etc.)
 - an overview of how we do things at Made Tech
 
