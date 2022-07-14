@@ -10,7 +10,7 @@ Only billable team members need to complete a timesheet (including contractors) 
 
 Timesheets are approved by your Delivery Manager or Project lead for client work (including non-billable projects), and Operations or service area lead for internal projects such as Sales or Marketing.
 
-Any absences i.e. Holiday, Medical leave, etc still need to be recorded in the People Team system (currently CharlieHR).
+Any absences i.e. Holiday, Medical leave, etc still need to be recorded in the People Team system (currently HiBob).
 
 ## When to submit your time
 

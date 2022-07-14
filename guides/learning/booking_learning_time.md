@@ -25,7 +25,7 @@ We want to ensure teams own their learning time and that includes thinking about
 - Ask your team members if it's okay with them, including your delivery manager/lead
 - Ask your customers if it's okay with them (for non-billable roles, ensure internal projects won’t be adversely affected)
 - Ensure your responsibilities are covered whilst you're away
-- Ensure that the personal learning time is placed into CharlieHR
+- Ensure that the personal learning time is placed into HiBob
 
 Ask your line manager, the Ops Team, and the People Team, if you wish to book personal learning time outside of the guidelines
 
@@ -33,11 +33,11 @@ Ask your line manager, the Ops Team, and the People Team, if you wish to book pe
 
 Just like booking a holiday
 
-Log into CharlieHR
+Log into HiBob
 
-Navigate to book time off, (once it’s been okayed  by everyone) and then choose Learning Time from the drop down menu.
+Click Request Time Off (on the home page) or My Time Off (on the Time page), (once it’s been okayed  by everyone) and then choose Learning Time from the drop down menu.
 
-Remember pre-approval by your Team Leader is required before you book, it’s then auto-approved by CharlieHR.
+Remember pre-approval by your Team Leader is required before you book, it’s then auto-approved by HiBob.
 
 
 ### Only for Delivery, Tech, Product and other billable roles:
