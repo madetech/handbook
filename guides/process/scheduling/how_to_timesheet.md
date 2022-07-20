@@ -40,7 +40,7 @@ You may be asked to support internal Made Tech initiatives while on a billed eng
 
 Where these commitments total less than 5 hours per week, they should be included in our standard operating overhead and should not be accounted for separately from billed hours.
 
-Note that some internal activities do not count towards this 5 hours as our clients are perceived to benefit from them indirectly. These include:
+Some internal activities do not count towards the 5 hours as our clients benefit from them indirectly. These include:
 
 * Line management (1:1s etc.)
 * Taking part in communities of practice
