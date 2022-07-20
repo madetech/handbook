@@ -42,7 +42,6 @@ Where these commitments total less than 5 hours per week, they should be include
 
 Note that some internal activities do not count towards this 5 hours as our clients are perceived to benefit from them indirectly. These include:
 
-* Hiring
 * Line management (1:1s etc.)
 * Taking part in communities of practice
 
