@@ -45,7 +45,7 @@ Some internal activities do not count towards the 5 hours as our clients benefit
 * Line management (1:1s etc.)
 * Taking part in communities of practice
 
-When the commitment exceeds 5 hours in a week, each element should be allocated individually to the appropriate project in Kimble and not included in billable hours.
+When the total internal commitment exceeds 5 hours in a week the 5 hour rule no longer applies, so each commitment should be allocated in its entirety to the appropriate project in Kimble and not included in billable hours.
 
 Please ensure that you get approval in advance from your account team for all non-delivery commitments. You must also get agreement from the relevant service area leader before booking any time against their service area project.
 
