@@ -22,5 +22,5 @@ Our accepted development standards.
 
 Our methods of running team-wide and company-wide retrospectives.
 
-## [Timesheets](timesheets.md)
+## [Timesheets](../guides/process/scheduling/how_to_timesheet.md)
 Guidance on how to fill in timesheets.

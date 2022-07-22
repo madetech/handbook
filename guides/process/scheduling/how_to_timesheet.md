@@ -40,7 +40,12 @@ You may be asked to support internal Made Tech initiatives while on a billed eng
 
 Where these commitments total less than 5 hours per week, they should be included in our standard operating overhead and should not be accounted for separately from billed hours.
 
-When the commitment exceeds 5 hours in a week, each element should be allocated individually to the appropriate project in Kimble and not included in billable hours.
+Some internal activities do not count towards the 5 hours as our clients benefit from them indirectly. These include:
+
+* Line management (1:1s etc.)
+* Taking part in communities of practice
+
+When the total internal commitment exceeds 5 hours in a week the 5 hour rule no longer applies, so each commitment should be allocated in its entirety to the appropriate project in Kimble and not included in billable hours.
 
 Please ensure that you get approval in advance from your account team for all non-delivery commitments. You must also get agreement from the relevant service area leader before booking any time against their service area project.
 
