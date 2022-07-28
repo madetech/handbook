@@ -28,7 +28,7 @@ Before the end of the probation period you must have confidence that the team me
 ### Week 6
 
 This is a great time for a half way review. Discuss how their time has gone so far, reflect and review on feedback and work examples you have already discussed and identify what you want to focus on for the following 6 weeks.
-Feedback is easier to receive if you give colleagues a heads up and a chance to better observe you. Send out a probation feedback request to the team leads, peers and other stakeholders they work with via Small Improvements asking to observe the team member for the following 4 - 6 week. A template 'Probation Feedback' is available to use'.
+Feedback is easier to receive if you give colleagues a heads up and a chance to better observe you. Send out a probation feedback request to the team leads, peers and other stakeholders they work with via Small Improvements asking to observe the team member for the following 4 - 6 week. A template 'Probation Feedback' is available to use.
 
 ### Week 10
 
