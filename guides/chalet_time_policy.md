@@ -107,7 +107,7 @@ Different parts of the business will be responsible for making people aware of a
 
 #### 1. New opportunities on client teams
 
-A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team` Slack channel][1] Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams.
+A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team`][1] Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams.
 
 Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing
 
