@@ -133,8 +133,8 @@ Capability and Delivery Heads will maintain a [visible backlog of tasks](https:/
 
 ## Length of chalet time activities
 
-Chalet time activities must be able to deliver some value in small blocks of time: half day, single day or 3-5 days, meaning chalet time can add value if someone joins a client team at short notice.
+Chalet time activities must be able to deliver some value in small blocks of time: half day, single day or 3–5 days, meaning chalet time can add value if someone joins a client team at short notice.
 
-Some activities may need more than a week but still be able to deliver business or personal value in increments of a half day, single day or 3-5 days.
+Some activities may need more than a week but still be able to deliver business or personal value in increments of a half day, single day or 3–5 days.
 
 [1]: https://madetechteam.slack.com/archives/C03F23K2RL0
