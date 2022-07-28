@@ -71,27 +71,27 @@ Chalet time activities will be booked and scheduled as follows:
 
 #### 1. New opportunities on client teams
 
-Billed or invested time - like other times someone joins a client team this will be booked by the Scheduling team and the individual will fill out timesheets for time spent in this team
+Billed or invested time - like other times someone joins a client team this will be booked by the Scheduling team and the individual will fill out timesheets for time spent in this team.
 
-Shadowing - this time should be recorded as ‘Bench/Chalet’ time in timesheets
+Shadowing - this time should be recorded as ‘Bench/Chalet’ time in timesheets.
 
 #### 2. New business and revenue
 
-Bid writing - booked by the Scheduling team and the individual will fill out timesheets for time spent on a bid
+Bid writing - booked by the Scheduling team and the individual will fill out timesheets for time spent on a bid.
 
-Marketing - this time should be recorded as ‘Bench/Chalet’ in timesheets
+Marketing - this time should be recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 3. Hiring
 
-This time should be recorded as ‘Hiring’ in timesheets
+This time should be recorded as ‘Hiring’ in timesheets.
 
 #### 4. Research and development
 
-This time should be recorded as ‘R&D’ time in timesheets
+This time should be recorded as ‘R&D’ time in timesheets.
 
 #### 5. Communities of practice
 
-Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets
+Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 6. Learning time
 
@@ -109,19 +109,19 @@ Different parts of the business will be responsible for making people aware of a
 
 A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team`][1] Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams.
 
-Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing
+Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing.
 
 #### 2. New revenue and business
 
-Bids team will update the Scheduling team each week of bids people with chalet time can get involved with
+Bids team will update the Scheduling team each week of bids people with chalet time can get involved with.
 
 Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the [`#chalet-time-team`][1] Slack channel at the beginning of each week.
 
 #### 3. Hiring
 
-Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so
+Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so.
 
-Scheduling team will giving the Talent team coordinators access to the Kimble report of who’s has chalet
+Scheduling team will giving the Talent team coordinators access to the Kimble report of who’s has chalet.
 
 #### 4. Research and development
 
@@ -129,7 +129,7 @@ The R&D team will maintain a visible backlog of tasks people with chalet time ca
 
 ##### 5. Communities of practice
 
-Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both [`#chalet-time-team`][1] and [`#cop-improvements-backlog`](https://madetechteam.slack.com/archives/C03BMF2E39S) Slack channels
+Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both [`#chalet-time-team`][1] and [`#cop-improvements-backlog`](https://madetechteam.slack.com/archives/C03BMF2E39S) Slack channels.
 
 ## Length of chalet time activities
 
