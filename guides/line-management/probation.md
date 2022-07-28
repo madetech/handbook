@@ -70,7 +70,7 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 
 ## Finishing probation
 
-Make a recommendation on behalf of your direct report to your 'Head of'. This would usually be by e mail and copy the people team in.
+Make a recommendation on behalf of your direct report to your 'Head of'. This would usually be by email and copy the people team in.
 
 Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values. Be sure to include balanced feedback that also includes areas for development or further focus and growth for your team member based on the feedback provided or that you have observed as line manager.
 
@@ -78,7 +78,7 @@ Your 'Head of' will make the final decision on whether to pass, extend, or fail 
 
 ### Passing probation
 
-Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be in the e mail from the people team too).
+Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be in the email from the people team too).
 
 Decide together how often to have one-to-ones from now on (we'd recommend a minimum of monthly).
 
