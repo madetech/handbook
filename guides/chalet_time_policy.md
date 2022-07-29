@@ -20,7 +20,7 @@ Line management should therefore focussed partly on:
 - Check together progress against goals for chalet time in Small Improvements
 - Agree a plan to get someone onto billed client work
 - Identify blockers someone has doing activities with their chalet time
-- Identify where the organisation someone needs their line manager to introduce them to and in some situations advocare for them to join
+- Identify where the organisation someone needs their line manager to introduce them to and in some situations advocate for them to join
 
 Each Head of Capability Practice is ultimately accountable for everyone in their practice using chalet time the right way.  This will be measured by the average people’s time is billed to a client, also known as utilisation. Heads of Capability Practices will report each week how people are using chalet time, as part of weekly utilisation meetings with Operations.
 
@@ -54,7 +54,7 @@ Priorities for chalet time:
 
 #### 5. Communities of practice
 
-- [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog)
+- [Communities Improvements Backlog][2]
 
 #### 6. Learning time
 
@@ -91,7 +91,7 @@ This time should be recorded as ‘R&D’ time in timesheets.
 
 #### 5. Communities of practice
 
-Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets.
+Doing activities on the [Communities Improvements Backlog][2] this should be recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 6. Learning time
 
@@ -101,13 +101,13 @@ People with chalet time will [book learning time](https://github.com/madetech/ha
 
 People with chalet time will [book holiday](https://github.com/madetech/handbook/blob/main/benefits/flexible_holiday.md) as they would any other holiday or leave.
 
-## Responsibility to make activities visible and  doable
+## Responsibility to make activities visible and doable
 
 Different parts of the business will be responsible for making people aware of activities they can do with chalet time:
 
 #### 1. New opportunities on client teams
 
-A list of live accounts, teams and leads will be automatically published from Kimble to [`#chalet-time-team`][1] Slack channel at the beginning of each week. This will give people a list of people to approach about potentially opportunities to join client teams.
+A list of live accounts is pinned to the [`#chalet-time-team`][1] Slack channel, teams and leads are published from Kimble. This will give people a list of people to approach about potential opportunities to join client teams.
 
 Line managers of people with chalet time will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing.
 
@@ -115,21 +115,22 @@ Line managers of people with chalet time will help find opportunities and advoca
 
 Bids team will update the Scheduling team each week of bids people with chalet time can get involved with.
 
-Marketing team will maintain a visible backlog of tasks people with chalet time can do to help promote Made Tech. This will be posted in the [`#chalet-time-team`][1] Slack channel at the beginning of each week.
+Marketing team will have a visible [backlog](https://trello.com/b/GpbyEM2N/chalet-marketing-projects) of tasks people can do to help promote Made Tech. This is pinned to the top of [`#chalet-time-team`][1] Slack channel in important links.
+If you have a look and feel that it is something you could pick up, please assign your name to the card. If you need any more information, please reach out to in [`#demand-marketing-team`](https://madetechteam.slack.com/archives/C01MMH7DGUA) and they will be able to provide more details and context etc.
+
+If you have an idea for a blog post join [`#demand-content`](https://madetechteam.slack.com/archives/CSGHC1WH0) and read the 'how to blog for Made Tech' pinned post to get started.
 
 #### 3. Hiring
 
 Scheduling team will give the Talent team coordinators access to the Kimble report of who has chalet to do extra hiring interviews or require training to do so.
 
-Scheduling team will giving the Talent team coordinators access to the Kimble report of who’s has chalet.
-
 #### 4. Research and development
 
-The R&D team will maintain a visible backlog of tasks people with chalet time can do either to help build products or research new opportunities. This will be posted in the [`#chalet-time-team`][1] Slack channel at the beginning of each week.
+The R&D team will add tasks to the [CoP trello board](https://trello.com/b/taj8yvLP/communities-improvements-backlog) in [`#chalet-time-team`][1] Slack channel for people in the chalet to do to help build products or research new opportunities.
 
 ##### 5. Communities of practice
 
-Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This will be posted weekly in both [`#chalet-time-team`][1] and [`#cop-improvements-backlog`](https://madetechteam.slack.com/archives/C03BMF2E39S) Slack channels.
+Capability and Delivery Heads will maintain a [visible backlog of tasks][2] people with chalet time can undertake to improve their community of practice. This is pinned to [`#chalet-time-team`][1] Slack channel.
 
 ## Length of chalet time activities
 
@@ -137,4 +138,5 @@ Chalet time activities must be able to deliver some value in small blocks of tim
 
 Some activities may need more than a week but still be able to deliver business or personal value in increments of a half day, single day or 3–5 days.
 
-[1]: https://madetechteam.slack.com/archives/C03F23K2RL0
+[1]: https://madetechteam.slack.com/archives/C03F23K2RL0 "Chalet time team Slack channel"
+[2]: https://trello.com/b/taj8yvLP/capability-improvement-backlog "Capability improvements backlog in Trello"
