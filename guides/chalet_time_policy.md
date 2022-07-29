@@ -54,7 +54,7 @@ Priorities for chalet time:
 
 #### 5. Communities of practice
 
-- [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog)
+- [Communities Improvements Backlog][2]
 
 #### 6. Learning time
 
@@ -91,7 +91,7 @@ This time should be recorded as ‘R&D’ time in timesheets.
 
 #### 5. Communities of practice
 
-Doing activities on the [Communities Improvements Backlog](https://trello.com/b/taj8yvLP/capability-improvement-backlog) this should be recorded as ‘Bench/Chalet’ in timesheets.
+Doing activities on the [Communities Improvements Backlog][2] this should be recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 6. Learning time
 
@@ -130,7 +130,7 @@ The R&D team will add tasks to the [CoP trello board](https://trello.com/b/taj8y
 
 ##### 5. Communities of practice
 
-Capability and Delivery Heads will maintain a [visible backlog of tasks](https://trello.com/b/taj8yvLP/capability-improvement-backlog) people with chalet time can undertake to improve their community of practice. This is pinned to [`#chalet-time-team`][1] Slack channel.
+Capability and Delivery Heads will maintain a [visible backlog of tasks][2] people with chalet time can undertake to improve their community of practice. This is pinned to [`#chalet-time-team`][1] Slack channel.
 
 ## Length of chalet time activities
 
@@ -139,3 +139,4 @@ Chalet time activities must be able to deliver some value in small blocks of tim
 Some activities may need more than a week but still be able to deliver business or personal value in increments of a half day, single day or 3–5 days.
 
 [1]: https://madetechteam.slack.com/archives/C03F23K2RL0
+[2]: https://trello.com/b/taj8yvLP/capability-improvement-backlog
