@@ -84,8 +84,8 @@ Demonstrates leadership. Communicates effectively, both formally and informally
 
 Below are examples of behaviours and responsibilities a person in this role might be expected to demonstrate. The list is provided for illustrative purposes only.
 
-- Supports the development of user research at MadeTech
-- Represents Madetech in the wider UCD community through writing or speaking
+- Supports the development of user research at Made Tech
+- Represents Made Tech in the wider UCD community through writing or speaking
 - Trustworthy, acts with integrity, openness and impartiality
 - Able to navigate and handle conflict within teams and with stakeholders
 - Can help colleagues understand how digital technology is changing user behaviour, and the challenges and opportunities for government services.

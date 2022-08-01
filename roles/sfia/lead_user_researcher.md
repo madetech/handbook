@@ -73,14 +73,14 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 - Wide range of quantitative and qualitative experience, expertise in a wide range of research methodologies
 - Can fully explain the purpose and activities of each GDS phase of service delivery and the role of user researchers to clients unfamiliar or uncomfortable with that way of working.
-- Takes responsibility for exploring and trialling new tools and techniques that will continue to push the growth of user research at Madetech
+- Takes responsibility for exploring and trialling new tools and techniques that will continue to push the growth of user research at Made Tech
 - Trusted and approachable user research expert that clients and internal folk approach for support and advice
 - Understands how to measure the impact and effectiveness of user research at Made Tech and the things we can do to improve as a team
 - Able to plan and manage user research on complex programmes of work
 - Responsible for the standards and ethical conduct of user research here at Made Tech
 - Confident in carrying out user research with vulnerable and marginalised groups
 - Uses insights to inform strategic direction
-- Able to assess the suitability of potential candidates for user research roles at Madetech
+- Able to assess the suitability of potential candidates for user research roles at Made Tech
 
 ### Business Skills
 
@@ -94,5 +94,5 @@ Below are examples of behaviours and responsibilities a person in this role migh
 - Trustworthy, acts with integrity, openness and impartiality with research participants
 - Able to navigate and handle conflict within teams and with clients
 - Leads proposal writing around UCD activities with the sales team
-- Confident at pitch presentations and selling Madetech in front of clients
-- Able to give constructive feedback to senior management to continue to improve how we develop and grow UCD at Madetech
+- Confident at pitch presentations and selling Made Tech in front of clients
+- Able to give constructive feedback to senior management to continue to improve how we develop and grow UCD at Made Tech
