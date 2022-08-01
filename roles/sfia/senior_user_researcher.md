@@ -11,7 +11,7 @@ Our Senior User Researchers play a key role in leading project teams and setting
 
 ### Autonomy
 
-Self-initates and works with little direction of where to focus energy to research, design and deliver good public services with their team. Takes responsibility for the team focusing their research in the right areas, using the most appropriate methodologies and expertise in guiding teams to producing the most impactful research outputs. Works with to define and assign research tasks to themselves and others.
+Self-initiates and works with little direction of where to focus energy to research, design and deliver good public services with their team. Takes responsibility for the team focusing their research in the right areas, using the most appropriate methodologies and expertise in guiding teams to producing the most impactful research outputs. Works with to define and assign research tasks to themselves and others.
 
 #### Examples of behaviour and responsibilities
 
@@ -46,7 +46,7 @@ Below are examples of behaviours and responsibilities a person in this role migh
 
 ### Complexity
 
-Leads user research with their team within a wider programme of work in multi-organisation stakeholder environments. Able to balance complex user and organsational needs and use research to inform design, strategy and processes.
+Leads user research with their team within a wider programme of work in multi-organisation stakeholder environments. Able to balance complex user and organisational needs and use research to inform design, strategy and processes.
 
 #### Examples of behaviour and responsibilities
 
