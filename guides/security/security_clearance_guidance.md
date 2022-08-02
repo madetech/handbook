@@ -1,44 +1,33 @@
-# Guidance for Security Cleared Staff
+# Guidance for Security Cleared (SC) Employees
 
-## General information & timings
+## General Information
+With an increasing number of Made Tech’s clients requiring security cleared resources to work on their projects, we encourage all client-facing colleagues to consider applying for the appropriate level of security clearance.
+
+The Made Tech Compliance Team (compliance@madetech.com) manages security clearance activities, and will provide helpful information to you before your clearance application is started. Please note that there are minimum residency and work history requirements that need to be met before your application can be commenced. 
+
+All new joiners whose role may need SC at some point are asked whether they already have SC. There is a possibility that existing SC clearance holders may be able to transfer their existing clearance to Made Tech, depending upon who issued it and how long it has left to run. For further details, you should contact our Compliance Team. 
+
 There are different routes for requesting Security Clearance (SC) and the route taken depends on the project. There is [more information here](https://docs.google.com/document/d/1hVPR5nvnbwzkAcZHogTqKl8HHpACZKwHyXayB3lr0SY/edit) (internal link). 
-
-If you are joining Made Tech and have questions about the process please ask your Community Manager or contact from the Talent Team who can send on the relevant information.  
-
-All new joiners are asked whether they already have SC and if so a process is started to transfer that clearance to Made Tech.
 
 ### Timings
 Timings to be cleared are a minimum of 25 working days (5 weeks) from the point the application and all relevant information has been received. However it is usual for timings to be significantly longer.
 
-### Updates
-The [tracking sheet](https://docs.google.com/spreadsheets/d/19pQ9r3HI44oYv6nDKtteXGIkdtMla_8X/edit#gid=1771661157) (internal link) will be updated as we are given updates but be aware, once the application is underway updates are very limited and mostly go to the candidate.
+At the current time, it can take between 8-12 weeks for an application to be assessed and security clearance to be granted. This is outside of Made Tech’s control, so an early application into the process is recommended. You will be informed as soon as we become aware of any progression of your application. 
 
-### Source of truth
-The source of truth for who in the company has been SC cleared is Kimble. There is a report available [internally here](https://madetech.lightning.force.com/lightning/r/Report/00O8e000001BAVhEAO/view).
+### Applying for Security Clearance
+If you wish to apply for security clearance, the Compliance Team will require a small subset of personal data to create an application for you. This should be sent, when requested, by private message to the Compliance Team member. For data protection reasons, it should not be posted in common areas, including open Slack channels.
 
-## How to request Security Clearance
-Put a request in the #supply-sc slack channel with the following info:
-- Full name
-- Email address
-- Project/client
-- Perm or contractor
-- Start date (if they haven't started yet)
-- Tag the individual so they are automatically added to the channel
-- Tag the relevant person from the People Team for the route required.
+### Security Clearance Records
+Made Tech’s Compliance Team maintains records of all security clearances within the Company, and will securely share details with the People Team and Scheduling Team as required for legitimate business purposes. If you have any questions about the status of your security clearance, or that of one of your direct reports, you should contact the Compliance Team.
 
-The People Team will acknowledge the request, put the individual into the spreadsheet and kick off the process.
+### Safeguarding your Security Clearance
+Your security clearance is an important and valuable asset that should be protected. As a holder of a security clearance, you must follow Government requirements and ensure that details of your clearance (a) are only communicated to those that have a genuine need to know, and (b) are never posted on social media or similar open forums. 
 
-
-## Information for individuals
-More detailed information and the relevant documents for individuals starting or going through the SC process is available [internally here](https://drive.google.com/drive/folders/1hSax2iN6sE3EQJ7bWEe4xQCKhj-Dum2z).
-
-
-## Change in circumstances
-Certain changes in personal circumstances require you to notify the government. This applies if you:
-- Get married, enter a Civil Partnership or start living with a partner as a couple
-- Are arrested, are refused bail, receive a Police caution, reprimand or final warning or are convicted of an offence (other than minor road traffic offences)
+### Changes in Circumstances
+Certain changes in your personal circumstances will require you to notify the appropriate vetting authority and your employer. This applies if you, for example:
+- Get married, enter a civil partnership or start living with a partner as a couple
+- Are arrested, are refused bail, receive a police caution, reprimand or final warning or are convicted of an offence 
 - Acquire a new nationality or renounce one that you previously held
-- There is a significant change in your financial circumstances, either by making it more difficult or by improving it. 
+- There is a significant change in your financial circumstances
 
-In these circumstances, you must inform the People Team who will assist you to notify the relevant authority.
-More information on this is available [internally here](https://docs.google.com/document/d/1nExumOwtA9rDtTyih94r8sD8CN9pc-Dl4apDA7PrPh8/edit#heading=h.lk7u9et1xly3).
+In these circumstances, you should check with the Compliance Team who will confirm the correct means of notifying the appropriate vetting authority and liaise with appropriate support routes internally also. 
