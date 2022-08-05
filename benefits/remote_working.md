@@ -3,7 +3,7 @@
 We feel it's important that we provide the flexibility for people to work wherever they feel productive and happy. Be that in the office, remotely at home, from a coffee shop, or outside of the UK. We acknowledge that working remotely can lead to increased productivity, and have positive effects on wellbeing. 
 
 ### Made Tech offices
-Our current requirements for working from Made Tech offices are no longer fixed to a specifc number of days per week. This means we now default to remote working with the option to work from your regional Made Tech office as and when needed. 
+Our current requirements for working from Made Tech offices are no longer fixed to a specific number of days per week. This means we now default to remote working with the option to work from your regional Made Tech office as and when needed. 
 However, you must be able to travel to your assigned regional office when required to do so. We currently expect this to be on average 1 day per month.
 
 ### Client office
@@ -51,4 +51,4 @@ All requests to work from home should be considered in their individual circumst
 When remote working, and when onsite with a client, it is important to pay close attention to these security guidelines in addition to your normal security practices:
 
 - If you are in a public place, such as a coffee shop, make sure you are handling any sensitive data responsibly and securely. Can you be overseen? Is your connection secure?
- - Ensure any work-related conversations can’t be overheard. If that’s not possible, try to talk in general terms, and without specific details such as names or clients.
+ - Ensure any work-related conversations can’t be overheard. If that’s not possible, try to talk in general terms, and without specific details such as names or clients
