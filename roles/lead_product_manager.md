@@ -42,8 +42,8 @@ Collaborates with Principle Product Managers to:
 - Identify avenues of potential work, highlighting opportunities.
 
 ## Key measures
--- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards.
--- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback.
+- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards.
+- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback.
 
 ## Competencies
 Lead Product Managers display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#lead-product-manager) and [SFIA (Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5) behaviours.
