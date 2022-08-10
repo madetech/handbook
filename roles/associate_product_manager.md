@@ -5,7 +5,8 @@ Associate Product Managers ensure products and services deliver measurable value
 - **Organisational needs;** defined by the requirements placed upon or introduced by the client (Eg. legislation).
 - **Service needs;** non-functional requirements.
 
-# Key responsibilities
+## Key responsibilities
+
 ## Scope
 Associate Product Managers:
 - Assists work on a single engagement or works on a low risk, simple engagement.
