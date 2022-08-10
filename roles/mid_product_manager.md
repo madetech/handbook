@@ -27,11 +27,11 @@ Applies the following practices as Product Manager, within an engagement:
 - Applies the agile mindset to enable best practice and realisation of value.
 - Enables teams to be effective by fostering a culture that supports psychological safety. 
 
-# Community of Practice (CoP)
+## Community of Practice (CoP)
 Engages and participates within the Made Tech and client communities of practice to:
 - Build an inclusive and supportive culture.
 - Recognise when to ask for further guidance and support and identify how to improve how we work.  For example, discussing and sharing approaches, ideas and examples of practice.
-# Key measures
+## Key measures
 - Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards.
 - Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback.
 Competencies
