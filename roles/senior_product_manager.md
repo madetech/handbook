@@ -1,64 +1,51 @@
-# Senior Product Manager
+# Senior Product Manager (SFIA Level 4)
 
-Our Senior Product Managers are accountable for the quality of complex, high-risk products and services in the public sector and work with stakeholders and teams to set visions and priorities. 
+Senior Product Managers ensure products and services deliver measurable value, by exploring:
+- User needs; defined through comprehensive research. 
+- Organisational needs; defined by the requirements placed upon or introduced by the client (Eg. legislation).
+- Service needs; non-functional requirements.
 
-They are experts in their field, and will be involved in line management of Product Managers. They represent the user and work with the team to ensure what we build achieves the outcomes we desire. They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
+## Key responsibilities
+## Scope
+Senior Product Managers:
+- Work on a single engagement that is complex, high risk or sensitive. 
+- Are responsible for inducting team members, line managing up to three Product Managers and partake in the interview process.
+- Are effective decision makers.
+- Are advanced practitioners of Product Management practices, principles and approaches.
+- Engage, initiate and lead work within the community of practice, coaching and mentoring others.
+- Display the Senior Product Manager DDaT competencies and SFIA Level 4 Behaviours.
 
-## Your role at Made Tech
+## Practice
+Applies the following practices as Senior Product Manager, within an engagement:
+- Identifies value for users, services and organisations using research and analysis.
+- Prioritises work that delivers increments of value to users.  
+- Ensures engagements have measurable outcomes.
+- Negotiates product governance by guiding the definitions of ready and done, and developing success criteria.
+- Foresees and troubleshoots issues, using appropriate methods to identify and manage issues and risks. 
+- Works with stakeholders, challenging assumptions, leading and making decisions to ensure successful outcomes.
+- Understands the roles of related disciplines, influences team operations, anticipating issues, and initiating collaboration and continuous improvement. 
+- Works with the delivery manager to track progress and show our work to clients and colleagues.
+- When necessary, coaches client teams to instil product-thinking.
+- Applies the agile mindset to enable best practice and realisation of value.
+- Enables teams to be effective by fostering a culture that supports psychological safety. 
 
-Our Senior Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and MadeTech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client goals into epics and user stories. You’ll achieve this through:
+## Community of Practice (CoP)
+Engages and participates within the Made Tech and client communities of practice to:
+- Build an inclusive and supportive culture.
+- Recognise when to ask for further guidance and support and identify how to improve how we work.  For example, discussing and sharing approaches, ideas and examples of practice.
+- Initiate and lead on work within the community of practice.
+- Mentor and coach others within the community, to support their development and practice.
 
-- Being involved with elements of programme management activities
-- Understanding the marketplace, realising the benefit and persuading others that a product is the right one to use. Integrating a product with other services, and ensuring that products get used.
-- Effective workshop facilitation, adopting a senior approach to oversee and enable the delivery team to interpret research outcomes into actionable insights, continued by using product management principles and approaches to define what is built meeting user, service and organisation needs, alongside understanding and experience of agile methodology and how to apply the agile mindset to all aspects of their work.
-- Ensuring that the outcomes of any engagement have identifiable outcomes that are measurable and deliver value to the user and our client.
-- Supporting multidisciplinary teams, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business goals to create the product roadmap. You will work with a range of stakeholders, including the delivery managers, software engineers, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to decide on best practice and design epics/user stories to work from.
-- Making sure roadmaps are prioritised by business value and risk. You will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
-- Working with the delivery manager to accurately monitor the progress of a project. That will include accessible weekly and monthly dashboards that can be fed back to the relevant stakeholders, including Directors. These will incorporate budget requirements and outcomes as well as outlining blockers and risks. 
-- Focusing on enhancing the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros, etc.
+## Sales
+Collaborates with Lead Product Managers to:
+- Provide feedback on whether they feel their engagements are effective, efficient and profitable.
 
-## In the application process the following skills will be assessed but if you don’t have everything on this list, please still apply
+## Key measures
+- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards.
+- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback.
 
-- Working directly with clients, ideally in a Consultancy with multiple services
-- In-depth knowledge and experience of Lean and Agile processes 
-- Articulate a problem and help others to do it. You know how to build problem-solving capabilities in others
-- Able to support a team, overcoming constraints to become high performing
-- Designing and facilitating workshops to shape vision and set direction
-- Working within multidisciplinary teams with product, design, and technology working within the same cycles
-- Agile and lean practices such as Lean UX, Scrum, XP, and/or Kanban
-- Showcasing and presentation skills
-- Evidence of self-development – we value keen learners
-- Drive to deliver outcomes for users
-- Desire to mentor others
-- Empathy and people skills
-- Assist sales and marketing team with product knowledge
-
-Communication will be key to your success, so you should feel comfortable presenting to senior stakeholders in a professional manner, so that the needs of everyone involved in a project are kept in balance, whilst mediating disputes when required.
-
-## We want our teams to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
-
-Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
-
-- Experienced working with Government Digital Service
-- Writing blog posts and giving talks
-- User research planning and execution
-- User testing planning and execution
-- Agile estimation/Sprint planning & story definition
-- Service design
-- UI/UX Interaction design
-- User Centred Design (UCD)
-
-Whilst we are an agile software development company and truly believe in the benefits of an agile mindset, we are also aware that not all companies have bought into the process to the same extent. As a result, you will need to be flexible in adapting to meet the specific needs of each client and we will want to hear about times that you have applied that flexibility previously, and the benefits that it brought.
-
-## What you will get from the role
-
-You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with public sector organisations.
-
-Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
-
-You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
-
-Finally, as we continue to grow rapidly there are many opportunities to progress within the company. The role could develop in a delivery focused direction, or transition towards agile coaching, or promotion to Lead Product Manager – we're happy to support you to take charge of your future and follow your passions!
+## Competencies
+Senior Product Managers display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#senior-product-manager) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
 
 ## Our Benefits
 
