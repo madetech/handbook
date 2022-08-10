@@ -10,7 +10,7 @@ Some things to note:
 
  - Likewise, there isn't a time we expect everyone to leave the office. Of course if you're leaving at 1630 every day and are having problems delivering on your commitments someone will likely provide you with feedback to help improve things.
 
- - Pressure can creep in around deadlines and sometimes staying late to ensure a smooth launch or to help diagnose and fix a problem is a necessity. However these occassions should be very rare. If you regularly feel this pressure, say more than twice a year then speak to a colleague.
+ - Pressure can creep in around deadlines and sometimes staying late to ensure a smooth launch or to help diagnose and fix a problem is a necessity. However these occasions should be very rare. If you regularly feel this pressure, say more than twice a year then speak to a colleague.
 
  - Pressure can also arise when peers work seemingly longer hours than yourself. All we can suggest is that we have open and honest ways of providing feedback so unless someone has raised an issue with you, you're likely doing fine.
 
