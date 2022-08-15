@@ -1,23 +1,56 @@
-# Lead Product Manager
+# Lead Product Manager (SFIA Level 5)
 
-Our Lead Product Managers are accountable for the quality of complex, high-risk products and services in the public sector and work with stakeholders and teams to set visions and priorities. 
+Lead Product Managers ensure products and services deliver measurable value, by exploring:
 
-They will work closely with the Head of Product to provide leadership and direction to all products in a programme or a local product community. They are experts in their field, and will be involved in line management and hiring of Product Managers. They represent the user and work with the team to ensure what we build achieves the outcomes we desire.They have strong communication skills and are comfortable engaging with senior stakeholders from a consultancy perspective.
+- User needs; defined through comprehensive research. 
+- Organisational needs; defined by the requirements placed upon or introduced by the client (Eg. legislation).
+- Service needs; non-functional requirements.
 
 ## Your role at Made Tech
 
-Our Lead Product Managers are expected to work across the whole digital service delivery team, engaging regularly with the client, 3rd parties and contractors as needed to ensure that the team's effort delivers value to the end users and the client's organisation and that the project is delivered successfully. A core value of MadeTech is to enable the entire team (client and Made Tech) to rapidly evolve into a single high performance team that is effectively embedded within the client's organisation. You must have client-facing experience and a proven track record of working with customers to define a prioritised backlog. We'll want to discuss previous prioritisation methods you have been a part of, including how you helped to distil key client goals into epics and user stories. You’ll achieve this through:
+### Key responsibilities
 
-- Maintaining high-level roadmap across programmes of work.
-- Managing and supporting the product community.
-- Understanding the marketplace, realising the benefit and persuading others that a product is the right one to use. Integrating a product with other services, and ensuring that products get used.
-- Effective workshop facilitation, adopting a senior approach to oversee and enable the delivery team to interpret research outcomes into actionable insights, continued by using product management principles and approaches to define what is built meeting user, service and organisation needs, alongside understanding and experience of agile methodology and how to apply the agile mindset to all aspects of their work.
-- Ensuring that the outcomes of any engagement have identifiable outcomes that are measurable and deliver value to the user and our client.
-- Influencing and supporting multidisciplinary teams, typically managing large scale projects with multiple workstreams, right from the discovery phase. During discovery, which normally takes 1-2 weeks, you will use the customer's high-level business goals to create the product roadmap. You will work with a range of stakeholders, including the delivery managers, software engineers, client, third-party services and Discovery Team, to identify and remove blockers, whilst empowering the delivery teams to choose on best practice and design epics/user stories to work from.
-- Facilitate the production of roadmaps that are prioritised by business value and risk. You will ensure our delivery teams are able to ship a first release within 12 weeks and continue to ship daily from then on. We aim to always delight our customers with the quality of service that can be delivered within their budget.
-- Developing long term visions and goals, and understanding how to develop the existing capability to anticipate future problems and projects. 
-- Focusing on enhancing the delivery team's ability to meet deadlines and adhere to the roadmap by diplomatically protecting them from outside influences and unnecessary distractions, instead, engaging the teams with the clients to define and create approaches by implementing new ways of working and coaching teams in these.
+#### Scope
+Lead Product Managers:
+- Work on one or more engagements that are complex, high risk or sensitive, when necessary at programme level. 
+- Manage recruitment, interviewing and onboarding of new team members and line manage up to three Senior Product Managers.
+- Are effective leaders and decision makers.
+- Are expert practitioners of Product Management practices, principles and approaches.
+- Provide strategic direction within the community of practice, coaching and mentoring others.
+- Display the Lead Product Manager DDaT competencies and SFIA Level 5 Behaviours.
 
+#### Practice
+Applies the following practices as Lead Product Manager, within engagements:
+- Identifies value for users, services and organisations using research and analysis outcomes.
+- Prioritises work that delivers increments of value to users.  
+- Ensures engagements have measurable outcomes.
+- Negotiates product governance by guiding the definitions of ready and done, and developing success criteria.
+- Foresees and troubleshoots issues, using appropriate methods to identify and manage issues and risks. 
+- Works with senior stakeholders, confidently challenging assumptions and stewarding teams to ensure successful outcomes at programme level
+- Understands the roles of related disciplines, influences team operations, anticipating issues, and initiating collaboration and continuous improvement. 
+- Works with the delivery manager to track progress and show our work to clients and colleagues.
+- Advocates product thinking at senior stakeholder level to instil a product management discipline, making recommendations.
+- Applies the agile mindset and coaches teams to enable best practice and realisation of value.
+- Enables teams to be effective by fostering a culture that supports psychological safety. 
+
+#### Community of Practice (CoP)
+Engages and participates within the Made Tech and client communities of practice to:
+- Build an inclusive and supportive culture.
+- Recognise when to ask for further guidance and support and identify how to improve how we work. For example, discussing and sharing approaches, ideas and examples of practice.
+- Direct work within the community of practice, ensuring strategic objectives are achieved.
+- Mentor and coach others within the community, acting as a thought leader, to support their development and practice.
+- Advance product-led thinking internally and externally.
+
+#### Sales
+Collaborates with Principle Product Managers to:
+- Ensure that engagements are effective, efficient and profitable.
+- Identify avenues of potential work, highlighting opportunities.
+
+#### Key measures
+- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards.
+- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback.
+Competencies
+- Lead Product Managers display Made Tech’s values, relevant DDaT capabilities and SFIA (Level 5) behaviours.
 
 ## In the application process the following skills will be assessed but if you don’t have everything on this list, please still apply
 
