@@ -49,6 +49,16 @@ Each time you pass an AWS Exam you receive a [free practice exam and 50% off vou
 
 This means an individual could achieve all 11 AWS Certifications for $1650!
 
+### Expensing an Exam
+
+An exam can be expensed. In order to do this, follow the [expenses guide](https://github.com/madetech/handbook/blob/main/guides/compensation/expenses.md). The account should be set to `Other Training Costs` and the name of the exam used as the description.
+
+#### Exams charged in USD
+
+If the exam is charged in USD it is best to submit the expense claim in the GBP amount the exam has actually cost you as this ensures you receive the full amount back (removing differences caused by currency fluctuations or transaction fees).
+
+To do this you will need to provide both the invoice with the USD amount and a screenshot of the charge in GBP e.g. a cropped or redacted bank or credit card statement showing the charge. The USD invoice will need to be attached to the expense claim by you and the screenshot will be attached to the claim by a Finance colleague. Please get in touch with a Finance colleague prior to submitting the claim to ensure this happens smoothly and the process is still current.
+
 ## AWS Business Training
 
 All non-tech employees are encouraged to undertake the [AWS Business Professional Training](https://aws.amazon.com/partners/training/path-bus-pro/) from the AWS Partner Portal.
