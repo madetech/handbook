@@ -1,8 +1,8 @@
-# SFIA Role Guidance: Software Engineer 2
+# SFIA Role Guidance: Software Engineer
 
 [SFIA Level 3: Apply](https://sfia-online.org/en/sfia-7/responsibilities/level-3)
 
-[&laquo; previous](software_engineer_1.md) | [next &raquo;](senior_software_engineer.md)
+[&laquo; previous](associate_software_engineer.md) | [next &raquo;](senior_software_engineer.md)
 
 ## Summary of role
 
