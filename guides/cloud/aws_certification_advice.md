@@ -49,6 +49,17 @@ Each time you pass an AWS Exam you receive a [free practice exam and 50% off vou
 
 This means an individual could achieve all 11 AWS Certifications for $1650!
 
+### Expensing an Exam
+
+An exam can be expensed. In order to do this, follow the [expenses guide](https://github.com/madetech/handbook/blob/main/guides/compensation/expenses.md). The account should be set to `Other Training Costs` and the name of the exam used as the description.
+
+#### Exams charged in USD
+
+If the exam is charged in USD, there are two ways you can submit your expense claim in Xero.
+
+1. (recommended) Use the currency selection drop down within the “purchase amount” field, select `USD` and enter the amount shown on your invoice. Xero will automatically convert your expense for you to GBP. The amount converted may vary slightly compared to what you were charged.
+1. Input the amount you were charged in GBP. You will then need to provide proof of purchase (bank statement etc.) which you will have to edit/merge onto the same attachment as the invoice, since Xero only allows 1 attachment.
+
 ## AWS Business Training
 
 All non-tech employees are encouraged to undertake the [AWS Business Professional Training](https://aws.amazon.com/partners/training/path-bus-pro/) from the AWS Partner Portal.
