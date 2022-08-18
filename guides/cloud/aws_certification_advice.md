@@ -55,9 +55,10 @@ An exam can be expensed. In order to do this, follow the [expenses guide](https:
 
 #### Exams charged in USD
 
-If the exam is charged in USD it is best to submit the expense claim in the GBP amount the exam has actually cost you as this ensures you receive the full amount back (removing differences caused by currency fluctuations or transaction fees).
+If the exam is charged in USD, there are two ways you can submit your expense claim in Xero.
 
-To do this you will need to provide both the invoice with the USD amount and a screenshot of the charge in GBP e.g. a cropped or redacted bank or credit card statement showing the charge. The USD invoice will need to be attached to the expense claim by you and the screenshot will be attached to the claim by a Finance colleague. Please get in touch with a Finance colleague prior to submitting the claim to ensure this happens smoothly and the process is still current.
+1. (recommended) Use the currency selection drop down within the “purchase amount” field, select `USD` and enter the amount shown on your invoice. Xero will automatically convert your expense for you to GBP. The amount converted may vary slightly compared to what you were charged.
+1. Input the amount you were charged in GBP. You will then need to provide proof of purchase (bank statement etc.) which you will have to edit/merge onto the same attachment as the invoice, since Xero only allows 1 attachment.
 
 ## AWS Business Training
 
