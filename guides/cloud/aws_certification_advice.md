@@ -4,6 +4,8 @@
   - [Purpose of this guide](#purpose-of-this-guide)
   - [General](#general)
   - [Certification Costs](#certification-costs)
+    - [Expensing an Exam](#expensing-an-exam)
+      - [Exams charged in USD](#exams-charged-in-usd)
   - [AWS Business Training](#aws-business-training)
   - [AWS Technical Training](#aws-technical-training)
   - [AWS Certified Cloud Practitioner](#aws-certified-cloud-practitioner)
