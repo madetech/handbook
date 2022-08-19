@@ -2,7 +2,7 @@
 
 [SFIA Level 4: Enable](https://sfia-online.org/en/sfia-7/responsibilities/level-4)
 
-[&laquo; previous](software_engineer_2.md) | [next &raquo;](lead_software_engineer.md)
+[&laquo; previous](mid_software_engineer.md) | [next &raquo;](lead_software_engineer.md)
 
 ## Summary of role
 

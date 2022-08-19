@@ -1,8 +1,8 @@
-# SFIA Role Guidance: Software Engineer 1
+# SFIA Role Guidance: Associate Software Engineer
 
 [SFIA Level 2: Assist](https://sfia-online.org/en/sfia-7/responsibilities/level-2)
 
-[&laquo; previous](academy_software_engineer.md) | [next &raquo;](software_engineer_2.md)
+[&laquo; previous](academy_software_engineer.md) | [next &raquo;](mid_software_engineer.md)
 
 ## Summary of role
 
