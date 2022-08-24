@@ -62,7 +62,7 @@ Making work as fabulous as possible:
 * 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
 * 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
 * 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🍻 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
+* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
 
 Compensating you fairly:
 
