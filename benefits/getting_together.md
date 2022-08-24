@@ -1,13 +1,13 @@
 # Getting together as a team and company
 
 
-######Day to day socialising
+## Day to day socialising
 We encourage you to organise after work catch ups. These can take place in our offices, local pubs, restaurants or be activity based.
 
 
 
 
-######Our monthly meet ups
+## Our monthly meet ups
 Our People team try to organise a social activity for our offices each month, this can be extended out to friends, customers and prospective new joiners to Made Tech and is organised around our current office locations (London, Manchester, Bristol and Swansea). These are a great way to meet the team and spend some social time together outside of the work environment and at times outside of our office spaces.
 
 
@@ -22,7 +22,7 @@ Some careful considerations:
 
 
 
-######Our Extravaganza’s
+## Our Extravaganza’s
 Every year we hold two bi-annual company wide events, a Summer and Winter Extravaganza, this is to celebrate our achievements over the last 6 months and to get together to socialise, network and mingle with our peers and wider team.
 
 
