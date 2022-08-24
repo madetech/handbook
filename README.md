@@ -41,7 +41,7 @@ Making work as fabulous as possible:
 * 💻 [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
 * 💡 [Learning](guides/learning/README.md) – We provide flexible learning time to develop yourself
 * 🍽️ [Friday Lunches](benefits/friday_lunch.md) – We randomly match up colleagues and new starters every Friday and pay for lunch
-* 🍻 [Friday Drinks](benefits/friday_drinks.md) – We pay for social drinks on a Friday
+* 🍻 [Friday Drinks](benefits/getting_together.md) – We pay for social drinks on a Friday
 
 Compensating you fairly:
 
