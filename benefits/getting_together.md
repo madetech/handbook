@@ -26,6 +26,4 @@ Some careful considerations:
 Every year we hold two bi-annual company wide events, a Summer and Winter Extravaganza, this is to celebrate our achievements over the last 6 months and to get together to socialise, network and mingle with our peers and wider team.
 
 
-
-
-**As drinking is exclusionary in nature to those who don't like or can't be around alcohol we make efforts to make sure it's not the centre of our culture whilst at the same time acknowledging it's important to some.
+_As drinking is exclusionary in nature to those who don't like or can't be around alcohol we make efforts to make sure it's not the centre of our culture whilst at the same time acknowledging it's important to some._
