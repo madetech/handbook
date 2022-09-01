@@ -12,13 +12,16 @@ Each of our clients will have their own requirements for Made Tech team members 
 We’ll try to make the requirements for travel as clear as possible as part of the scheduling process. 
 
 ### Working abroad
-Where possible we will support remote working from outside of the UK, in some cases this may not be feasible. 
+Where possible we will support short-term/ad hoc remote working from outside of the UK (for example if someone wanted to travel and work from abroad for a few weeks during the year and this was viable).
+Whilst we will always try to support this, in some cases this may not be feasible. 
+
 When considering this option, you will need to: 
 - Discuss with your team (as in some cases, client requirements may not support this)
 - Inform your line manager
+- Let the People team know
 - Ensure you're familiar with our security requirements 
 
-If you remain uncertain, please reach out to the Compliance team, Ops, or People. 
+If you remain uncertain or you have any additional questions, please reach out to the Compliance team, Ops, or People. 
 
 ### Travel expenses
 Team members may expense travel to client sites that are outside of their regional office. Travel within your regional office area is not expensable. 
