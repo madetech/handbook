@@ -70,17 +70,17 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 
 ## Finishing probation
 
-Make a recommendation on behalf of your direct report to your 'Head of'. This would usually be by email and copy the people team in.
+Our probation process is now administered through our new people system, bob. There's an internal guidance document available for managers on how to do this which you can find pinned on the Slack cop-learning-line-managers channel. In this process you will make a recommendation on behalf of your direct report to your 'Head of'. 
 
-Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values. Be sure to include balanced feedback that also includes areas for development or further focus and growth for your team member based on the feedback provided or that you have observed as line manager.
+Highlight feedback from the team about them and provide a short summary of how they demonstrated meeting or exceeding their role expectations and our core values. Be sure to include balanced feedback that also includes areas for development or further focus and growth for your team member based on the feedback provided or that you have observed as line manager.
 
-Your 'Head of' will make the final decision on whether to pass, extend, or fail probation, informed by your feedback, and will confirm to the people team to finalise this. If the decision is a pass, the People team will then get in touch with your direct report and copy you in.
+Your 'Head of' will make the final decision on whether to pass, extend, or fail probation, informed by your feedback, and will confirm in bob (which also gets sent to the people team). If the decision is a pass, bob will then send a confirmation e mail outlining next steps to both yourself and your direct report.
 
 ### Passing probation
 
-Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be in the email from the people team too).
+Once your Head of has confirmed they agree with your recommendation to pass probation, and the e mail notification is sent, do congratulate your team member on passing probation. It's worth reconfirming any additional details e.g their new notice period (this will be in the email from bob too).
 
-Decide together how often to have one-to-ones from now on (we'd recommend a minimum of monthly).
+Decide together how often to have one-to-ones from now on (we'd recommend a minimum of once monthly).
 
 ### Failing probation
 
@@ -88,7 +88,7 @@ Ensure conversations happen early on to assess and review progress during the pr
 
 If there is no/limited progress, get in touch with your Head of and the people team. Explore and agree next steps.
 
-If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Made Tech ending.
+If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Made Tech ending. You can then enter this information info bob to capture this in the system.
 
 It can be difficult and stressful for all involved. Talk to the people team for support.
 
@@ -96,7 +96,7 @@ It can be difficult and stressful for all involved. Talk to the people team for 
 
 Sometimes, it's not clear at the end of probation if someone would succeed at Made Tech long-term.
 
-In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the people team know of any extension so they can update relevant systems too.
+In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the people team know of any extension and use bob to provide details of the new extension end date.
 
 Being on probation can be stressful. Think carefully when deciding between extending and failing.
 
