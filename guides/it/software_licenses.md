@@ -34,3 +34,9 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Figma
 - Dovetail
 - Consent Kit
+
+### Assistive technology software
+- We understand that some colleagues will benefit from access to additional assistive technology (e.g. Grammarly) and are committed to supporting this as needed
+- We will firstly request that anyone requesting a licence tries the basic/free versions (please get in touh with the Operations Team to know what tools we currently support free licences for), as the basic may suffice for some
+- If, after this, anyone still requires a business licence, please come back to us via slack or email again to ops, and we will look to explore the business licence route.
+- Where this is a necessary reasonable adjustment the cost **will not ** be deducted from their remote working budget.
