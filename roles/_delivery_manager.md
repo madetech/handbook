@@ -81,7 +81,8 @@ Delivery Managers are expected to be operating at, or working towards, [SFIA lev
 
 ### Time management and prioritisation
 * Demonstrate prioritisation and time management
-* Effectively manage delivery risk and quality 
+
+### Effectively manage delivery risk and quality 
 * Demonstrate working with a team to perform risk management activities including identification, assessment, mitigation, assessment and reporting to key stakeholders, with support as required
 * Demonstrate activities to ensure that delivery teams have appropriate practices in place to define and meet required quality levels, with support as required
 * Articulate approach to managing budget and burndown within the project, being able show how this is being managed
