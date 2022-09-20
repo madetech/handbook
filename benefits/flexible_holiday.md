@@ -50,6 +50,18 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * We have 23 holiday days in our employment contracts but in practice we have Flexible Holiday as per this guidance. We'd only revert to the employment contract in the case of abusing our Flexible Holiday system though we've never needed to do this. If you leave Made Tech part way through the year we will also use 23 days to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
 
-## Christmas at Made Tech 
-* Made Tech closes from Christmas Eve until the first working day back in January
-* You will need to book this time off as holiday in HiBob unless you were working
+## Festive period at Made Tech 
+
+
+### Between Christmas and New Years
+* We only work for clients during the 3 days between Christmas and New Years if they specifically ask for this. Where there is a client requirement we'd look for volunteers to provide this cover. Most team members will not be working during this time.
+* You will need to book this time off as holiday in HiBob unless you are working.
+
+### December and January
+Taking time off works differently for the two weeks before Christmas and the first week in January as this is a popular time for holidays.
+This means we need to coordinate with our team beyond what we may do ordinarily to ensure that there is fair access to holiday and adequate cover of team members working across client deliveries.
+
+* We'll consult with our clients as early as possible to understand what level of cover they will need.
+* Time off requests submitted for this period are typically reviewed and confirmed by mid October. 
+
+We've put together an [FAQ document](https://docs.google.com/document/d/1vaAFMbznH-sGMgstjmFXrA9dIxio-vr53C7JHs7Inao/edit#) which you can view with your Made Tech account.
