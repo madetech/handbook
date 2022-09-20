@@ -10,17 +10,17 @@ Please apply for this role at [www.madetech.com/careers](https://www.madetech.co
 
 Delivery Principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers.  As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement.  As the most senior line of project escalation, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client. 
 
-While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will be expected to maintain a broad knowledge of modern delivery practices and hold others to account for delivering quality outcomes that meet the needs of users and clients.
+While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients.
 
-As a Delivery Leader within Made Tech you will be expected to maintain and grow your professional network. You will be expected to contribute to Made Tech’s growth, working with Marketing on thought leadership, content and events; and supporting sales with responding to bids.
+As a Delivery Leader within Made Tech you will  maintain and grow your professional network. You will contribute to Made Tech’s growth, working with Marketing on thought leadership, content and events; and supporting sales with responding to bids.
 
-Delivery Principals form part of the Delivery Management Organisation (DMO) leadership team, and are expected to contribute to the successful delivery of the outcomes and KPIs of the DMO.  This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of Delivery Managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
+Delivery Principals form part of the Delivery Management Organisation (DMO) leadership team, and contribute to the successful delivery of the outcomes and KPIs of the DMO.  This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of Delivery Managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
 ## Definition of success
 
 Delivery Principal accomplishment is demonstrated by growing Made Tech’s impact, delivering high value services to our clients, and accelerating the careers of others in the DMO.
 
-### Expected outcomes
+### Outcomes
 * Manage quality and risk of all account deliveries
 * Maximise time spent on value adding activities that are chargeable to the client
 * Ensure accurate and timely adherence to all critical business processes within the account 
