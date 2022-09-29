@@ -16,14 +16,10 @@ You are treated to a four week paid break (28 days)
 * Flights + Accommodation = £4,500 + costs for children under 16
 * Spending money = £2,500 + budget for children (up to £950 per child)
 
-## Guidance
-To book the accommodation and flights please use a Directors company credit card. 
-
-The spending money can either be claimed back via expenses (Xero) or you can request a pre-paid company credit card.
-There will be an extra budget if you bring your children along. To request the pre-paid card or extra budget, please speak to Yasemin.
+(There will be an extra budget if you bring your children along.)
 
 ## COVID-19
-Given the nature of the pandemic, we're offering a temporary alternative to the paid anniversary break.
+Given the nature of the pandemic, we're offering an alternative to the paid anniversary break.
 
 You can opt to take the break as a bonus, paid at £3500 for three years or £7000 for five years. Please note that this will be paid as net income and subject to tax.
 
