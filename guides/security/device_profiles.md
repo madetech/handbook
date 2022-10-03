@@ -27,7 +27,7 @@ To make access admin rights you must follow the process listed below:
 - Once change or work has been completed please discard the password. 
 - this is to be done for any admin request. 
 
-This process is currently used in line with curre Cyber Essential standards as detialby IASME. It is unsder consideration to enhance and enable our MT employees to get better access. Any questions contact Operations. 
+This process is currently used in line with current Cyber Essential standards as detailed by IASME. It is under consideration to enhance and enable our MT employees to get better access. Any questions contact Operations. 
 
 Currently under consideration.
 
