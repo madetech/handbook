@@ -2,7 +2,7 @@
 
 You can expense the cost of an annual Eye Test through Xero.
 
-- Book the eye test yourself and get a reciept
+- Book the eye test yourself and get a receipt
 - Submit the receipt for the eye test through Xero
 
 ## Claiming for Lenses and Frames
