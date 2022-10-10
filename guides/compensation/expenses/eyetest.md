@@ -12,4 +12,4 @@ If the outcome of the eye test is that you require glasses for the use of Displa
 - Made Tech will pay for the lenses plus an additional £60 toward any frames that you choose.
 - After you purchase your frames and lenses, submit the receipts through Xero.
 
-Note: If you use Westfield Health you may want to reclaim the cost using their service instead, especially if you wish to purchase more expensive frames.
+**Note:** If you use Westfield Health you may want to reclaim the cost using their service instead, especially if you wish to purchase more expensive frames.
