@@ -23,7 +23,7 @@ If you are a member of a business team, and using a device with split admin and 
 
 To make access admin rights you must follow the process listed below:
 
-- Email support@systemagic.co.uk to request  a temp admin passwrod with a detailed reason for requiring access.
+- Email support@systemagic.co.uk to request  a temp admin password with a detailed reason for requiring access.
 - Once change or work has been completed please discard the password. 
 - this is to be done for any admin request. 
 
