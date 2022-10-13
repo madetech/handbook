@@ -48,7 +48,7 @@ Product
 - [Product Manager](mid_product_manager.md)
 - [Senior Product Manager](senior_product_manager.md)
 - [Lead Product Manager](lead_product_manager.md)
-- [Principal Product Manager](principal_product_manger.md)
+- [Principal Product Manager](principal_product_manager.md)
 
 Business Analysis
 - [Business Analyst](mid_business_analyst.md)
