@@ -69,10 +69,12 @@ Associate Delivery Managers are expected to be operating at, or working towards,
 
 ### Time management and prioritisation
 * Demonstrate prioritisation and time management
-* Effectively manage delivery risk and quality 
+
+### Effectively manage delivery risk and quality 
 * Demonstrate supporting a Delivery Lead to perform risk management activities including identification, assessment, mitigation, assessment and reporting to key stakeholders
 * Describe how the delivery team defines and monitors quality 
-* Coach teams to successfully deliver projects 
+
+### Coach teams to successfully deliver projects 
 * Understand and explain the differences between Kanban, Scrum, and Waterfall - and when best to use them
 * Understand and articulate what your team is doing to ensure they adhere to best practices such as Security, DevOps, User Centred Design and Data Ethics
 * Be able to explain the purpose of the GDS phase you are currently working on (Discovery/Alpha/Beta/Live)
