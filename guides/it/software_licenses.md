@@ -30,7 +30,7 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 
 ### Role specific
 - Jetbrains (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
-- [Docker](https://github.com/madetech/handbook/blob/main/guides/it/Docker.md)
+- [Docker](https://github.com/madetech/handbook/blob/main/guides/it/docker.md)
 - Figma
 - Dovetail
 - Consent Kit
