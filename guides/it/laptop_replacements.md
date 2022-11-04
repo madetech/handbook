@@ -13,12 +13,14 @@ The laptop renewal period is 3 years, which is based on the age of the laptop no
 
 If you are posting the laptop you need to ensure it’s suitably packaged and has plenty of padding to ensure a safe return. Send it with tracking and insurance to the following address: 
 
+<pre>
 Systemagic
 The Old Gas Warehouse
 Frome Road
 Bradford on Avon
 Wiltshire
 BA15 1HA
+</pre>
 
 We recommend using the following methods to send the laptop and charger to Systemagic:
 [Post Office Track and Trace](https://www.postoffice.co.uk/track-trace)
