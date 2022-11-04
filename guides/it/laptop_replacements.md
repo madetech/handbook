@@ -21,7 +21,7 @@ Wiltshire
 BA15 1HA
 
 We recommend using the following methods to send the laptop and charger to Systemagic:
-[Post Office Track and Trace](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.postoffice.co.uk%2Ftrack-trace&data=04%7C01%7Cfiona%40systemagic.co.uk%7C01e60cca89f34ada9ebc08da08c75dc3%7Ccd90431e57314a099a521b051ccba37e%7C1%7C0%7C637831949609971233%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=p71QmlV7XQbA6Q%2FvNxqtpjI%2BFIRoc1B%2FvbCYO4qtwVk%3D&reserved=0)
-[Special Next Day Delivery](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.royalmail.com%2Fsending%2Fuk%2Fspecial-delivery-guaranteed-1pm&data=04%7C01%7Cfiona%40systemagic.co.uk%7C01e60cca89f34ada9ebc08da08c75dc3%7Ccd90431e57314a099a521b051ccba37e%7C1%7C0%7C637831949609971233%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=7s5s8BLLy9Et2o51oL725B1lrNJ8fSMYs9%2BUE%2BNyGqU%3D&reserved=0)
+[Post Office Track and Trace](https://www.postoffice.co.uk/track-trace)
+[Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
 You can expense the postage by sending a receipt for postage to finance@madetech.com. We currently do not offer an option to purchase your laptop.
