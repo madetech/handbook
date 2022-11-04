@@ -3,19 +3,20 @@
 Made Tech holds the following certifications:
 
 **CE+**
-- Certificate number: IASME-CEP-004861
-- Date: 2021-07-30
-- Next review scheduled: May 2022
+- Certificate number: IASME-CEP-045055
+- Date: 2022-06-30
+- Next review scheduled: 2023-06-30
 
 **ISO 27001**
-- Certificate number: CN/181251S
-- Date: 2019-07-03
-- Next review scheduled: July 2022
+- Certificate number: CN/22466Q
+- Date: 2022-07-12
+- Next review scheduled: 2025-10-20
 
 **ISO 9001**
-- Certificate number: CN/22466Q
-- Date: 2019-09-21
-- Next review scheduled: October 2022
+- Certificate number: CN/18125IS
+- Date: 2022-07-12
+- Next review scheduled: 2025-07-02
+
 
 If you need a copy of these certifications you can find them in the [Knowledge Base](https://drive.google.com/drive/u/0/folders/1V6Gh1PJ0WeBb90i6cVYkXXHkkYHKXeuJ) (this an internal only link)
 
