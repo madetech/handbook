@@ -1,16 +1,10 @@
-## Freelancers/Past Employees
-The People team lead offboarding of any permanent or contract staff leaving the business. You will be expected to return any Made Tech devices in your possession, and access to any Made Tech accounts will be revoked on completion of your engagement. Core tools to revoke include:
-  - [ ] GitHub
-  - [ ] 1Password
-  - [ ] Google
-  - [ ] Slack
-  - [ ] Trello
-  - [ ] Harvest
-  - [ ] Recruitee
-  - [ ] Airtable Tables
-  - [ ] Small Improvements
-  - [ ] AWS
-  - [ ] Heroku
-  - [ ] Contentful
+On your last day for Made Tech, your access to Made Tech services will stop at 1715. If you need access past that point then please speak to your Line Manager or Delivery Manager before your last day.
 
-- [ ] Revoke access to any VPNs
+Before that point, please ensure you’ve completed the below closing down tasks:
+
+- If you are the owner of any Google documents, Miro boards or Trello boards which relate to the project, please transfer the ownership to another member of your team.
+- If you have access to Github, check if your teams have access to the information and add them if not. Approve or reassign any changes or anything created so your team has access to them.
+- If you have a Client laptop ensure you have spoken to your Delivery Manager about how to return that.
+- Completed your timesheet up to and including your final day.
+
+The Business Operations Team will remove access to all software. If you have a Made Tech laptop, Systemagic will be in touch regarding sending it back.
