@@ -100,14 +100,14 @@ or
 sudo rpm -i --nodigest ~/Downloads/Signed-SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm
 ```
 
-### Step 2 Register the Made Tech license key to your SentinalOne install 
+### Step 2: Register the Made Tech license key to your SentinalOne install 
 
 You can find the license key in 1Password.
 ```
 sudo /opt/sentinelone/bin/sentinelctl management token set [license_key]
 ```
 
-### Step 3 Start the Service
+### Step 3: Start the Service
 ```
 sudo /opt/sentinelone/bin/sentinelctl control start
 ```
