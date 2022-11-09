@@ -37,7 +37,7 @@ Your device must require a password/passphrase to login, return from screensaver
 Your password/passphrase must conform to the Made Tech Password Policy. You should also use a password manager and 2FA.
 
 ### How you connect your device to networks
-We have our own VPN which automatically authenticates with G Suite. Everyone can use the service (not only engineers) for a more secure experience (i.e. protecting yourself when using a public WiFi). To connect to the VPN, please refer to the [guide found in the Handbook.](../vpn/README.md) 
+We have our own VPN which automatically authenticates with G Suite. Everyone can use the service (not only engineers) for a more secure experience (i.e. protecting yourself when using a public WiFi). To connect to the VPN, please refer to the [guide found in the Handbook.](../it//vpn/README.md) 
 
 ### Disk Encryption
 You must encrypt all your data storage devices. This includes:

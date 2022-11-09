@@ -68,7 +68,7 @@ Your system should *not* auto mount or auto run files when media, such as a remo
 In Ubuntu this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
 
 ## VPN
-You must be have [Made Tech's VPN](../vpn/README.md) configured on your system.
+You must be have [Made Tech's VPN](vpn/README.md) configured on your system.
 
 ## Anti-virus
 You must be running Anti-virus software. The installed AV software must:
@@ -100,14 +100,14 @@ or
 sudo rpm -i --nodigest ~/Downloads/Signed-SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm
 ```
 
-### Step 2 Register the Made Tech license key to your SentinalOne install 
+### Step 2: Register the Made Tech license key to your SentinalOne install 
 
 You can find the license key in 1Password.
 ```
 sudo /opt/sentinelone/bin/sentinelctl management token set [license_key]
 ```
 
-### Step 3 Start the Service
+### Step 3: Start the Service
 ```
 sudo /opt/sentinelone/bin/sentinelctl control start
 ```
