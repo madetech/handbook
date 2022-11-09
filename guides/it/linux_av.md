@@ -68,7 +68,7 @@ Your system should *not* auto mount or auto run files when media, such as a remo
 In Ubuntu this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
 
 ## VPN
-You must be have [Made Tech's VPN](/vpn/README.md) configured on your system.
+You must be have [Made Tech's VPN](vpn/README.md) configured on your system.
 
 ## Anti-virus
 You must be running Anti-virus software. The installed AV software must:
