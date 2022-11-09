@@ -6,7 +6,7 @@ Most standard software including SaaS applications will be set up on your laptop
 Some software is installed on Mac or Windows laptops to ensure we can keep the hardware safe and working, and to meet our CE+ and ISO certification obligations. Please do not attempt to remove the following software:
 - Jamf - this is a management platform for our Apple devices. Jamf reports back to Systemagic and Made Tech Ops on security settings, security updates and will allow us to remotely push out settings like the Made Tech VPN connection and virus protection.
 - JamfProtect (Mac only) - this is anti-virus software.
-- Webroot (PC only) - this is anti-virus software.
+- SentinelOne (PC & Linux) - this is anti-virus software.
 
 ## Requesting access to software
 If you need something that isn't installed please don't just go and buy it or use a free trial - we probably already have a licence and can get you set up. In some cases we may ask you to use our standard tools rather than a personal preference as we're looking to avoid duplication in having many tools performing similar or the same job. We also need to demonstrate that we have the correct measures in place to protect our data, our clients' data, and their customers' data. The tools we use are a key part of that.
@@ -19,7 +19,7 @@ If you would like to request new software that Made Tech doesn't currently use a
 If you need access to existing software email [operations@madetech.com](mailto:operations@madetech.com) or drop a Slack in #Ops (except where indicated). This is not an exhaustive list (we're still working on that).
 
 - Google Workspace (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
-- Slack
+- [Slack](https://github.com/madetech/handbook/blob/main/guides/it/slack.md)
 - Trello
 - [Miro](https://github.com/madetech/handbook/blob/main/guides/it/Miro.md)
 - Salesforce / Kimble
