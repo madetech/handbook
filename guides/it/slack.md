@@ -2,8 +2,7 @@
 
 ## Purpose of this guide
 
-As of writing, we've grown to over 150 team members and we're also operating almost fully remotely. As such, Slack is one of our most important cross company tools and used extensively by everyone.
-This guide is not intended to be a set of rules around using slack, this document is a guide to how we use slack. This should help everyone understand how to get the most out of slack while also being able to minimise distractions, notification noise and control their own focus time, without missing important updates from their team and the wider organisation.
+Slack is one of our most important cross company tools and used extensively by everyone. This guide is not intended to be a set of rules around using slack, this document is a guide to how we use slack. This should help everyone understand how to get the most out of slack while also being able to minimise distractions, notification noise and control their own focus time, without missing important updates from their team and the wider organisation.
 
 # Profiles
 
@@ -35,7 +34,8 @@ Slack channels broadly fall under the following categories:-
  - Off topic channels (prefixed `x-`). These channels are entirely optional to join and use, feel free to create off topic channels if your interest or hobby is not yet represented!
  - Bot channels or 'firehose' channels. It is occasionally useful to setup bots that post information to specific channels periodically, it is advised that you only need to join these channels if you are involved in monitoring such information.
 
-As of writing, it is expected every slack user will be present in `#announcements` (in fact, you cannot leave this default channel), this is so that everyone can be reached in case of an important announcement.
+Every slack user will be in `#announcements` (in fact, you cannot leave this default channel), this is so that everyone can be reached in case of an important announcement. This channel is for pre-booked annoucements only so unless you have agreed an announcement with the People Team your message probably belongs in common-room.
+
 There are no other channels mandatory for _all_ users, but it is expected you will be in channels relevant to your working group.
 
 ## Private channels and group chats
@@ -71,6 +71,6 @@ Please remember to be courteous, polite and treat your colleagues with respect, 
 
 We have many custom emojis, feel free to add more and use them.
 
-Many of our developers have built useful bots and integrations, such as the lunch group bot, donut time and the merit bot. Feel free to use these and develop your own, if you do so it is a good idea to present new additions in a company showcase!
+Many of our developers have built useful bots and integrations, such as the merit bot. Feel free to use these and develop your own, if you do so it is a good idea to present new additions in a company showcase!
 
 Many teams find external integrations useful if working with other supported tools, from setting up CI/CD alerts to more esoteric functions. You may need to contact an administator for some additions, but generally you're free to add useful external integrations at your own discretion.
