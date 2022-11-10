@@ -29,14 +29,11 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Small Improvements (slack #team-people)
 - Airtable
 - Amazon Web Services (AWS)
-- Atlassian
 - GitHub
 - Hibob
 - Jamf
 - JetBrains
 - Microsoft Azure
-- Reward Gateway
-- Torii
 - Workable
 - Xero
 
@@ -46,12 +43,8 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Figma
 - Dovetail
 - Consent Kit
-- Adobe
-- Excel
+- Adobe Creative Cloud or relevant applications
 - Lucidchart
 - Microsoft Teams
 - Office 365
 - TablePlus
-- Word
-- Zoom
-- Mural
