@@ -27,10 +27,31 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Learnably (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - HiBob (slack #team-people)
 - Small Improvements (slack #team-people)
+- Airtable
+- Amazon Web Services (AWS)
+- Atlassian
+- GitHub
+- Hibob
+- Jamf
+- JetBrains
+- Microsoft Azure
+- Reward Gateway
+- Torii
+- Workable
+- Xero
 
-### Role specific
+### Role specific (Request required)
 - Jetbrains (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - [Docker](https://github.com/madetech/handbook/blob/main/guides/it/docker.md)
 - Figma
 - Dovetail
 - Consent Kit
+- Adobe
+- Excel
+- Lucidchart
+- Microsoft Teams
+- Office 365
+- TablePlus
+- Word
+- Zoom
+- Mural
