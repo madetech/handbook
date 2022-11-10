@@ -1,17 +1,36 @@
-# What To Do When Your Device is Lost or Stolen
+# Lost stolen devices
 
-Lost and stolen devices pose a security threat to both us and our clients whose proprietry information may be lost with the device. 
+## What to do when a device is lost or stolen
+Any lost or stolen devices (laptops, mobiles or tablets) pose a security threat to both us and our clients. So if this happens to you, don’t panic! Please follow the steps below and let us know as soon as you can. This process is in place to help you - you won’t get shouted at.
 
-For Team members using the standard build of Made Tech device, we are able to use MDM (mobile device management) software to remotely wipe data from your device. 
+## Made Tech laptop is lost or stolen
+If your Made Tech Laptop is lost or stolen, please contact the Police as soon as possible. You should provide them with the following details:
 
-## Reporting a device as stolen
-The first thing you should do if you believe your device is lost or stolen is report it to the police.
+- Office address (London, Manchester or Bristol)
+- Your address
+- Where and when you believe it was stolen or lost.
 
-When reporting to the police you should provide them with the following details:
- - Office address
- - Your address
- - Where and when you believe you lost or had it stolen
- - The relevant device details from HiBob: make, model and serial number
- - Any location info available in Find My iPhone/Mac
+You also need to contact the Business Operations Team asap so they can disable the device to ensure it cannot be used to access Made Tech data. You can do this via Slack: #ops-it-support or email: [Operations@madetech.com](mailto:operations@madetech.com).
 
-Once the report of the stolen device is made to the police, you should then contact the Made Tech Security Manager and report it like any other incident. When you make your report you should also include the crime reference number the police have provided you with.
+Following this, please email Compliance with as much detail as possible including the crime number. [Compliance@madetech.com](mailto:compliance@madetech.com).
+
+## Client laptop is lost or stolen
+If your Client issued laptop is lost or stolen, please contact the Police as soon as possible. You should provide them with the following details:
+
+- Office address (London, Manchester or Bristol)
+- Your address
+- Where and when you believe it was stolen or lost.
+
+You also need to contact your Delivery Manager asap so they can liaise with the Client so the Client can disable the device to ensure it cannot be accessed.
+
+Following this, please email Compliance with as much detail as possible including the crime number [Compliance@madetech.com](mailto:compliance@madetech.com). Please also contact Operations so they are aware of the incident, either via Slack: #ops-it-support or email: [Operations@madetech.com](mailto:operations@madetech.com).
+
+## Personal Devices lost or stolen (laptop, mobiles and tablets)
+If your personal device is lost or stolen and it contains any Made Tech data (eg. email, Slack), please contact the Police as soon as possible. 
+
+You also need to contact the Business Operations Team asap so they can remove the device from your Made Tech profile to ensure it cannot be used to access Made Tech data. You can do this via Slack: #ops-it-support or email: [Operations@madetech.com](mailto:operations@madetech.com).
+
+Following this, please email Compliance with as much detail as possible including the crime number [Compliance@madetech.com](mailto:compliance@madetech.com).
+
+## Further help
+If you are affected by your loss or theft then please reach out to our People Team, Mental Health First Aiders or just reach out, you are not on your own
