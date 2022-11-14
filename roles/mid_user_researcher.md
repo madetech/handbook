@@ -1,6 +1,6 @@
 # User researcher 
 
-- Salary: £36,000 - £45,000 with a London-weighting of £40,000 - £50,000
+- Salary: £29,750 - £42,500 (London-weighting £31,237 - £44,625)
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 3](sfia/user_researcher.md)
