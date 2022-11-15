@@ -1,6 +1,6 @@
 # Probation at Made Tech
 
-When someone joins Made Tech, they're "on probation" for a short time.
+When someone joins Made Tech, they're "on probation" for three months.
 This means their notice period is shorter - usually one week.
 
 At the end of probation, people either pass or fail. Most people pass.
@@ -18,7 +18,7 @@ This guidance is written for line managers, but may be useful for people on prob
 In the first week, explain probation to your direct report. Talk about what it is, and how to pass it.
 
 Each week, meet them one-to-one.
-Get feedback from their team, and reflect on it together. You should clarify the need for constructive feedback here - it's important to set progression goals and this helps identifying areas for development.
+Get feedback from their team, and reflect on it together. You should clarify the need for constructive feedback here - it's important to set progression goals and this helps identify areas for development.
 Ensure clarity on role expectations and core values.
 Talk often about whether they're on-track to pass.
 Be honest and upfront about concerns or skills gaps and support your direct report by providing clarity on what those are, and discuss finding opportunities for them to demonstrate progress.
@@ -70,15 +70,21 @@ Feedback can be difficult to get. If it's not clear whether they are on-track fo
 
 ## Finishing probation
 
-Make a recommendation on behalf of your direct report to your 'Head of'. This would usually be by email and copy the people team in.
+Make a recommendation on behalf of your direct report to your 'Head of'. This is done through Hibob.
+
+Actioning a probation through Hibob.
+This is done via your direct reports profile > Actions > Employee Updates > Probation.
+
+You’ll have the space to add in all feedback gathered from you and your direct report, finishing this recommendation with either a “pass”, “Extend” or “Fail” decision before submitting. 
+Once submitted, this will go straight to your 'Head of’ for approval.
 
 Highlight feedback from the team about them and a short summary of how they demonstrated meeting or exceeding their role expectations and our core values. Be sure to include balanced feedback that also includes areas for development or further focus and growth for your team member based on the feedback provided or that you have observed as line manager.
 
-Your 'Head of' will make the final decision on whether to pass, extend, or fail probation, informed by your feedback, and will confirm to the people team to finalise this. If the decision is a pass, the People team will then get in touch with your direct report and copy you in.
+*Your 'Head of' will make the final decision on whether to pass, extend, or fail probation, informed by your feedback*
 
 ### Passing probation
 
-Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be in the email from the people team too).
+Once your Head of has confirmed they agree with your recommendation to pass probation, congratulate them on passing probation. Confirm their new notice period (this will be reflected in your Hibob profile under the section, Work). The People team will action post-probation benefits.*
 
 Decide together how often to have one-to-ones from now on (we'd recommend a minimum of monthly).
 
@@ -86,17 +92,17 @@ Decide together how often to have one-to-ones from now on (we'd recommend a mini
 
 Ensure conversations happen early on to assess and review progress during the probation period and gives your direct report an opportunity to improve.
 
-If there is no/limited progress, get in touch with your Head of and the people team. Explore and agree next steps.
+If there is no/limited progress, get in touch with your Head of and the People team. Explore and agree next steps.
 
 If the probation period has not been successful, hold a probation review meeting where you will tell the individual they haven't passed probation, and give them notice of their employment with Made Tech ending.
 
-It can be difficult and stressful for all involved. Talk to the people team for support.
+It can be difficult and stressful for all involved. Talk to the People team for support.
 
 ### Extending probation
 
 Sometimes, it's not clear at the end of probation if someone would succeed at Made Tech long-term.
 
-In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the people team know of any extension so they can update relevant systems too.
+In these rare cases, work with your 'Head of' to extend probation, agreeing on a fixed amount of time. Let the People team know of any extension so they can update relevant systems too.
 
 Being on probation can be stressful. Think carefully when deciding between extending and failing.
 
@@ -104,4 +110,5 @@ Being on probation can be stressful. Think carefully when deciding between exten
 
 Failed probations sometimes mean something went wrong in our hiring.
 
-Talk to the hiring team and the people team about a failed probation, to see if anything can be learned or changed.
+Talk to the hiring team and the People team about a failed probation, to see if anything can be learned or changed.
+
