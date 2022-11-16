@@ -1,11 +1,11 @@
-# Senior Designer
+# Senior Designer 
 
 - Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
 - SFIA: [Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
 
-Designers might already be a product designer, UX designer, service designer or interaction designer.
+Designers might already be a product designer, UX designer, service designer or interaction designer. 
 
 ## Summary
 
@@ -13,7 +13,7 @@ Made Tech wants to positively impact the country's future by using technology to
 
 Our Senior Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction and assuring the quality of design delivery within a team working on complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
-## Key responsibilities
+## Key responsibilities 
 
 ### Scope
 
@@ -49,7 +49,7 @@ Our Senior Designers are strong practitioners who work with minimal support and 
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of the UCD community at Made Tech
 
-## Competencies
+## Competencies 
 
 - Client Focus
 - Drive to Deliver
@@ -68,3 +68,5 @@ Here are some of our most popular benefits listed below:
 - [Remote Working](../benefits/remote_working.md)
 - [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
+
+

@@ -7,11 +7,12 @@
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery. 
 
-Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the public sector. They do this by ensuring that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech.
+Lead User Researchers are expert practitioners who influence and mentor others. They work with teams to deeply understand people’s lives, services, organisations, and outcomes for the public sector. They do this by ensuring that teams take a user-centred, evidence-based approach to service design and delivery. They can lead a team to understand a complex policy area and identify the most value in focusing. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
 
-## Key responsibilities
+
+## Key responsibilities 
 
 ### Scope
 
@@ -57,7 +58,7 @@ Lead User Researchers are expert practitioners who influence and mentor others. 
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of the UCD community at Made Tech
 
-## Competencies
+## Competencies 
 
 - Client Focus
 - Drive to Deliver

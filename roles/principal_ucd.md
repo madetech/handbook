@@ -6,15 +6,15 @@
 - [SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
 - Minimum of 50% of time billed on client work
 
-UCD Principals might come from doing leadership roles in user research, design or content design.
+UCD Principals might come from doing leadership roles in user research, design or content design. 
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery. 
 
 As a User Centred Design Principal, reporting to the Head of Design, you’ll enable public sector organisations to better design services that improve society. You will do this by building and managing strategic relationships, finding new opportunities and advising as a senior design leader.
 
-## Responsibilities
+## Responsibilities 
 
 ### Scope
 
@@ -41,7 +41,7 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 
 - Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision.
 - As part of an account team, help shape account plans and deliver against them.
-- Collaborate with the senior team to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work.
+- Collaborate with the senior team to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work. 
 - Alongside other senior leaders, write bids that win work
 
 ## Skills
@@ -79,7 +79,7 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of the UCD community at Made Tech
 
-## Competencies
+## Competencies 
 
 - Client Focus
 - Drive to Deliver
@@ -97,3 +97,5 @@ Here are some of our most popular benefits listed below:
 - [Remote Working](../benefits/remote_working.md)
 - [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
+
+

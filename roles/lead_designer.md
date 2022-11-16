@@ -1,4 +1,4 @@
-# Lead Designer
+# Lead Designer 
 
 - Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
@@ -11,9 +11,9 @@ Designers might already be a product designer, UX designer, service designer or 
 
 Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy User-Centred design (UCD) community and culture at Made Tech.
+Lead Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery across teams, and by leading multiple, or highly complex, services. They have an important role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
 
-## Key responsibilities
+## Key responsibilities 
 
 ### Scope
 
@@ -56,7 +56,7 @@ Lead Designers are expert practitioners who influence and mentor others. They wo
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of the UCD community at Made Tech
 
-## Competencies
+## Competencies 
 
 - Client Focus
 - Drive to Deliver

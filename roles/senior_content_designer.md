@@ -1,4 +1,4 @@
-# Senior Content Designer
+# Senior Content Designer 
 
 - Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
@@ -11,7 +11,7 @@ Made Tech wants to positively impact the future of the country by using technolo
 
 Our Senior Content Designer are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
 
-## Key responsibilities
+## Key responsibilities 
 
 ### Scope
 
@@ -48,14 +48,14 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of UCD community at Made Tech
 
-## Competencies
+## Competencies 
 
 - Client Focus
 - Drive to Deliver
 - Learning and Mentoring
 - Experienced in their Profession
 - Facilitation
-- Thinking through Making
+- Thinking through Making 
 
 ## Benefits
 
@@ -67,3 +67,4 @@ Here are some of our most popular benefits listed below:
 - [Remote Working](../benefits/remote_working.md)
 - [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
+
