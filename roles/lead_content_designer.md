@@ -1,17 +1,17 @@
-# Lead Content Designer 
+# Lead Content Designer
 
 - Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 5](sfia/lead_content_designer.md)
+- SFIA: [Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5)
 
 ## Summary
 
 Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech. 
+Lead Content Designers are expert practitioners who influence and mentor others. They work with teams and clients to design and deliver public services. They do this by setting the direction, assuring the quality of content delivery across teams, and leading multiple or highly complex services. They have an essential role in creating a healthy User-Centred design (UCD) community and culture at Made Tech.
 
-## Key responsibilities 
+## Key responsibilities
 
 ### Scope
 
@@ -54,14 +54,14 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of UCD community at Made Tech
 
-## Competencies 
+## Competencies
 
 - Client Focus
 - Drive to Deliver
 - Learning and Mentoring
 - Experienced in their Profession
 - Facilitation
-- Thinking through Making 
+- Thinking through Making
 
 ## Benefits
 
@@ -73,4 +73,3 @@ Here are some of our most popular benefits listed below:
 - [Remote Working](../benefits/remote_working.md)
 - [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
-

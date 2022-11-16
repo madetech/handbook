@@ -1,17 +1,17 @@
-# User researcher 
+# User researcher
 
 - Salary: £29,750 - £42,500 (London-weighting £31,237 - £44,625)
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 3](sfia/user_researcher.md)
+- SFIA: [Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3)
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery. 
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
 
-User Researchers are experienced practitioners who collaborate with others to understand challenges people and society face. They work within a team to inform the design and deliver public services. They do this by leading user research with real people, ensuring what their team is learning in research informs the end-to-end design of a chosen service.  
+User Researchers are experienced practitioners who collaborate with others to understand challenges people and society face. They work within a team to inform the design and deliver public services. They do this by leading user research with real people, ensuring what their team is learning in research informs the end-to-end design of a chosen service.
 
-## Key responsibilities 
+## Key responsibilities
 
 ### Scope
 
@@ -45,7 +45,7 @@ User Researchers are experienced practitioners who collaborate with others to un
 
 - Delivery of good public services for users with clients
 
-## Competencies 
+## Competencies
 
 - Client Focus
 - Drive to Deliver
@@ -63,4 +63,3 @@ Here are some of our most popular benefits listed below:
 - [Remote Working](../benefits/remote_working.md)
 - [Paid counselling](../guides/welfare/paid_counselling.md)
 - [Paid anniversary break](../benefits/paid_anniversary_break.md)
-
