@@ -3,7 +3,7 @@
 - Salary: £72,250-£114,750 with a London-weighting of £75,862-£120,487
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- [SFIA Level 6](sfia/ucd_principal.md)
+- [SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
 - Minimum of 50% of time billed on client work
 
 UCD Principals might come from doing leadership roles in user research, design or content design. 

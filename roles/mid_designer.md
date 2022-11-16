@@ -3,7 +3,7 @@
 - Salary: £29,750 - £42,500 with a London-weighting of £31,237 - £44,625
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 3](sfia/designer.md)
+- SFIA: [Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3)
 
 Designers might already be a product designer, UX designer, service designer or interaction designer. 
 

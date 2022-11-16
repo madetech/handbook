@@ -3,7 +3,7 @@
 - Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 5](sfia/lead_user_researcher.md)
+- SFIA: [Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5)
 
 ## Summary
 

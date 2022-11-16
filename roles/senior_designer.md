@@ -3,7 +3,7 @@
 - Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 4](sfia/senior_designer.md)
+- SFIA: [Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
 
 Designers might already be a product designer, UX designer, service designer or interaction designer. 
 
