@@ -4,7 +4,7 @@
 - Salary: £23,587 - £38,250 with a London-weighting of £24,766 - £40,162
 - Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
 - Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 2](sfia/associate_designer.md)
+- SFIA: [Level 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2)
 
 Associate Designers might 
 
