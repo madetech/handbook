@@ -1,3 +1,3 @@
-# Legacy SFIA responsibility description
+# Legacy SFIA Guidance
 
-These home-made SFIA responsibility descriptions are no longer applicable. They have been superseded by the open source SFIA responsibility descriptions: https://sfia-online.org/en/sfia-8/responsibilities
+This home-made SFIA guidance is no longer applicable. It has been superseded by the open source SFIA responsibility descriptions: https://sfia-online.org/en/sfia-8/responsibilities
