@@ -113,3 +113,15 @@ sudo /opt/sentinelone/bin/sentinelctl control start
 ```
 
 Once installed and you've started the service check with Ops to ensure you have registered to the SentinalOne dashboard successfully. If this was successful you can remove your previous Anti-virus solution. Should you face any problems or require support please reach out to #ops-it-support or #linuxination on Slack
+
+
+## UEFI Settings
+
+You probably want to go into the UEFI setup by hitting "Enter" to interrupt boot and then F1, and ...
+
+- Enable virtualization. (in "Security")
+    - You don't need this for containers, but you do for "proper" virtual machines
+- Change the sleep state from S0 ("Windows 10") to S3 ("Linux") (in Config .. Power)
+    - Without doing this you may experience "hot bag syndrome", flat batteries, and lower battery life in suspend
+- Enable "swap Ctrl and Fn"
+    - Because let's face it, the ThinkPad keyboard layout isn't right without doing this
