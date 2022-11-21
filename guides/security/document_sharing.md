@@ -1,4 +1,4 @@
-## Document sharing to external parties
+## Sharing documents outside Made Tech
 
 We know that many teams collaborate directly with clients, suppliers and partners through our Google Workspace, and that working that way is a key part of both our culture and process. We want to enable that whilst also making sure that we’re only granting access to information to people who need it for as long as they need it.
 
