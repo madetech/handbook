@@ -34,6 +34,6 @@ For any urgent security issues then Slack, email or call anyone in the Ops team.
 - [All about Linux](https://github.com/madetech/handbook/blob/main/guides/it/linux_av.md)
 
 The below are all internal only links
-- [VPN - When to use it and how to access it](https://docs.google.com/document/d/1NhgadCEFMTETzIHdEkPCHFVUi1_U_BKZFCPI1dub9EU/edit) 
+- [VPN - When to use it and how to access it](https://drive.google.com/drive/u/0/folders/14w3BXtsrgUqRmJ73QFhGXiCo3ufjvMmI) 
 - [Wifi - Staff and guest network info](https://sites.google.com/madetech.com/signpost/home/it-support) 
 - [Intro to InfoSec training](https://docs.google.com/presentation/d/1Ubthx1C1MOHhbf2BBvAnU2Jw3YW2Ej4e9zKhvprHgzE/edit#slide=id.g5c95da9fba_0_0)
