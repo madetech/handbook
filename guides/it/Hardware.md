@@ -39,7 +39,7 @@ You may have or receive a laptop with a slightly different spec - these are olde
 
 Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was November 2021.
 
-If there is an issue with your laptop please email [support@systemagic.co.uk](mailto:support@systemagic.co.uk)
+If there is an issue with your laptop please email [our IT support.](mailto:itsupport@madetech.com)
 
 ## Laptop replacement cycles
 
