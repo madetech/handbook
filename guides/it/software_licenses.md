@@ -18,13 +18,13 @@ If you would like to request new software that Made Tech doesn't currently use a
 ## Standard Software
 If you need access to existing software email [operations@madetech.com](mailto:operations@madetech.com) or drop a Slack in #Ops (except where indicated). This is not an exhaustive list (we're still working on that).
 
-- Google Workspace (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
+- Google Workspace (email [IT support](mailto:itsupport@madetech.com))
 - [Slack](https://github.com/madetech/handbook/blob/main/guides/it/slack.md)
 - Trello
 - [Miro](https://github.com/madetech/handbook/blob/main/guides/it/Miro.md)
 - Salesforce / Kimble
 - 1Password
-- Learnably (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
+- Learnably (email [IT support](mailto:itsupport@madetech.com))
 - HiBob (slack #team-people)
 - Small Improvements (slack #team-people)
 - Airtable
@@ -38,7 +38,7 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Xero
 
 ### Role specific (Request required)
-- Jetbrains (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
+- Jetbrains (email [IT support](mailto:itsupport@madetech.com))
 - [Docker](https://github.com/madetech/handbook/blob/main/guides/it/docker.md)
 - Figma
 - Dovetail
