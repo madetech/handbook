@@ -1,6 +1,6 @@
 Made Tech uses standard builds for the devices issued to team members to facilitate support and maintenance, and help enforce security standards. 
 
-As part of our commitment to secure working practices and abiding to our current Cyber Essential Plus Certification, we install separate admin and user device profiles on laptops. The reason this restriction is in place is to prevent the accidental downloading and installation of malicious software on company devices and to protect both Made Tech and our customers.
+As part of our commitment to secure working practices and maintaining our current Cyber Essential Plus (CE+) Certification, we install separate admin and user device profiles on laptops. This restriction prevents the accidental downloading and installation of malicious software on company devices and protects both Made Tech and our customers.
 
 Team members can request access to admin permissions by emailing [support@systemagic.co.uk](mailto:support@systemagic.co.uk) requesting admin access with details of the purpose for access e.g upgrading system software. Access should be used only in line with the purpose detailed in the request. You must not log into the admin account on your laptop directly.
 
