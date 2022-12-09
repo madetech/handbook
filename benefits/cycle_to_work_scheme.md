@@ -1,7 +1,7 @@
 # Cycle To Work 
 
 We take part in Cycle to Work as we wish to support those who wish to cycle to work whether it's for pleasure, aiming to be healthier, trying to be more green or any other reasons.
-Made Tech have a limit of £2500 with CycleScheme which can be used to purchase a bike and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options around owning your bike. The FAQ section of their website has lots of information regarding these options.If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
+Made Tech have a limit of £2500 with CycleScheme which can be used to purchase a bike and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options around owning your bike. The [FAQs section](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) of their website has lots of information regarding these options.If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
 
 
 ## Process for getting a bike through Cycle to Work on Made Tech Benefits Box
@@ -19,6 +19,7 @@ If you request your product before the 18th of the month your deductions will be
 CycleScheme is a great employee benefit which offers the most cost-effective way to get new cycling equipment. The scheme is run via a salary sacrifice meaning you won’t pay tax or national insurance – this saves you between 25% and 39% on your new bike and accessories. This reduced cost is simply deducted out of your payslip over 12 months, so no need to worry about large one-off costs!
 
 ### Is CycleScheme the only provider I can utilise this scheme through?
+
 Yes, as of 5th December 2022.
 
 ### What is the maximum value I can apply for?
@@ -26,7 +27,7 @@ The maximum value you can apply for is £2500.
 
 ### How do I know how much to apply for?
 
-We recommend finding your perfect bike and accessories before applying so you know exactly what amount to apply for. This way you won’t apply for too much or too little – this is really important to get right because you cannot amend your application once you have been approved. You can also use the Savings Calculator to find out how much you will be saving on your package.
+We recommend finding your perfect bike and accessories before applying so you know exactly what amount to apply for. This way you won’t apply for too much or too little – this is really important to get right because you cannot amend your application once you have been approved. You can also use the [Savings Calculator](https://www.cyclescheme.co.uk/calculator) to find out how much you will be saving on your package.
 
 ### How often can I use the Cycle to Work scheme?
 
@@ -70,7 +71,7 @@ This one’s down to you! Looking after the bike is your responsibility, so we e
 
 ### What happens to the bike at the end of the scheme?
 
-Once your hire period has come to an end, CycleScheme team will get in touch to discuss your options (Own it later, Own it now and Return.) The FAQ section of their website has lots of information regarding these options. 
+Once your hire period has come to an end, CycleScheme team will get in touch to discuss your options (Own it later, Own it now and Return.) The [FAQs section](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) of their website has lots of information regarding these options. 
 
 ### Who owns the bike?
 
@@ -89,7 +90,7 @@ We completely understand that life can be unpredictable. If you were to leave yo
 
 Through CycleScheme, you will save between 25% and 39% through tax and national insurance and the cost will simply be deducted from your payslip. You’ll also get loads of free extras, discounts and benefits on the CycleScheme website which you would not get on Interest Free Finance! For example, a bike costing £1000 could cost as little as £56.60 a month over 12 months on CycleScheme - compared to £83.33 through Interest Free Finance.
 
-### Once I put in my application via Made Tech Benefit’s box how long will it take to process my application?
+### Once I put in my application via the CycleScheme website how long will it take to process my application?
 
 We will review any new requests every Friday afternoon so you shouldnt be waiting for more than one week for approval from Made Tech. 
 
