@@ -132,9 +132,3 @@ Security Engineering
 Leadership
 
 - [Head of Capability Practice](head_of_capability_practice.md), Cyber Security
-
-## Operations and Finance
-
-- [Operations Coordinator](_operations_coordinator.md)
-- [Operations Manager](_operations_manager.md)
-- [Financial Controller](_financial_controller.md)
