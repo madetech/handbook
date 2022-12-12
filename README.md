@@ -1,5 +1,7 @@
 # Made Tech Handbook
 
+# This is a test commit
+
 At Made Tech we want to positively impact the future of the country by using technology to improve society. We work with public sector organisations to modernise technology and accelerate digital delivery so that citizens can benefit from better public services.
 
 We're building an open and transparent company across the UK, full of people who are passionate about their work, who always strive to be better, who love to help others grow and who care about using digital and technology to create a better, fairer society.
