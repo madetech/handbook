@@ -48,7 +48,7 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* If you leave Made Tech part way through the year we will use 30 days to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
+* If you leave Made Tech part way through the year we will use 30 days (or your pro-rata days if you work part-time) to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
 
 ## Festive period at Made Tech 
 
