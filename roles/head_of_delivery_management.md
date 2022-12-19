@@ -65,7 +65,7 @@ Articulation and role modelling of values, purpose, and vision
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
 
 ## Salary and location
 
@@ -78,4 +78,4 @@ The salary for this role is location dependant:
 
 ## Applying
 
-When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
