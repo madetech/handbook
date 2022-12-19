@@ -1,58 +1,52 @@
 # Lead Software Engineer
 
-Bristol, Manchester & London, UK.
+Our Lead Software Engineers work with organisations to deliver digital, data and technology outcomes that improve society. They do this by establishing and managing teams to deliver software in public sector organisations.
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
+## Your role at Made Tech
 
-Our Lead Engineers work with teams to deliver digital, data and technology outcomes that improve society. They do this by establishing and managing teams to deliver software in public sector organisations.
+At Made Tech we want to positively impact the future of the country. We help public sector organisations deliver quality software to help citizens get more from public services. We work alongside brilliant public servants to modernise technology and accelerate digital delivery.
 
-## What does the job entail?
+You will combine technical excellence, drive to deliver, and coaching to achieve better outcomes for our clients and their users, and establish strong engineering cultures within organisations. You’ll work on a variety of different problems, including monoliths, microservices, and upskilling colleagues and clients.
 
-At Made Tech we want to positively impact the future of the country by using technology to improve society. We help public sector organisations deliver quality software to help citizens get more from public services. To do this we work alongside brilliant public servants to modernise technology and accelerate digital delivery.
+Depending on our clients' needs you may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software. Other times you’ll be more of a technical architect in one or more teams.
 
-You will combine technical excellence, drive to deliver, and coaching, to achieve outcomes for our customers and their users, and to establish strong engineering cultures within our customers organisations. You will find yourself working on a variety of different problems from monoliths to microservices, upskilling colleagues and customers.
+You will need to be a person who enjoys a varied workload, is happy to switch between being more and less hands-on, but don't see yourself stepping away from code any time soon. It might be that you're stronger as a tech lead or a tech architect, or only have experience in one area. That's okay as long as you have an interest and willingness to broaden your expertise.
 
-Depending on our customers' needs you may play one or more roles. Sometimes the role is very hands-on and you'll be the most senior engineer on the team delivering software, other times you will play more of a technical architect in one or more teams.
+You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves to particular technologies and we expect all of our engineers to be keen on learning new skills.
 
-You will need to be a person who enjoys a varied workload, are happy to switch between being more and less hands-on, but don't see yourself stepping away from code any time soon. It might be that you're stronger as a Tech Lead or as a Tech Architect, or only have experience in one area, that's okay as long as you have an interest and willingness to broaden your expertise.
+High-performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
 
-You will have the opportunity to work across a variety of technologies and will need to be comfortable doing so. Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular, C# with .NET Core, Java with Spring, Python with Django, and plenty more stacks. We don’t limit ourselves as a company to particular technologies and we expect all our engineers to be keen on learning new skills.
+We've been using AWS from the start and as Advanced Partners are go-to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies. We also offer official AWS and other cloud training.
 
-High performing software delivery teams need to be empowered to iteratively and rapidly deliver changes all the way through to production. To do this we combine our extensive cloud automation knowledge with DevOps culture.
+We make sure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, as is using AWS Lambda and avoiding the complexity of stateful services altogether. 
 
-We've been using AWS from the start and as Advanced Partners are go to experts within the public sector. We use a range of IaaS, PaaS and FaaS depending on the needs of our users, in this case software teams, such as EC2, Lambda, ECS, Kubernetes, Heroku, CloudFoundry, Azure App Services, and more. We use VPC and PrivateLink for connecting to on-premise, legacy systems. We also use API Gateway, S3, CloudFront, SQS, SNS, SES, RDS, and many other services provided by AWS. You will have the opportunity to use and learn these technologies and we offer official AWS and other cloud training.
+For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is in coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or tasked with deploying other people’s work into production. You'll empower teams with the mantra “you build it, you run it”!
 
-We ensure we document our architecture and infrastructure as code, using technologies such as Terraform and OpenAPI. Containerisation is a big part of empowering our teams to develop, deploy and scale their applications, but so too is using AWS Lambda and avoiding the complexity of stateful services altogether. Right tool for the job.
+We have a team of polyglot programmers (which you might already consider yourself to be), who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. You will need to be comfortable sharing your knowledge and skills with others. We’d love to hear some examples of times you’ve mentored, coached, and contributed to the growth of team members. Maybe you’ve written some blog posts about your discipline, or perhaps even delivered a talk or two that you’d like to share.
 
-For us, DevOps is about culture rather than roles and titles. Even though this role is for someone with strong DevOps experience, the biggest impact you will have is coaching and helping teams use the platforms you build. You won't be building infrastructure in isolation or charged with deploying other peoples work into production. You'll empower teams with the mantra: you build it, you run it!
+## What skills and experience do we look for?
 
-We grow a team of polyglot programmers, which you might already consider yourself to be, who are versed in a mix of paradigms such as object-oriented, functional, declarative, event-based and aspect-oriented. You will need to be comfortable sharing your knowledge and skills with others. We’d love to hear some examples of mentoring, coaching and growing team members. Maybe you will have written some blog posts about your discipline, or perhaps even delivered a talk or two.
+We look for the following skills and experience. But when we’re hiring for this role, if you don’t have some of the skills and experience listed below, don’t let that stop you from applying! 
 
-## What experience are we looking for?
-
-While we will look for you to have experience in these things, if you don’t have one of these don’t let that stop you applying.
-
-- Working directly with customers and users
+- Working directly with clients and users
 - Working within multidisciplinary teams with product, design, and technology working within the same cycles
 - Agile practices such as Scrum, XP, and/or Kanban
 - Showcasing and presentation skills
-- Written code with test-driven development
-- Worked with many programming languages
-- Worked with many databases
-- Worked with APIs
-- Worked with a cloud platform such as AWS, GCP and/or Azure
-- Experience in influencing architecture and teams
+- Writing code with test-driven development
+- Working with many programming languages
+- Working with many databases
+- Working with APIs
+- Working with a cloud platform such as AWS, GCP and/or Azure
+- Influencing architecture and teams
 - Debugging experience in a range of systems
 - Evidence of self-development – we value keen learners
-- Drive to deliver outcomes for users
-- Desire to mentor others
 - Empathy and people skills
 
-## Optional experience
+## Desirable experience
 
-Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
+Experience in the following things isn’t essential, but it’s highly desirable!
 
-- Experience in technology consultancy
+- Working at a technology consultancy
 - Pair programming
 - Component-based design techniques such as using pattern libraries, styled-components, CSS-in-JS, BEM, and/or SUIT CSS
 - Debugging infrastructure
@@ -61,35 +55,13 @@ Don’t forget to mention any of the experience listed below. While it’s optio
 - Use of architectural decision records
 - Writing blog posts and giving talks
 
-## What we will provide you
+## Work perks and benefits
 
-Balancing life and work:
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
 
-* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
-* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
-* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
-* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](../guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+## Salary and location
 
-Making work as fabulous as possible:
-
-* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
-* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
-
-Compensating you fairly:
-
-* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
-* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
-* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
-
-## Salary
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
 
@@ -98,4 +70,4 @@ The salary for this role is location dependant:
 
 ## Applying
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). If you don't quite fit the role, the role doesn't quite fit you, or you have questions please email us at [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
