@@ -53,4 +53,17 @@ You should seek advice from LRA before starting any procedure.
 You can find information on how to make a claim on gov.uk: https://www.gov.uk/employment-tribunals
 
 ## Disciplinary Procedure
-We always prefer to handle minor misdemeanours in an informal – grown up - way. Where required, we follow the [ACAS CoP](https://www.acas.org.uk/article/2174/Discipline-and-grievance-Acas-Code-of-Practice) for handling disciplinary procedures, which will be invoked in the unusual event that a member of staff breaches any of our Company policies or performs (or assists in) an illegal or immoral activity. 
+We always prefer to handle minor misdemeanours in an informal way, however in the event of misconduct at Made Tech, we follow a formal disciplinary (conduct) procedure detailed in our policy [here.](https://docs.google.com/document/d/1qIp6jGlUD726J4zJ8A-ZpOzxNw28EwZP/edit) 
+
+This policy applies to misconduct and gross misconduct from our team members, and it includes what is and is not acceptable behaviour at Made Tech. 
+
+We would always start the process with an investigation to understand what has happened, this could lead to a disciplinary meeting. The possible outcomes of a disciplinary meeting could be a warning or no further action. 
+
+Should a team member’s actions be considered gross misconduct, this could then lead to suspension and/or dismissal. You would be given the right to appeal if you were given a warning or dismissed. 
+
+If you are involved in or have been affected by a conduct procedure, you can reach out for support from: 
+
+- The people team
+- Our [Employee Assistance Programme](https://github.com/madetech/handbook/blob/main/guides/welfare/paid_counselling.md#employee-assistance) 
+- [ACAS](https://www.acas.org.uk/) (the Advisory, Conciliation and Arbitration Service) 
+
