@@ -1,47 +1,22 @@
 # Expenses
 
-We trust the team to be able to expense the things they need to perform their job. We offer the ability to submit expenses you've incurred by spending your own money on something the company should pay for.
+There is now a fully documented Made Tech expenses policy which covers trains, travel, hotel accommodation, and reimbursement of other business expenses. As it is more detailed than the previous guidance, the policy has been changed to an internally facing document for now. [You can find the document here](https://docs.google.com/document/d/1NthAC1xepzAI07o40c6WxXHbPttNxaCidhJ22eJHD-k/edit#).
 
-## What can you expense?
 
-We provide some examples below of what is okay to expense. We trust you to be able to follow these guidelines. If you feel like you need clarification, do speak to your Head of or your Line Manager.
+There is additional information on [equipment to enable you to work from home](../../benefits/work_ready.md), and [eye tests](expenses/eyetest.md) on those pages.
 
-- Books for work (programming, best practice, sales, etc.)
-- Some training costs (not available for purchase via Learnerbly)
-- Amenities for the office (coffee, fruit, biscuits, etc.)
-- Lunch and drinks for a customer
-- Stationery (post-it notes, notepads, etc.)
-- Conference tickets (speak with your Head of or Line Manager if over £150 per ticket)]
-- [Work related travel](expenses/travel.md)
-- [Equipment to enable you to work from home](../../benefits/work_ready.md)
-- [Eye tests](expenses/eyetest.md)
-
-Sometimes as part of a delivery you may need to undertake travel (stay at a hotel, feed yourself etc.), and the customer agrees to cover this expense. When you pay for this off your own card, Made Tech will reimburse you and then seek to recoup the cost from the client via the monthly invoicing process. It is the responsibility of Delivery Leads to discuss with customers what is expensable or not, as customers may have guidelines about what can be expensed.
 
 ## How do you expense?
 
-There are two methods of purchasing items listed above. The first is the easiest, using a company credit card. You will not incur any personal costs if you used this method. 
+All expense claims need to be submitted via [Xero](https://login.xero.com/identity/user/login). If you don’t have a login please drop a message in #ops-finance or email [finance@madetech.com](mailto:finance@madetech.com).
 
-The second is paying for an item yourself and then expensing that payment via the Xero Expenses app or [website](https://go.xero.com).
+There is more detail in the policy but all claims must be made within 90 days, and will typically be paid within 2 weeks.
 
-Importantly, all receipts for both company credit card and personal expenses need to be VAT receipts for tax reasons.
+There are also some approval processes in place:
+- Normal expenses: Claims that align with the policy will be approved but any claims that are outside of the guidelines will need approval from your Head of Department.
+- Account expenses: Expenses that are aligned to a specific delivery or account (e.g. client entertainment, travel to meetings, etc) should be agreed with the Delivery Manager and/or account team in advance. 
+- Events and conferences: Expenses need to be approved in advance by the relevant Head of Department.
 
-### Expensing payments you personally paid for
-
-If you have purchased an item with your own money that is listed above, you can submit this expense and you will be compensated via bank transfer when expenses are processed.
-
-You need to submit these expenses via the Xero Expenses app. You can download this to your phone from App Store/Google Play. Alternatively you can submit these via the [website](https://go.xero.com).
-
-To get reimbursed:
-
- * You need to submit a receipt that shows the VAT or VAT number. Please do not submit bank statements etc.
- * You need to include a suitably detailed description: Instead of "Travel" say "Train to Glasgow for Housing Scotland Review"
- * You need to select the name of the delivery from the "Client" list. Do not select from "Customer". (This is confusing - be vigilant.)
- * You need to select a "Business Unit". For delivery related expenses for travel/food etc the correct Business Unit is "Delivery/Operations". For food/drink/social expenses inside Made Tech (e.g. team drinks), the correct unit is "People"
-
-All of the above criteria need to be included in your expense to be accepted by Finance.
+For all other information please read the policy document and send any questions to #ops-finance or [finance@madetech.com](mailto:finance@madetech.com).
 
 
-## Does Made Tech ever cover the cost of customer-related expenses?
-
-That depends. In the case of customer entertainment (e.g. buying drinks for customers), yes. In all other cases, such as signing up for a third party service to support a customer delivery this should typically be procured by the customer.
