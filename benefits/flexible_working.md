@@ -1,19 +1,15 @@
 # Flexible Working
 
-For a variety of reasons, people may choose to work fewer days per week than the usual Monday - Friday.
+For a variety of reasons, people may prefer to work fewer than 5 days per week.
+We try to accommodate this when we can. Because of client considerations, and to manage any other business impact, we have a process for requesting a flexible working pattern. Generally, we work Monday to Friday in all roles.
 
-Wherever possible we aim to accommodate this. 
-Note: This benefit is only available to current team members as the majority of our open roles are advertised as full time.
-We'll always aim to support working patterns where we can, due to client considerations, we have an internal process for requesting a flexible working pattern, and we default roles to a standard pattern
 
 ## Some things to consider
 
-- Please provide as much notice as you're able - ideally 2 months or more - for a change to your working patterns. It allows us to ensure deliveries are resourced appropriately.
+* Please provide as much notice as you're able - ideally 2 months or more - for a change to your working patterns. It helps us make sure our client commitments can continue to be met.
+* As project and scheduling needs change, we'll do our best to accommodate flexible working patterns. But there may be very occasional times when we need to discuss temporary or permanent changes to a flexible working schedule. We'll try to give you as much notice as we can of any possible change.
+* Your salary and any bonus payments will be pro-rated as a percentage of a 5 day week. For example, if you work 4 out of 5 days, your salary and any bonus would be reduced by 20%.
+* As your salary is reduced, so too will your individual and employer pension contributions. You may like to increase your individual contribution to account for this.
+* If you request a flexible working pattern, there’s usually a temporary trial period to assess the feasibility before any final change is confirmed.
+* At the moment, we can only ordinarily support reduced working hours and not compressed hours or other patterns (such as annualised hours etc).
 
-- As staffing needs across the business change, we'll do our best to continue to accommodate any flexible working patterns. However, there may be times where we need to discuss temporary or permanent changes to your flexible working schedule. We'll try to give you as much notice as possible of any proposed change.
-
-- Your salary and any bonus payments will be pro-rated as a percentage of a 5 day week. For example, if you opt to work 4 out of 5 days, your salary and any bonus would be reduced by 20%.
-
-- As your salary is reduced, so too will your individual and employer pension contributions. You may consider increasing your individual contribution to account for this.
-
-- As per our [remote working policy](remote_working.md), we encourage Fridays to be spent in the office wherever possible.
