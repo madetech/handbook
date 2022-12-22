@@ -28,30 +28,28 @@ For more information on contributing, including how to as a non-technical user, 
 
 Balancing life and work:
 
-* ✈️ [Taking Holiday](benefits/flexible_holiday.md) – We offer a generous amount of leave
+* ✈️ [Taking Holiday](benefits/flexible_holiday.md) – We offer 30 days’ paid annual leave
 * 🕰️ [Flexible Working Hours](benefits/working_hours.md) – We are flexible with what hours you work
 * 🗓️ [Flexible Working Days](benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
 * 👶 [Flexible Parental Leave](guides/welfare/parental_leave.md) – We provide flexible parental leave options
 * 👩‍💻 [Remote Working](benefits/remote_working.md) – We offer part-time remote working for all our staff
 * 🤗 [Paid counselling](guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
 
 Making work as fabulous as possible:
 
-* 💻 [Work Ready](benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](guides/learning/README.md) – We provide flexible learning time to develop yourself
-* 🍽️ [Friday Lunches](benefits/friday_lunch.md) – We randomly match up colleagues and new starters every Friday and pay for lunch
-* 🏓 [Getting Together](benefits/getting_together.md) – We pay for social drinks on a Friday
+* 💻 [Work Ready](benefits/work_ready.md) – On top of your Macbook, we provide a budget for other equipment you might need to get set up for work
+* 💡 [Learning](guides/learning/README.md) – We provide a learning budget to help develop your skills
+* 🍽️ [Friday Lunches](benefits/friday_lunch.md) – We randomly match up and new starters and some other team members to have lunch on us
+* 🏓 [Getting Together](benefits/getting_together.md) –  We hold regular social events so you can get to know your teammates better
 
 Compensating you fairly:
 
 * 💷 [Transparent Salary Bands](roles/README.md) – We publish salary bands so you know you're being fairly compensated
 * 👌 [Annual Salary Reviews](guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* 🌟 [Promotions](guides/compensation/salary_reviews.md) - We have two promotion windows every year
-* ⛷️ [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
+* ⛷️ [Pension Scheme](benefits/pension_scheme.md) – We provide a pension scheme which we contribute to to help you plan for your future
 * 🚄 [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
+* 🚕 [Expenses Paid](guides/compensation/expenses.md) – We’re happy to cover a range of work-related expenses in line with our expenses policy
 * 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – A more affordable way for our team to buy the latest tech gadgets
 * 🏦 [Income Protection & Life Assurance](benefits/income_protection_and_life_insurance.md) - Financial support provision when you or your family might need it most
 
