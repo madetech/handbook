@@ -1,18 +1,14 @@
 # Maternity, Paternity, Adoption & Shared Parental Leave
 
-Whether because you or your partner is having a baby, if you're adopting a child or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so that you can welcome the new child (or children!) into your family.
-Our paid Parental Leave is the same for all!
-
-Note: You will have to be in employment with Made Tech for a minimum of 26 weeks to be eligible for these benefits.
+Whether you or your partner are having a baby, you're adopting a child or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so you can welcome the new child (or children!) into your family. Our paid parental leave is the same for all!
+Note: You will have to have worked at Made Tech for at least 26 weeks at the point of the baby’s birth to be eligible for these benefits.
 
 ## Maternity and Adoption Leave
 
-We provide 12 weeks Maternity/Adoption Leave at full pay followed by statutory pay for a further 39 weeks. You can take up to a total of 52 weeks.
-
+We provide 12 weeks Maternity/Adoption Leave at full pay. If you’re eligible, you’ll get statutory pay for a further 39 weeks. You can take up to a total of 52 weeks.
 In the case of Adoption Leave, only one parent can take this type of leave. The other parent will need to take Paternity Leave or Shared Parental Leave.
 
-The breakdown of pay is as follows:
-
+The breakdown of pay is:
 - 12 weeks at 100% pay (from Made Tech)
 - 6 weeks at 90% pay (Statutory Maternity/Adoption Pay)
 - 33 weeks at £151.20 or 90% pay which ever is lower (Statutory Maternity/Adoption Pay)
