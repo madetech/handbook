@@ -1,5 +1,4 @@
-# Principal Product Manager (SFIA Level 6) 
-
+# Principal Product Manager 
 Principal Product Managers ensure products and services deliver measurable value, by exploring:
 - User needs; defined through comprehensive research. 
 - Organisational needs; defined by the requirements placed upon or introduced by the client (Eg. legislation).
@@ -61,3 +60,15 @@ Collaborates with Leadership, Lead Product Managers and Account team to:
 
 ## Competencies
 Principal Product Managers display Made Tech’s values, relevant [(Head of Product) DDaT capabilities](https://www.gov.uk/guidance/product-manager#head-of-product) and [SFIA (Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6) behaviours.
+
+## Work perks and benefits
+Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you. 
+
+## Salary and location
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+
+The salary for this role is location dependant.
+
+## Applying
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
+
