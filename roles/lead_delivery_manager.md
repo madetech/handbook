@@ -106,7 +106,7 @@ Lead Delivery Managers are expected to be operating at, or working towards, [SFI
 * Demonstrate positive response to feedback with course correction
 
 ## Work perks and benefits 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
