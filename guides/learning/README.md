@@ -2,20 +2,12 @@
 
 ## Learning & Development at Made Tech
 
-Learning & Mentoring is a core value at Made Tech and we strive to continuosly learn and improve ourselves. We want to share our own knowledge with others and default to a mentoring mindset when doing so internally and externally.
+Learning and mentoring is a core value at Made Tech. We strive to continuously learn and improve ourselves. We want to share our own knowledge with others and adopt a mentoring mindset, both with team members and clients.
 
 ## What resources are available to develop myself
 
-All team members have up to 12 days per year of personal learning time that can be used flexibly - i.e 1 day a month, a 1 week block or 3 days per quarter - whatever works best for you. You may request more days if needed, and if this is supporting your career progression. 
-
-* Find out [how to book learning time](booking_learning_time.md)
-* Find our more about our [interim learning time status](https://docs.google.com/document/d/1GR9gCWPioHVnMz9F9Pic7UEA6nW9yS7TeBi9nCiO8TE/edit) (internal link only).
-
-You will get a personal learning budget of £300 via **Learnerbly** our online learning platform, where you can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It is important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you are working towards.
-
-In addition to that, there will be a variety of internally created content, plus partnerships with external providers for anything that we can't delivery in-house, e.g. certifications and specialised courses.
-
-* The 12 days should be focussed on attaining and/or improving skills relevant to your role.
+You will get a personal learning budget of £300 which is ready for you to use in Learnerbly, our online learning platform. You can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It’s important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you’re working towards.
+There is also a variety of learning content developed and shared by people at Made Tech, plus partnerships with external providers for anything that we can't deliver in-house, like certifications and specialised courses.
 
 ### When joining Made Tech
 Both the number of learning days and your learning budget allowances will be pro-rated based on your joining date:

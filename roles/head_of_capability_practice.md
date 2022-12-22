@@ -41,7 +41,7 @@ A Head of Capability Practice is responsible for delivering the above outcomes b
 - Consistently deliver thought leadership content and work with marketing to promote and drive growth
 - Encourage cross-community and multi-disciplinary collaboration
 
-## Competencies
+###### Competencies
 
 - Articulation and role modelling of values, purpose, and vision
 - Strategic thinking and planning
@@ -55,7 +55,7 @@ A Head of Capability Practice is responsible for delivering the above outcomes b
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 
@@ -65,7 +65,6 @@ The salary for this role is location dependant:
 
 - UK: £100,000 - £135,000
 - London & South East: £105,000 - £141,750
-
 
 ## Applying
 

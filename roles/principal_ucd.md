@@ -61,7 +61,7 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 - Desire to mentor others
 - Empathy and people skills
 
-### Optional skills
+### Desirable skills
 
 - Working within an account or programme leadership team
 - Working with sales teams to win new work
@@ -87,15 +87,10 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 - Experienced in their Profession
 - Facilitation
 
-## Benefits
+## Work perks and benefits
 
-Here are some of our most popular benefits listed below:
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech) to see what we can offer you. 
 
-- [Flexible Holiday](../benefits/flexible_holiday.md)
-- [Flexible Working Hours](../benefits/working_hours.md)
-- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
-- [Remote Working](../benefits/remote_working.md)
-- [Paid counselling](../guides/welfare/paid_counselling.md)
-- [Paid anniversary break](../benefits/paid_anniversary_break.md)
-
+##  Applying
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
 
