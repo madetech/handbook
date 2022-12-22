@@ -48,7 +48,7 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits)
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook)
  to see what we can offer you. 
 
 ## Salary and location
