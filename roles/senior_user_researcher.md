@@ -1,14 +1,13 @@
 # Senior User Researcher
 
+- Location: remote/hybrid with occasional client site visits
+- Offices: London, Bristol, Manchester, and Swansea
 - Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
-- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
-- Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
-
+- SFIA: Level 4
 
 ## Key responsibilities
 
-### Scope
+## Scope
 
 - Responsible to the Lead User Researcher for informing the design and delivery of public services
 - Hands-on research and research leadership for one product/team
@@ -19,21 +18,21 @@
 - Contributes to and may lead communities of practice, discussing and sharing suggestions, approaches and ideas - including proactively seeking feedback on own work
 - May mentor and coach within the research community and line manage researchers
 
-### Practice
+## Practice
 
 - Scope the focus of research, so everyone involved has a shared understanding of what success looks like
 - Plan research that informs the design of public services that are helpful, usable and successful
 - Put research participants at ease, so they're comfortable sharing information
 - Analyse and interpret research findings so that teams can confidently confirm or challenge their understandings of problems and ideas
 
-### Leading teams
+## Leading teams
 
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
 - Assure the quality of decisions across multiple teams
 - Share research freely and often
 - Make decisions based on research findings; model this behaviour to the rest of your team
 
-### Community
+## Community
 
 - Line manage other user researchers
 - Support the hiring and onboarding of designers and researchers
@@ -47,23 +46,18 @@
 - Case studies of how to design and deliver good public services and outcomes
 - Growth and happiness of the UCD community at Made Tech
 
-## Competencies 
+## Competencies
 
 - Client Focus
-- Drive to Deliver
-- Learning and Mentoring
-- Experienced in their Profession
+- Drive to deliver
+- Learning and mentoring
+- Experienced in their profession
 - Facilitation
 
-## Benefits
+## Work perks and Benefits
 
-Here are some of our most popular benefits listed below:
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
 
-- [Flexible Holiday](../benefits/flexible_holiday.md)
-- [Flexible Working Hours](../benefits/working_hours.md)
-- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
-- [Remote Working](../benefits/remote_working.md)
-- [Paid counselling](../guides/welfare/paid_counselling.md)
-- [Paid anniversary break](../benefits/paid_anniversary_break.md)
+## Applying
 
-
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
