@@ -114,7 +114,7 @@ Delivery Principals are expected to be operating at, or working towards, [SFIA l
 Demonstrate positive response to feedback with course correction
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook] (https://github.com/madetech) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook] (https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 
