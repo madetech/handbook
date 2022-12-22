@@ -34,14 +34,14 @@ A Head of Capability Practice is responsible for delivering the above outcomes b
 - Management of capability team including performance, progression, career paths and succession planning
 - Maintain high levels of motivation and retention in the capability team
 
-## Community and thought leadership
+###### Community and thought leadership
 
 - Continuously improve service delivery and ways of working based on past successes and failures
 - Foster thriving community of practice and shared identity
 - Consistently deliver thought leadership content and work with marketing to promote and drive growth
 - Encourage cross-community and multi-disciplinary collaboration
 
-## Competencies
+###### Competencies
 
 - Articulation and role modelling of values, purpose, and vision
 - Strategic thinking and planning
@@ -55,7 +55,7 @@ A Head of Capability Practice is responsible for delivering the above outcomes b
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 
