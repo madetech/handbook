@@ -65,7 +65,7 @@ Articulation and role modelling of values, purpose, and vision
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 
