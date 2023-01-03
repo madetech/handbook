@@ -9,7 +9,7 @@ For any queries regarding offices please email [operations@madetech.com](operati
 
 # Access information
 
-Below is information on access and layout for each of our offices. This is also available in the handbook. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](operations@madetech.com), and we will assist you with completing a PEEP.
+Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](operations@madetech.com), and we will assist you with completing a PEEP.
 
 ## London 
 
@@ -64,7 +64,7 @@ The doors are wide enough for a standard wheelchair.
  
 The desks are a set height (approximately 70 cm) with extension leads to plug into located on top of the desks.
  
-The kitchen is a shared kitchen within Runway East; there are dishwashers within the lower cabinets, as well as a full-height fridge. Cups are stored in an upper cabinet which may be difficult for someone in a wheelchair to access. Hot drinks supplies are stored on the countertop and may be difficult to access from a lower height.
+The kitchen is a shared kitchen within Runway East; there are dishwashers within the lower cabinets, as well as a full-height fridge. Cups are stored in an upper cabinet which may be difficult for some people to access without assistance. Hot drinks supplies are stored on the countertop and may be difficult to access from a lower height.
 
 
 ### Health and safety information 
