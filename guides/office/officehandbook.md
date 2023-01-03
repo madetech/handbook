@@ -27,11 +27,9 @@ There are low beams on the ceiling.
 
 The floors are hardwood, they are fairly flat. 
 
-The office is split over two floors. 
+The office is split over two floors. The office is all open space with one large and one small meeting room available on the second floor. The first floor has glass partitions but these do not exclude all office noise. Both floors can be quite noisy.
 
 The kitchen is on the second floor, and access is through double doors made of glass. They are relatively light to open and open inwards and outwards. You can access snacks and cold drinks from lower cupboards, and some snacks are laid on the counter. Kettles and coffee machines are stored on the worktops. Mugs are stored in upper cupboards. The dishwasher is integrated into the lower cupboard units.
-
-The office is an open space, with some smaller meeting rooms available, although these may not exclude all office noise.
 
 Most of the desks are adjustable with extension leads to plug into located on top of the desks.
 
@@ -63,6 +61,8 @@ The doors are wide enough for a standard wheelchair.
 ### Layout and office information 
  
 The desks are a set height (approximately 70 cm) with extension leads to plug into located on top of the desks.
+
+The office is all open plan and can get quite noisy.
  
 The kitchen is a shared kitchen within Runway East; there are dishwashers within the lower cabinets, as well as a full-height fridge. Cups are stored in an upper cabinet which may be difficult for some people to access without assistance. Hot drinks supplies are stored on the countertop and may be difficult to access from a lower height.
 
@@ -94,7 +94,9 @@ The desks are a set height (73.5 cm tall) with extension leads to plug into loca
 
 Pathways within the office are wide enough to be easily accessed by a wheelchair.
 
-The kitchen is on the same floor as the office and is a shared kitchen; there are no doors to access the kitchen. Cups are stored in upper cabinets, while plates are in lower cabinets. Hot drinks supplies are stored on the countertops in the kitchen; these might be difficult to access from a wheelchair. There is a dishwasher in a lower cabinet. There is a microwave on the counter and one in the upper cabinets.
+The office is all open plan and can get quite noisy.
+
+The kitchen is on the same floor as the office and is a shared kitchen; there are no doors to access the kitchen. Cups are stored in upper cabinets, while plates are in lower cabinets. Hot drinks supplies are stored on the countertops in the kitchen; these may be difficult for some people to access without assistance. There is a dishwasher in a lower cabinet. There is a microwave on the counter and one in the upper cabinets.
 
 The ground and 4th floors have accessible toilets.
 
