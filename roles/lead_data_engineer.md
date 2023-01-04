@@ -1,12 +1,12 @@
 # Lead Data Engineer
 
-Our Lead Data Engineers enable public sector organisations to embrace a data-supported approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to the client's needs. They manage teams to develop, operate, and maintain these services. They make sure they’re providing maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Lead Data Engineers enable public sector organisations to embrace a data-supported approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to our clients' needs. They manage teams to develop, operate, and maintain these services. They make sure they’re providing maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## Your role at Made Tech 
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are secure, user-centric, data-driven and freed from legacy technology. A key component of this is developing modern data systems and platforms that drive informed decision-making for our clients. You will also work closely with clients to help shape their data strategy.
 
-You may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll both manage the team and contribute to a project, delivering engineering work including code as well as upskilling members of the client team. At other points, you might play more of a technical architect role, ensuring that the wider context of a delivery is considered and maintaining alignment between the operational and analytical aspects of the engineering solution.
+You may play one or more roles according to our clients' needs. Sometimes the role is very hands-on and you'll both manage the team and contribute to a project, delivering engineering work including code as well as upskilling members of the client team. At other points, you might play more of a technical architect role, making sure that the wider context of a delivery is considered and maintaining alignment between the operational and analytical aspects of the engineering solution.
 
 As a senior member of the data capability within Made Tech, you will also be responsible for our hiring and continued development of the team, as well as representing us both internally to the organisation and publicly via presentations. At times, you will participate in the bid process of winning new contracts as a technical representative for the capability, using your data expertise to demonstrate the value that we can deliver. You will also line-manage members of the team up to a senior level.
 
