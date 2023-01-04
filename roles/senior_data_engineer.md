@@ -1,6 +1,6 @@
 # Senior Data Engineer
 
-Our Senior Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to clients’ needs. They develop, operate, and maintain these services, as well as ensuring they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
+Our Senior Data Engineers enable public sector organisations to embrace a data-driven approach by providing data platforms and services that are high-quality, cost-efficient, and tailored to clients’ needs. They develop, operate, and maintain these services. They make sure they provide maximum value to data consumers, including analysts, scientists, and business stakeholders.
 
 ## Your role at Made Tech 
 
@@ -38,9 +38,11 @@ Experience in the following things isn’t essential, but it’s highly desirabl
 - Working knowledge of statistics
 - Working with multidisciplinary digital and technology teams
 - Working within the public sector
-- Work perks and benefits
-- Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook)
- to see what we can offer you. 
+
+## Work perks and benefits
+
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook)
+to see what we can offer you. 
 
 ## Salary and location
 
