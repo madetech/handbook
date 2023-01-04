@@ -6,42 +6,42 @@ Our Heads of Capability Practices are responsible for building world class profe
 
 Heads of Capability Practices share a common set of outcomes and KPIs that work towards our organisational purpose, vision and missions. To be successful they must work as one team with Industry Practices, the Delivery Management Organisation and Business Services. They should:
 
-- Generate public sector demand for a set of capabilities
-- Help make sure there’s high growth of revenue and headcount
-- Maximise utilisation and make the most of bench time by using it to invest in career development, training, and sales
-- Maximise retention by building a strong practice identity and clearly defining career pathways
-- Balance retention and profitability to grow a healthy delivery organisation while minimising costs
+- generate public sector demand for a set of capabilities
+- help make sure there’s high growth of revenue and headcount
+- maximise utilisation and make the most of bench time by using it to invest in career development, training, and sales
+- maximise retention by building a strong practice identity and clearly defining career pathways
+- balance retention and profitability to grow a healthy delivery organisation while minimising costs
 
 ## Responsibilities
 
 A Head of Capability Practice is responsible for delivering the above outcomes by collaborating with the business. They report to the Executive Director for Delivery and Capabilities who is their line manager and representative in the Executive Committee.
 
-###### Strategy and management
+### Strategy and management
 
 - Influence policy and strategy on behalf of the Capability Practice
 - Contribute to annual/quarterly planning and be responsible for the delivery of goals
 - Support integration and collaboration of the Delivery Management Organisation and Capability Practices with each other and the wider organisation
 
-###### Demand Generation
+### Demand Generation
 
 - Develop and maintain capability and industry-specific go-to-markets and propositions
 - Work closely with industries to meet growth targets
 - Provide bid support, quality assurance, and sponsorship
 
-###### Hiring and careers
+### Hiring and careers
 
 - Scale supply of capability team ahead of demand
 - Management of capability team including performance, progression, career paths and succession planning
 - Maintain high levels of motivation and retention in the capability team
 
-###### Community and thought leadership
+### Community and thought leadership
 
 - Continuously improve service delivery and ways of working based on past successes and failures
 - Foster thriving community of practice and shared identity
 - Consistently deliver thought leadership content and work with marketing to promote and drive growth
 - Encourage cross-community and multi-disciplinary collaboration
 
-###### Competencies
+## Competencies
 
 - Articulation and role modelling of values, purpose, and vision
 - Strategic thinking and planning
