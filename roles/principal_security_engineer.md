@@ -2,13 +2,13 @@
 
 Our Principal Security Engineers enable public sector organisations to mitigate cyber and information security risks across an increasingly complex and threatened mix of technology-enabled services. They provide senior security leadership and support to our clients and teams, build and manage key relationships with clients, manage security and risk across one or more accounts, and support sales.
 
-## Ypur role at Made Tech
+## Your role at Made Tech
 
 At Made Tech we want to positively impact the future of the country by using technology to improve society, for everyone. We want to empower the public sector to deliver and continuously improve digital services that are user-centric, data-driven and freed from legacy technology. Underpinning this is a need for us to do this securely, handling public data safely, and defending against increasing cyber and information security risks.
 
-As a Principal Security Engineer you will work closely with our clients’ senior leadership to help inform their security strategy and to ensure our teams are delivering secure digital services and cloud-based platforms, aligned to our clients’ risk tolerance. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
+As a Principal Security Engineer you will work closely with our clients’ senior leadership to help inform their security strategy and to make sure our teams are delivering secure digital services and cloud-based platforms, aligned to our clients’ risk tolerance. Working alongside delivery, client and other capability principals, you will help shape account plans and be responsible for delivering against them.
 
-Working with Made Tech's leadership you will ensure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting sales teams and developing new business is critical to this role.
+Working with Made Tech's leadership you will make sure our work with customers is aligned to our growth goals and you will play a pivotal role in identifying new opportunities and winning work. Running bid teams, supporting sales teams and developing new business is critical to this role.
 
 You’ll need to have a drive to deliver outcomes for users and have a desire to mentor teams. You will coach and support Lead Security Engineers to steer their teams towards success. You will also be responsible for hiring and line managing Lead Security Engineers.
 
@@ -37,11 +37,11 @@ We look for the following skills and experience. But when we’re hiring for thi
 
 ## Desireable experience
 
-Don’t forget to mention any of the experiences listed below. While it’s optional, it’s all highly desired!
+Experience in the following things isn’t essential, but it’s highly desirable!
 
 - Leadership of a cyber and information security capability or function
 - A relevant cyber and information security qualification (one of: CISSP, SSCP, CISM, CRISC, CAP, CPP, GCHQ-certified Master’s degree in cyber security, or a PhD that is relevant to cyber security)
-- Penetration testing qualifications (one of: OSCP, CREST, TIGER or equivalent)
+- Penetration testing qualifications (OSCP, CREST, TIGER or equivalent)
 - Working within bid teams to win contracts exceeding value of £1m
 - Working with multidisciplinary digital and technology teams
 - Working within the public sector
@@ -49,7 +49,7 @@ Don’t forget to mention any of the experiences listed below. While it’s opti
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook] (https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you.
 
 ## Salary and location
 
