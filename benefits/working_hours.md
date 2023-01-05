@@ -1,21 +1,19 @@
 # Working Hours
 
-We care about the quality of the work we produce rather than the amount of hours worked. We believe we individually know how we work best and can therefore set our own hours.
+We care more about the quality of the work we produce than the amount of hours worked. We believe we individually know how we work best and can therefore set our own hours.
 
-Some things to note:
+## Some things to note
 
- - We do not have a set amount of hours you need to work in a day or a week. Some people will work 6 hours, some 7, sometimes more than 8. Many of us will vary our hours day to day whilst others prefer routine.
+**Setting hours** - We don’t have a set amount of hours you need to work in a day or a week. Many of us will vary our hours day to day while others prefer routine.
 
- - We do not have a specific start time but we do have our Company Update on the first Wednesday of the month, and weekly Friday showcases. These are Wednesdays at 0930, and Fridays at 1630. So you should get into the office or dial in before those times.
+**Start time** - We don’t have a specific start time but we do have our company update on the first Wednesday of every month at 9:30am, and weekly Friday showcases at 4:30pm. You should be in the office or dial in remotely for these meetings.
 
- - Likewise, there isn't a time we expect everyone to leave the office. Of course if you're leaving at 1630 every day and are having problems delivering on your commitments someone will likely provide you with feedback to help improve things.
+**Ending your day** - There isn't a time we expect everyone to switch off their laptop or leave the office. If you're working shorter hours but having problems delivering on your commitments, someone is more likely to check in with you to see if everythings OK, and provide offers of support or some constructive feedback.
 
- - Pressure can creep in around deadlines and sometimes staying late to ensure a smooth launch or to help diagnose and fix a problem is a necessity. However these occasions should be very rare. If you regularly feel this pressure, say more than twice a year then speak to a colleague.
+**Longer hours** - The reality of working closely with clients is that there are deadlines. Sometimes working longer to make sure of a smooth launch or to help diagnose and fix a problem is needed. But we do everything we can to make sure these occasions are rare. If you regularly feel this pressure, say more than twice a year, we encourage you to raise this with a manager or another team member.
 
- - Pressure can also arise when peers work seemingly longer hours than yourself. All we can suggest is that we have open and honest ways of providing feedback so unless someone has raised an issue with you, you're likely doing fine.
+**Other team member hours** - You might also feel pressure if you notice other team members regularly seem to work longer hours than you. We suggest finding ways to share and receive open and honest feedback. Unless someone has raised an issue with you, everything’s probably fine.
 
- - We need to respect our commitments so if we have a meeting booked for a certain time you are expected to be accommodating. This isn't to say you can't be responsible for setting meeting times that fit your working style better.
+**Commitments** - We need to respect our commitments and the time of other team members. If a meeting is scheduled, we ask everyone to be as accommodating as they can. This isn't to say you can't be responsible for setting meeting times that fit your working style better.
 
- - If you are taking a half day, read about our [flexible holiday](flexible_holiday.md)
-
- - It's worth noting most of our employment contracts with staff do in fact have set contractual hours. This is so we can withdraw this privilege if necessary.
+**Contractual hours** - Most of our employment contracts do have set contractual hours. This is because we have a billed delivery operating model with clients that’s based on hours worked. This also helps us to adjust our flexible working policy in case that’s ever needed.
