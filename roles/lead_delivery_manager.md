@@ -1,6 +1,6 @@
 # Lead Delivery Manager
 
-Successfully leading complex digital projects to make sure that our clients have great experiences and achieve brilliant outcomes, and our teams deliver to their full potential
+Successfully leading complex digital projects to make sure that our clients have great experiences and achieve brilliant outcomes, and our teams deliver to their full potential.
 
 ## Your role at Made Tech
 
