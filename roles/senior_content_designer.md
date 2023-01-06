@@ -7,9 +7,10 @@
 
 ## Summary
 
-Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
-Our Senior Content Designer are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Content Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+
 
 ## Key responsibilities 
 
@@ -58,7 +59,7 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 - Thinking through Making 
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
