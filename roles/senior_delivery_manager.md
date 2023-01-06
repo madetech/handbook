@@ -1,9 +1,6 @@
 # Senior Delivery Manager
 
 Our Senior Delivery Managers lead digital projects. They make sure our clients have positive experiences and achieve great outcomes. They also make sure our teams deliver to their full potential.
-Manchester, London, and Bristol UK.
-
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
 
 ## Your role at Made Tech
 Senior Delivery Managers are accountable for successful project delivery. Normally working within one or two teams, you will promote effective cross-functional delivery by building motivated, collaborative delivery teams. You will use agile methodologies, with additional processes for managing dependencies, supporting risk mitigation and resolution, and managing the project scope and budget.
@@ -13,7 +10,6 @@ You will work as part of a cross functional delivery team, which may include cli
 You will have a good understanding of agile delivery, and are able to work with a team and client stakeholders to determine the delivery methodology that will best work with the needs of the project (for example Scrum, or Kanban). You will help build trust with stakeholders and guide clients throughout the delivery process using your influence to continuously iterate and approve team processes. You will work with a Product Manager to define and deliver against a roadmap in order to monitor whether the project is on track and support conversations about priority, scope and budget.
 
 You understand that you will get out what you put into the organisation you work in, so you look for ways to contribute to Made Tech beyond the scope of your delivery. This could include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of Delivery Managers and supporting recruitment activities. You may also contribute to other areas of the business, for example learning and development or marketing.
-
 
 ## Definition of success
 
@@ -62,7 +58,7 @@ Senior Delivery Managers are responsible for delivering the above outcomes by co
 ## Competencies and behaviours
 Senior Delivery Managers are expected to be operating at, or working towards, [SFIA level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
+Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -80,11 +76,11 @@ Senior Delivery Managers are expected to be operating at, or working towards, [S
 ### Performance management 
 
 * Demonstrate fast remediation of performance issues, including highlighting issues to the relevant capability lead and requesting support where necessary*
-* Demonstrate encouragement of high performers, to support them towards successful promotions*
-* Maintain compliance with all expectations of line management at Made Tech, with support*
+* Demonstrate encouragement of high performers, to support them towards successful promotions
+* Maintain compliance with all expectations of line management at Made Tech, with support
 * Demonstrate providing regular feedback for team members
 
-*NB: not all SDMs will be line managers, but this will not impact assessment of performance*
+Note: not all SDMs will be line managers, but this will not impact assessment of performance
 
 ### Effectively manage delivery risk and quality 
 * Demonstrate risk management activities including identification, assessment, mitigation, assessment and reporting to key stakeholders, with support as required
@@ -94,8 +90,8 @@ Senior Delivery Managers are expected to be operating at, or working towards, [S
 ### Coach teams to successfully deliver projects 
 * Articulate the benefits and use cases of a variety of delivery approaches, methods and tools - for example Kanban, Scrum, and Waterfall.
 * Demonstrate collaborating with capability experts (e.g. Lead Engineer / Lead Designer) to ensure deliveries adhere to best practices such as Security, DevOps, User Centred Design and Data Ethics
-* Be able to explain the purpose of each phase of the GDS Service Manual.
-Demonstrate knowledge of where to find and how to use the GDS service standard.
+* Be able to explain the purpose of each phase of the GDS Service Manual
+Demonstrate knowledge of where to find and how to use the GDS service standard
 * Be able to explain the Roles and Responsibilities of all of the roles that Made Tech employs
 * Be able to describe the Made Tech propositions, and articulate where to go or who to speak to learn more about these
 * Demonstrate advocacy of best practice delivery with teams and clients 
@@ -113,14 +109,15 @@ Demonstrate knowledge of where to find and how to use the GDS service standard.
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook] (https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location and experience dependant:
-UK: £40,500 - £76,500
-London & South East: £42,525 - £80,325
+
+- UK: £40,500 - £76,500
+- London & South East: £42,525 - £80,325
 
 
 ## Applying
