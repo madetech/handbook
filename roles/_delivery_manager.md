@@ -1,6 +1,6 @@
 # Delivery Manager
 
-**Work as part of a Delivery Team to ensure the team is able to deliver at their full potential.**
+Work as part of a Delivery Team to make sure the team is able to deliver successful projects.
 
 ## What does the job entail?
 
@@ -9,14 +9,15 @@ Delivery Managers support delivery teams to meet their full potential. This will
 As a Delivery Manager, you will work on a small or mature agile team and learn on the job. At this level, you may work alongside a more senior delivery manager on a larger team, shadowing and providing support, or working to deliver an element yourself under guidance and mentorship. You will work under general direction and attempt to solve problems with your delivery team, but will seek out and accept guidance where necessary.
 
 You’ll use cross-functional skills to support your delivery team to deliver successful outcomes to the client. You use empathy and effective listening skills to help the team collaborate. You will use your previous project management experience to identify and manage project dependencies, risks and issues collectively with the team. You use your communication skills to help communicate complex information to technical and non-technical stakeholders, and facilitate discussions within a multidisciplinary team. You will be able to answer most questions that client stakeholders ask, but know who to speak to for more complex issues or queries.
+
 With support, you will use your excellent attention to detail to ensure the project is delivered within budget, using tools such as Google Sheets to match up the time spent by the team with the amount of work left to complete.
 
 You are passionate about learning and developing your skill set, and are an active member of the Delivery Community of Practice (COP). You spend time learning from other capabilities (cloud & engineering, user-centred design, product & business analysis) about what good looks like in their areas of expertise.
 
+
 ## Definition of success
 
 Success as a Delivery Manager is predominantly measured by effectively contributing to a team, to support them in delivering successful outcomes for our clients. It is also assessed based on personal development and learning, as you move towards autonomy and being solely accountable for a delivery.
-
 
 ### Expected outcomes
 * Effective quality and risk management
@@ -58,12 +59,11 @@ Delivery Managers are responsible for delivering the above outcomes by collabora
 * Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
 * Contribute to developing a thriving community of practice and shared identity
 
-
 ## Competencies and behaviours
 
 Delivery Managers are expected to be operating at, or working towards, [SFIA level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
+Don’t worry - we don’t expect you to tick all of these when you join. We'll work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -108,8 +108,9 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location and experience dependent:
-*UK: £31,500 - £45,000
-*London & South East: £33,075 - £47,250
+
+- UK: £31,500 - £45,000
+- London & South East: £33,075 - £47,250
 
 ## Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
