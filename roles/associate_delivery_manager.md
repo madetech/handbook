@@ -1,6 +1,6 @@
 # Associate Delivery Manager
 
-**You’ll work as part of a delivery team. You’ll provide administrative and delivery assistance so the team can deliver to their full potential, while you develop the skills of a Delivery Manager.**
+You’ll work as part of a delivery team. You’ll provide administrative and delivery assistance so the team can deliver to their full potential, while you develop the skills of a Delivery Manager.
 
 ## Your role at Made Tech
 
@@ -20,7 +20,7 @@ Success as an Associate Delivery Manager is predominantly measured by how you su
 * Enabling a team by identifying and unblocking dependencies
 * Accuracy in all items worked on (for example budget trackers, meeting notes, timesheet approval)
 * Contribute to the Delivery Community of Practice
-* Becoming autonomous and accountable for a Delivery through personal development, learning, mentorship and shadowing
+* Becoming autonomous and accountable for a delivery through personal development, learning, mentorship and shadowing
 
 ### KPIs
 * Timesheet accuracy
@@ -30,11 +30,11 @@ Success as an Associate Delivery Manager is predominantly measured by how you su
 Associate Delivery Managers are responsible for delivering the above outcomes by collaborating with other members of their delivery team. 
 
 ### Project Level Delivery Assurance
-* Support the Delivery Lead to manage scope, budget and quality
-* Feed into the status of quality and risk reported to Heads of Delivery on a weekly basis 
-* Support the Delivery Team by facilitating ceremonies, doing administrative tasks and unblocking dependencies, with guidance
-* Support the Delivery Lead with identifying and managing risks, issues and dependencies
-* Where directed, review and approve timesheets, invoices and Kimble Forecasts, ensuring accuracy at all stages 
+- Support the Delivery Lead to manage scope, budget and quality
+- Feed into the status of quality and risk reported to heads of delivery on a weekly basis
+- Support the delivery team by facilitating ceremonies, doing administrative tasks and unblocking dependencies with guidance
+- Support the delivery lead with identifying and managing risks, issues and dependencies
+- Where directed, review and approve timesheets, invoices and Kimble forecasts, ensuring accuracy at all stages
 
 ### Personal Development
 * Regularly gather and act on feedback about personal development
@@ -49,9 +49,9 @@ Associate Delivery Managers are responsible for delivering the above outcomes by
 
 ## Competencies and behaviours
 
-Associate Delivery Managers are expected to be operating at, or working towards, [SFIA level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
+Associate Delivery Managers are expected to be operating at, or working towards, [SFIA level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) in all five competencies. The below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
+We don’t expect you to tick all the boxes when you join. We'll work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -62,7 +62,8 @@ Associate Delivery Managers are expected to be operating at, or working towards,
 * Understand and describe how the Delivery Lead ensures that the team is on track to meet the deliverables defined in the SOW
 
 ### Time management and prioritisation
-* Demonstrate prioritisation and time management
+- Demonstrate prioritisation
+- Demonstrate time management 
 
 ### Effectively manage delivery risk and quality 
 * Demonstrate supporting a Delivery Lead to perform risk management activities including identification, assessment, mitigation, assessment and reporting to key stakeholders
@@ -95,8 +96,9 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location and experience dependent:
-*UK: £24,975 - £40,500
-*London & South East: £26,223 - £42,525
+
+- UK: £24,975 - £40,500
+- London & South East: £26,223 - £42,525
 
 ## Applying
 
