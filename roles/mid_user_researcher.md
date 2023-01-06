@@ -48,16 +48,14 @@ User researchers are experienced practitioners who collaborate with others to un
 ## Competencies
 
 - Client focus
-
-## Drive to deliver
-
+- Drive to deliver
 - Learning and mentoring
 - Experienced in their profession
 - Facilitation
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook/tree/main/benefits) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Applying
 
