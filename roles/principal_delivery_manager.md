@@ -12,6 +12,7 @@ As a delivery leader within Made Tech you will maintain and grow your profession
 
 Delivery principals form part of the Delivery Management Organisation (DMO) leadership team, and contribute to the successful delivery of the outcomes and KPIs of the DMO. This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of delivery managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
+
 ## Definition of success
 
 Delivery Principal accomplishment is demonstrated by growing Made Tech’s impact, delivering high value services to our clients, and accelerating the careers of others in the DMO.
@@ -71,7 +72,7 @@ Delivery Principals are responsible for delivering the above outcomes by collabo
 ## Competencies and behaviours
 Delivery Principals are expected to be operating at, or working towards, [SFIA level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies.**
+We don’t expect you to tick all of these when you join. We'll work together to define learning and development objectives that help you meet these competencies.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -111,18 +112,19 @@ Delivery Principals are expected to be operating at, or working towards, [SFIA l
 * Demonstrate with feedback from seniors, peers, juniors and client stakeholders
 
 ### Continuous improvement and feedback
-Demonstrate positive response to feedback with course correction
+- Demonstrate positive response to feedback with course correction
 
 ## Work perks and benefits
-Take a look at the Benefits & Perks section of the [Made Tech Handbook] (https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
-UK: £76,500 - £121,500
-London & South East: £80,325 - £127,575
+
+- UK: £76,500 - £121,500
+- London & South East: £80,325 - £127,575
 
 ## Applying
 
