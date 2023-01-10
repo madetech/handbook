@@ -39,7 +39,7 @@ Some little extras at work:
 
 * 💻 [Work Ready](benefits/work_ready.md) – On top of your Macbook, we provide a budget for other equipment you might need to get set up for work
 * 💡 [Learning](guides/learning/README.md) – We provide a learning budget to help develop your skills
-* 🍽️ [Friday Lunches](benefits/friday_lunch.md) – We randomly match up and new starters and some other team members to have lunch on us
+* 🍽️ [Lunchers](benefits/lunchers.md) – We randomly match up and new starters and other team members to have lunch on us every fortnight
 * 🏓 [Getting Together](benefits/getting_together.md) –  We hold regular social events so you can get to know your teammates better
 
 Fair compensation and benefits:
