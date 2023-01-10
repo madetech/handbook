@@ -2,6 +2,7 @@
 
 Learning and mentoring is a core value at Made Tech. We strive to continuously learn and improve ourselves. We want to share our own knowledge with others and adopt a mentoring mindset, both with team members and clients.
 
+
 ## What resources are available?
 
 You'll get a personal learning budget of £300 which is ready for you to use in Learnerbly, our online learning platform. You can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It’s important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you’re working towards.
@@ -9,6 +10,7 @@ There is also a variety of learning content developed and shared by people at Ma
 
 
 ### When joining Made Tech
+
 Your learning budget allowances will be pro-rated based on your joining date:
 - Q1 starters - £300 personal learning spend
 - Q2 starters - £225 personal learning spend

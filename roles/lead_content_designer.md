@@ -66,7 +66,7 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ## Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!

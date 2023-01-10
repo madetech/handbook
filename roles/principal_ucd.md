@@ -1,16 +1,16 @@
 # User-Centred Design Principal
 
+- Location: mainly remote with occasional office and client visits
+- Offices: London, Bristol, Manchester, and Swansea
 - Salary: £72,250-£114,750 with a London-weighting of £75,862-£120,487
-- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
-- Hybrid working: Client-site/office 1-2 days per week
-- [SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
+- SFIA: Level 6
 - Minimum of 50% of time billed on client work
 
-UCD Principals might come from doing leadership roles in user research, design or content design. 
+UCD Principals might come from doing leadership roles in user research, design or content design.
 
 ## Summary
 
-Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery. 
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design-led can create positive outcomes in the public sector through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
 As a User Centred Design Principal, reporting to the Head of Design, you’ll enable public sector organisations to better design services that improve society. You will do this by building and managing strategic relationships, finding new opportunities and advising as a senior design leader.
 
@@ -23,25 +23,25 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 - Works with other leads in a client area to oversee multiple products - leading on quality and consistency
 - Autonomously identifies new problems & opportunities, and delivers impactful solutions
 - Leads the User Centred communities in Made Tech, concerned with insuring we are improving the user centred function
-- Work happens completely autonomously without regular need for review.
+- Work happens completely autonomously without regular need for review
 - Concerned about retention, hiring, and team quality
 
 ### Practice
 
 - Maintain a broad technical knowledge of user-centred design practices, be able to shape service design strategy, statements of work and roadmaps
-- Hold others to account for design quality.
+- Hold others to account for design quality
 
 ### **Community**
 
 - Hire and line manage designers and researchers
-- Coach and support Lead Designers and User Researchers to steer their teams towards success.
-- As a design leader within Made Tech, you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so.
+- Coach and support Lead Designers and User Researchers to steer their teams towards success
+- As a design leader within Made Tech, you will be expected to maintain and grow your professional network. You will be expected to contribute to thought leadership, content and events and should have a proven track record of doing so
 
 ### Client and sales
 
-- Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision.
-- As part of an account team, help shape account plans and deliver against them.
-- Collaborate with the senior team to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work. 
+- Work closely with the client’s senior leadership to help inform strategy and ensure that we’re delivering high-quality work aligned to our customer’s technology vision
+- As part of an account team, help shape account plans and deliver against them
+- Collaborate with the senior team to ensure work aligns with our growth goals; you will play a pivotal role in identifying new opportunities and winning work
 - Alongside other senior leaders, write bids that win work
 
 ## Skills
@@ -89,7 +89,7 @@ As a User Centred Design Principal, reporting to the Head of Design, you’ll en
 
 ## Work perks and benefits
 
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech) to see what we can offer you. 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
 ##  Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
