@@ -5,11 +5,11 @@ access, meeting rooms and connecting to the internet.
 Please take a look at the [main office handbook](https://docs.google.com/document/d/1trOGW8mUDmMhDLLJxZwi194WkA6liFk1j0wiAu27C3Q/edit) 
 (internal link) which holds general office information and links to the regional handbook for the office you are attached to. The office handbooks are also pinned to the top of the relevant office slack channel.
 
-For any queries regarding offices please email [operations@madetech.com](operations@madetech.com) or get in contact via slack #ops
+For any queries regarding offices please email [operations@madetech.com](mailto:operations@madetech.com) or get in contact via slack #ops
 
 # Access information
 
-Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](operations@madetech.com), and we will assist you with completing a PEEP.
+Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](mailto:operations@madetech.com), and we will assist you with completing a PEEP.
 
 ## London 
 
