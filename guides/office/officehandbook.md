@@ -77,7 +77,7 @@ There is no Braille in the office.
  
 Toilets are gendered, with accessible toilets within the gendered bathroom. Only the accessible toilets have self-contained hand-washing facilities.
 
-There are also showers without access constraints.
+There are wheelchair accessible showers, however these are currently located within gender segregated bathrooms.
  
 Fire and first aid information can be found on the notice board.
 
