@@ -83,7 +83,7 @@ Fair compensation and benefits:
 
 #### Office
 
-* [Office Handbook](guides/office/officehandbook.md)
+* [Office Handbook & Access Information](guides/office/officehandbook.md)
 * [Kitchen Etiquette](guides/office/kitchen.md)
 * [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
