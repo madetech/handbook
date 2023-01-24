@@ -20,6 +20,8 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 
 It's worth remembering that you're likely to need admin access to install most software. Team members can request access to admin permissions by emailing [support@systemagic.co.uk](mailto:support@systemagic.co.uk) requesting admin access with details of the purpose for access e.g upgrading system software. Access should be used only in line with the purpose detailed in the request. You must not log into the admin account on your laptop directly.
 
+Systemagic will respond to requests between 9am-5pm Monday to Friday so please ask within these hours if you're planning on installing anything out of hours. 
+
 - Google Workspace (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - [Slack](https://github.com/madetech/handbook/blob/main/guides/it/slack.md)
 - Trello
