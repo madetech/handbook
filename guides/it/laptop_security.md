@@ -32,6 +32,7 @@ For any urgent security issues then Slack, email or call anyone in the Ops team.
 
 ### Useful links
 - [All about Linux](https://github.com/madetech/handbook/blob/main/guides/it/linux_av.md)
+- [Device profiles](https://github.com/madetech/handbook/blob/main/guides/security/device_profiles.md)
 
 The below are all internal only links
 - [VPN - When to use it and how to access it](https://drive.google.com/drive/u/0/folders/14w3BXtsrgUqRmJ73QFhGXiCo3ufjvMmI) 
