@@ -18,6 +18,8 @@ If you would like to request new software that Made Tech doesn't currently use a
 ## Standard Software
 If you need access to existing software email [operations@madetech.com](mailto:operations@madetech.com) or drop a Slack in #Ops (except where indicated). This is not an exhaustive list (we're still working on that).
 
+It's worth remembering that you're likely to need admin access to install or most apps. Team members can request access to admin permissions by emailing [support@systemagic.co.uk](mailto:support@systemagic.co.uk) requesting admin access with details of the purpose for access e.g upgrading system software. Access should be used only in line with the purpose detailed in the request. You must not log into the admin account on your laptop directly.
+
 - Google Workspace (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - [Slack](https://github.com/madetech/handbook/blob/main/guides/it/slack.md)
 - Trello
@@ -34,6 +36,7 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Jamf
 - JetBrains
 - Microsoft Azure
+- Microsoft Teams
 - Workable
 - Xero
 
@@ -45,6 +48,5 @@ If you need access to existing software email [operations@madetech.com](mailto:o
 - Consent Kit
 - Adobe Creative Cloud or relevant applications
 - Lucidchart
-- Microsoft Teams
 - Office 365
 - TablePlus
