@@ -12,9 +12,13 @@ Made Tech will support holiday requests that are up to 4 consecutive weeks, if y
 
 We trust you'll use your best judgement when taking holidays. This is the level of notice we expect when you take your holiday:
 
-* **For 1 day** – you must give at least 2 weeks notice
-* **For between 2 days - 2 weeks** – you must give at least 4 weeks notice, and ideally more
+* **For 1 day** – you must give at least 3 days notice
+* **For 2 days** – you must give at least 1 week notice
+* **For between 3 days - 4 days** – you must give at least 2 weeks notice
+* **For between 1 week - 2 weeks** – you must give at least 4 weeks notice
 * **For greater than 2 weeks** – you must give 3 months notice
+
+The notice guidance is a minimum -  please aim to give your team as much notice of upcoming leave as you can. Your team, Delivery Manager and client should all agree to your leave before you schedule this in, and providing notice minimises the chance of problems being raised. Where your team plans work at a regular cadence (e.g. during sprint planning every two weeks), you should aim to make the team aware of any potential leave to help the team remain accountable for commitments made.
 
 The ability to book holiday/learning days at shorter notice whilst you are within the chalet is an accepted exception to the above notice periods - in those instances please check in with Scheduling to ensure you are not due to be imminently assigned to an account and let your line manager know. 
 
