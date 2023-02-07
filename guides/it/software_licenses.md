@@ -38,7 +38,7 @@ Systemagic will respond to requests between 9am-5pm Monday to Friday so please a
 - Jamf
 - JetBrains
 - Microsoft Azure
-- Microsoft Teams
+- Microsoft Teams (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - Workable
 - Xero
 
@@ -50,5 +50,5 @@ Systemagic will respond to requests between 9am-5pm Monday to Friday so please a
 - Consent Kit
 - Adobe Creative Cloud or relevant applications
 - Lucidchart
-- Office 365
+- Office 365 (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - TablePlus
