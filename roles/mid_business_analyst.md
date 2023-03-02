@@ -1,50 +1,49 @@
 # Business Analyst
 
-Are you a Business Analyst who wants to actually see the real-world impact from what you help to create? Our mission is simple! We believe we can use technology to make public services better. 
+Business Analysts ensure products and services deliver measurable value, through exploration, elicitation, and analysis of:
 
-As a Made Tech Business Analyst you will be a valued person who understands user and business needs for products and services in the public sector. 
+- **user needs**
+- **organisational needs**
+- **service needs**
 
-## Your role at Made Tech
+# Key responsibilities
 
-- Accurately capturing business and service needs, making sure processes are mapped out clearly for the delivery team
-- Using business analysis principles and tools to define requirements and processes that align with project goals
-- Carrying out research and identifying risks
-- Documenting detailed requirements, functional and non-functional, that can be fed back to the relevant collaborators
-- Collaborating as part of a digital service delivery team to assist the team's successful project delivery
+## Scope
 
+Business Analysts:
+- work on small to medium size projects and support larger and more complex projects
+- engage within the Community of Practice
 
-## Skills and experience
+## Competencies
 
-We look for the following skills and experience. But when we’re hiring for this role, if you don’t have some of the skills and experience listed below, please still apply. 
+Business Analysts display Made Tech’s [values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20awareness-,Business%20analyst,data%2Dinformed%20decision%20making%2C%20based%20on%20user%20research.%20(Skill%20level%3A%20working),-Senior%20business%20analyst) and [SFIA (Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3) behaviours.
 
-- Knowledge of business analysis methods and tools
-- Working directly with clients, organisations and users using agile processes (Lean UX, Scrum, XP, and/or Kanban)
-- Able to investigate operational needs and problems
-- Able to identify service and process improvement opportunities
-- Requirements definition
-- Engaging with users and collaborators
-- Working within multidisciplinary teams with product, design, and technology working within the same cycles
-- Understanding of enterprise and business architecture
-- Working with Government Digital Service
+## Practice
 
-## Desirable experience
+Applies the following practices as a Business Analyst, within an engagement:
+- uses a variety of business analysis methods tools and techniques
+- applies critical thinking to root cause analysis
+- applies agile principles to enable best practice and realisation of value
+- investigates operational needs and problems
+- identifies service and process improvement opportunities
+- requirements management
+- business process analysis
+- stakeholder management
+- embedding within hybrid teams as a consultant
+- understanding of enterprise and business architecture
+- working with Government Digital Service standards
 
-Experience in the following things isn’t essential, but it’s highly desirable!
+## Community of Practice (CoP)
 
-- Writing blog posts and giving talks
-- User research planning and execution
-- Business process testing planning and execution
-- Showcasing and presentation skills
-- Product and service documentation
+Engages and participates within the Made Tech and client communities of practice to:
 
-## What you'll get from the role
+- build an inclusive and supportive culture
+- recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of good practice
 
-You’ll work on a variety of enterprise-level, highly complex programmes with ever evolving challenges, while getting to work with public sector organisations.
+## Key measures
 
-Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
-
-You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
-There may be opportunities to progress within the company. For example, the role could develop in a delivery-focused direction, you could transition towards agile coaching, or get a promotion to Senior Business Analyst. 
+- Delivery of good public services for users with clients, shown through relevant measures, for example, data, metrics, KPIs or the passing of service standards
+- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback
 
 ## Work perks and benefits
 
@@ -57,7 +56,6 @@ We mainly work remotely but you may need to visit clients or go to the office oc
 The salary for this role is location dependant:
 * UK: £29,750 - £42,500
 * London & South East: £31,237 - £44,625
-
 
 ## Applying
 
