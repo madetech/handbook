@@ -1,82 +1,69 @@
 # Senior Business Analyst
 
-Are you a Senior Business Analyst that wants to actually see the real-world impact from what you help to create? Our mission is simple! We believe we can use tech to make public services better. We also believe this can happen best when our own team represents the society that actually uses the services we work on. At Made Tech, we’re collectively continuing to grow a culture that is happy, healthy, safe and inspiring for people of all backgrounds and experiences, so we encourage all people from underrepresented groups to apply for roles with us. Have we caught your interest? Please read on…
- 
-As a Senior Business Analyst you will be a valued person developing and sharing best practice, own relationships with key collaborators and manage both people and functional business areas as part of our rapidly growing Manchester team.
+Senior Business Analysts ensure products and services deliver measurable value, through exploration, elicitation, and analysis of:
 
-## Your role at Made Tech
+- **user needs**
+- **organisational needs**
+- **service needs**
 
-- Mapping business and service needs as well as processes for the delivery team.
-- Accurately capture business and service needs, continued by using business analysis best practice and tools to define requirements.
-- Working with the product manager and the delivery manager to accurately document the product or service; including detailed requirements, functional and non-functional, that can be fed back to the relevant collaborators.
-- Apply the agile mindset to all aspects of your role
-- Assist in improving the delivery team's ability to meet deadlines and adhere to the roadmap by adding clarity as well as playing a part in more structured processes such as workshops, sprint planning, daily scrums, show and tells, retros etc. 
+# Key responsibilities
 
-## In the application process the following skills will be assessed but if you don’t have everything on this list, please still apply
+## Scope
 
-- Working directly with clients, organisations and users using lean agile processes
-- Able to investigate business priorities, operational needs and problems
-- Working knowledge of business analysis tools and methodologies
-- Able to identify service and process improvement opportunities
-- Working within multidisciplinary teams with product, design, and technology working within the same cycles
-- Agile and lean practices such as Lean UX, Scrum, XP, and/or Kanban
-- Showcasing and presentation skills
-- Understanding of enterprise and business architecture
-- Experienced working with Government Digital Service
-- Mentoring and supporting the development of less experienced team members
+Senior Business Analysts:
 
-## We want our teams to grow. If you don’t already have the following skills, you will have access to a learning budget, experienced team members and a wider learning and mentoring culture that can help you develop the following:
+- lead large or more complex projects
+- are responsible for inducting team members, line managing up to three Business Analysts and partake in the interview process
+- are effective decision makers
+- engage, initiate and lead work within the community of practice, coaching and mentoring others
 
-Don’t forget to mention any of the experience listed below. While it’s optional, it’s all highly desired!
+## Competencies
 
-- Experience working in a consultancy
-- Writing blog posts and giving talks
-- User research planning and execution
-- Business process testing planning and execution
-- Requirements definition
-- Product and Service documentation
-- People management
-- Engaging with users and stakeholders
+Senior Business Analysts display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20working-,Senior%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Lead%20business%20analyst) and [SFIA (Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4) behaviours.
 
-## What you will get from the role
+## Practice
 
-You will contribute to the product function of a company that is rapidly scaling to meet increased customer demand, giving you exposure to a huge variety of enterprise-level, highly complex programmes with ever evolving challenges, whilst getting to work with public sector organisations.
+Applies the following practices as a Senior Business Analyst, within an engagement:
 
-Made Tech will provide you the opportunity to use the most exciting new technologies and to work in an environment where we are always striving to stay on the cutting-edge of market trends and processes.
+- highly autonomous approach
+- identifies the best business analysis methods and tools for the project
+- applies critical thinking to root cause analysis
+- applies agile principles to enable best practice and realisation of value
+- investigates, analyses, and communicates operational needs and problems
+- identifies service and process improvement opportunities
+- requirements management
+- business process analysis
+- stakeholder management at various levels
+- embedding within hybrid teams as a consultant
+- applies a deeper understanding of enterprise and business architecture
+- working with Government Digital Service standards
+- mentoring and supporting the development of less experienced team members
 
-You'll have the chance to develop and adapt our agile processes, learning and contributing to both internal and external teams on best practice.
+## Community of Practice (CoP)
 
-Finally, as we continue to grow rapidly there are many opportunities to progress within the company. The role could develop in a delivery focused direction, or transition towards agile coaching, or promotion to Lead Business Analyst – we're happy to support you to take charge of your future and follow your passions!
+Engages and participates within the Made Tech and client communities of practice to:
 
-## Our Benefits
+- build an inclusive and supportive culture
+- recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of practice
+- initiate and lead on work within the community of practice
+- mentor and coach others within the community, to support their development and practice
 
-Balancing life and work:
+## Sales
 
-* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
-* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
-* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
-* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](../guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+Senior Business Analysts collaborate with Lead Business Analysts to provide feedback on whether they feel their engagements are effective, efficient and profitable.
 
-Making work as fabulous as possible:
+## Key measures
 
-* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
-* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
+- Delivery of good public services for users with clients, shown through relevant measures, for example, data, metrics, KPIs or the passing of service standards
+- Personal performance is aligned with DDaT and SFIA grade, evidenced through peer feedback
 
-Compensating you fairly:
+## Work perks and benefits
 
-* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
-* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
-* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
-## Salary
+## Salary and location
+
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
 
@@ -85,4 +72,4 @@ The salary for this role is location dependant:
 
 ## Applying
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). If you don't quite fit the role, the role doesn't quite fit you, or you have questions please email us at [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!

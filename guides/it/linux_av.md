@@ -68,7 +68,7 @@ Your system should *not* auto mount or auto run files when media, such as a remo
 In Ubuntu this feature can be disabled by selecting _"Never prompt or start programs on media insertion"_ in _Settings_ > _Removable media_.
 
 ## VPN
-You must be have [Made Tech's VPN](../vpn/README.md) configured on your system.
+You must be have [Made Tech's VPN](vpn/README.md) configured on your system.
 
 ## Anti-virus
 You must be running Anti-virus software. The installed AV software must:
@@ -78,157 +78,50 @@ You must be running Anti-virus software. The installed AV software must:
 
 You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/?page_id=3950). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
 
-#### ClamAV
-[ClamAV](https://www.clamav.net/) is an open source AV tool that is popular on Linux - it can be configured in a way that meets the requirements above, but this involves enabling on-access scanning.
+## SentinalOne
+SentinelOne is the Linux Anti-virus Software of choice at Made Tech. To get set up with SentinalOne follow the instructions below
 
-[Installation and configuration instructions](linux_av.md)
+### Step 1: Download and install the package
+* [DEB Installer](https://ncrepository.z33.web.core.windows.net/sentinelone/SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.deb) - For Debian/Ubuntu based distributions
+* [Non-Signed RPM Installer](https://ncrepository.z33.web.core.windows.net/sentinelone/SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm) - For RHEL/Fedora Based distributions
+* [Signed RPM Installer](https://ncrepository.z33.web.core.windows.net/sentinelone/Signed-SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm) - For RHEL/Fedora Based distributions
 
-Unfortunately the version in the Ubuntu repositories isn't kept up to date with upstream releases as fast as we need it to be so the current recommendation is to compile from source:
-
-[ClamAV compilation guide](https://docs.clamav.net/manual/Installing/Installing-from-source-Unix.html)
-
-You may need to replace
+For Debian/Ubuntu
 ```
-python3 -m pip install --user cmake pytest
-```
-
-with
-
-```
-sudo python3 -m pip install cmake
+sudo dpkg -i ~/Downloads/SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.deb
 ```
 
-Once installed enable and start the systemd service:
-
+For RHEL/Fedora
 ```
-sudo systemctl enable clamav-daemon
-sudo systemctl start clamav-daemon
+sudo rpm -i --nodigest ~/Downloads/SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm
 ```
-
-We also want to make a quarantine directory:
+or
 ```
-sudo mkdir /root/quarantine
+sudo rpm -i --nodigest ~/Downloads/Signed-SentinelAgent-Linux-22-1-2-7-x86-64-release-22-1-2_linux_v22_1_2_7.rpm
 ```
 
-You can check the installed version using:
+### Step 2: Register the Made Tech license key to your SentinalOne install 
 
+You can find the license key in 1Password.
 ```
-clamscan --version
-```
-
-and scan using:
-
-```
-clamscan
+sudo /opt/sentinelone/bin/sentinelctl management token set [license_key]
 ```
 
-To configure on-access scanning we need to add the following lines to the clam-daemon configuration file `/etc/clamav/clamd.conf`:
-
+### Step 3: Start the Service
 ```
-OnAccessIncludePath /home
-OnAccessIncludePath /var/www
-OnAccessExcludeUname clamav
-OnAccessExcludeRootUID true
-```
-The first two lines tell ClamAv (clamonacc) to watch for file changes recursively in `/home` and `/var/www`.
-
-The `clamonacc` daemon runs as root while `clamd` runs as user `clamav` so the second two tell it to exclude file operations carried out by `clamav` or `root` so that we don't end up in a infinite loop where the daemon reads a file to scan it and triggers another scan as part of that operation.
-
-
-Create a SystemD unit file for `clamonacc`
-
-```
-# /etc/systemd/system/clamonacc.service
-[Unit]
-Description=ClamAV On Access Scanner
-Requires=clamav-daemon.service
-After=clamav-daemon.service syslog.target network.target
-
-[Service]
-Type=simple
-User=root
-ExecStartPre=/bin/bash -c "while [ ! -S /var/run/clamav/clamd.ctl ]; do sleep 1; done"
-ExecStart=/usr/sbin/clamonacc -F --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/root/quarantine
-
-[Install]
-WantedBy=multi-user.target
+sudo /opt/sentinelone/bin/sentinelctl control start
 ```
 
-The `ExecStartPre` script here ensures that `clamd` waits for ClamAv to finish loading virus definitions into memory and create the required socket before starting up (Otherwise it would error).
+Once installed and you've started the service check with Ops to ensure you have registered to the SentinalOne dashboard successfully. If this was successful you can remove your previous Anti-virus solution. Should you face any problems or require support please reach out to #ops-it-support or #linuxination on Slack
 
-You will likely need to increase the number of inotify watchers available from the default 65536.
 
-```
-echo fs.inotify.max_user_watches=1048576 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
-```
+## UEFI Settings
 
-Enable and start the service:
+You probably want to go into the UEFI setup by hitting "Enter" to interrupt boot and then F1, and ...
 
-```
-sudo systemctl enable clamonacc
-sudo systemctl start clamonacc
-```
-
-Check that clamonacc is running correctly by tailing logs:
-
-```
-sudo tail /var/log/clamav/clamonacc.log
-```
-
-You should see output like:
-
-```
---------------------------------------
-ClamInotif: watching '/home' (and all sub-directories)
-ClamInotif: watching '/var/www' (and all sub-directories)
-```
-
-If you see:
-
-```
---------------------------------------
-ClamInotif: watching '/home' (and all sub-directories)
-ClamInotif: watching '/var/www' (and all sub-directories)
-ERROR: ClamInotif: could not watch path '/home', No space left on device
-ClamScanQueue: stopped
-Clamonacc: stopped
-```
-
-That likely indicates you need to increase the number of inotify watchers available as mentioned above.
-
-We can test this is running correctly by downloading a test file:
-
-```
-$ wget www.eicar.org/download/eicar.com
-$ ls | grep eicar
-$ sudo ls /root/quarantine
-eicar.com
-```
-
-You'll see the file has not been downloaded to the directory you're in, but rather moved directly to the quarantine directory we set up earlier.
-
-By default clamonacc is quite resource hungry, (~100% CPU core, 1gb+ RAM). You can limit the CPU consumption somewhat by adding a CPUQuota to the systemd unit file:
-
-```
-# /etc/systemd/system/clamonacc.service
-[Unit]
-Description=ClamAV On Access Scanner
-Requires=clamav-daemon.service
-After=clamav-daemon.service syslog.target network.target
-
-[Service]
-Type=simple
-User=root
-ExecStartPre=/bin/bash -c "while [ ! -S /var/run/clamav/clamd.ctl ]; do sleep 1; done"
-ExecStart=/usr/sbin/clamonacc -F --config-file=/etc/clamav/clamd.conf --log=/var/log/clamav/clamonacc.log --move=/root/quarantine
-CPUQuota=30%
-
-[Install]
-WantedBy=multi-user.target
-```
-
-The following resources are useful for configuring ClamAV:
-- The [Configuration](https://docs.clamav.net/manual/Usage/Configuration.html) section of the ClamAV documentation
-- The [On Access Scanning](https://docs.clamav.net/manual/OnAccess.html) section of the official docs
-- [Installation & Configuration of ClamAV Antivirus on Ubuntu 18.04](https://aaronbrighton.medium.com/installation-configuration-of-clamav-antivirus-on-ubuntu-18-04-a6416bab3b41) - this Medium article was
-particularly helpful for installing on Ubuntu and enabling on-access scanning.
+- Enable virtualization. (in "Security")
+    - You don't need this for containers, but you do for "proper" virtual machines
+- Change the sleep state from S0 ("Windows 10") to S3 ("Linux") (in Config .. Power)
+    - Without doing this you may experience "hot bag syndrome", flat batteries, and lower battery life in suspend
+- Enable "swap Ctrl and Fn"
+    - Because let's face it, the ThinkPad keyboard layout isn't right without doing this

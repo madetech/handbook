@@ -1,9 +1,10 @@
 # Lead Content Designer 
 
-- Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
-- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
-- Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 5](sfia/lead_content_designer.md)
+* Location: mainly remote with occasional office and client visits
+* Offices: London, Bristol, Manchester, and Swansea
+* Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
+* SFIA: Level 5
+
 
 ## Summary
 
@@ -63,14 +64,9 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 - Facilitation
 - Thinking through Making 
 
-## Benefits
+## Work perks and benefits
 
-Here are some of our most popular benefits listed below:
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
-- [Flexible Holiday](../benefits/flexible_holiday.md)
-- [Flexible Working Hours](../benefits/working_hours.md)
-- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
-- [Remote Working](../benefits/remote_working.md)
-- [Paid counselling](../guides/welfare/paid_counselling.md)
-- [Paid anniversary break](../benefits/paid_anniversary_break.md)
-
+## Applying
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!

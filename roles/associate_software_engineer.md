@@ -1,48 +1,24 @@
 # Associate Software Engineer
 
-Bristol, Manchester & London, UK.
+Our engineers build software that makes our clients happy. They prefer problem solving over completing tasks, love learning from colleagues, and work as a unified team to help deliver projects that make a real difference to people’s lives. 
 
-Our Engineers build software that makes our customers happy, they prefer problem solving over task completing, love learning from colleagues, and constantly strive to be nice humans.
+## Your role at Made Tech
 
-## What does the job entail?
+We primarily write and deliver custom software for the public sector. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery, making sure our clients’ goals are understood and achieved with the technology we deploy.
 
-We primarily write and deliver custom software for the public sector. We work across central and local government, as well as in health, and our past lies in the technology startup world. Technical excellence for us isn’t about delivering to feature lists. We place a strong emphasis on outcome-based delivery; ensuring our customer’s goals are understood and achieved with the technology we deploy.
-
-Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, C# with .NET Core. We don’t limit ourselves as a company and we expect all our Engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there is a CD pipeline set up to build, test, and release. Also, we will usually be responsible for setting up a customer’s infrastructure too! Such as on AWS, GCP or Azure using a tool like Terraform, though sometimes we opt for a Platform as a Service like Heroku.
+Our teams have used Ruby with Rails and Sinatra, ES6 with React and Angular 2, and C# with .NET Core. We don’t limit ourselves and we expect all of our engineers to be keen on learning new technologies. Automation is important to our teams, so we make sure there’s a CD pipeline set up to build, test, and release. We’re usually responsible for setting up clients’ infrastructure, too. For example, on AWS, GCP or Azure using tools like Terraform. Though, sometimes we opt for a Platform as a Service like Heroku.
 
 ## What experience are we looking for?
 
-All of our Software Engineers are trained first as an [Academy Software Engineer](academy_software_engineer.md) within our 12 week Academy programme. We don't currently hire people into this role without them first going through our Academy.
+All of our Software Engineers are trained first as an Academy Software Engineer within our 12-week academy programme. 
 
-## What we will provide you
+## Work perks and benefits
 
-Balancing life and work:
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you.
 
-* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
-* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
-* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
-* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](../guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+## Salary and location
 
-Making work as fabulous as possible:
-
-* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
-* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
-
-Compensating you fairly:
-
-* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
-* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
-* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
-
-## Salary
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
 
@@ -51,4 +27,4 @@ The salary for this role is location dependant:
 
 ## Applying
 
-We do not hire for this role as we rely on our Academy to feed into Software Engineer roles. That said, we'd still love to hear from you if you don't quite fit into our Academy or Senior roles. Get in touch with any questions by sending an email to  [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
+We don't hire directly for Associate Software Engineer roles at Made Tech. We prioritise our hiring opportunities towards our Software Engineering Academy. You’ll need to complete our 12-week academy programme. After your first 6 months at Made Tech, you’ll be in a position to pass probation and become an Associate Software Engineer with us. Learn more about our academy and find out when we’re accepting applications at https://www.madetech.com/careers/academy. We’d still love to hear from you if you feel our academy or more senior engineering roles aren’t a good fit for you. If you have any questions, drop us a line at [careers@madetech.com](mailto:careers@madetech.com).

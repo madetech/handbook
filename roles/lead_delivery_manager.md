@@ -1,24 +1,21 @@
 # Lead Delivery Manager
 
-**Successfully leading complex digital projects to ensure that our clients get great experiences and outcomes, and our teams deliver at their full potential.**
+Successfully leading complex digital projects to make sure that our clients have great experiences and achieve brilliant outcomes, and our teams deliver to their full potential.
 
-Manchester, London, and Bristol UK.
+## Your role at Made Tech
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
+Lead Delivery Managers are accountable for successful project delivery in a complex environment. This might mean a small, but complex delivery involving a lot of consultancy such as a policy focused discovery, a larger delivery programme with several delivery teams, or multiple small, less complex engagements.
 
-## What does the job entail?
+You will work as part of a cross-functional delivery team, which might include client stakeholders and partner agencies. You will personify servant leadership, promoting a collaborative approach to ensure projects deliver the desired outcomes for users and customers, working together to identify and manage risks and issues that arise. Depending on the size of the account you are working on, you may be the most senior line of project escalation - or you may work closely with a delivery principal as part of a wider programme.
 
-Lead Delivery Managers are accountable for successful project delivery in a complex environment. This might mean a small, but complex delivery involving a lot of consultancy such as a Policy Focused Discovery; a larger delivery programme with several delivery teams; or multiple small, less complex engagements. 
+While you are an expert in agile delivery, you are also pragmatic and understand that other delivery approaches may be more appropriate for a specific situation when working in consultancy and the public sector. Therefore, you will define the delivery approach and team shape collectively with the team and client stakeholders. You will inspire trust with senior stakeholders, and guide and coach clients throughout the delivery process, using your influence to continuously iterate and approve team processes. You will be able to support product managers with defining and delivering against a roadmap, in order to monitor whether the project is on track and facilitate conversations about backlog priority, scope, and budget.
 
-You will work as part of a cross-functional delivery team, which might include client stakeholders and partner agencies. You will personify servant leadership, promoting a collaborative approach to ensure projects deliver the desired outcomes for users and customers, working together to identify and manage risks and issues that arise. Depending on the size of the account you are working in, you may be the most senior line of project escalation - or you may work closely with a Delivery Principal as part of a wider programme. 
+As a delivery leader, you will contribute to Made Tech beyond the scope of your delivery. This will include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of delivery managers and supporting recruitment activities. You should also start to contribute to growing Made Tech’s impact, for example through maintaining and growing your professional network, contributing to thought leadership, content and events, identifying sales opportunities within the account you are working on, or taking part in the sales bid process.
 
-While you are an expert in Agile Delivery, you are also pragmatic and understand that other Delivery Approaches may be more appropriate for a specific situation when working  in consultancy and the public sector. Therefore you will define the delivery approach and team shape collectively with the team and client stakeholders. You will inspire trust with senior stakeholders and guide and coach clients throughout the delivery process, using your influence to continuously iterate and approve team processes.  You will be able to support Product Managers with defining and delivering against a Roadmap, in order to monitor whether the project is on track and facilitate conversations about backlog priority, scope and budget. 
-
-As a Delivery Leader, you will contribute to Made Tech beyond the scope of your delivery. This will include participating in and contributing to the Delivery Community of Practice (COP), managing the performance and development of a number of Delivery Managers and supporting recruitment activities. You should also start to contribute to growing Made Tech’s impact, for example through maintaining and growing your professional network; contributing to thought leadership, content and events; identifying sales opportunities within the account you are working in; or taking part in the sales bid process.
 
 ## Definition of success
 
-Success as a Lead Delivery Manager is predominantly measured by delivering successful outcomes to our clients, but is also assessed through contribution to Made Tech as an organisation, and effective line management and coaching relationships.
+Success as a Lead Delivery Manager is predominantly measured by delivering successful outcomes for our clients. It’s also assessed through contribution to Made Tech, and effective line management and coaching relationships.
 
 ### Expected outcomes
 * Effective quality and risk management
@@ -66,7 +63,7 @@ Lead Delivery Managers are responsible for delivering the above outcomes by coll
 ## Competencies and behaviours
 Lead Delivery Managers are expected to be operating at, or working towards, [SFIA level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.**
+We don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies on your way to promotion.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -108,43 +105,18 @@ Lead Delivery Managers are expected to be operating at, or working towards, [SFI
 ### Continuous improvement and feedback
 * Demonstrate positive response to feedback with course correction
 
-## What we will provide you
+## Work perks and benefits 
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
+## Salary and location
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-Balancing life and work:
+The salary for this role is location and experience dependant:
 
-* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
-* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
-* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
-* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](../guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
+- UK: £63,000 - £90,000
+- London & South East: £66,150 - £ 94,500
 
-Making work as fabulous as possible:
-
-* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
-* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
-
-Compensating you fairly:
-
-* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
-* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
-* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
-
-## Salary
-The salary for this role is location and experience dependent: 
-
-### Lead Delivery Manager - SFIA 5 
-UK: £63,000 - £90,000\
-London & South East: £66,150 - £ 94,500
 
 ## Applying
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). If you don't quite fit the role, the role doesn't quite fit you, or you have questions please email us at [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
-
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!

@@ -25,8 +25,10 @@ We empower public sector organisations by helping them to become digital by defa
 
 ## Our values – who we are and how we operate
 
-**Client focused** – We can only succeed in our mission if we are a trustworthy partner to the public sector. Through empathy, flexibility and pragmatism, we build strong and lasting relationships with our clients.
+**Client focus** - we can only succeed in our mission if we’re a trustworthy partner to the public sector. We build strong and lasting relationships with our clients through empathy, flexibility, and pragmatism.
 
-**Drive to deliver** – We have a strong drive to deliver successful outcomes for our clients and their users, working hard to keep to our commitments, and rapidly delivering software that improves the lives of citizens.
+**Drive to deliver** - we have a strong drive to deliver successful outcomes for our clients and their users, working hard to keep to our commitments and rapidly delivering software that improve people’s lives.
 
-**Learning & mentoring** – We are passionate about learning and growth, whether it’s an improvement of one's self, the team or the organisation, we recognise the power of continuous improvement.
+**Learning and mentoring** - we’re passionate about learning and growth. Whether it's improving ourselves, the team, or the organisation, we believe in the power of continuous improvement.
+
+**One team** - we collaborate with colleagues, clients and communities to create an environment which is inclusive, integrated, and where everyone supports delivery of the mission.

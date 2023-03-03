@@ -1,15 +1,16 @@
 # Senior Content Designer 
 
-- Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
-- Location: Birmingham, Bristol, Glasgow, London, Manchester, Newcastle or Swansea
-- Hybrid working: Client-site/office 1-2 days per week
-- SFIA: [Level 4](sfia/senior_content_designer.md)
+* Location: mainly remote with occasional office and client visits
+* Offices: London, Bristol, Manchester, and Swansea
+* Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
+* SFIA: Level 4
 
 ## Summary
 
-Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We are building a community of designers and researchers to support the public sector growing demand for a design-led approach to service delivery.
+Made Tech wants to positively impact the future of the country by using technology to improve society. We believe being design-led can create positive outcomes in the public sector, through critical services enabled by technology. We’ve built a community of designers and researchers to support the public sector's growing demand for a design-led approach to service delivery.
 
-Our Senior Content Designer are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team workong a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+Our Senior Content Designers are strong practitioners who work with minimal support and can influence and mentor others to design and deliver public services. They do this by setting the direction, assuring the quality of design delivery within a team working a complicated and large scale service. They are vocal and visible contributors to a healthy user-centred design (UCD) community and culture at Made Tech.
+
 
 ## Key responsibilities 
 
@@ -57,14 +58,9 @@ Our Senior Content Designer are strong practitioners who work with minimal suppo
 - Facilitation
 - Thinking through Making 
 
-## Benefits
+## Work perks and benefits
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
-Here are some of our most popular benefits listed below:
-
-- [Flexible Holiday](../benefits/flexible_holiday.md)
-- [Flexible Working Hours](../benefits/working_hours.md)
-- [Flexible Parental Leave](../guides/welfare/parental_leave.md)
-- [Remote Working](../benefits/remote_working.md)
-- [Paid counselling](../guides/welfare/paid_counselling.md)
-- [Paid anniversary break](../benefits/paid_anniversary_break.md)
+## Applying
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
 

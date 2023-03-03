@@ -13,7 +13,7 @@ You should also take the time to prepare a summary of the highlights and notable
 ## Summary
 1. Book in annual review meeting with team member
 2. Gather feedback 
-3. Complete annual review form om Small Improvements
+3. Complete annual review form on Small Improvements
 4. Agree and set objectives (this may be in the review or as an additional meeting if preferred)
 5. Enter agreed objectives on Small Improvements
 

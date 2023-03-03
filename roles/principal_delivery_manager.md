@@ -1,26 +1,23 @@
 # Principal Delivery Manager
 
-**Accountable for the successful delivery of a portfolio of projects whilst developing senior client relationships and demonstrating delivery leadership**
+Our Principal Delivery Managers are accountable for the successful delivery of a portfolio of projects while developing senior client relationships and demonstrating delivery leadership.
 
-Manchester, London, and Bristol UK.
+## Yout role at Made Tech
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers).
+Delivery principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers. As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement. As the most senior line of project escalation, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client.
 
-## What does the job entail?
+While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients.
 
-Delivery Principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers.  As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement.  As the most senior line of project escalation, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client. 
+As a delivery leader within Made Tech you will maintain and grow your professional network. You will contribute to Made Tech’s growth, working with marketing on thought leadership, content and events, and supporting sales with responding to bids.
 
-While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will be expected to maintain a broad knowledge of modern delivery practices and hold others to account for delivering quality outcomes that meet the needs of users and clients.
+Delivery principals form part of the Delivery Management Organisation (DMO) leadership team, and contribute to the successful delivery of the outcomes and KPIs of the DMO. This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of delivery managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
-As a Delivery Leader within Made Tech you will be expected to maintain and grow your professional network. You will be expected to contribute to Made Tech’s growth, working with Marketing on thought leadership, content and events; and supporting sales with responding to bids.
-
-Delivery Principals form part of the Delivery Management Organisation (DMO) leadership team, and are expected to contribute to the successful delivery of the outcomes and KPIs of the DMO.  This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of Delivery Managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
 ## Definition of success
 
 Delivery Principal accomplishment is demonstrated by growing Made Tech’s impact, delivering high value services to our clients, and accelerating the careers of others in the DMO.
 
-### Expected outcomes
+### Outcomes
 * Manage quality and risk of all account deliveries
 * Maximise time spent on value adding activities that are chargeable to the client
 * Ensure accurate and timely adherence to all critical business processes within the account 
@@ -75,7 +72,7 @@ Delivery Principals are responsible for delivering the above outcomes by collabo
 ## Competencies and behaviours
 Delivery Principals are expected to be operating at, or working towards, [SFIA level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6) in all five competencies.  In addition to this, the below list describes specific competencies and behaviours that you’ll need in this role. 
 
-**Don’t worry - we don’t expect you to tick all of these when you join, we will work together to define learning and development objectives that help you meet these competencies.**
+We don’t expect you to tick all of these when you join. We'll work together to define learning and development objectives that help you meet these competencies.
 
 ### Articulation and role modelling of Made Tech values, purpose, and vision
 * Describe each with examples
@@ -115,42 +112,20 @@ Delivery Principals are expected to be operating at, or working towards, [SFIA l
 * Demonstrate with feedback from seniors, peers, juniors and client stakeholders
 
 ### Continuous improvement and feedback
-Demonstrate positive response to feedback with course correction
+- Demonstrate positive response to feedback with course correction
 
-## What we will provide you
+## Work perks and benefits
+Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
 
-Balancing life and work:
+## Salary and location
 
-* ✈️ [Flexible Holiday](../benefits/flexible_holiday.md) – We trust you to take as much holiday as you need
-* 🕰️ [Flexible Working Hours](../benefits/working_hours.md) – We are flexible with what hours you work
-* 🗓️ [Flexible Working Days](../benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
-* 👶 [Flexible Parental Leave](../guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Remote Working](../benefits/remote_working.md) – We offer part-time remote working for all our staff
-* 🤗 [Paid counselling](../guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
-* 🏖️ [Paid anniversary break](../benefits/paid_anniversary_break.md) – We celebrate your 3 and 5 year anniversary with us by buying your family a holiday
-
-Making work as fabulous as possible:
-
-* 💻 [Work Ready](../benefits/work_ready.md) – We'll buy you a Macbook, ergonomic equipment, books, conferences, training, and more
-* 💡 [Learning](../guides/learning/README.md) – We offer 12 days per year of personal learning time and a £300 personal learning budget
-* 🍽️ [Friday Lunches](../benefits/friday_lunch.md) – We randomly match up 8 colleagues every Friday and pay for lunch
-* 🏓 [Getting Together](../benefits/getting_together.md) – We pay for social drinks on a Friday
-
-Compensating you fairly:
-
-* 💷 [Transparent Salary Bands](../roles/README.md) – We publish salary bands so you know you're being fairly compensated
-* 👌 [Annual Salary Reviews](../guides/compensation/salary_reviews.md) – We review your salary on an annual basis
-* ⛷️ [Pension Scheme](../benefits/pension_scheme.md) – We provide a pension scheme so you can save for your future and we'll contribute to it
-* 🚄 [Season Ticket Loan](../benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
-* 🚲 [Cycle To Work Scheme](../benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
-* 🚕 [Expenses Paid](../guides/compensation/expenses.md) – Taxi to a meeting? Want to take a customer to lunch? Expenses are no hassle!
-## Salary
+We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
 
-UK: £76,500 - £121,500\
-London & South East: £80,325 - £127,575
+- UK: £76,500 - £121,500
+- London & South East: £80,325 - £127,575
 
 ## Applying
 
-Please apply for this role at [www.madetech.com/careers](https://www.madetech.com/careers). If you don't quite fit the role, the role doesn't quite fit you, or you have questions please email us at [careers@madetech.com](mailto:careers@madetech.com) where we will be happy to help.
+When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
