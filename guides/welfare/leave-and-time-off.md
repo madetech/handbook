@@ -24,5 +24,7 @@ This is discretionary paid time off when dealing with an upsetting or sensitive 
 This is for longer-term leave such as maternity/paternity and will require approval from your line manager and the People team. 
 More information can be found on our [flexible parental leave page](https://github.com/madetech/handbook/blob/main/guides/welfare/parental_leave.md)
 
-## Out of Office (Paid) 
-This is for jury service or where you may have last minute emergency leave required for dependent/caring arrangements that would not meet the usual requirements for advance notice (and, for the latter, where you are not able to flex your time to make up any hours).  Approval is required from your line manager for this leave and the organisation will ordinarily pay you at your existing salary level for these scenarios.
+## Jury Service
+This is for jury service Approval is required from your line manager for this leave and the organisation will ordinarily pay you at your existing salary level for this scenarios.
+
+
