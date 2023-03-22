@@ -35,7 +35,7 @@ If you wish to enter a mediation process, please ask the people team to request 
 
 From time to time people may have problems or concerns about their colleagues, leadership, their work environment and so on. We want everyone at Made Tech to be empowered to raise an issue.Grievances are concerns, problems or complaints that team members raise with their employer.
 
-While we will always try and resolve a grievance informally, this might not always be possible and in these cases we will follow our formal grievance procedure, which you can find [here.] (https://docs.google.com/document/d/1AvlCHjgIlvGfITFQVE9aSUarbZ7fDwuuYgHTUqD9OB8/edit) If you raise a formal grievance, the following steps will be taken:
+While we will always try and resolve a grievance informally, this might not always be possible and in these cases we will follow our formal grievance procedure, which you can find [here.](https://docs.google.com/document/d/1AvlCHjgIlvGfITFQVE9aSUarbZ7fDwuuYgHTUqD9OB8/edit) If you raise a formal grievance, the following steps will be taken:
 
 - Step 1: You should write a letter or email to people@madetech.com setting out the details of your grievance and how it might be resolved.
 - Step 2: Made Tech will then arrange a formal meeting to discuss the issue as soon as possible. You have the right to bring a companion* with you. We will then adjourn the meeting to investigate the issue further.
