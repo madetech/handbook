@@ -32,17 +32,15 @@ Systemagic will respond to requests between 9am-5pm Monday to Friday so please a
 - HiBob (slack #team-people)
 - Small Improvements (slack #team-people)
 - Airtable
-- Amazon Web Services (AWS)
 - GitHub
-- Hibob
 - Jamf
-- JetBrains
-- Microsoft Azure
 - Microsoft Teams (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - Workable
 - Xero
 
 ### Role specific (Request required)
+- Amazon Web Services (AWS)
+- Microsoft Azure
 - Jetbrains (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
 - [Docker](https://github.com/madetech/handbook/blob/main/guides/it/docker.md)
 - Figma
