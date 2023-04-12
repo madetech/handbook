@@ -44,6 +44,17 @@ This will:
 - log the username to the syslog if the user is not found
 - apply the same settings to the root account.
 
+### Linux (Ubuntu) 22.04+
+pam_tally2.so has been replaced by pam_faillock.so <br>
+pam_failock.so settings can be made in `/etc/security/faillock.conf` and by adding:
+```
+auth    [default=die]   pam_faillock.so     authfail
+auth    sufficient      pam_faillock.so     authsucc
+```
+to `/etc/pam.d/common-auth`.
+If you have prevented all logins by mistake with pam_tally2 you can reboot into recovery mode to a root shell prompt to access `/etc/pam.d/common-auth`.
+
+
 #### Root account
 [Ubuntu disables the root account by default](https://ubuntu.com/server/docs/security-users) by not setting a password. This allows a user to boot into a root shell via GRUB / recovery mode. To prevent this you should set a password for the root user:
 
