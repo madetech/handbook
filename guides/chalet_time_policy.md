@@ -20,7 +20,7 @@ Line management should therefore focussed partly on:
 - Check together progress against goals for chalet time in Small Improvements
 - Agree a plan to get someone onto billed client work
 - Identify blockers someone has doing activities with their chalet time
-- Identify where the organisation someone needs their line manager to introduce them to and in some situations advocate for them to join
+- Identify where someone needs their line manager to introduce them to and in some situations advocate for them to join in with something within the organisation
 
 Each Head of Capability Practice is ultimately accountable for everyone in their practice using chalet time the right way.  This will be measured by the average people’s time is billed to a client, also known as utilisation. Heads of Capability Practices will report each week how people are using chalet time, as part of weekly utilisation meetings with Operations.
 
