@@ -2,7 +2,7 @@
 
 We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at their highest possible level, they need to live a well-balanced life and take regular time-out for rest, relaxation and rejuvenation.
 
-All team members have 30 days of leave available between June and May (pro-rata for part time colleagues), plus bank holidays. We believe this policy will help us to perform at the highest possible level.
+All team members have 30 days of leave available between Jan and Dec, plus bank holidays (both pro-rata for part time colleagues),  We believe this policy will help us to perform at the highest possible level.
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. 
 
@@ -52,7 +52,7 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* If you leave Made Tech part way through the year we will use 30 days (or your pro-rata days if you work part-time) to pro-rata your final salary. In some cases that means we'll pay you for accrued and unused holiday and in others it means you'll have to pay days taken over your pro-rated allowance back.
+* If you leave Made Tech part way through the year your holiday allowance and bank holidays will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
 
 ## Festive period at Made Tech 
 
