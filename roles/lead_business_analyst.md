@@ -1,43 +1,47 @@
 # Lead Business Analyst
 
-Lead Business Analysts ensure products and services deliver measurable value, through exploration, elicitation, and analysis of:
+Lead Business Analysts help teams deliver products and services that bring value to their users through:
+Identifying business problems and opportunities
+Conducting research to understand the public sector domain, people, organisation, processes and technology
+Explore, elicit and analyse business and user needs
+Identify areas for improvement and explore feasibility of options
+Understand any business and policy constraints that need to be considered, and assess the implications
 
-- **user needs** - defined through comprehensive research
-- **organisational needs** - defined by the requirements placed upon or introduced by the client (e.g. legislation)
-- **service needs** - functional / non-functional requirements and process maps
 
 # Key responsibilities
 
 ## Scope
 
-Lead Business Analysts:
+A lead business analyst has a good understanding at an enterprise/strategic level of an organisation and works in highly complex problem spaces, typically spanning multiple products or services.
 
-- lead on one or more engagements that are complex, high risk or sensitive, when necessary at programme level
-- manage recruitment, interviewing and onboarding of new team members and line manage up to three Senior Business Analysts
-- are effective leaders and decision makers
-- provide strategic direction within the community of practice, coaching and mentoring others
+At this role level, you will:
+- Take responsibility for investigative work to determine business requirements and specify effective business processes, through improvements in information systems, information management, practices, procedures, and organisation change. 
+- Select, adopt and adapt appropriate business analysis methods, tools and techniques; selecting appropriately from predictive (plan-driven) approaches or adaptive (iterative/agile) approaches.
+- Collaborate with stakeholders at all levels, in the conduct of investigations for strategy studies, business requirements specifications and feasibility studies. 
+- Prepare business cases which define potential benefits, options for achieving these benefits through development of new or changed processes, and associated business risks.
 
 ## Competencies
 
 Lead Business Analysts display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/business-analyst--2#:~:text=Skill%20level%3A%20practitioner-,Lead%20business%20analyst,system%20in%20a%20project%20or%20programme%20of%20work.%20(Skill%20level%3A%20practitioner),-Head%20of%20business) and [SFIA (Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5) behaviours.
 
-## Practice
+## Skills needed for this role
 
 Applies the following practices as a Lead Business Analyst, within an engagement:
 
-- fully autonomous approach
-- direction setting of the best business analysis methods and tools for the project
-- coaches and leads in agile principles to enable best practice and prioritise realisation of value
-- applies critical thinking to root cause analysis
-- investigates, analyses, and communicates operational needs and problems
-- identifies programme, service and process improvement opportunities
-- requirements management
-- business process analysis
-- stakeholder management at all levels, demonstrating influence and leadership
-- leading and embedding within hybrid teams as a consultant
-- applies a deeper understanding of enterprise and business architecture
-- working with Government Digital Service standards
-- mentoring and supporting the development of less experienced team members
+- Agile working, coach and lead teams in Agile and Lean practices, determine the right approach for the team, and think of new ways to achieve the right outcomes.
+- Business analysis: Set the direction for business analysis, guide decision making, influence strategic plans, and ensure solutions align with organisational vision.
+- Business modelling, set the direction of scope and methodology for representing complex situations, and document conceptual models to support strategic planning.
+- Business process improvement, identify opportunities to perform activities in alternative ways, lead exploration of process efficiency improvements, and oversee implementation.
+- Business process testing, direct the application of business analysis skills to support design, execution, and assessment of business process tests and usability evaluations.
+- Consultancy (business analysis), provide advice, guidance and recommendations, propose methodologies and approaches to implementation, frame problems, and troubleshoot as needed.
+- Enterprise and business architecture (business analyst), translate business drivers into objectives, define required capabilities, and support organisational changes to meet business objectives.
+- Methods and tools, set direction, assess effectiveness of approaches, recommend tools for organisational collaboration and build capability.
+- Requirements definition and management, direct approach to requirements management, influence prioritisation of complex requirement sets, and ensure solutions align with organisational vision.
+- Stakeholder relationship management (business analysis), develop engagement strategies, lead communication with stakeholders, and act as point of consultation and escalation to resolve conflict.
+- Systems analysis, set direction for identification and analysis of IT system capabilities, identify gaps in functionality, and bring business and technical concepts together to form recommendations.
+- Testing (business analysis), recommend value of testing, advise on business scenarios, and develop acceptance criteria to ensure requirements can be traced to develop functionality.
+- User experience analysis, advise on approach to analysis, prioritisation, and validation of user experience needs, recommend techniques, and articulate how they affect system design.
+
 
 ## Community of Practice (CoP)
 Engages and participates within the Made Tech and client communities of practice to:
