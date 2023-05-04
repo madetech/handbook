@@ -64,8 +64,7 @@ Senior Business Analysts collaborate with Lead Business Analysts to provide feed
 - Personal performance is aligned with DDaT and SFIA grade, evidenced through peer feedback
 
 ## Work perks and benefits
-
-Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+Take a look at the [Benefits & Perks](https://github.com/madetech/handbook/blob/350005eb3769ef05338461af6413e4553aee54b2/benefits/made_tech_benefits_box.md) section to see what we can offer you. 
 
 ## Salary and location
 
