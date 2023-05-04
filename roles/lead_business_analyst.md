@@ -52,6 +52,9 @@ Engages and participates within the Made Tech and client communities of practice
 - mentor and coach others within the community, acting as a thought leader, to support their development and practice
 - advance product-led thinking internally and externally
 
+## Work perks and benefits
+Take a look at the [Benefits & Perks](https://github.com/madetech/handbook/blob/350005eb3769ef05338461af6413e4553aee54b2/benefits/made_tech_benefits_box.md) section to see what we can offer you.
+
 ## Sales
 Collaborates with Principal Business Analysts to ensure that engagements are effective, efficient and profitable, and identify avenues of potential work through highlighting opportunities
 
