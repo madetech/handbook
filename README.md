@@ -32,7 +32,7 @@ Balancing life and work:
 * 🕰️ [Flexible Working Hours](benefits/working_hours.md) – We are flexible with what hours you work
 * 🗓️ [Flexible Working Days](benefits/flexible_working.md) – We are flexible to the amount of days you work in a week
 * 👶 [Flexible Parental Leave](guides/welfare/parental_leave.md) – We provide flexible parental leave options
-* 👩‍💻 [Hybrid Working]([Hybrid Working](benefits/hybrid_working.md) – We offer hybrid working for all of our staff
+* 👩‍💻 [Hybrid Working](benefits/hybrid_working.md)– We offer hybrid working for all of our staff
 * 🤗 [Paid counselling](guides/welfare/paid_counselling.md) – We offer paid counselling as well as financial and legal advice
 
 Some little extras at work:
