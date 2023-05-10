@@ -4,9 +4,9 @@ This guidance is written mostly for line managers. It'll help you understand how
 
 You're responsible for supporting people you line manage when they want to get promoted.
 
-## When should I look to promote someone?
+## When should I encourage someone to apply for promotion?
 
-It's difficult to provide a one-size-fits-all answer to this question, but ultimately this decision is made when both you and the individual you line manage feel that individual is ready to take on the role they're to be promoted. Signs this might be the case could include:
+It's difficult to provide a one-size-fits-all answer to this question, but ultimately this decision is made when both you and the individual you line manage feel that individual is ready to take on a new role. Signs this might be the case could include:
 
 - They exhibit some or all of the core competencies for their desired role
 - They are consistently evidencing some or all attributes that are described in the [SFIA level](https://sfia-online.org/en/sfia-8/sfia-8) that corresponds to their desired role
@@ -16,14 +16,10 @@ It's difficult to provide a one-size-fits-all answer to this question, but ultim
 
 ## How do I seek promotion for someone?
 
-In order to standardise and provide a fair evaluation of promotions, there will be two promotion windows each year - April/May and October/November.  You will need to complete a promotion pack and submit this to the People Team, more information can be found in our [Promotion Guidance](https://docs.google.com/document/d/1SU_vMpC2Bp3M1qLO6kvKwmyUN4GWjSnCnJVxrdLUv5U/edit).  
+Team members may apply for any open role in their career path listed on our careers page via [Workable](https://referrals.workable.com/made-tech/jobs/). If the role the individual you line manage is interested in a role that is not listed on this list please inform your head of team so we can collate date about our internal demand.
+You can find more information about the promotions process in our [Promotion Guidance for client facing team members](https://docs.google.com/document/d/1LjchEGWCVxeyCo4PTYZxd1PL0DKPUx_8AoT3F67ifoo/edit) or Promotion Guidance for our group facing team members (link will be updated soon)
 
-## What is a promotion case and how do I create it?
-
-The largest factor in compiling this case is documenting the evidence that shows the individual is ready to progress to the next role, the [promotion case](https://docs.google.com/presentation/d/1y-we-hc7iXo6nhCwaTfRBgb1tff9Y-rwIs-l-ZNc9Gg/edit#slide=id.gc07cbd5c3a_0_0) template must be completed and shared with the People Team. 
-
-We recommend advising the individuals you line manage to collect and record this evidence over time regardless of actively seeking upcoming promotions, and that this isn't likely to be a purely objective experience, they are looking to sell themselves and that is a skill that can be developed and nurtured like any other.
 
 ### What should I do if the promotion case is unsuccessful?
 
-In the event the promotion case is unsuccessful, feedback will be provided by the line manager and team members will have the opportunity to appeal. 
+In the event the promotion application is unsuccessful, feedback will be provided by the interviewing panel and the team members will have the opportunity to appeal. 
