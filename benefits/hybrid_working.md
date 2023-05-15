@@ -54,4 +54,4 @@ Team members may expense travel to client sites that are outside of their region
 - Bristol - within a 25KM radius of Bristol city centre 
 - Swansea - within a 25KM radius of Swansea city centre
 
-You will be able to use our TravelPerks platform to book trains and hotels for your journey. Please reach out to our Ops team if you have any questions about accessing or using Travel Perks.
+You will be able to use our TravelPerks platform to book trains and hotels for your journey. For more information on when and how to use this take a look at the [Travel Perk doc](https://docs.google.com/document/d/1cgASgYU9rjF-y7pa9gJ9FJ8HCBP6M3ntmdgeLZclSPo/edit) and/or head over to our TravelPerks slack channel. 
