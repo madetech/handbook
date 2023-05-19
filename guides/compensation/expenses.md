@@ -2,9 +2,19 @@
 
 There is now a fully documented Made Tech expenses policy which covers trains, travel, hotel accommodation, and reimbursement of other business expenses. As it is more detailed than the previous guidance, the policy has been changed to an internally facing document for now. [You can find the document here](https://docs.google.com/document/d/1NthAC1xepzAI07o40c6WxXHbPttNxaCidhJ22eJHD-k/edit#).
 
+There is additional information on [equipment to enable you to work from home](../../benefits/work_ready.md), and [eye tests](expenses/eyetest.md) on those pages.
+
+## Travel
 Made Tech is also now using TravelPerk to enable you to book all your business travel in one place. Payment is made directly by Finance so you don’t have to pay for travel yourself. For more information on when and how to use this take a look at the [TravelPerk document](https://docs.google.com/document/d/12NiB2QxHZ5k8ajqP95fOo2I-GBKZQLuzQutKAiem0DQ/edit#) (internal link).
 
-There is additional information on [equipment to enable you to work from home](../../benefits/work_ready.md), and [eye tests](expenses/eyetest.md) on those pages.
+### Railcards
+You can expense Railcards for the use of business travel. Made Tech will reimburse the price of any yearly railcard purchased from April 26th 2023 onwards. If you leave Made Tech you will not be charged for it and dont need to return it, but you cannot expense a railcard during your notice period.
+
+To purchase and expense a railcard you need to;
+- purchase a railcard
+- add it to your TravelPerk account
+- take a screenshot to show that it has been added
+- share the image and receipt on Xero when expensing it back.
 
 ## How do you expense?
 
