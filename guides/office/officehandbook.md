@@ -7,6 +7,10 @@ Please take a look at the [main office handbook](https://docs.google.com/documen
 
 For any queries regarding offices please email [operations@madetech.com](mailto:operations@madetech.com) or get in contact via slack #ops
 
+# How to book a desk
+
+You can book a desk in any office using [Office RnD](https://hybrid.officernd.com/community/madetech/dashboard?date=2023-06-02). There is more information on how to book desks for yourself, your team and any visitors [here](https://docs.google.com/document/d/1wCGrHN-prrUt8RnyNux2MshCTQ36D_rvTKTeu1qJwMk/edit) (internal link).
+
 # Access information
 
 Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](mailto:operations@madetech.com), and we will assist you with completing a PEEP.
