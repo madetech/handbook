@@ -61,6 +61,7 @@ Fair compensation and benefits:
 * [Expectations between Employees and the Organisation](guides/welfare/expectations.md)
 * [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
+* [DSE and H&S training](guides/welfare/dse_hs_training.md)
 * [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
 ### Guides & Resources
