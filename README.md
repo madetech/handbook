@@ -84,8 +84,8 @@ Fair compensation and benefits:
 #### Office
 
 * [Office Handbook & Access Information](guides/office/officehandbook.md)
+* [Office Visitors](guides/security/office_visitors.md)
 * [Kitchen Etiquette](guides/office/kitchen.md)
-* [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
 #### IT
@@ -101,7 +101,6 @@ Fair compensation and benefits:
 * [Device Profiles](guides/security/device_profiles.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
 * [Last Day](guides/security/last_day.md)
-* [Office Visitors](guides/security/office_visitors.md)
 * [Password Policy](guides/security/password_policy.md)
 
 #### Policies
