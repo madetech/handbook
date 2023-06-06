@@ -61,6 +61,7 @@ Fair compensation and benefits:
 * [Expectations between Employees and the Organisation](guides/welfare/expectations.md)
 * [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
+* [DSE and H&S training](guides/welfare/dse_hs_training.md)
 * [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
 ### Guides & Resources
@@ -85,7 +86,6 @@ Fair compensation and benefits:
 
 * [Office Handbook & Access Information](guides/office/officehandbook.md)
 * [Kitchen Etiquette](guides/office/kitchen.md)
-* [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
 #### IT
@@ -100,8 +100,8 @@ Fair compensation and benefits:
 * [BYOD Policy](guides/security/bring_your_own_device.md)
 * [Device Profiles](guides/security/device_profiles.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
-* [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
+* [Last Day](guides/security/last_day.md)
 * [Password Policy](guides/security/password_policy.md)
 
 #### Policies
