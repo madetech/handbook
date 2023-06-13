@@ -10,7 +10,7 @@ Our pension scheme is based on a salary sacrifice approach which is more tax-eff
 
 In order to allocate your preferred contribution, or early opt in, or opt out you'll need to fill in the "Pension Scheme" section of your Hibob profile.
 
-- You will be able to adjust your contribution level annually in a set window in spring (open to all), or at any point in the case of significant life events where this may result in a change in financial circumstances. If you are affected by the latter please email finance@madetech.com and copy in people@madetech.com
+- You will be able to adjust your contribution level annually in a set window in spring (open to all), or at any point in the case of significant life events where this may result in a change in financial circumstances. If you are affected by the latter please email payroll@madetech.com and copy in people@madetech.com
 - You can opt out at any point by updating the pension section of your Hibob profile in the "opted out" section. If you select to opt-out at the start of your employment, any initial deduction will be refunded if this is made within one month of the initial deduction. If you selected to opt out before the cut-off date (on the 18th) it will be processed in the same month, otherwise it will be in the following month. 
 Any deductions made will usually stay in the pension until you're eligible to access your money, financial advice can be obtained to assist you transferring your pension to another provider.
 - There are also [Government guidelines](https://www.gov.uk/workplace-pensions/if-you-want-to-leave-your-workplace-pension-scheme) on opt-out
@@ -19,4 +19,4 @@ You can read more about Workplace pensions on [gov.uk](https://www.gov.uk/workpl
 
 You can read more about Pensions and some third party advice on [MoneySavingExpert](http://www.moneysavingexpert.com/savings/discount-pensions)
 
-For any general pensions queries please email finance@madetech.com
+For any general pensions queries please email payroll@madetech.com
