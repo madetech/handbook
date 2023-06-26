@@ -21,17 +21,18 @@ Chalet time can be a valuable opportunity to grow skills, grow our business and 
 Please follow these steps when you join the chalet.
 
 #### 1. Join the [`#chalet-time-team`][1] Slack channel.
-  This channel provides up-to-date information on chalet activities and practices. You can use it to ask questions and arrange collaborative work.
+This channel provides up-to-date information on chalet activities and practices. You can use it to ask questions and arrange collaborative work.
 #### 2. Add mandatory chalet meetings to your Google Calendar.
-  You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet-time-team`][1] Slack channel.  
-  Members of the Chalet are expected attend these meetings, so that we can:  
-  - Help people use their chalet time well
-  - Share opportunities and events
-  - Help people with blockers
-  - Build a sense of community
+You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet-time-team`][1] Slack channel.  
+Members of the Chalet are expected attend these meetings, so that we can:
+
+- Help people use their chalet time well
+- Share opportunities and events
+- Help people with blockers
+- Build a sense of community
 
 #### 3. Join the [Chalet Community Board][2].
-  Use this board to discover tasks you can undertake while in the chalet, including work with Made Tech departments and Communities of Practice. You can also learn about chalet members and their current projects.
+Use this board to discover tasks you can undertake while in the chalet, including work with Made Tech departments and Communities of Practice. You can also learn about chalet members and their current projects.
 
 ## Responsibility for using chalet time usefully
 
@@ -78,7 +79,7 @@ Priorities for chalet time:
 
 #### 5. Communities of Practice (CoP)
 
-- CoPs have regular meetings and ongoing activities. To participate in these, search Slack for channels starting with `#cop-`.
+- CoPs have regular meetings and ongoing activities. To participate in these, search Slack for channels starting with `#cop`.
 - CoPs will post opportunities to the [`#chalet-time-team`][1] Slack channel and the [Chalet Community Board][2].
 
 #### 6. Learning time
@@ -96,15 +97,15 @@ Chalet activities will be booked and scheduled as follows:
 
 #### 1. New opportunities on client teams
 
-**Billed or invested time:** This will be booked by the Scheduling team, just like when someone joins a client team. The chalet member will fill out timesheets for time spent in this team.
+Billed or invested time will be booked by the Scheduling team, just like when someone joins a client team. The chalet member will fill out timesheets for time spent in this team.
 
-**Shadowing:** This time should be recorded as ‘Bench/Chalet’ in timesheets.
+Shadowing should be recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 2. New business and revenue
 
-**Bid writing:** Booked by the Scheduling team. The chalet member will fill out timesheets for time spent on the bid.
+Bid writing will be booked by the Scheduling team. The chalet member will fill out timesheets for time spent on the bid.
 
-**Marketing:** - This should recorded as ‘Bench/Chalet’ in timesheets.
+Marketing should recorded as ‘Bench/Chalet’ in timesheets.
 
 #### 3. Hiring
 
@@ -152,15 +153,15 @@ The Scheduling team will give the Talent Team Coordinators access to the Kimble 
 
 The R&D team will add tasks to the [Chalet Community Board][2]. These tasks often involve helping to build products or research new opportunities.
 
-##### 5. Communities of Practice
+#### 5. Communities of Practice
 
 Capability and Delivery Heads will maintain a visible backlog of tasks in the [Chalet Community Board][2]. Chalet members can undertake these to improve their community of practice.
 
 ## Length of chalet time activities
 
-Chalet time activities must be able to deliver some value in small blocks of time: half day, single day or 3–5 days, meaning chalet time can add value if someone joins a client team at short notice.
+Chalet time activities must be able to deliver some value in small blocks of time: half day, 1 day or 3–5 days. This is so that chalet time can add value if someone joins a client team at short notice.
 
-Some activities may need more than a week. These should still be able to deliver business or personal value in increments of a half day, single day or 3–5 days.
+Some activities may need more than 5 days. These should still be able to deliver business or personal value in increments of a half day, 1 day or 3–5 days.
 
 [1]: https://madetechteam.slack.com/archives/C03F23K2RL0 "Chalet Time Team Slack Channel"
 [2]: https://trello.com/b/7lSGB2Xw/chalet-community-board "Chalet Community Board"
