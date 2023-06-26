@@ -20,17 +20,17 @@ Chalet time can be a valuable opportunity to grow skills, grow our business and 
 
 Please follow these steps when you join the chalet.
 
-1. Join the [`#chalet-time-team`][1] Slack channel.
+#### 1. Join the [`#chalet-time-team`][1] Slack channel.
   This channel provides up-to-date information on chalet activities and practices. You can use it to ask questions and arrange collaborative work.
-1. Add mandatory chalet meetings to your Google Calendar.
-  You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet-time-team`][1] Slack channel.
-  **Members of the Chalet are expected attend these meetings**, so that we can:
+#### 2. Add mandatory chalet meetings to your Google Calendar.
+  You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet-time-team`][1] Slack channel.  
+  Members of the Chalet are expected attend these meetings, so that we can:  
   - Help people use their chalet time well
   - Share opportunities and events
   - Help people with blockers
   - Build a sense of community
 
-1. Join the [Chalet Community Board][2].
+#### 3. Join the [Chalet Community Board][2].
   Use this board to discover tasks you can undertake while in the chalet, including work with Made Tech departments and Communities of Practice. You can also learn about chalet members and their current projects.
 
 ## Responsibility for using chalet time usefully
