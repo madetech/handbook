@@ -2,9 +2,9 @@
 
 This guide aims to make it easier to submit changes to the Handbook without using `git` or a text editor.
 
-## Adding new pages in Github
+## Updating and adding pages in Github
 
-### Creating the page
+### Creating a page
 
 1. [Go to the handbook.](https://github.com/madetech/handbook)
 2. Click through to the folder you want.
@@ -14,6 +14,18 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 6. When you're happy with your page, write a short description under "Commit new file". For example, "Add Flexible Holiday Page".
 7. Select "Create a new branch for this commit" and give it a name relevant to your change. For example, "add-flexible-holiday-page".
 8. Submit the change by clicking "Propose new file".
+9. You will be then be able to create a Pull Request to get review of your new page. Click "Create pull request", then share the link with people!
+
+### Updating a page
+
+1. [Go to the handbook.](https://github.com/madetech/handbook)
+2. Navigate to the page you wish to update.
+3. Click the pencil button in the top right
+4. Make the necessary changes using [Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+5. Preview your changes at any time by clicking "Preview".
+6. When you're happy with your page, click "Commit changes" and write a short description under "Commit message". For example "Update Flexible Holiday Page"
+7. Select "Create a new branch for this commit" and give it a name relevant to your change. For example, "update-flexible-holiday-page".
+8. Submit the change by clicking "Propose changes".
 9. You will be then be able to create a Pull Request to get review of your new page. Click "Create pull request", then share the link with people!
 
 ### Addressing review
