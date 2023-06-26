@@ -93,4 +93,3 @@ Through CycleScheme, you will save between 25% and 39% through tax and national 
 ### Once I put in my application via the CycleScheme website how long will it take to process my application?
 
 We will review any new requests every Friday afternoon so you shouldnt be waiting for more than one week for approval from Made Tech. 
-
