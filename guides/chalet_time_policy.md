@@ -119,11 +119,11 @@ If your learning activity will make you unavailable for a delivery (eg. a confer
 
 Learning activities that won't make you unavailable for a delivery (eg. reading, group learning) should be recorded as ‘Bench/Chalet’ in timesheets.
 
-We're actively reviewing the Learning process so this may change. If you have any questions please post them in the [`#chalet-time-team`][1] Slack channel.
+We're actively reviewing the Learning process so this may change. If you have any questions please post them in the [`#supply-learning-and-development`][4] Slack channel.
 
 ### 7. Holiday
 
-Chalet members will [book holiday][4] in the normal way.
+Chalet members will [book holiday][5] in the normal way.
 
 ## Responsibility to make activities visible and doable
 
@@ -164,4 +164,5 @@ Some activities may need more than 5 days. These should still be able to deliver
 [1]: https://madetechteam.slack.com/archives/C03F23K2RL0 "Chalet Time Team Slack Channel"
 [2]: https://trello.com/b/7lSGB2Xw/chalet-community-board "Chalet Community Board"
 [3]: https://madetechteam.slack.com/archives/C01MMH7DGUA "Marketing Team Slack Channel"
-[4]: https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md "Taking Holiday"
+[4]: https://madetechteam.slack.com/archives/C0226JKA39T "Supply Learning and Development Slack Channel"
+[5]: https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md "Taking Holiday"
