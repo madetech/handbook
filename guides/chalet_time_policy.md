@@ -18,10 +18,10 @@ Occasional chalet time is a common part of a business like ours, as client work 
 
 Please follow these steps when you join the chalet.
 
-### 1. Join the [`#chalet-time-team`][1] Slack channel.
+### 1. Join the [`#chalet`][1] Slack channel.
 This channel provides up-to-date information on chalet activities and practices. You can use it to ask questions and arrange collaborative work.
 ### 2. Add mandatory chalet meetings to your Google Calendar.
-You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet-time-team`][1] Slack channel.  
+You can find Google Calendar links for chalet meetings pinned to the top of the [`#chalet`][1] Slack channel.  
 Members of the Chalet are expected attend these meetings, so that we can:
 
 - Help people use their chalet time well
@@ -76,7 +76,7 @@ If there are no activities that need to be done that match the chalet member's r
 ### 5. Communities of Practice (CoP)
 
 - CoPs have regular meetings and ongoing activities. To participate in these, search Slack for channels starting with `#cop`.
-- CoPs will post opportunities to the [`#chalet-time-team`][1] Slack channel and the [Chalet Community Board][2].
+- CoPs will post opportunities to the [`#chalet`][1] Slack channel and the [Chalet Community Board][2].
 
 ### 6. Learning time
 
@@ -131,7 +131,7 @@ Various parts of the business will be responsible for making people aware of act
 
 ### 1. New opportunities on client teams
 
-A list of live client accounts is pinned to the [`#chalet-time-team`][1] Slack channel. This can be used to learn about clients, and to find opportunities to join client teams.
+A list of live client accounts is pinned to the [`#chalet`][1] Slack channel. This can be used to learn about clients, and to find opportunities to join client teams.
 
 Line managers of chalet members will help find opportunities and advocate for them to join client teams, either billed, invested or shadowing.
 
