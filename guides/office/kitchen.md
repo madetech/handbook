@@ -2,6 +2,8 @@
 
 We share the kitchen space with each other as well as with our customers. We have put together a few guidelines for keeping the kitchen nice and tidy.
 
+While we don’t have a designated employee solely responsible for restocking fridges and cupboards, if you see empty stock in fridges and cupboards, please use the overstock (labelled) to restock these areas. The Ops team try to keep on top of this, but some days can be busier than others, and we may not be in the following day. We want to try and ensure everyone is greeted with stocked drinks and snacks upon arrival.
+
 ## Coffee
 
 We love our coffee at Made Tech. We have fresh beans regularly delivered to the office and have multiple thermos drip coffee jugs that keep coffee lovely and fresh. Please ensure:
