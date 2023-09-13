@@ -15,7 +15,7 @@ Our plan for FY24 is to introduce a tapered appraoch to learning budgets. Whilst
 
 ### When leaving Made Tech
 
-Learning allowance will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted). We Won't claw back any of your allocated personal learning spend. 
+Learning allowance will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted). We won't claw back any of your allocated personal learning spend. 
 
 ## Showcases
 
