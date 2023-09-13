@@ -15,6 +15,9 @@ You can book a desk in any office using [Office RnD](https://hybrid.officernd.co
 
 Below is information on access and layout for each of our offices. If anyone has a disability that may require additional needs whilst in an office, please slack either #ops or email [operations@madetech.com](mailto:operations@madetech.com), and we will assist you with completing a PEEP.
 
+# Office etiquette
+Please leave desks and meeting rooms as you (should hopefully) find them. Please ensure all the equipment, including stationery, remotes, USB-C, keyboards, etc., are back in place, chairs are returned to the correct desk or room and desks, and meeting room tables are clear.
+
 ## London 
 
 ### Entry to London 
