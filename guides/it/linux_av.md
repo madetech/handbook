@@ -1,9 +1,9 @@
 # All about Linux
-In order to reach the standards for [ISO](https://www.madetech.com/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Systemagic. For Linux machines that currently all needs to be done manually.
+In order to reach the standards for [ISO](https://www.madetech.com/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Aura. For Linux machines that currently all needs to be done manually.
 
 The documentation below is valid in places and out of date (but not incorrect) in others. A new set of standards is being put together but it won't be ready until January 2022. At that point this new information will move to the internally facing Knowledge Base.
 
-In the meantime, Welcome, if you have any questions please ask [operations@madetech.com](mailto:operations@madetech.com) and join the #linuxination Slack channel! Everybody really likes Linux so whether you are new to Linux or a Linux wizard we all like questions and are all here to help.
+In the meantime; Welcome! If you have any questions please join the #linuxination Slack channel! Everybody really likes Linux so whether you are new to Linux or a Linux wizard we all like questions and are all here to help.
 
 
 
