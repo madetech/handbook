@@ -8,7 +8,6 @@ Some software is installed on Mac or Windows laptops to ensure we can keep the h
 - SentinelOne - this is anti-virus software
 - ThreatLocker - this enables the enhanced administrator access
 - N-Central - this allows Aura to provide remote support by viewing and taking control of your device
-- 
 
 ## Requesting access to software
 If you need something that isn't installed please don't just go and buy it or use a free trial - we probably already have a licence and can get you set up. In some cases we may ask you to use our standard tools rather than a personal preference as we're looking to avoid duplication in having many tools performing similar or the same job. We also need to demonstrate that we have the correct measures in place to protect our data, our clients' data, and their customers' data. The tools we use are a key part of that.
