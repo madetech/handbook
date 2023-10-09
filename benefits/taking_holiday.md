@@ -59,7 +59,7 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 ### Between Christmas and New Years
 * We only work for clients during the 3 days between Christmas and New Years if they specifically ask for this. Where there is a client requirement we'd look for volunteers to provide this cover. Most team members will not be working during this time.
-* You will need to book this time off as holiday in HiBob unless you are working.
+* Please note - you will need to book this time off as holiday in HiBob unless it has been agreed that you are working.
 
 ### December and January
 Taking time off works differently for the two weeks before Christmas and the first week in January as this is a popular time for holidays.
@@ -68,4 +68,3 @@ This means we need to coordinate with our team beyond what we may do ordinarily 
 * We'll consult with our clients as early as possible to understand what level of cover they will need.
 * Time off requests submitted for this period are typically reviewed and confirmed by mid October. 
 
-We've put together an [FAQ document](https://docs.google.com/document/d/1vaAFMbznH-sGMgstjmFXrA9dIxio-vr53C7JHs7Inao/edit#) which you can view with your Made Tech account.
