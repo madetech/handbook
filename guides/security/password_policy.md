@@ -6,7 +6,7 @@ Strong password and use of 2FA (two factor authentication) or MFA (Multi Factor 
 - Do not use the same password for access to Made Tech systems as for any personal accounts. If you do this, and your Made Tech password is compromised, it will open your personal accounts up to vulnerabilities and vice versa.
 
 ## 1Password
-Made Tech uses 1Password as its main password repository. 1Password is administered and maintained by Operations.  There are group vaults which are managed by the teams who use them, but also private vaults where you can store your own information. 
+Made Tech uses 1Password as its main password repository. 1Password is administered and maintained by Aura.  There are group vaults which are managed by the teams who use them, but also private vaults where you can store your own information. 
 
 Please use this as your only password management tool for Made Tech and client passwords.
 
