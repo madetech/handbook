@@ -5,20 +5,37 @@ Learning and mentoring is a core value at Made Tech. We strive to continuously l
 
 ## What resources are available?
 
-You'll receive a learning budget which is ready for you to use in Learnerbly, our online learning platform. You can access a variety of content, including books, online and offline courses, and even individual coaching sessions. It’s important that you use your budget on resources that directly link to your development here at Made Tech, whether that’s for your current role or a promotion you’re working towards.
+You'll receive an individual learning budget to spend on resources that directly link to your development here at Made Tech, whether that's for your currrent role or promotion your working towards. You are able to purchase resources on Learnerbly, our online learning platform or via other external providers. 
+
 There is also a variety of learning content developed and shared by people at Made Tech, plus partnerships with external providers for anything that we can't deliver in-house, like certifications and specialised courses.
+
+### In House learning programmes 
+
+Intro to Line Management
+
+We deliver an inhouse intro to line management programme for all individuals or are new to line management at Made Tech. We are currently reviewing this course and looking to launch a revised programme by Quarter 3 (Dec-Feb)
+
+Technical Training: Clean Code 101
+
+We deliver an in person Clean Code 101 training programme, a bootcapmp covering programming concepts which is suitable for all Engineering levels. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
+
+Technical Training: Recapping TDD and Testing along the spectrum
+
+A 1.5 day in person boot camp aimed to build confidence in 'test driven development' using different tools across different areas of teating. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
+
+What is Consulting and How I should do it at Made Tech. 
+
+A one day in person bootcamp covering the consulting market, how Made tech fits into that market, how to approach account strategy and influence your client. This course is suitable for all roles at Made tech. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
 
 
 ### When joining Made Tech
-Our plan for FY24 is to introduce a tapered appraoch to learning budgets. Whilst we are still working on finalising localised learning priorities, we will be assigning a proportioned amount to all team members for Q1. 
-
+Based on the feedback we have received that more junior roles in Made Tech would beenfit from having an increased budget available to support their development earlier in their careers, and that senior roles would beenfit from investment in a more custom learning programme, we introduced a tapered amount dependent on role level. 
 
 ### When leaving Made Tech
 
-Learning allowance will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted). We won't claw back any of your allocated personal learning spend. 
+Learning allowance will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted).  
 
 ## Showcases
 
-We have showcases every Friday between 4:30pm and 5pm. You'll get opportunities to present to the team, or learn something new from other teammates. All full-time team members should come along when work commitments allow.
+We have showcases every Friday between 4:30pm and 5pm. You'll have opportunities to present to the team, or learn something new from other teammates. All full-time team members should come along when work commitments allow.
 
-We are currently refreshing our whole approach to learning and mentoring at Made Tech, in doing this, we intend to adopt an agile approach - introducing and experimenting in stages to validate their impact and scalability. This handbook will be updated regularly to include our new learning initiatives. 
