@@ -22,10 +22,10 @@ Southampton
 SO40 3WX
 </pre>
 
-We recommend using the following methods to send the laptop and charger to Aura:
-
-[Post Office Track and Trace](https://www.postoffice.co.uk/track-trace)
+We recommend using the following method to send the laptop and charger to Aura as this both tracks and insures the laptop, and you can arrange to have the parcel collected from your home:
 
 [Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
-You can expense the postage by sending a receipt for postage to [finance@madetech.com](mailto:finance@madetech.com). We do not offer an option to purchase your laptop.
+You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to aura for 3-year replacement'. 
+
+We do not offer an option to purchase your laptop.
