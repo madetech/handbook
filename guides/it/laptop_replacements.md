@@ -6,7 +6,7 @@ The laptop renewal period is 3 years, which is based on the age of the laptop no
 
 - Aura will then arrange to send you a new laptop. 
 
-- Once you've finished transferring any information from your old laptop you need to either send it back to Aura. Please ensure: 
+- Once you've finished transferring any information from your old laptop you need to send it back to Aura. Please ensure: 
 - That the device is clean (no stickers)
 - That the charger is included
 - There is a note with your name on it so that Aura can identify who it’s from. 
