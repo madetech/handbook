@@ -6,7 +6,7 @@ The laptop renewal period is 3 years, which is based on the age of the laptop no
 
 - Aura will then arrange to send you a new laptop. 
 
-- Once you've finished transferring any information from your old laptop you need to either send it back to Aura or arrange to drop it off with a member of the Ops Team in the London office. For either method please can you ensure: 
+- Once you've finished transferring any information from your old laptop you need to either send it back to Aura. Please ensure: 
 - That the device is clean (no stickers)
 - That the charger is included
 - There is a note with your name on it so that Aura can identify who it’s from. 
@@ -26,6 +26,6 @@ We recommend using the following method to send the laptop and charger to Aura a
 
 [Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
-You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to aura for 3-year replacement'. 
+You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to Aura for 3-year replacement'. 
 
 We do not offer an option to purchase your laptop.
