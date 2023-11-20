@@ -13,7 +13,7 @@ Our company will give incentives and bonuses to employees who refer qualified ca
 
 This is how our employee referral reward program works:
 
-This Employee Referral Program Policy applies to all our employees who refer candidate to our company.
+This Employee Referral Program Policy applies to all our employees who refer a candidate to our company.
 
 | Monetary Amount     | Salary Level (£) | Payment amt on start date | Payment amt after probation |
 | ------------------: | :--------------: | -------------------------:| --------------------------: |

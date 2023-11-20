@@ -4,11 +4,11 @@ We take part in Cycle to Work as we wish to support those who wish to cycle to w
 Made Tech have a limit of £2500 with CycleScheme which can be used to purchase a bike and any accessories you will need. You then pay a monthly 'salary sacrifice' to effectively 'hire' the bike and kit, over a 12 month period. Once this period has been completed you will be given options around owning your bike. The [FAQs section](https://help.cyclescheme.co.uk/article/42-what-is-an-ownership-fee) of their website has lots of information regarding these options.If you leave Made Tech before paying off the purchase, the balance will be taken from your final salary payment.
 
 
-## Process for getting a bike through Cycle to Work on Made Tech Benefits Box
+## Process for getting a bike through Cycle to Work:
 
 ### How do I use CycleScheme?
 
-Start your application quickly and easily through the CycleScheme portal which you can access via Bob benefits. All you will need is the Employer Code which can be found in the information section of the Bob benefits CycleScheme box. Once you have entered the Employee code go through the application process using your Payroll number (labelled Employee ID on your bob profile, or can be found on your payslip.) 
+Start your application quickly and easily through the CycleScheme portal which you can access via Bob benefits. All you will need is the Employer Code which can be found in the information section of the Bob benefits CycleScheme tile. Once you have entered the Employee code go through the application process using your Payroll number (labelled Employee ID on your bob profile, or can be found on your payslip.) 
 
 Once you have completed the application it will be sent to a member of the people team to approve your request. Once approved you will receive your eCertificate which can then be exchanged for your gear in store or online!
  

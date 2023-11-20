@@ -10,7 +10,7 @@ Our accepted practices for structuring deliveries.
 
 Our expected reporting standards for delivery teams.
 
-## [Principles (DRAFT)](principles.md)
+## [Principles](principles.md)
 
 Our principles describing how we deliver in teams and work with clients.
 

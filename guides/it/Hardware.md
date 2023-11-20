@@ -1,6 +1,6 @@
 # IT Hardware
 
-Ops look after all the laptops and other IT infrastructure in the offices. For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md) and speak to your ever helpful Community Manager.
+Ops look after all the laptops and other IT infrastructure in the offices. For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md) or slack to #ops.
 
 ### Laptops
 Everyone at Made Tech will be given a laptop aligned to the role they do. The Linux users in Made Tech would like to specifically highlight that Engineers can request Linux machines :)
@@ -31,15 +31,10 @@ You may have or receive a laptop with a slightly different spec - these are olde
 
 Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was November 2022.
 
-If there is an issue with your laptop please email [support@systemagic.co.uk](mailto:support@systemagic.co.uk)
+If there is an issue with your laptop please email [it@madetech.com](mailto:it@madetech.com)
 
 ## Laptop replacement cycles
 
-Laptops are replaced every 3 years, according to the age of the individual laptop, not how long a user has had it. When your laptop is due for replacement you'll be contacted by Systemagic or Ops to arrange for a new one to be given to you and return of the old one.
+Laptops are replaced every 3 years, according to the age of the individual laptop, not how long a user has had it. When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one.
 
 New laptops will be whatever the standard spec is for your role at that time.
-
-When they've been returned, laptops are traded in or recycled, depending on what state they're in.
-
-- If a laptop is not eligible for trade-in (e.g. has icloud lock, is too damaged, not working, no value) then Systemagic performs a full disk wipe and the laptop is recycled by https://greenmachinecomputers.com/
-- If a laptop has a trade-in value then Systemagic performs a full disk wipe and prepares it to be in best condition to maximise trade-in valuation (e.g. stickers removed, residue scrubbed off, device cleaned). The laptop is valued through https://www.stormfront.co.uk/trade-in then sent to a trade-in partner for analysis. Any payment received is credited to MadeTech’s next invoice.

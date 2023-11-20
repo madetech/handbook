@@ -4,7 +4,7 @@
 
 We use [Kimble](https://www.kimbleapps.com/) to complete timesheets. All resources on how to complete and approve timesheets are in the [Knowledge base](https://sites.google.com/madetech.com/signpost/home/kimble-resources?authuser=0) (including a link for login through Single Sign-On (SSO)). 
 
-Made Tech hours are 35 per week, 7 hours per day full time. Part-time hours are prorated according to your agreed hours.
+Made Tech billable hours are 35 per week, 7 hours per day full time. Part-time hours are prorated according to your agreed hours.
 
 Only billable team members need to complete a timesheet (including contractors) and you will be notified at your onboarding session if you need to complete one. The timesheet must be completed to account for all of your time in the working week (excluding contractors).
 
