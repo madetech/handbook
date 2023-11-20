@@ -1,17 +1,12 @@
-# Lunchers
+# Lunchers 
 
-Every fortnight we select three groups of five people to have a team lunch and join any new starters in a de-regionalised format, with the day it’s held on rotation each time.
-
-This ritual provides an inclusive opportunity for the team to socialise and share their successes and challenges. 
-It's important that we continue to set aside the time for this, especially when as many of us work remotely most of the time.
+Once a month in each office we select 5 people to have lunch together on us! Order from your favoriute restaurant, nip to the shops, find a local cafe or head for a walk around Borough Market - the choice is yours!
 
 ## How it works
 
-The People & Culture Advisors will organise three lunchers groups every fortnight. *You can only expense your lunch if invited to do so by them.*
+- At the start of the month the date for each region will be posted in the Slack channel. To be in with a chance of being selected, book your desk and make sure you are in the office on that day!
+- The day before lunch the lucky lunchers will be posted in the regions Slack channel - if you cant make it, give your spot to someone else whos in.
 
-While we're working remotely, order from your favourite restaurant, or purchase ingredients from a supermarket (up to a maximum of £20) and expense back under the "Staff Meals" section on Xero.
+*You can only expense your lunch if you are chosen for lunchers.*
 
 If you have any questions, ask the People or Finance Team.
-
-*Policy owners: People & Culture Advisor(s)*
-
