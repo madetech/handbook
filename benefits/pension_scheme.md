@@ -2,7 +2,14 @@
 
 We have introduced a much-improved pension offering for all employees (as of May 2022). The workplace pension scheme is run by Scottish Widows and follows a contribution matching model where Made Tech matches the level of contribution you decide to make.
 
-The pension contribution available to you is aligned to your SFIA level, with pensions for SFIA 1 being 4% (4% employer matched), SFIA 2-4 being up to 12% (6% employer matched), pensions for SFIA 5 being up to 14% (7% employer matched), pensions for SFIA 6 being up to 16% (8% employer matched) and pensions for SFIA 7 being up to 18% (9% employer matched). The minimum contribution in every level is 4% (employer matched), there is no maximum employee contribution at present.
+The pension contribution available to you is aligned to your SFIA level:
+- SFIA 1: 4% employer matched
+- SFIA 2-4 6% employer matched
+- SFIA 5: 7% employer matched
+- SFIA 6: 8% employer matched
+- SFIA 7: 9% employer matched
+
+The minimum contribution in every level is 4% (employer matched), there is no maximum employee contribution at present.
 
 Pension contributions are deferred for your first 90 days, if you want to opt in early add the date into the "Pension Scheme" section of your Hibob profile where you will be enrolled on a 4% contribution scheme which you can adjust after your probationary period.
 
