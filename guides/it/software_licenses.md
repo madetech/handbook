@@ -45,3 +45,8 @@ If you need access to existing software email [it@madetech.com](mailto:it@madete
 - Lucidchart
 - Office 365
 - TablePlus
+
+### Assistive technology software
+- We understand that access to additional assistive technology (e.g. Grammarly) will  be of great support to some colleagues. 
+- Please contact the Ops team via slack #ops or operations@madetech.com for guidance on what assistive technology we already have available. 
+- We'll consider adding new tools to our approved list where existing options don't meet the needs.
