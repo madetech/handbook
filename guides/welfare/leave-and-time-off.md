@@ -2,7 +2,7 @@ Here is a list of the time off types in HiBob and some examples of what they sho
 
 ## Holiday 
 We have adopted a flexible holiday policy, where each team member is given the flexibility to take whatever holiday they need.  
-Please see our [flexible holiday page](https://github.com/madetech/handbook/blob/main/benefits/flexible_holiday.md)
+Please see our [flexible holiday page](https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md)
 
 ## Sick 
 We recognise that for our team to perform at the highest possible level, they need to be healthy in mind and body. 
