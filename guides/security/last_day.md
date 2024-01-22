@@ -7,4 +7,4 @@ Before that point, please ensure you’ve completed the below closing down tasks
 - If you have a Client laptop ensure you have spoken to your Delivery Manager about how to return that.
 - Completed your timesheet up to and including your final day.
 
-Aura will remove access to all software and will be in touch regarding returning your laptop.
+Aura will be in touch regarding returning your laptop a week before you leave. You'll find information [here](https://github.com/madetech/handbook/blob/main/guides/security/leavers_laptop.md) on how to return your laptop to them.
