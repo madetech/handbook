@@ -4,7 +4,7 @@
 Most standard software including SaaS applications will be set up on your laptop when you receive it. A standard toolset is being put together and we're implementing a way for everyone to easily access and download what they need.
 
 Some software is installed on Mac or Windows laptops to ensure we can keep the hardware safe and working, and to meet our CE+ and ISO certification obligations. Please do not attempt to remove the following software:
-- Kanji - this is a management platform for our Apple devices. Kanji reports back to Aura on security settings, security updates and will allow us to remotely push out settings like the Made Tech VPN connection and virus protection
+- Kandji - this is a management platform for our Apple devices. Kandji reports back to Aura on security settings, security updates and will allow us to remotely push out settings like the Made Tech VPN connection and virus protection
 - SentinelOne - this is anti-virus software
 - ThreatLocker - this enables the enhanced administrator access
 - N-Central - this allows Aura to provide remote support by viewing and taking control of your device
@@ -25,9 +25,8 @@ If you need access to existing software email [it@madetech.com](mailto:it@madete
 - [Miro](https://github.com/madetech/handbook/blob/main/guides/it/Miro.md)
 - Salesforce / Kimble (slack #ops-kimble-support)
 - 1Password
-- Learnably (email [support@systemagic.co.uk](mailto:support@systemagic.co.uk))
+- Learnably
 - HiBob (slack #team-people)
-- Airtable
 - GitHub
 - Microsoft Teams
 - Workable (slack #team-people)
@@ -41,7 +40,8 @@ If you need access to existing software email [it@madetech.com](mailto:it@madete
 - Figma
 - Dovetail
 - Consent Kit
-- Adobe Creative Cloud or relevant applications
+- Adobe Creative Cloud or other Adobe applications
 - Lucidchart
 - Office 365
 - TablePlus
+- Tuple
