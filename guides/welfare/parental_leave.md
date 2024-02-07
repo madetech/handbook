@@ -14,7 +14,7 @@ The breakdown of pay is:
 
 - 12 weeks at 100% pay (from Made Tech)
 - 6 weeks at 90% pay (statutory maternity/adoption pay)
-- 33 weeks at £151.20 or 90% pay whichever is lower (statutory maternity/adoption pay)
+- 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
 - return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
 
 See the detailed government guidelines: [www.gov.uk/employers-maternity-pay-leave](https://www.gov.uk/employers-maternity-pay-leave) and [https://www.gov.uk/employers-adoption-pay-leave](https://www.gov.uk/employers-adoption-pay-leave).
@@ -37,7 +37,7 @@ The breakdown of pay is as follows if you qualify for SPL:
 
 - 12 weeks at 100% pay (from Made Tech)
 - 6 weeks at 90% pay (statutory shared parental pay)
-- 33 weeks at £151.20 or 90% pay whichever is lower (statutory shared parental pay)
+- 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
 - return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
 
 The rules around SPL are fairly complex. See the government guidelines: [https://www.gov.uk/shared-parental-leave-and-pay](https://www.gov.uk/shared-parental-leave-and-pay).
