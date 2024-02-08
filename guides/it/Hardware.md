@@ -9,32 +9,35 @@ The current standard laptop specs for new purchases are:
 
 **Engineers and UCD**
 - 14‐inch MacBook Pro
-- Apple M1 Pro with 8-core CPU, 14-core GPU, 16-core Neural Engine
+- Apple M3 Pro with 8-core CPU, 10-core GPU, 16-core Neural Engine
 - 16GB unified memory
 - 512GB SSD storage
 
 OR
 
-- Lenovo ThinkPad X1 Carbon 14 Inch
-- Core i7-10510U Processor  @ 1.80GHz - 4 cores
+- ThinkPad X1 Carbon Gen 11 14 inch
+- Core i7-1355U Processor (E-cores up to 3.70 GHz P-cores up to 5.00 GHz)
 - 16GB of RAM
 - 512GB SSD
-- Windows 10 Pro
+- Integrated Intel® Iris® Xe Graphics
+- Windows or Linux
 
 **All other roles**
-- Macbook Air
+- Air M1 (13 inch)
 - Apple M1 chip with 8‐core CPU, 7‐core GPU and 16‐core Neural Engine
-  8GB unified memory
-- 256GB SSD storage1
+- 16GB unified memory
+- 256GB SSD storage
 
-You may have or receive a laptop with a slightly different spec - these are older machines which are still within the 3 year replacement period (see below).
+You may have or receive a laptop with a slightly different spec - these are older machines which are still within the 3 or 4 year replacement period (see below).
 
-Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was November 2022.
+Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was December 2023.
 
 If there is an issue with your laptop please email [it@madetech.com](mailto:it@madetech.com)
 
 ## Laptop replacement cycles
 
-Laptops are replaced every 3 years, according to the age of the individual laptop, not how long a user has had it. When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one.
+**Engineers and UCD** - laptops are replaced every 3 years, according to the age of the individual laptop, not how long a user has had it.
 
-New laptops will be whatever the standard spec is for your role at that time.
+**All other roles** - laptops are replaced every 4 years, according to the age of the individual laptop, not how long a user has had it. 
+
+When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one. You do not have to have a replacement - if you're perfectly happy with the laptop you currently have then great. You can request a replacement at any point after the 3 or 4 year mark, whichever is applicable. New laptops will be whatever the standard spec is for your role at that time.
