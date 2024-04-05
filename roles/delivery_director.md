@@ -98,5 +98,5 @@ Take a look at the Benefits & Perks section of the Made Tech Handbook to see wha
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
   
 The salary for this role is location dependant:
-UK: £100,000 - £121,500
-London & South East: £105,000 - £127,575
+* UK: £100,000 - £121,500
+* London & South East: £105,000 - £127,575
