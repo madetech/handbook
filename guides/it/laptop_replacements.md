@@ -26,6 +26,12 @@ We recommend using the following method to send the laptop and charger to Aura a
 
 [Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
-You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to Aura for 3-year replacement'. 
+You can expense the postage by claiming back via Xero ([guide](../compensation/expenses.md) and [policy](https://docs.google.com/document/d/1NthAC1xepzAI07o40c6WxXHbPttNxaCidhJ22eJHD-k/edit#)), completing the following fields:
+- Description: "Returning laptop to Aura for 3-year replacement"
+- Account: "Postage, Freight & Courier"
+- Industry: If it's a client laptop then it will depend on the client. If it's a Made Tech laptop then "Group"
+- Capabilities: Your own capability
+- Assign to customer: If it's a client laptop then it will depend on the client. If it's a Made Tech laptop then leave blank
+- Label: Leave blank
 
 We do not offer an option to purchase your laptop.
