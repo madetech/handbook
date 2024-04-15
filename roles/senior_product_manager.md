@@ -15,23 +15,76 @@ Senior Product Managers:
 - are effective decision makers
 - are advanced practitioners of Product Management practices, principles and approaches
 - engage, initiate and lead work within the community of practice, coaching and mentoring others
-- display the Senior Product Manager DDaT competencies and SFIA Level 4 Behaviours
+- display the Senior Product Manager DDaT competencies and SFIA Level 4 Skills and Behaviours
 
 
 ## Practice
-Applies the following practices as Senior Product Manager, within an engagement:
-- identifies value for users, services and organisations using research and analysis
-- prioritises work that delivers increments of value to users
-- makes sure engagements have measurable outcomes
-- negotiates product governance by guiding the definitions of ready and done, and developing success criteria
-- foresees and troubleshoots issues, using appropriate methods to identify and manage issues and risks
-- works with stakeholders, challenging assumptions, leading and making decisions to ensure successful outcomes
-- understands the roles of related disciplines, influences team operations, anticipating issues, and initiating collaboration and continuous improvement
-- works with the delivery manager to track progress and show our work to clients and colleagues
-- when necessary, coaches client teams to instil product-thinking
-- applies the agile mindset to enable best practice and realisation of value
-- enables teams to be effective by fostering a culture that supports psychological safety
 
+Agile working
+- coach and lead teams in Agile and Lean practices, determining the right approach for the team to take and evaluating this through the life of a project
+- think of new and innovative ways of working to achieve the right outcomes
+- act as a recognised expert and advocate for the approaches, continuously reflecting and challenging the team
+
+Consultancy
+- provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience
+- lead on the definition of guidance and inform how the organisation can use business analysis services more effectively
+
+Financial ownership
+- understand the marketplace
+- realise the benefit of a product and persuade others that it's the right one to use
+- integrate a product with other services
+- ensure that products get used
+- realise benefits by linking work in progress back to the business case
+- build business cases based on user needs
+
+Government Digital and Data Perspective
+- demonstrate an advanced understanding of design, technology and data principles
+- identify and implement solutions for assisted digital
+- apply knowledge to work with other roles and groups in Government Digital and Data
+
+Life cycle perspective
+- able to work comfortably in multiple parts of the product life cycle
+- recognise when it is right to move forward and when it is right to stop
+- recognise the appropriate deliverables and the right people to meet them
+- work with other Agile delivery operations throughout the product life cycle
+- plan and engage with the appropriate stakeholders at a particular stage in the project
+
+Operational management
+- keep abreast of industry best practice and can cascade ways of working
+- make operations efficient
+- act as the escalation point for major operational issues and champion operational management across the community
+- work closely with leaders of operational delivery teams in Government Digital and Data
+
+Problem management
+- anticipate problems and defend against them at the right time
+- understand how the problem fits into the larger picture
+- articulate the problem and help others to do so
+- build problem-solving capabilities in others
+
+Product ownership
+- guide others
+- implement new ways of working
+- show an awareness of what other sectors are doing
+- apply tools, terms and concepts in a variety of ways
+- be flexible, consider new ways of working and adapt to change
+
+Strategic ownership
+- effectively get buy-in from the client organisation
+- work with scant information and explain it in abstract terms
+- develop a strategy
+
+User focus
+- give direction on which tools or methods to use
+- demonstrate experience in meeting the needs of users across a variety of channels (Eg. Assisted digital support)
+- bring insight and expertise in how user needs have changed over time to ensure they're met by the business
+- apply strategic thinking to provide the best service for the end user
+
+Working within constraints
+- work with and challenge senior stakeholders
+- know when to escalate a constraint
+- prioritise and mitigate constraints, and turn them into an advantage
+- adapt the approach depending on the constraints
+  
 
 ## Community of Practice (CoP)
 Engages and participates within the Made Tech and client communities of practice to:
@@ -57,7 +110,7 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example). You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea. 
 
 The salary for this role is location dependant:
 * UK: £38,250 - £72,250
