@@ -49,7 +49,7 @@ A one day in person bootcamp covering the consulting market, how Made tech fits 
 
 
 ### When joining Made Tech
-Based on the feedback we have received that more junior roles in Made Tech would beenfit from having an increased budget available to support their development earlier in their careers, and that senior roles would beenfit from investment in a more custom learning programme, we have introduced a tapered amount dependent on role level. 
+Based on the feedback we have received that more junior roles in Made Tech would benefit from having an increased budget available to support their development earlier in their careers, and that senior roles would benefit from investment in a more custom learning programme, we have introduced a tapered amount dependent on role level. 
 
 ### When leaving Made Tech
 
