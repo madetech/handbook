@@ -5,7 +5,27 @@ Learning and mentoring is a core value at Made Tech. We strive to continuously l
 
 ## What resources are available?
 
-You'll receive an individual learning budget to spend on resources that directly link to your development here at Made Tech, whether that's for your currrent role or promotion your working towards. You are able to purchase resources on Learnerbly, our online learning platform or via other external providers. 
+All team members receive an annual individual learning budget (pro rata’d) to support them with their professional development at Made Tech, whether that is for their current role or, to support their progression and career pathway at Made Tech. Individual learning budgets can be viewed and accessed via Hi Bob. 
+
+It is important that you are investing your individual learning budget on resources that will help you to develop professionally and we will only approve requests that support this. 
+
+We know that individuals all learn in different ways therefore there is a lot of variety in terms of how you could invest in your learning budget, examples could be (not exhaustive):
+
+Professional memberships 
+Conferences and events 
+Subscriptions 
+Specialised courses 
+Books 
+Webinars 
+
+Individual learning budgets are there for you to invest in your professional development, therefore any resources outside of this will not be approved. In addition, individual learning budgets are not able to cover the following:
+
+Equipment 
+Software
+Virtual games 
+Travel and expenses 
+
+Where you spend your individual learning budget is not restricted, we would just ask that you use a reputable site if you are purchasing online so you know you are making a safe purchase. Further information on individual learning budgets and how to accces in Bob can be found in the team member guidance document. 
 
 There is also a variety of learning content developed and shared by people at Made Tech, plus partnerships with external providers for anything that we can't deliver in-house, like certifications and specialised courses.
 
@@ -29,11 +49,11 @@ A one day in person bootcamp covering the consulting market, how Made tech fits 
 
 
 ### When joining Made Tech
-Based on the feedback we have received that more junior roles in Made Tech would beenfit from having an increased budget available to support their development earlier in their careers, and that senior roles would beenfit from investment in a more custom learning programme, we introduced a tapered amount dependent on role level. 
+Based on the feedback we have received that more junior roles in Made Tech would benefit from having an increased budget available to support their development earlier in their careers, and that senior roles would benefit from investment in a more custom learning programme, we have introduced a tapered amount dependent on role level. 
 
 ### When leaving Made Tech
 
-Learning allowance will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted).  
+Individual learning budgets will end as a benefit from the day it’s confirmed that a team member will be leaving Made Tech (e.g. when their notice has been accepted).  
 
 ## Showcases
 
