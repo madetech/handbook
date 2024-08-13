@@ -1,115 +1,47 @@
 # Lead Product Manager 
-Lead Product Managers make sure products and services deliver measurable value, by exploring:
-- **user needs** - defined through comprehensive research
-- **organisational needs** - defined by the requirements placed upon or introduced by the client (e.g. legislation)
-- **service needs** - non-functional requirements
 
-# Key responsibilities
-## Scope
+Reporting to the Discipline Head of Product Management, Business Analysis and Innovation, our Lead Product Manager role is responsible for leading on product across multiple client assignments. 
 
-Lead Product Managers:
+## Summary
 
-- work on one or more engagements that are complex, high risk or sensitive, when necessary at programme level
-- manage recruitment, interviewing and onboarding of new team members and line manage up to three Senior Product Managers
-- are effective leaders and decision makers
-- are expert practitioners of product management practices, principles and approaches
-- provide strategic direction within the community of practice, coaching and mentoring others
-- display the Lead Product Manager DDaT competencies and SFIA Level 5 skills and behaviours
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers, researchers and product professionals to support the public sector's growing demand for a user-centred, design and product led approach to how services are delivered.
+As a Lead Product Manager, reporting to the Discipline Head, you’ll enable public sector organisations to better design services that improve society. You will be expected to role model and lead teams with best practice in product management.
 
+You will work as part of cross-functional teams which might include other Made Tech team members, stakeholders and partner agencies. You will inspire trust in the team, guide and coach teams through the product process and use your influence to continuously iterate and improve ways of working and processes. 
 
-## Practice
+## Responsibilities
 
-Applies the following practices as Lead Product Manager, within engagements:
+* You will be expected to work in a self initiated manner, modelling leadership in a collaborative and inclusive manner
+* Collaborate and influence the wider Made Tech team and our clients to deliver high quality work aligned with our customers vision and needs
+* Influence decision making which impacts success. This might include scoping work, prioritisation, deadlines, budgets and evaluating risk
+* Work across more than one assignment for a client at one time 
+* Coach, support and people manage other members of the Product Management team. To steer them and their teams towards successful delivery for our clients, enabling them and holding them accountable for producing high quality outputs and deliverables
+* Maintain a broad technical knowledge of product management, user-centred design and technical practices, be able to shape strategy, proposals, statements of work and roadmaps
+* Be a leader in and heavily contribute to Made Tech’s community of practice for Product and contribute to other disciplines 
+* Assist in developing and growing the discipline and user-centred practice in line with business needs, hiring and line managing product managers, developing the capability,  propositions and playbooks to create a uniquely Made Tech way of embedding design and product-led thinking into all that we do
 
-Agile working
-- coach and lead teams in Agile and Lean practices, determining the right approach for the team to take and evaluating this through the life of a project
-- think of new and innovative ways of working to achieve the right outcomes
-- act as a recognised expert and advocate for the approaches, continuously reflecting and challenging the team
+### Skills people must have
 
-Consultancy
-- provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience
-- lead on the development of guidance and inform how the organisation can use business analysis services more effectively
+* Experience in helping grow product teams though community, hiring and line management
+* Excellent understanding and passionate articulation of the value of product and user-centred design 
+* Experience and evidence of delivering user centred products and services from ideation through to maintenance phases  
+* Experience of assisting to develop product communities of practice as a leader or leading member of a high-performing practice
+* Ability to support and coach others to grow their skills, product capabilities and to take on more responsibility for client-facing projects
+* Able to educate and mentor team members, colleagues and peers in the wider business on developing product and agile delivery as a core discipline
+* Experienced in working directly with customers and users, and able to drive teams to deliver excellent outcomes for users
+* Working within a design consultancy/senior product leadership role in the public sector, health or allied areas
+* Strong empathy and relationship building  skills
 
-Financial ownership
-- understand the marketplace
-- realise the benefit of a product and persuade others that it's the right one to use
-- lead on integration of a product with other services
-- ensure that products get used
-- realise benefits by linking work in progress back to the business case
-- lead on building business cases based on user needs
+At this point, we hope you're feeling excited about Made Tech and the opportunity. Even if you don't feel that you meet every single skill, we still encourage you to apply. Get in touch with our talent team if you’d like an informal chat about the role and your suitability before applying.
 
-Government Digital and Data perspective
-- show knowledge of the wider digital economy and advances in technology
-- understand Agile working at an organisational level
-- create the environment for success
-- initiate and support working with other roles and groups in Government Digital and Data
+### Desirable (not essential) skills
 
-Life cycle perspective
-- successfully lead teams through the full product life cycle
-- identify which tools and techniques should be used at each stage
-- develop sustainable support models
-- identify and deal with potential risks across or between all stages of the product life cycle
-- coach others
-- contribute to the assessment of other teams, providing guidance and support as they move through stages of the product life cycle
+* Working with sales teams to build client relationships, develop opportunities and win new work
+* Working in the open - building the trust within teams to share little and often
+* Experience in re-designing legacy services and products
+* Maintaining a deep working knowledge of product,design and research techniques
+* Experience in people management
 
-Operational management
-- keep abreast of industry best practice and can cascade ways of working
-- make operations efficient
-- act as the escalation point for major operational issues and champion operational management across the community
-- work closely with leaders of operational delivery teams in Government Digital and Data
-
-Problem management
-- anticipate problems and defend against them at the right time
-- understand how the problem fits into the larger picture
-- articulate the problem and help others to do so
-- build problem-solving capabilities in others
-
-Product ownership
-- lead the definition and creation of approaches
-- coach others
-- implement new ways of working
-- show an awareness of what other sectors are doing
-- understand what is most important and applicable
-
-Strategic ownership
-- develop a long-term vision and objectives
-- take a discerning and disciplined approach to focusing on what is important and most relevant
-- set direction for and actively develop the capability of others
-
-User focus
-- set direction on which tools or methods to use
-- demonstrate expert experience in meeting the needs of users across a variety of channels (Eg. Assisted digital support)
-- bring insight and expertise into how user needs have changed over time to ensure they're met by the business
-- lead on and set the direction of strategic thinking to provide the best service for the end user
-
-Working within constraints
-- influence, challenge and coach
-- anticipate how constraints might change and know where to challenge or remove constraints
-
-## Community of Practice (CoP)
-
-Engages and participates within the Made Tech and client communities of practice to:
-
-- build an inclusive and supportive culture
-- recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of practice
-- direct work within the community of practice, ensuring strategic objectives are achieved
-- mentor and coach others within the community, acting as a thought leader, to support their development and practice
-- advance product-led thinking internally and externally
-
-## Commercial Awareness
-
-Collaborates with Principal Product Managers to:
-- make sure that engagements are effective, efficient and profitable
-- identify avenues of potential work, highlighting opportunities
-
-## Key measures
-
-- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards
-- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback
-
-## Competencies
-
-Lead Product Managers display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#lead-product-manager) and [SFIA (Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5) skills and behaviours.
 
 ## Work perks and benefits
 
