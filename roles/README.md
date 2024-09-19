@@ -22,7 +22,7 @@ We use the SFIA Framework to indicate seniority. We use prefixes in role titles 
 
 We have grouped them by relevant teams so that you can find relevant roles together:
 
-- [Delivery Management](#delivery-management)
+- [Delivery Management and PMO](#delivery-management)
 - [User-Centred Practice](#user-centred-practice)
 - [Cloud & Engineering Practice](#cloud--engineering-practice)
 - [Data Practice](#data-practice)
@@ -31,7 +31,8 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 
 ## Delivery Management
 
-Delivery Management
+Delivery Management and PMO
+- Delivery Support Analyst
 - [Associate Delivery Manager](associate_delivery_manager.md)
 - [Delivery Manager](_delivery_manager.md)
 - [Senior Delivery Manager](senior_delivery_manager.md)
@@ -117,6 +118,9 @@ Data Science
  - [Senior Data Scientist](senior_data_scientist.md)
  - Lead Data Scientist
  - Principal Data Scientist
+
+Data Analyst
+- [Senior Data Analyst]([url](https://github.com/madetech/handbook/blob/main/roles/senior_data_analyst.md))
 
 Leadership
 
