@@ -3,7 +3,7 @@
 The main purpose of this employee referral program policy is for our employees and all the
 People and Talent Team to use when they need detail and information about how Made Tech’s referral programs work.
 
-If you know someone who you think would be a good fit for a position at our company, feel free to refer them via [Workable](https://made-tech.workable.com/referrals).
+If you know someone who you think would be a good addition for a position at Made Tech, please do refer them via our Pinpoint platform. 
 If we end up hiring your referred candidate, you may receive a referral payment.
 Use the policy guidelines below to determine your eligibility.
 
