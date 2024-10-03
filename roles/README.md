@@ -32,6 +32,7 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 ## Delivery Management
 
 Delivery Management
+- [Delivery Support Analyst](delivery_support_analyst.md)
 - [Associate Delivery Manager](associate_delivery_manager.md)
 - [Delivery Manager](_delivery_manager.md)
 - [Senior Delivery Manager](senior_delivery_manager.md)
