@@ -56,8 +56,7 @@ We mainly work remotely but you may need to visit clients or go to the office oc
 
 The salary for this role is location-dependent:
 
-- UK: £77,000 - £110,000
-- London & South East: £80,850 - £115,500
+- UK: £49,500-£85,000
 
 ## Applying
 
