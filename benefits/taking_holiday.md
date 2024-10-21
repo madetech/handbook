@@ -52,7 +52,7 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* If you leave Made Tech part way through the year your holiday allowance and bank holidays will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
+* If you leave Made Tech part way through the year your contractual holiday allowance will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
 
 ## Festive period at Made Tech 
 
