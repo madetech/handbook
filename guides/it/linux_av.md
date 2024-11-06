@@ -100,7 +100,7 @@ You must be running Anti-virus software. The installed AV software must:
 - contain an up to date database of viruses and malicious software
 - prevent access to, or the running of any malicious file or software (On-access scanning as opposed to scheduled scanning)
 
-You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/?page_id=3950). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
+You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/download-anti-malware-testfile/). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
 
 ## SentinelOne
 SentinelOne is the Linux Anti-virus Software of choice at Made Tech. To get set up with SentinelOne follow the instructions below
