@@ -38,7 +38,9 @@ function checkFile (fileName) {
           { pattern: /currys.co.uk/ },
           { pattern: /pcworld.co.uk/ },
           { pattern: /goodreads.com/ },            // regularly returning as dead
-          { pattern: /\.github.com/ }              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
+          { pattern: /\.github.com/ },              // github subsites are returning 403. markdown-link-check are looking at it. https://github.com/tcort/markdown-link-check/issues/201
+
+          { pattern: /royalmail.com/ },            // regularly returning as dead
         ]
       }
 
