@@ -1,7 +1,7 @@
 # SFIA Role Guidance: User Researcher
 
 - [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
-- [Job description](https://github.com/madetech/handbook/blob/main/roles/user_researcher.md)
+- [Job description](https://github.com/madetech/handbook/blob/main/roles/sfia%20(legacy)/user_researcher.md)
 
 ### Summary of role
 

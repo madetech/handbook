@@ -1,7 +1,7 @@
 # SFIA Role Guidance: Designer
 
 * [SFIA Level 3](https://sfia-online.org/en/legacy-sfia/sfia-7/responsibilities/level-3)
-* [Job description](https://github.com/madetech/handbook/blob/main/roles/designer.md)
+* [Job description](https://github.com/madetech/handbook/blob/main/roles/sfia%20(legacy)/designer.md)
 
 ## Summary of role
 
