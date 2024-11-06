@@ -76,7 +76,7 @@ The next stage in the AWS Certification journey is the [AWS Certified Cloud Prac
 
 #### Recommended Online Training
 1. [Stephane Maarek - Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-2. [ACloudGuru](https://acloudguru.com/course/aws-certified-cloud-practitioner)
+2. [Pluralsight](https://www.pluralsight.com/paths/aws-certified-cloud-practitioner-clf-c02)
 
 
 ## AWS DevOps Engineer Pathway
@@ -89,7 +89,7 @@ The [AWS Certified Developer - Associate](https://aws.amazon.com/certification/c
 
 #### Recommended Online Training
 1. [Stephane Maarek - Udemy](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
-2. [ACloudGuru](https://acloudguru.com/course/aws-certified-developer-associate)
+2. [Pluralsight](https://www.pluralsight.com/paths/aws-certified-developer-associate-dva-c01)
 
 ### AWS Certified SysOps Administrator - Associate
 
@@ -105,7 +105,7 @@ The [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certif
 
 #### Recommended Online Training
 1. [Stephane Maarek - Udemy](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
-2. [ACloudGuru](https://acloudguru.com/course/aws-certified-devops-engineer-professional)
+2. [Pluralsight](https://www.pluralsight.com/paths/aws-certified-devops-engineer-professional)
 
 
 ## AWS Solutions Architect Pathway
