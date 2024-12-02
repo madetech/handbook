@@ -1,4 +1,4 @@
-# User researcher
+# User Researcher
 
 - Location: mainly remote with occasional office and client visits
 - Offices: London, Bristol, Manchester, and Swansea
@@ -28,11 +28,16 @@ User researchers are experienced practitioners who collaborate with others to un
 - Plan research that informs the design of public services, so they’re useful, usable and create successful outcomes
 - Do research with people that makes them comfortable sharing details of their lives, that teams must understand to design good services
 - Analyse and interpret raw research into findings so that teams can confidently confirm or challenge their understandings of problems and ideas
+- Has experience and interest in user centred, lean and agile research methodologies including:
+  - Usability testing 
+  - Contextual enquiry
+  - Rapid research
+- Understands and applies research ethics and GDPR
 
-## Leading teams
+## Contributing to teams
 
 - Involve whole teams in user research to build their understanding and empathy for people using and running public services
-- Assure the quality of decisions within their team
+- Assure the quality of decisions within their team with support from research community
 - Introduce good habits for sharing and improving design work into teams
 
 ## Community
