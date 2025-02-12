@@ -9,11 +9,10 @@ Everyone at Made Tech will be given a laptop aligned to the role they do. The Li
 The current standard laptop specs for new purchases are:
 
 **Engineers and UCD**
-- MacBook Pro (14 inch)
+- MacBook Pro (14inch standard display)
 - Apple M4 with 10-core CPU, 10-core GPU, 16-core Neural Engine
 - 32GB unified memory
 - 512GB SSD storage
-- 14" standard display
 
 OR
 
@@ -23,7 +22,7 @@ OR
 - 512GB SSD
 - Windows or Linux
 
-(Gen, spec and processor can vary on the ThinkPads - we'll talk to you individual about options.)
+(Gen, processor, memory and overall spec can vary on the ThinkPads - we'll talk to you individually about options.)
 
 **All other roles**
 - Air M3 (13 inch)
