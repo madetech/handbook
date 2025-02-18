@@ -4,6 +4,8 @@ We know you're ready to work and so we want you to be work ready. We'll equip yo
 
 In addition to this, you have access to a one off £250 work ready allowance. The allowance allows you to purchase items that will assist you in your job role. It can be used from your first day, and doesn’t need to be used in one go. If you are working your notice period, you are unable to use the budget. 
 
+Before utilising your work ready budget, please complete your DSE (Display screen equipment) training and DSE assessment to assist you in purchasing items required to fit in with DSE requirements.
+
 To utilise your work ready allowance; simply order the equipment you require then claim it back via expenses on Xero. You must have an invoice or receipt to ensure you can claim it back on Xero. Once on Xero please log the expense under ‘computer equipment <£250’. Once a claim is made you will be added to the next available weekly payment run. For any further questions on expenses please read the [expenses process](../guides/compensation/expenses.md).
 
 You can see how much of your allowance is left to use by looking at your profile on Bob under the Work Ready section.

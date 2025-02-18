@@ -2,7 +2,7 @@
 
 We're building a high-performance organisation that delivers great software products. We recognise that this requires a lot of hard work and that for our team to perform at their highest possible level, they need to live a well-balanced life and take regular time-out for rest, relaxation and rejuvenation.
 
-All team members have 30 days of leave available between Jan and Dec, plus bank holidays (both pro-rata for part time colleagues),  We believe this policy will help us to perform at the highest possible level.
+All team members have 38 days of leave available between June and May, this is inclusive of public and bank holidays (pro-rata for part time colleagues.) We believe this policy will help us to perform at the highest possible level.
 
 It is important that you and your colleagues feel that holiday is highly available. That holiday is an easily accessible commodity that enables everyone to get the necessary rest that they need. 
 
@@ -52,14 +52,14 @@ It is the responsibility of the person agreeing to a holiday booking to ensure i
 
 * If a team members performance declines significantly due to abuse of this policy, then we reserve the right to review their use of this policy.
 
-* If you leave Made Tech part way through the year your holiday allowance and bank holidays will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
+* If you leave Made Tech part way through the year your contractual holiday allowance will be pro-rated to account for your leave date. In some cases this might mean we'll pay you for accrued and unused holiday and in others it might mean you'll have to pay days taken over your pro-rated allowance back.
 
 ## Festive period at Made Tech 
 
 
 ### Between Christmas and New Years
 * We only work for clients during the 3 days between Christmas and New Years if they specifically ask for this. Where there is a client requirement we'd look for volunteers to provide this cover. Most team members will not be working during this time.
-* You will need to book this time off as holiday in HiBob unless you are working.
+* Please note - you will need to book this time off as holiday in HiBob unless it has been agreed that you are working.
 
 ### December and January
 Taking time off works differently for the two weeks before Christmas and the first week in January as this is a popular time for holidays.
@@ -68,4 +68,3 @@ This means we need to coordinate with our team beyond what we may do ordinarily 
 * We'll consult with our clients as early as possible to understand what level of cover they will need.
 * Time off requests submitted for this period are typically reviewed and confirmed by mid October. 
 
-We've put together an [FAQ document](https://docs.google.com/document/d/1vaAFMbznH-sGMgstjmFXrA9dIxio-vr53C7JHs7Inao/edit#) which you can view with your Made Tech account.

@@ -7,4 +7,4 @@ Before that point, please ensure you’ve completed the below closing down tasks
 - If you have a Client laptop ensure you have spoken to your Delivery Manager about how to return that.
 - Completed your timesheet up to and including your final day.
 
-The Business Operations Team will remove access to all software. If you have a Made Tech laptop, Systemagic will be in touch regarding sending it back.
+Aura will be in touch regarding returning your laptop a week before you leave. You'll find information [here](https://github.com/madetech/handbook/blob/main/guides/security/leavers_laptop.md) on how to return your laptop to them.

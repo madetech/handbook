@@ -39,7 +39,7 @@ Some little extras at work:
 
 * 💻 [Work Ready](benefits/work_ready.md) – On top of your Macbook, we provide a budget for other equipment you might need to get set up for work
 * 💡 [Learning](guides/learning/README.md) – We provide a learning budget to help develop your skills
-* 🍽️ [Lunchers](benefits/lunchers.md) – We randomly match up and new starters and some other team members to have lunch on us
+* 🍽️ [Lunchers](benefits/lunchers.md) – Come into the office, book your desk & be in with a chance of having lunch on us!
 * 🏓 [Getting Together](benefits/getting_together.md) –  We hold regular social events so you can get to know your teammates better
 
 Fair compensation and benefits:
@@ -50,7 +50,7 @@ Fair compensation and benefits:
 * 🚄 [Season Ticket Loan](benefits/season_ticket_loan.md) – We provide loans to help you pay for your travel
 * 🚲 [Cycle To Work Scheme](benefits/cycle_to_work_scheme.md) – We offer the cycle to work scheme to help pay for your bicycle
 * 🚕 [Expenses Paid](guides/compensation/expenses.md) – We’re happy to cover a range of work-related expenses in line with our expenses policy
-* 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – A more affordable way for our team to buy the latest gadgets and technology
+* 💻 [Help To Buy Tech](benefits/help_to_buy_tech.md) – Shop the latest gadgets,technology and now Ikea!
 * 🏦 [Income Protection & Life Assurance](benefits/income_protection_and_life_insurance.md) - Financial support provision when you or your family might need it most
 
 ### Welfare
@@ -61,6 +61,7 @@ Fair compensation and benefits:
 * [Expectations between Employees and the Organisation](guides/welfare/expectations.md)
 * [Raising an Issue](guides/welfare/raising_an_issue.md)
 * [Parental Leave](guides/welfare/parental_leave.md)
+* [DSE and H&S training](guides/welfare/dse_hs_training.md)
 * [Ethical Boundaries](guides/welfare/ethical_boundaries.md)
 
 ### Guides & Resources
@@ -85,7 +86,6 @@ Fair compensation and benefits:
 
 * [Office Handbook & Access Information](guides/office/officehandbook.md)
 * [Kitchen Etiquette](guides/office/kitchen.md)
-* [Tap Guide](guides/office/taps.md)
 * [Dress Code](guides/office/dress_code.md)
 
 #### IT
@@ -100,8 +100,8 @@ Fair compensation and benefits:
 * [BYOD Policy](guides/security/bring_your_own_device.md)
 * [Device Profiles](guides/security/device_profiles.md)
 * [What To Do If Your Device Is Lost Or Stolen](guides/security/lost_or_stolen.md)
-* [Last Day](guides/security/last_day.md)
 * [Office Visitors](guides/security/office_visitors.md)
+* [Last Day](guides/security/last_day.md)
 * [Password Policy](guides/security/password_policy.md)
 
 #### Policies

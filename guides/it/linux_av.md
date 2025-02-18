@@ -1,9 +1,9 @@
 # All about Linux
-In order to reach the standards for [ISO](https://www.madetech.com/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Systemagic. For Linux machines that currently all needs to be done manually.
+In order to reach the standards for [ISO](https://www.madetech.com/blog/iso-27001-changes/) and [Cyber Essentials Plus](https://www.ncsc.gov.uk/cyberessentials/overview), all our laptops must meet a certain set of requirements. For Mac and Windows machines that is controlled remotely by our IT Partner Aura. For Linux machines that currently all needs to be done manually.
 
 The documentation below is valid in places and out of date (but not incorrect) in others. A new set of standards is being put together but it won't be ready until January 2022. At that point this new information will move to the internally facing Knowledge Base.
 
-In the meantime, Welcome, if you have any questions please ask [operations@madetech.com](mailto:operations@madetech.com) and join the #linuxination Slack channel! Everybody really likes Linux so whether you are new to Linux or a Linux wizard we all like questions and are all here to help.
+In the meantime; Welcome! If you have any questions please join the #linuxination Slack channel! Everybody really likes Linux so whether you are new to Linux or a Linux wizard we all like questions and are all here to help.
 
 
 
@@ -100,7 +100,7 @@ You must be running Anti-virus software. The installed AV software must:
 - contain an up to date database of viruses and malicious software
 - prevent access to, or the running of any malicious file or software (On-access scanning as opposed to scheduled scanning)
 
-You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/?page_id=3950). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
+You can test the configuration of your AV software using the test files provided by [EICAR](https://www.eicar.org/) on their ["Anti Malware Testfile" page](https://www.eicar.org/download-anti-malware-testfile/). For example, after downloading `eicar.com.txt` it should not be possible to open the file in a text editor.
 
 ## SentinelOne
 SentinelOne is the Linux Anti-virus Software of choice at Made Tech. To get set up with SentinelOne follow the instructions below

@@ -2,26 +2,28 @@
 
 Our Principal Delivery Managers are accountable for the successful delivery of a portfolio of projects while developing senior client relationships and demonstrating delivery leadership.
 
-## Yout role at Made Tech
+## Your role at Made Tech
 
-Delivery principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers. As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement. As the most senior line of project escalation, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client.
+Delivery principals work with delivery, technical and design leads to ensure projects deliver the desired outcomes for users and customers. As an expert in delivery, you’ll define the delivery approach and team shape, inspire trust with senior stakeholders and guide clients through the delivery process from the first client engagement. As the most senior line of project escalation on your account, you’ll collaborate with delivery teams and client stakeholders to identify and manage risks and solve issues that arise. The majority of these activities will be value adding, and chargeable to the client.
 
-While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients.
+While this is not a hands-on delivery role, the importance of credibility in internet-era approaches to digital, data and technology in the public sector cannot be understated. You will maintain a broad knowledge of modern delivery practices and support teams to deliver quality outcomes that meet the needs of users and clients. As the most senior delivery professional on your account, you will be accountable for ensuring the teams within your portfolio have appropriate processes and ways of working in place to manage budget, quality, team well-being, and risks that could impact successful delivery. 
+
+Delivery principals form part of the Delivery and Project Management Office leadership team and contribute to the successful delivery of change and improvement initiatives. This includes fostering a best-in-class Community of Practice (CoP), managing the performance and development of a number of delivery managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
+
+As someone in a senior role within a matrix management organisation, you will build effective relationships with other senior leaders within the business, enabling you to contribute to Made Tech playbooks and thought leadership. You will support the well-being and development of all team members within your porfolio, by ensuring they receive regular feedback and learning opportunities.
 
 As a delivery leader within Made Tech you will maintain and grow your professional network. You will contribute to Made Tech’s growth, working with marketing on thought leadership, content and events, and supporting sales with responding to bids.
-
-Delivery principals form part of the Delivery Management Organisation (DMO) leadership team, and contribute to the successful delivery of the outcomes and KPIs of the DMO. This includes fostering a best in class Community of Practice (CoP), managing the performance and development of a number of delivery managers, promoting learning and development, supporting recruitment, and contributing to quarterly and annual goals.
 
 
 ## Definition of success
 
-Delivery Principal accomplishment is demonstrated by growing Made Tech’s impact, delivering high value services to our clients, and accelerating the careers of others in the DMO.
+Delivery Principal accomplishment is demonstrated by growing Made Tech’s impact, delivering high value services to our clients, and accelerating the careers of others in both Delivery Management and other capabilities within your portfolio.
 
 ### Outcomes
 * Manage quality and risk of all account deliveries
-* Maximise time spent on value adding activities that are chargeable to the client
+* Maximise time spent on value-adding activities that are chargeable to the client
 * Ensure accurate and timely adherence to all critical business processes within the account 
-* Balance client satisfaction and team happiness with Made Tech’s commercial goals
+* Balance client satisfaction and team well-being with Made Tech’s commercial goals
 * Develop and deliver an effective Account Growth strategy with other members of the Account Management Team
 * Contribute to growing Made Tech’s impact
 * Demonstrate leadership and expertise in public sector delivery
@@ -36,25 +38,31 @@ Delivery Principal accomplishment is demonstrated by growing Made Tech’s impac
 * Forecast accuracy
 * Invoice accuracy
 * Revenue contribution
+* Employee Engagement (eNPS)
 
-## Responsibilities
+## Internal Stakeholders
 
-Delivery Principals are responsible for delivering the above outcomes by collaborating with other Delivery Principals, the rest of the Account management Team, Delivery/Design/Technology leads within their projects, client stakeholders and internal business partners e.g. scheduling, hiring. They are responsible to the Co-Heads of Delivery who are their line managers and representatives in the Leadership Team.
+As a Delivery Principal you are responsible for delivering the above outcomes by collaborating with other Delivery Principals, the rest of the Account Management Team, Delivery/Design/Technology leads within your projects, client stakeholders and internal business partners e.g. scheduling, hiring, people team. 
+
+As a matrix organisation you will have a dual reporting line. 
+* The Head of Delivery will be your line manager and is responsible for your career development, and oversees the approach to Delivery across the organisation.
+* The Delivery Director and Industry Director for your Industry, who work across the accounts in an industry to build client relationships and sector knowledge that contributes to Industry growth. 
 
 ### Strategy
 * Contribute to and deliver on Account Strategy
-* Contribute to and support quarterly / annual DMO objectives
+* Contribute to and support Delivery Management capability improvement initiatives 
 * Account Level Delivery Assurance
 
 ### Accountable for ensuring delivery success 
-* Report to Heads of Delivery on a weekly basis the status of quality and risk
+* Report to the Head of Delivery and Industry Delivery Director every week the status of quality and risk
+* Oversee project planning and delivery, reporting on progress against expected milestones 
 * Manage team resourcing to balance successful client delivery, team happiness and Made Tech commercial objectives 
 * Oversee compliance and accuracy of all critical business processes (time sheeting, invoicing, forecasting, delivery assurance reporting)
 * Oversee commercial activities (Statements of Work, purchase order numbers, supplier contracts for partners, IR35 assessments for contractors, raising staffing demands)
 
 ### Hiring and Careers
 * Support hiring activities including interviewing and outreach
-* Management of Lead Delivery Managers including performance, progression and satisfaction
+* Management of Delivery Managers including performance, progression and satisfaction
 * Ensure regular feedback (constructive and/or appreciative) is shared with all individuals working on projects you are accountable for
 
 ### Growing Made Tech’s Impact
@@ -66,6 +74,7 @@ Delivery Principals are responsible for delivering the above outcomes by collabo
 
 ### Community and Thought Leadership
 * Share successes and failures with the Delivery Community to support the evolution of ways of working, techniques, and technologies across Made Tech
+* Contribute to the Industry Community, to support the identification of common problems that can be developed into propositions 
 * Contribute to a set of centralised resources and templates for potential reuse
 * Contribute to developing a thriving community of practice and shared identity
 
@@ -119,7 +128,7 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We do not mandate time on-site, but in-person collaboration is important for fostering effective relationships, and would expect Delivery Principals to spend time with their teams and with their clients. We have offices in London, Bristol, Manchester, and Swansea, and have clients with hubs all over the country. 
 
 The salary for this role is location dependant:
 

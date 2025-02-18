@@ -1,6 +1,7 @@
 # IT Hardware
 
-Ops look after all the laptops and other IT infrastructure in the offices. For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md) and speak to your ever helpful Community Manager.
+Aura look after all the laptops and other IT infrastructure in the offices. For all laptop issues or questions please email them directly [it@madetech.com](mailto:it@madetech.com). 
+For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md).
 
 ### Laptops
 Everyone at Made Tech will be given a laptop aligned to the role they do. The Linux users in Made Tech would like to specifically highlight that Engineers can request Linux machines :)
@@ -8,38 +9,41 @@ Everyone at Made Tech will be given a laptop aligned to the role they do. The Li
 The current standard laptop specs for new purchases are:
 
 **Engineers and UCD**
-- 14‐inch MacBook Pro
-- Apple M1 Pro with 8-core CPU, 14-core GPU, 16-core Neural Engine
-- 16GB unified memory
+- MacBook Pro (14inch standard display)
+- Apple M4 with 10-core CPU, 10-core GPU, 16-core Neural Engine
+- 32GB unified memory
 - 512GB SSD storage
 
 OR
 
-- Lenovo ThinkPad X1 Carbon 14 Inch
-- Core i7-10510U Processor  @ 1.80GHz - 4 cores
-- 16GB of RAM
+- ThinkPad X1 Carbon Gen 11 or 12 14 inch
+- Core i7-1355U Processor (E-cores up to 3.70 GHz P-cores up to 5.00 GHz)
+- 16GB or 32GB of RAM
 - 512GB SSD
-- Windows 10 Pro
+- Windows or Linux
+
+(Gen, processor, memory and overall spec can vary on the ThinkPads - we'll talk to you individually about options.)
 
 **All other roles**
-- Macbook Air
-- Apple M1 chip with 8‐core CPU, 7‐core GPU and 16‐core Neural Engine
-  8GB unified memory
-- 256GB SSD storage1
+- Air M3 (13 inch)
+- Apple M3 chip with 8‐core CPU, 8‐core GPU and 16‐core Neural Engine
+- 16GB unified memory
+- 256GB SSD storage
 
-You may have or receive a laptop with a slightly different spec - these are older machines which are still within the 3 year replacement period (see below).
+You may have or receive a laptop with a slightly different spec - these are older machines which are still within the 3 or 4 year replacement period (see below).
 
-Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was November 2022.
+Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was January 2025.
 
-If there is an issue with your laptop please email [support@systemagic.co.uk](mailto:support@systemagic.co.uk)
+If there is an issue with your laptop please email [it@madetech.com](mailto:it@madetech.com)
 
 ## Laptop replacement cycles
 
-Laptops are replaced every 3 years, according to the age of the individual laptop, not how long a user has had it. When your laptop is due for replacement you'll be contacted by Systemagic or Ops to arrange for a new one to be given to you and return of the old one.
+**Engineers and UCD** - laptops are currently replaced every 3 years, according to the age of the individual laptop, not how long a user has had it.
 
-New laptops will be whatever the standard spec is for your role at that time.
+**All other roles** - laptops are replaced every 4 years, according to the age of the individual laptop, not how long a user has had it. 
 
-When they've been returned, laptops are traded in or recycled, depending on what state they're in.
+Please note - the replacement is due on the date the laptop was bought by Made Tech, it it not based on the model year of the laptop.
 
-- If a laptop is not eligible for trade-in (e.g. has icloud lock, is too damaged, not working, no value) then Systemagic performs a full disk wipe and the laptop is recycled by https://greenmachinecomputers.com/
-- If a laptop has a trade-in value then Systemagic performs a full disk wipe and prepares it to be in best condition to maximise trade-in valuation (e.g. stickers removed, residue scrubbed off, device cleaned). The laptop is valued through https://www.stormfront.co.uk/trade-in then sent to a trade-in partner for analysis. Any payment received is credited to MadeTech’s next invoice.
+When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one. You do not have to have a replacement - if you're perfectly happy with the laptop you currently have then great. You can request a replacement at any point after the 3 or 4 year mark, whichever is applicable. New laptops will be whatever the standard spec is for your role at that time.
+
+As of February 2025 we are running behind on replacements for Pros. We're working through in date order.

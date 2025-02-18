@@ -32,6 +32,7 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 ## Delivery Management
 
 Delivery Management
+- [Delivery Support Analyst](delivery_support_analyst.md)
 - [Associate Delivery Manager](associate_delivery_manager.md)
 - [Delivery Manager](_delivery_manager.md)
 - [Senior Delivery Manager](senior_delivery_manager.md)
@@ -59,20 +60,20 @@ Business Analysis
 Content Design
 - [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
 - [Lead Content Designer](lead_content_designer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
 
 User Research
 - [User Researcher](mid_user_researcher.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
 - [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
 - [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
 
 Design including interaction and service design
 - [Associate Designer](associate_designer.md) ([SFIA Level 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2))
 - [Designer](mid_designer.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
 - [Senior Designer](senior_designer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucd.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
 
 Leadership
 

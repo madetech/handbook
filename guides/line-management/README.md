@@ -5,9 +5,11 @@ Line managers help others to learn and grow, deliver great results, and progress
 People who report to a line manager are called "direct reports".
 
 This guidance isn't complete yet. If you need help, ask:
-- the people team (**#team-people** on Slack)
+- your own line manager
+- you can search our knowledge base - Ask Made Tech, and if you can't find an answer there, feel free to raise a query
+- ask one of the people partnering team
 - the line manager community (**#cop-learning-line-managers** on Slack)
-- Yasemin Ercan, our Head of People
+
 
 ## What do I need to do as a line manager?
 

@@ -1,58 +1,47 @@
 # Lead Product Manager 
-Lead Product Managers make sure products and services deliver measurable value, by exploring:
-- **user needs** - defined through comprehensive research
-- **organisational needs** - defined by the requirements placed upon or introduced by the client (e.g. legislation)
-- **service needs** - non-functional requirements
 
-# Key responsibilities
-## Scope
+Reporting to the Discipline Head of Product Management, Business Analysis and Innovation, our Lead Product Manager role is responsible for leading on product across multiple client assignments. 
 
-Lead Product Managers:
+## Summary
 
-- work on one or more engagements that are complex, high risk or sensitive, when necessary at programme level
-- manage recruitment, interviewing and onboarding of new team members and line manage up to three Senior Product Managers
-- are effective leaders and decision makers
-- are expert practitioners of product management practices, principles and approaches
-- provide strategic direction within the community of practice, coaching and mentoring others
-- display the Lead Product Manager DDaT competencies and SFIA Level 5 Behaviours
+Made Tech wants to positively impact the country's future by using technology to improve society. We believe being design and product-led can create positive outcomes in the public sector through critical services enabled by technology. We are building a community of designers, researchers and product professionals to support the public sector's growing demand for a user-centred, design and product led approach to how services are delivered.
+As a Lead Product Manager, reporting to the Discipline Head, you’ll enable public sector organisations to better design services that improve society. You will be expected to role model and lead teams with best practice in product management.
 
+You will work as part of cross-functional teams which might include other Made Tech team members, stakeholders and partner agencies. You will inspire trust in the team, guide and coach teams through the product process and use your influence to continuously iterate and improve ways of working and processes. 
 
-## Practice
+## Responsibilities
 
-Applies the following practices as Lead Product Manager, within engagements:
+* You will be expected to work in a self initiated manner, modelling leadership in a collaborative and inclusive manner
+* Collaborate and influence the wider Made Tech team and our clients to deliver high quality work aligned with our customers vision and needs
+* Influence decision making which impacts success. This might include scoping work, prioritisation, deadlines, budgets and evaluating risk
+* Work across more than one assignment for a client at one time 
+* Coach, support and people manage other members of the Product Management team. To steer them and their teams towards successful delivery for our clients, enabling them and holding them accountable for producing high quality outputs and deliverables
+* Maintain a broad technical knowledge of product management, user-centred design and technical practices, be able to shape strategy, proposals, statements of work and roadmaps
+* Be a leader in and heavily contribute to Made Tech’s community of practice for Product and contribute to other disciplines 
+* Assist in developing and growing the discipline and user-centred practice in line with business needs, hiring and line managing product managers, developing the capability,  propositions and playbooks to create a uniquely Made Tech way of embedding design and product-led thinking into all that we do
 
-- identifies value for users, services and organisations using research and analysis outcomes
-- prioritises work that delivers increments of value to users
-- makes sure engagements have measurable outcomes
-- negotiates product governance by guiding the definitions of ready and done, and developing success criteria
-- foresees and troubleshoots issues, using appropriate methods to identify and manage issues and risks
-- works with senior stakeholders, confidently challenging assumptions and stewarding teams to ensure successful outcomes at programme level
-- understands the roles of related disciplines, influences team operations, anticipating issues, and initiating collaboration and continuous improvement
-- works with the delivery manager to track progress and show our work to clients and colleagues
-- advocates product thinking at senior stakeholder level to instil a product management discipline, making recommendations
-- applies the agile mindset and coaches teams to enable best practice and realisation of value
-- enables teams to be effective by fostering a culture that supports psychological safety
+### Skills people must have
 
-## Community of Practice (CoP)
-Engages and participates within the Made Tech and client communities of practice to:
+* Experience in helping grow product teams though community, hiring and line management
+* Excellent understanding and passionate articulation of the value of product and user-centred design 
+* Experience and evidence of delivering user centred products and services from ideation through to maintenance phases  
+* Experience of assisting to develop product communities of practice as a leader or leading member of a high-performing practice
+* Ability to support and coach others to grow their skills, product capabilities and to take on more responsibility for client-facing projects
+* Able to educate and mentor team members, colleagues and peers in the wider business on developing product and agile delivery as a core discipline
+* Experienced in working directly with customers and users, and able to drive teams to deliver excellent outcomes for users
+* Working within a design consultancy/senior product leadership role in the public sector, health or allied areas
+* Strong empathy and relationship building  skills
 
-- build an inclusive and supportive culture
-- recognise when to ask for further guidance and support and identify how to improve how we work, for example, by discussing and sharing approaches, ideas and examples of practice
-- direct work within the community of practice, ensuring strategic objectives are achieved
-- mentor and coach others within the community, acting as a thought leader, to support their development and practice
-- advance product-led thinking internally and externally
+At this point, we hope you're feeling excited about Made Tech and the opportunity. Even if you don't feel that you meet every single skill, we still encourage you to apply. Get in touch with our talent team if you’d like an informal chat about the role and your suitability before applying.
 
-## Sales
-Collaborates with Principle Product Managers to:
-- make sure that engagements are effective, efficient and profitable
-- identify avenues of potential work, highlighting opportunities
+### Desirable (not essential) skills
 
-## Key measures
-- Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards
-- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback
+* Working with sales teams to build client relationships, develop opportunities and win new work
+* Working in the open - building the trust within teams to share little and often
+* Experience in re-designing legacy services and products
+* Maintaining a deep working knowledge of product,design and research techniques
+* Experience in people management
 
-## Competencies
-Lead Product Managers display [Made Tech’s values](https://github.com/madetech/handbook/blob/main/company/about.md), relevant [DDaT capabilities](https://www.gov.uk/guidance/product-manager#lead-product-manager) and [SFIA (Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5) behaviours.
 
 ## Work perks and benefits
 
@@ -60,7 +49,8 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 ## Salary and location
 
-We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
+We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example).  You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea. 
+
 The salary for this role is location dependant:
 * UK: £59,500 - £85,000
 * London & South East: £62,475 - £89,250

@@ -1,12 +1,12 @@
 # Password and 2FA/MFA policy
-Strong password and use of 2FA (two factor authentication) or MFA (Multi Factor Authentication) are important aspects of device and software security. We all have passwords for multiple systems that are used for business related purposes and it is important for all team members to take the appropriate steps to secure their passwords.
+Strong password and use of 2FA (two factor authentication) or MFA (Multi Factor Authentication) are important aspects of device and software security. We all have passwords for multiple systems that are used for business related purposes and it is important for all team members to take the appropriate steps to secure their passwords. The full password policy is available [here](https://docs.google.com/document/d/1oUzqF5TkdUQmXpQp-9fIficeQ0O-TYbwOK6koMFsSWE/edit) (internal link).
 
 ## Password Creation
 - Passwords must be sufficiently strong such as to make cracking or guessing difficult. Where possible, passwords should be randomly generated (you can do this using 1password)
 - Do not use the same password for access to Made Tech systems as for any personal accounts. If you do this, and your Made Tech password is compromised, it will open your personal accounts up to vulnerabilities and vice versa.
 
 ## 1Password
-Made Tech uses 1Password as its main password repository. 1Password is administered and maintained by Operations.  There are group vaults which are managed by the teams who use them, but also private vaults where you can store your own information. 
+Made Tech uses 1Password as its main password repository. 1Password is administered and maintained by Aura.  There are group vaults which are managed by the teams who use them, but also private vaults where you can store your own information. 
 
 Please use this as your only password management tool for Made Tech and client passwords.
 
