@@ -15,7 +15,7 @@ This is how our employee referral programme works:
 | Monetary Amount     | Roles | Payment amt on start date | Payment amt after probation |
 | ------------------: | :--------------: | -------------------------:| --------------------------: |
 | £500                | Apprentices  |                      £250 |                        £250 | |
-| £1500               | All other roles  |                      £500 |                       £1000 |
+| £1500               | All other roles  |                      £750 |                       £750 |
 
 
 __Charity__ – should you wish to not take us up on the personal financial incentive then you can opt to make a charitable donation which we will make on your behalf to our associated charity for the given year of the campaign.
