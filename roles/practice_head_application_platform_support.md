@@ -65,7 +65,7 @@ Don’t worry - we don’t expect you to tick all of these when you join, we wil
 
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK.
 
-UK Salary range is: £80,000 - £110,000
+UK Salary range is: £80,000 - £100,000
 
 ## Work perks and benefits
 Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
