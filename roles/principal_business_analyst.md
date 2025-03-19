@@ -3,11 +3,12 @@
 
 Our Principal Business Analysts are responsible for leading and delivering on strategically significant and complex client engagements across our portfolio of public sector clients.
 We believe that great delivery stems from:
-a thorough understanding of our clients and their needs
-strong practice skills and subject matter expertise
-excellent leadership
-a clear vision of lasting and effective change in a public sector environment 
-the ability to translate meaningful strategy into effective implementation
+* a thorough understanding of our clients and their needs
+* strong practice skills and subject matter expertise
+* excellent leadership
+* a clear vision of lasting and effective change in a public sector environment 
+* the ability to translate meaningful strategy into effective implementation
+
 We expect our Principal Business Analysts to bring all of this and to enthuse our strategy, analysis and design teams, and clients with the same passion.
 The successful candidate will lead the Business Analysis aspects of one or more of our client engagements while overseeing the wider delivery within the account (or industry) and practice when appropriate. 
 
@@ -117,8 +118,6 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
-
-The salary for this role is location dependant:
 
 * UK: £72,250 - £90,000
 
