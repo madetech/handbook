@@ -42,6 +42,12 @@ The breakdown of pay is as follows if you qualify for SPL:
 
 The rules around SPL are fairly complex. See the government guidelines: [https://www.gov.uk/shared-parental-leave-and-pay](https://www.gov.uk/shared-parental-leave-and-pay).
 
+## Neonatal Care Leave
+
+You may be eligible for Neonatal Care Leave in addition to your parental leave should your child require further hospital care when born. There are two tiers of Neonatal Care Leave, and accrual can be from a minimum of 1 week up to a maximum of 12 weeks, but it will depend on individual circumstances. 
+
+As we appreciate that any need for this type of leave will likely arise during sensitive and stressful moments, please contact your People Partner to discuss this in more detail. They will work closely with you to manage any leave needs in the best way possible.
+
 ## Other Considerations
 
 We offer a number of additional company benefits which may be attractive to new parents, including [remote/offsite working](../../benefits/hybrid_working.md), [a generous holiday allowance](../../benefits/taking_holiday.md), [flexible work weeks](../../benefits/flexible_working.md) and [flexible working hours](../../benefits/working_hours.md).
