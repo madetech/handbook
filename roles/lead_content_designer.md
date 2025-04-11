@@ -2,7 +2,7 @@
 
 * Location: mainly remote with occasional office and client visits
 * Offices: London, Bristol, Manchester, and Swansea
-* Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
+* Salary: Please refer to the add when the job is live
 * SFIA: Level 5
 
 
