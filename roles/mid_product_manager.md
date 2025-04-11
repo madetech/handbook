@@ -51,10 +51,9 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-The salary for this role is location dependant:
-* UK: £29,750 - £42,500
-* London & South East: £31,237 - £44,625
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
