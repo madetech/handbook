@@ -49,8 +49,9 @@ We mainly work remotely but you may need to visit clients or go to the office oc
 
 The salary for this role is location-dependent:
 
-- UK: £77,000 - £110,000
-- London & South East: £80,850 - £115,000
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
