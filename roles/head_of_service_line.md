@@ -1,10 +1,10 @@
-# Head of Capability Practice
+# Head of Service Line
 
-Our Heads of Capability Practices are responsible for building world class professional services practices and developing demand for a set of propositions and capabilities within a particular functional expertise such as user-centred design, product, software engineering, data, cyber security, and more.
+Our Heads of Service Line are responsible for building world class professional services practices and developing demand for a set of propositions and capabilities within a particular functional expertise such as user-centred design, product, software engineering, data, cyber security, and more.
 
 ## Outcomes
 
-Heads of Capability Practices share a common set of outcomes and KPIs that work towards our organisational purpose, vision and missions. To be successful they must work as one team with Industry Practices, the Delivery Management Organisation and Business Services. They should:
+Heads of Service Lines share a common set of outcomes and KPIs that work towards our organisational purpose, vision and missions. To be successful they must work as one team with Industry Practices, the Delivery Management Organisation and Business Services. They should:
 
 - generate public sector demand for a set of capabilities
 - help make sure there’s high growth of revenue and headcount
@@ -14,7 +14,7 @@ Heads of Capability Practices share a common set of outcomes and KPIs that work 
 
 ## Responsibilities
 
-A Head of Capability Practice is responsible for delivering the above outcomes by collaborating with the business. They report to the Executive Director for Delivery and Capabilities who is their line manager and representative in the Executive Committee.
+A Head of Service Line is responsible for delivering the above outcomes by collaborating with the business. They report to the Executive Director for Delivery and Capabilities who is their line manager and representative in the Executive Committee.
 
 ### Strategy and management
 
@@ -61,11 +61,10 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 
-The salary for this role is location dependant:
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-- UK: £100,000 - £135,000
-- London & South East: £105,000 - £141,750
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
-When we’re hiring for a Head of Capability Practice role, you can see details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
+When we’re hiring for a Head of Service Line role, you can see details and apply at www.madetech.com/careers. If you have any questions about the role please email us at [careers@madetech.com](mailto:careers@madetech.com). We’re happy to help!
