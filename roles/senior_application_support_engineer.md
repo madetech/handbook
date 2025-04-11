@@ -56,4 +56,6 @@ Take a look at the Benefits & Perks section of the Made Tech Handbook to see wha
 
 We adopt a hybrid approach and anticipate that most roles will spend a mixture of time within our offices, client sites and working remotely. We have offices in London, Bristol, Manchester, and Swansea and our clients are across the UK. 
 
-* UK Salary range is: £38,500 - £51,250
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
