@@ -2,7 +2,7 @@
 
 - Location: mainly remote with occasional office and client visits
 - Offices: Bristol, London, Manchester, and Swansea
-- Salary: £59,500 - £85,000 with a London-weighting of £62,475 - £89,250
+- Salary: Please refer to the job advert when the role is live
 Note: Any new joiners will be offered a salary in the bottom third of this range
 - SFIA: Level 5
 
@@ -99,6 +99,9 @@ Lead Designers at Made Tech are…
 ## Work perks and benefits
 
 Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
