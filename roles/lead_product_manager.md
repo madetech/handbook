@@ -51,9 +51,8 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 We work in a hybrid manner with on-site requirements for in-person presence when considered most beneficial for the activity (team meetings, workshops, onboarding for example).  You may also need to visit clients where on-site requirements are necessary and/or beneficial. We have offices in London, Bristol, Manchester, and Swansea. 
 
-The salary for this role is location dependant:
-* UK: £59,500 - £85,000
-* London & South East: £62,475 - £89,250
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 
 ## Applying
