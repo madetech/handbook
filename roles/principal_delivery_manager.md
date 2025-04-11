@@ -130,10 +130,9 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 We do not mandate time on-site, but in-person collaboration is important for fostering effective relationships, and would expect Delivery Principals to spend time with their teams and with their clients. We have offices in London, Bristol, Manchester, and Swansea, and have clients with hubs all over the country. 
 
-The salary for this role is location dependant:
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-- UK: £76,500 - £121,500
-- London & South East: £80,325 - £127,575
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
