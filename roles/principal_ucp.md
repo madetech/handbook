@@ -1,7 +1,7 @@
 # User-Centred Practice (UCP) Principal
 
 - Offices: London, Bristol, Manchester, and Swansea
-- Salary: £72,250 - £100,000
+- Salary: Please refer to the job ad when this role is live. 
 - SFIA: Level 6
 - Minimum of 50% of time billed on client work
 
@@ -94,6 +94,10 @@ This includes:
 ## Work perks and benefits
 
 Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ##  Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
