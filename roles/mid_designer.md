@@ -2,7 +2,7 @@
 
 - Location: mainly remote with occasional office and client visits
 - Offices: London, Bristol, Manchester, and Swansea
-- Salary: £29,750 - £42,500 with a London-weighting of £31,237 - £44,625
+- Salary: Please refer to job advert when this role is live
 - SFIA: Level 3
 
 Designers might already be a Product Designer, UX Designer, Service Designer or Interaction Designer.
@@ -57,6 +57,10 @@ Designers are experienced practitioners who collaborate with others to tackle ch
 ## Work perks and benefits
 
 Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://github.com/madetech/handbook) to see what we can offer you. 
+
+We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
+
+For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
