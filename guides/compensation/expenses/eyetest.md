@@ -3,7 +3,7 @@
 Everyone is able to claim back the costs of an annual eye test. You need to:
 
 - Book the eye test yourself and get a receipt
-- Submit the receipt for the eye test through Xero, using the category 'Staff Welfare'.
+- Submit the receipt for the eye test through Xero, using the category 'Staff discrentionary benefit'.
 
 ## Claiming for Lenses and Frames
 
