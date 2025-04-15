@@ -7,7 +7,7 @@
 
 ## Purpose of this guide
 
-Made Tech are a Microsoft Azure Partner and require all Made Tech employees to link their Microsoft Certification Account to the Made Tech Azure Partner Portal as part of their onboarding process for a number of reasons.
+Made Tech are a Microsoft Azure Partner and require all Made Tech employees with Microsoft certifications to link their Microsoft Certification Account to the Made Tech Azure Partner Portal as part of their onboarding process for a number of reasons.
 
  1. Access to free Azure Partner Training materials.
  2. Maintaining and aquiring partner levels with Azure.
