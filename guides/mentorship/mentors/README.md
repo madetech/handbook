@@ -46,7 +46,3 @@ The first session will likely be filled with introductions and discussions of ex
 - Mutually set goals with your mentee
 - Be clear about your contact schedule
 - Hold each other accountable
-
-## Mentoring Resources
-
-- [Becoming a Better Engineer by Becoming a Better Mentor](https://www.madetech.com/blog/becoming-a-better-engineer-by-becoming-a-better-mentor)

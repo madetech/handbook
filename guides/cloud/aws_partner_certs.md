@@ -1,7 +1,6 @@
 # AWS Training &amp; Certification
 
-- [AWS Training &amp; Certification](#aws-training--certification)
-  - [Purpose of this guide](#purpose-of-this-guide)
+- [Purpose of this guide](#purpose-of-this-guide)
 - [AWS Certification](#aws-certification)
 - [Creating your accounts](#creating-your-accounts)
   - [AWS Training Account](#aws-training-account)
@@ -58,11 +57,11 @@ Your AWS Certifications will not immediately appear, so check back at a later da
 
 # Learning Paths
 
-### AWS Business Professional 
+## AWS Business Professional
 
 The recommended AWS Partner training path for non-technical roles is the [AWS Business Professional](https://aws.amazon.com/partners/training/path-bus-pro/).
 
-### AWS Technical Professional 
+## AWS Technical Professional
 
 The recommended AWS Partner training path for technical roles is the [AWS Technical Professional](https://aws.amazon.com/partners/training/path-tech-pro/).
 
