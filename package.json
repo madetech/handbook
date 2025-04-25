@@ -16,7 +16,7 @@
     "url": "https://github.com/madetech/handbook/issues"
   },
   "homepage": "https://github.com/madetech/handbook#readme",
-  "dependencies": {
+  "devDependencies": {
     "chalk": "^4.0.0",
     "glob": "^7.1.6",
     "markdown-link-check": "^3.11.2"
