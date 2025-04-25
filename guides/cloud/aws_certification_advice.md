@@ -99,7 +99,7 @@ The [AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/cert
 1. [Cantrill.io](https://learn.cantrill.io/p/aws-certified-sysops-administrator-associate)
 2. [ACloudGuru](https://learn.acloud.guru/course/aws-certified-sysops-administrator-associate)
 
-### AWS Certified DevOps Engineer - Professional 
+### AWS Certified DevOps Engineer - Professional
 
 The [AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/) is the last step in the DevOps Pro certification pathway, covering the following domains. SDLC Automation, Configuration Management & Infrastructure as Code, Monitoring & Logging, Policies & Standards Automation, Incident & Event Response, High Availability, Fault Tolerance & Disaster Recovery.
 

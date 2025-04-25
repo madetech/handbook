@@ -27,14 +27,13 @@ We have grouped them by relevant teams so that you can find relevant roles toget
 - [Cloud & Engineering Practice](#cloud--engineering-practice)
 - [Data Practice](#data-practice)
 - [Cyber Security Practice](#cyber-security-practice)
-- [Operations and Finance](#operations-and-finance)
 
 ## Delivery Management
 
 Delivery Management
 - [Delivery Support Analyst](delivery_support_analyst.md)
 - [Associate Delivery Manager](associate_delivery_manager.md)
-- [Delivery Manager](_delivery_manager.md)
+- [Delivery Manager](mid_delivery_manager.md)
 - [Senior Delivery Manager](senior_delivery_manager.md)
 - [Lead Delivery Manager](lead_delivery_manager.md)
 - [Principal Delivery Manager](principal_delivery_manager.md)
@@ -75,14 +74,9 @@ Design including interaction and service design
 - [Lead Designer](lead_designer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
 - [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
 
-Leadership
-
-- [Head of Capability Practice](head_of_capability_practice.md), User-Centred
-
 ## Cloud & Engineering Practice
 
 Software Engineering
- - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](https://sfia-online.org/en/sfia-8/responsibilities/level-1))
  - [Associate Software Engineer](associate_software_engineer.md) ([SFIA Level 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2))
  - [Software Engineer](mid_software_engineer.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
  - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
@@ -100,10 +94,6 @@ Cloud Engineering
  - Lead Cloud Engineer
  - Principal Cloud Engineer
 
-Leadership
-
-- [Head of Capability Practice](head_of_capability_practice.md), Cloud & Engineering
-
 ## Data Practice
 
 Data Engineering
@@ -119,17 +109,9 @@ Data Science
  - Lead Data Scientist
  - Principal Data Scientist
 
-Leadership
-
-- [Head of Capability Practice](head_of_capability_practice.md), Data
-
 ## Cyber Security Practice
 
 Security Engineering
  - Senior Security Engineer
  - [Lead Security Engineer](lead_security_engineer.md)
  - [Principal Security Engineer](principal_security_engineer.md)
-
-Leadership
-
-- [Head of Capability Practice](head_of_capability_practice.md), Cyber Security
