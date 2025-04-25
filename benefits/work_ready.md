@@ -1,6 +1,6 @@
 # Work Ready
 
-We know you're ready to work and so we want you to be work ready. We'll equip you with a Macbook (or a PC if you're an Engineer) which will arrive at your home address prior to your start date.
+We know you're ready to work and so we want you to be work ready. We'll [equip you](../guides/it/Hardware.md) with a Macbook (or a PC if you're an Engineering or UCD and would prefer that) which will arrive at your home address prior to your start date.
 
 In addition to this, you have access to a one off £250 work ready allowance. The allowance allows you to purchase items that will assist you in your job role. It can be used from your first day, and doesn’t need to be used in one go. If you are working your notice period, you are unable to use the budget. 
 
@@ -13,7 +13,7 @@ You can see how much of your allowance is left to use by looking at your profile
 Examples of things you can order:
 
 - Monitor
-- Adapters (HDMI, USBC, etc.)
+- Adapters (HDMI, USB-C, etc.)
 - Keyboards
 - Mice
 - Ergonomic chairs, stools, stands
