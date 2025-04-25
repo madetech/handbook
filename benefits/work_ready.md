@@ -28,6 +28,6 @@ Please order items that are dispatched from the UK. If items are dispatched from
 
 [See a list of popular purchases of office equipment](https://docs.google.com/spreadsheets/d/1aVJx2Qvd6U3H6tHkzeCOY1kVsfcuwXfmXzVWJOFsVYk/edit#gid=0) (internal link). We also have a Slack channel #x-swap-shop for anyone who wants to join and see what people are offering.
 
-If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or #ops
+If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or through [Ask Made Tech](https://askmadetech.zendesk.com/hc/en-gb) (internal link).
 
 You will be unable to purchase or expense any items during your notice period. 
