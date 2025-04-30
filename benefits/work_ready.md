@@ -1,6 +1,6 @@
 # Work Ready
 
-We know you're ready to work and so we want you to be work ready. We'll equip you with a Macbook (or a PC if you're an Engineer) which will arrive at your home address prior to your start date.
+We know you're ready to work and so we want you to be work ready. We'll [equip you](../guides/it/Hardware.md) with a Macbook (or a PC if you're in Engineering or UCP and would prefer that) which will arrive at your home address prior to your start date.
 
 In addition to this, you have access to a one off £250 work ready allowance. The allowance allows you to purchase items that will assist you in your job role. It can be used from your first day, and doesn’t need to be used in one go. If you are working your notice period, you are unable to use the budget. 
 
@@ -13,7 +13,7 @@ You can see how much of your allowance is left to use by looking at your profile
 Examples of things you can order:
 
 - Monitor
-- Adapters (HDMI, USBC, etc.)
+- Adapters (HDMI, USB-C, etc.)
 - Keyboards
 - Mice
 - Ergonomic chairs, stools, stands
@@ -28,6 +28,6 @@ Please order items that are dispatched from the UK. If items are dispatched from
 
 [See a list of popular purchases of office equipment](https://docs.google.com/spreadsheets/d/1aVJx2Qvd6U3H6tHkzeCOY1kVsfcuwXfmXzVWJOFsVYk/edit#gid=0) (internal link). We also have a Slack channel #x-swap-shop for anyone who wants to join and see what people are offering.
 
-If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or #ops
+If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or through [Ask Made Tech](https://askmadetech.zendesk.com/hc/en-gb) (internal link).
 
 You will be unable to purchase or expense any items during your notice period. 
