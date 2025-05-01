@@ -77,6 +77,9 @@ The next stage in the AWS Certification journey is the [AWS Certified Cloud Prac
 #### Recommended Online Training
 1. [Stephane Maarek - Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 2. [Pluralsight](https://www.pluralsight.com/paths/aws-certified-cloud-practitioner-clf-c02)
+3. [Whizlabs](https://www.whizlabs.com/aws-certified-cloud-practitioner/)
+   You can do shorter tests on specific areas (databases, compute, etc.) so you can target specific knowledge.
+   Also if you run through them in Practice mode you can view answers and explanations as you go
 
 
 ## AWS DevOps Engineer Pathway
