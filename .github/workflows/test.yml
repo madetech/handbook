@@ -2,6 +2,12 @@ name: test
 on: push
 
 jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: tcort/github-action-markdown-link-check@v1
+
   build_and_test:
     runs-on: ubuntu-latest
 
