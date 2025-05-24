@@ -1,15 +1,15 @@
 {
   "ignorePatterns": [
-    { "pattern": "^http://www.currys.co.uk" },
-    { "pattern": "^http://www.moneysavingexpert.com" },
-    { "pattern": "^http://www.pcworld.co.uk" },
-    { "pattern": "^https://askmadetech.zendesk.com" },
-    { "pattern": "^https://docs.google.com" },
-    { "pattern": "^https://made-tech.workable.com" },
-    { "pattern": "^https://retrospectivewiki.org" },
-    { "pattern": "^https://www.cyclescheme.co.uk" },
-    { "pattern": "^https://www.glassdoor.co.uk" },
-    { "pattern": "^https://www.royalmail.com" },
-    { "pattern": "^https://www.udemy.com" }
+    { "pattern": "askmadetech.zendesk.com" },
+    { "pattern": "currys.co.uk" },
+    { "pattern": "cyclescheme.co.uk" },
+    { "pattern": "docs.google.com" },
+    { "pattern": "glassdoor.co.uk" },
+    { "pattern": "made-tech.workable.com" },
+    { "pattern": "moneysavingexpert.com" },
+    { "pattern": "pcworld.co.uk" },
+    { "pattern": "retrospectivewiki.org" },
+    { "pattern": "royalmail.com" },
+    { "pattern": "udemy.com" }
   ]
 }
