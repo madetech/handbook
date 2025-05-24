@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/madetech/handbook#readme",
   "devDependencies": {
-    "chalk": "^4.0.0",
-    "glob": "^7.1.6",
-    "markdown-link-check": "^3.11.2"
+    "markdown-link-check": "^3.13.7"
   }
 }
