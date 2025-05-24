@@ -1,0 +1,6 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^http://www.currys.co.uk" },
+    { "pattern": "pcworld.co.uk" }
+  ]
+}

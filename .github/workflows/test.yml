@@ -14,6 +14,7 @@ jobs:
 
       - uses: tcort/github-action-markdown-link-check@v1
         with:
+          config-file: .markdown-link-check.json
           use-quiet-mode: 'yes'
 
   build_and_test:
