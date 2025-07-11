@@ -1,6 +1,6 @@
 # Lunchers 
 
-Once a month in each office we select 5 people to have lunch together on us! Order from your favoriute restaurant, nip to the shops, find a local cafe or head for a walk around Borough Market - the choice is yours!
+Once a month in each office we select 5 people to have lunch together on us! Order from your favourite restaurant, nip to the shops, find a local cafe or head for a walk around Borough Market - the choice is yours!
 
 ## How it works
 
