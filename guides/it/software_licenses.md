@@ -35,7 +35,6 @@ If you need access to existing software email [it@madetech.com](mailto:it@madete
 ### Role specific (Request required)
 - Amazon Web Services (AWS)
 - Microsoft Azure
-- Jetbrains
 - [Docker](https://github.com/madetech/handbook/blob/main/guides/it/docker.md)
 - Figma
 - Dovetail
@@ -45,3 +44,6 @@ If you need access to existing software email [it@madetech.com](mailto:it@madete
 - Office 365
 - TablePlus
 - Tuple
+
+### JetBrains
+Licenses for JetBrains software, such as IntelliJ and Rider, can be used with the Made Tech license server. Details are available on [Ask Made Tech](https://askmadetech.zendesk.com/hc/en-gb/articles/23931884197661-How-do-I-get-a-Jetbrains-or-IntelliJ-licence).
