@@ -14,11 +14,11 @@ The Terraform and config for this cleanup task lives in this [azure-sandbox](htt
 
 ### Security
 
-The Azure sandbox is managed by Made Tech IT Helpdesk provider. Any security issues or concerns please raise a [IT Helpdesk ticket](mailto:it@madetech.com).
+The Azure sandbox is managed by Made Tech's IT Helpdesk provider. Any security issues or concerns please raise a [IT Helpdesk ticket](mailto:it@madetech.com).
 
 ### Access
 
-1. Login via [Azure Portal]((https://portal.azure.com/). You should be able to authenticate via SSO using your Made Tech email address.
+1. Login via [Azure Portal](https://portal.azure.com/). You should be able to authenticate via SSO using your Made Tech email address.
 
 If you do not have sufficient privileges to deploy resources please raise an [IT Helpdesk ticket](mailto:it@madetech.com).
 
