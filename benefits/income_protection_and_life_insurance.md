@@ -4,4 +4,4 @@ We offer income protection cover for all Made Tech employees. If you are unable 
 
 # Life Insurance
 
-We offer life insurance cover for all company employees which will financially support our loved ones following death. This policy pays out 4x your annual salary.
+We offer life insurance cover for all company employees which will financially support your loved ones following death. This policy pays out 4x your annual salary.
