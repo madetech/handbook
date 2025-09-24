@@ -1,7 +1,7 @@
 # Flexible Working
 
-Generally, we work Monday to Friday in all roles. But for a variety of reasons, people may need to work fewer than 5 days per week.
-We try to accommodate for this when we can. But because of client considerations, and to manage any other business impact, we have a process for requesting a flexible working pattern. 
+Generally, we work Monday to Friday (40 hours) in all roles. We trust you to manage your day, ensuring team and client commitments are met.  But for a variety of reasons, people may need to work fewer than 5 days per week.
+A formal flexible working request is where you request to contractually change your working arrangements on a permanent basis. This could be a request to change your working hours, which days you work or the location you work from and we have an internal process to support this.
 
 ## Some things to consider
 
