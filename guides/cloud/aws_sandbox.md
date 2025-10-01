@@ -80,11 +80,11 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  ```
 
 ## Admin actions
-This section is for SSO administrators (i.e. pepole in the `@sandbox-admins` group on slack)
+This section is for SSO administrators (i.e. people in the `@sandbox-admins` group on slack)
 
 ### Adding new users
 For when a user has requested to be added to the AWS sandbox
-- Login to sso https://madetech.awsapps.com/start#/
+- Login to SSO https://madetech.awsapps.com/start#/
 - Click on: `aws account` > `Made Tech` > `Management console`
 - Now go to https://eu-west-2.console.aws.amazon.com/singlesignon/identity/home?region=eu-west-2#!/users
 - On the top right click `add user`
