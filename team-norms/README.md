@@ -21,6 +21,3 @@ Our accepted development standards.
 ## [Retrospectives and Comradrospectives](retrospectives.md)
 
 Our methods of running team-wide and company-wide retrospectives.
-
-## [Timesheets](../guides/process/scheduling/how_to_timesheet.md)
-Guidance on how to fill in timesheets.
