@@ -37,6 +37,25 @@ This guide aims to make it easier to submit changes to the Handbook without usin
 5. Keep the selected option as "Commit directly". You don't need to create a new branch for every change.
 6. Press "Commit changes".
 
+### Checking for broken links
+
+There is a [GitHub Actions Workflow that checks for broken links in the Handbook](https://github.com/madetech/handbook/actions/workflows/test.yml).
+
+If you see "Some checks were not successful" above the "Squash and merge" button on the pull request overview page, click through to the failing check for the details of the broken links.
+
+You will see something like this:
+
+```console
+> @madetech/handbook@1.0.0 test
+> node build.js
+
+ [dead(400)] ../../benefits/free_bananas.md in guides/welfare/breakfast_is_important.md
+Broken links found
+Error: Process completed with exit code 1.
+```
+
+This example is telling you that there is a link to the `benefits/free_bananas.md` page in the `guides/welfare/breakfast_is_important.md` page that does not work. It should be straightforward to find the link and correct or remove it as required
+
 ### Finalising the change
 
 1. Get feedback from the wider company and address any feedback. Once you've had your Pull Request approved, you're ready to finalise your change.
