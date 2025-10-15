@@ -81,9 +81,10 @@ glob('**/*.md', (err, fileNames) => {
 
   allChecks.then((results) => {
     if (results.some(({ status }) => status === 'rejected')) {
-      handleError('Broken links found')
+      console.error(chalk.red('Broken links found'))
+      console.log('See https://github.com/madetech/handbook/blob/main/guides/contributing_to_the_handbook.md#checking-for-broken-links for more information')
+      process.exit(1)
     } else {
-      console.log(chalk.green('%s'), 'No broken links found')
       process.exit(0)
     }
   })
