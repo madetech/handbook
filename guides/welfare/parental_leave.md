@@ -50,7 +50,7 @@ As we appreciate that any need for this type of leave will likely arise during s
 
 ## Other Considerations
 
-We offer a number of additional company benefits which may be attractive to new parents, including [remote/offsite working](../../benefits/hybrid_working.md), [a generous holiday allowance](../../benefits/taking_holiday.md), [flexible work weeks](../../benefits/flexible_working.md) and [flexible working hours](../../benefits/working_hours.md).
+We offer a number of additional company benefits which may be attractive to new parents, including [remote/offsite working](../../benefits/hybrid_working.md), [a generous holiday allowance](../../benefits/taking_holiday.md), [flexible work weeks and flexible working hours](../../benefits/flexible_working.md)
 
 ### Who do I need to inform about upcoming parental leave?
 
