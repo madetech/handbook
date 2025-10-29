@@ -49,9 +49,10 @@ Head over to the [AWS Partner Network registration guide](aws_partner_registrati
 In order for your AWS Certifications to appear within the Made Tech AWS Partner account, you need to link your person Amazon account to your Amazon Partner Network account.
 
 1. [Log in to the AWS Partner Network](https://partnercentral.awspartner.com/APNLogin) with your `@madetech.com` email address.
-2. Click on `View My Profile` from the left hand `QUICK LINKS` menu.
-3. Click the blue `Edit` button.
-4. Under `AWS CERTIFICATION` add your personal AWS Certification email address to the `AWS T&C Account Email` field, and select `Yes` for `I consent to share my AWS Certifications with "Made Tech" *`
+2. Click on `My profile` from the top right hand menu, and select `My AWS Certifications`.
+3. Click the `Edit` button in the `View all Trainings and Certifications` box.
+4. Add your personal AWS Certification email address to the `AWS T&C Account Email` field, and click `Verify email`. Copy the verification code you received at your personal email address and paste it into the `Enter Verification Code` field, and click `Verify code`.
+5. Once verified, select `Yes` for `I consent to share my AWS Certifications with "Made Tech" *`.
 
 Your AWS Certifications will not immediately appear, so check back at a later date.
 
