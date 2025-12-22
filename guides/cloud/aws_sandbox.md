@@ -29,12 +29,7 @@ The AWS Sandbox account is restricted by several service control policies blocki
 
 ### CLI Usage
 
-Use [aws-vault](https://github.com/99designs/aws-vault) to run CLI commands.
-
-Reasons for using this tool can be found [here](https://github.com/99designs/aws-vault#how-it-works).
-
-1. Install [aws-vault](https://github.com/99designs/aws-vault#installing)
-2. Add the following config to your `~/.aws/config` file.
+1. Add the following config to your `~/.aws/config` file.
     ```
     [profile mt-playground]
     sso_start_url=https://madetech.awsapps.com/start
@@ -44,9 +39,10 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
     output=json
     ```
  
- 3. Test with `aws-vault exec mt-playground -- aws sts get-caller-identity`
- 4. This pops open a browser where you need to login to create a session.
- 5. Run any CLI based command in the same way e.g `aws-vault exec mt-playground -- terraform apply`
+ 2. Test with `aws sso login --profile mt-playground`
+ 3. This pops open a browser where you need to login to create a session.
+ 4. Once completed to avoid having to use the profile flag again run `export AWS_PROFILE=mt-playground`. You can set this in your .zshrc file to avoid having to run this command in each new terminal session.
+ 5. Run any CLI based command in the same way e.g `terraform apply`
 
 ## Devops Pairing Interviews Account
 
@@ -63,12 +59,7 @@ Only employees that are conducting devops pairing interviews will be given acces
 
 ### CLI Usage
 
-Use [aws-vault](https://github.com/99designs/aws-vault) to run CLI commands.
-
-Reasons for using this tool can be found [here](https://github.com/99designs/aws-vault#how-it-works).
-
-1. Install [aws-vault](https://github.com/99designs/aws-vault#installing)
-2. Add the following config to your `~/.aws/config` file.
+1. Add the following config to your `~/.aws/config` file.
 
 ```
  [profile mt-devops]
@@ -79,8 +70,10 @@ Reasons for using this tool can be found [here](https://github.com/99designs/aws
  output=json
  ```
 
+2. To run commands in this environment run `export AWS_PROFILE=mt-devops && aws sso login`
+
 ## Admin actions
-This section is for SSO administrators (i.e. pepole in the `@sandbox-admins` group on slack)
+This section is for SSO administrators (i.e. people in the `@sandbox-admins` group on slack)
 
 ### Adding new users
 For when a user has requested to be added to the AWS sandbox
