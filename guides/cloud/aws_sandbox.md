@@ -18,7 +18,7 @@ The Terraform and config for this cleanup task lives in this [aws-sandbox](https
 
 ### Security
 
-The AWS Sandbox account is restricted by several service control policies blocking creation of IAM users, and is locked down to three regions (eu-west-1, eu-west-2 and us-east-1)
+The AWS Sandbox account is restricted by several service control policies blocking creation of IAM users, and is locked down to two regions (eu-west-2 and us-east-1)
 
 ### Access
 
