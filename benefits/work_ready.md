@@ -12,17 +12,17 @@ Each team member is assigned a virtual card on Made Benefits pre-loaded with the
 
 Examples of things you can order:
 
-Monitor
-Adapters (HDMI, USBC, etc.)
-Keyboards
-Mice
-Ergonomic chairs
-Standing desks
-Headphones
-Laptop stand
-Docking station
-Extension lead
-Laptop sleeve
+- Monitor
+- Adapters (HDMI, USBC, etc.)
+- Keyboards
+- Mice
+- Ergonomic chairs
+- Standing desks
+- Headphones
+- Laptop stand
+- Docking station
+- Extension lead
+- Laptop sleeve
 
 Please order items that are dispatched from the UK. If items are dispatched from outside of the UK you could receive a duty and tax bill that will also have to be deducted from your WFH budget.
 
