@@ -23,7 +23,11 @@ We recommend using the following method to send the laptop and charger to Aura a
 
 [Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
-You can expense the postage by claiming back via Xero - in the description of the xero expense add ‘returning laptop to Aura'.
+You can expense the postage by claiming back via Xero
+
+- in the description field, add `Returning laptop to Aura`
+- in the account field, select `Postage, Freight & Courier`
+  
 You will have access to Xero to submit expense claims for about a week after your last day.
 If you are returning the laptop after this point you will need to email the receipt of the laptop postage to [finance@madetech.com](mailto:finance@madetech.com) and you will be reimbursed.
 
