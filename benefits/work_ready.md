@@ -1,31 +1,33 @@
 # Work Ready
 
-We know you're ready to work and so we want you to be work ready. We'll [equip you](../guides/it/Hardware.md) with a Macbook (or a PC if you're in Engineering or UCP and would prefer that) which will arrive at your home address prior to your start date.
+**Work Ready Budget Policy**
+From your first day at Made Tech, you have a £250 Work Ready allowance. This budget is strictly intended for essential equipment to equip yourself to be able to work from a client, Made Tech, or home office. It doesn't need to all be used in one go - you can come back and use the remaining budget when you need to.
 
-In addition to this, you have access to a one off £250 work ready allowance. The allowance allows you to purchase items that will assist you in your job role whilst working away from the office. It can be used from your first day, and doesn’t need to be used in one go. If you are working your notice period, you are unable to use the budget. 
+** Mandatory prerequisites**
+Before utilising this budget, you must complete your DSE (Display Screen Equipment) training and assessment via iHASCO. This ensures your purchases align with health and safety requirements for your specific setup.
 
-Before utilising your work ready budget, please complete your DSE (Display screen equipment) training and DSE assessment to assist you in purchasing items required to fit in with DSE requirements.
+**Eligible items (work-related only)**
+This budget is for equipment that directly facilitates your work/daily tasks. Examples include:
+Visual/tech: External monitors, laptop stands, adapters (HDMI, USB-C).
+Peripherals: Keyboards, mice, webcams.
+Ergonomics: Ergonomic chairs, stools, standing desks.
+Audio/Power: Headsets for calls, extension leads.
+Protection: Laptop bags/sleeves, privacy screens.
 
-The work ready budget can only be claimed in Made Benefits - our dedicated benefits app platform. 
 
-Each team member is assigned a virtual card on Made Benefits pre-loaded with their work ready allowance. This virtual card can be used to make eligible purchases directly through the platform.
+** Ineligible Items (non-work expenses)**
+To maintain the integrity of this benefit, the budget cannot be used for general household, lifestyle, or comfort items, including but not limited to:
+Food/Drink: Coffee machines, kettles, snacks etc.
+Decor: Plants, rugs, art etc.
+General furniture: Sofas, armchairs, side tables etc.
+Utilities: Bills, heating equipment, streaming subscriptions etc.
+Non-work tech: Personal mobile phones, tablets, TVs etc.
 
-Examples of things you can order:
+Note: If you are unsure whether an item is eligible, please get in touch with the Business Operations team by submitting a request through Ask Made Tech for pre-approval before purchasing. Unauthorised or non-compliant purchases may result in a declined expense or a request for reimbursement to the company.
 
-- Monitor
-- Adapters (HDMI, USBC, etc.)
-- Keyboards
-- Mice
-- Ergonomic chairs
-- Standing desks
-- Headphones
-- Laptop stand
-- Docking station
-- Extension lead
-- Laptop sleeve
+**How to purchase**
+Happl Card: Purchase equipment directly via the Made Benefits platform using the virtual card on the Work Ready Budget page.
+Personal card: If you use your own card, submit the expense via Xero.
+Amazon orders: You must upload the final VAT invoice (available after delivery), not the order confirmation receipt.
 
-Please order items that are dispatched from the UK. If items are dispatched from outside of the UK you could receive a duty and tax bill that will also have to be deducted from your WFH budget.
-
-[See a list of popular purchases of office equipment](https://docs.google.com/spreadsheets/d/1aVJx2Qvd6U3H6tHkzeCOY1kVsfcuwXfmXzVWJOFsVYk/edit#gid=0) (internal link). We also have a Slack channel #x-swap-shop for anyone who wants to join and see what people are offering.
-
-If you are unable to claim items back yourself, please contact the operations team on either [operations@madetech.com](mailto:operations@madetech.com) or through [Ask Made Tech](https://askmadetech.zendesk.com/hc/en-gb) (internal link).
+Security reminder: To prevent unauthorised charges, do not save the virtual card as a "default" or "one-click" payment method on any retail websites.
