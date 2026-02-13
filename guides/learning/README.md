@@ -25,7 +25,7 @@ Software
 Virtual games 
 Travel and expenses 
 
-Where you spend your individual learning budget is not restricted, we would just ask that you use a reputable site if you are purchasing online so you know you are making a safe purchase. Further information on individual learning budgets and how to accces in Bob can be found in the team member guidance document. 
+Where you spend your individual learning budget is not restricted, we would just ask that you use a reputable site if you are purchasing online so you know you are making a safe purchase. Further information on individual learning budgets and how to acccess in Bob can be found in the team member guidance document. 
 
 There is also a variety of learning content developed and shared by people at Made Tech, plus partnerships with external providers for anything that we can't deliver in-house, like certifications and specialised courses.
 
@@ -37,15 +37,15 @@ We deliver an inhouse intro to line management programme for all individuals or 
 
 Technical Training: Clean Code 101
 
-We deliver an in person Clean Code 101 training programme, a bootcapmp covering programming concepts which is suitable for all Engineering levels. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
+We deliver an in person Clean Code 101 training programme, a bootcamp covering programming concepts which is suitable for all Engineering levels. This programme is delivered throughout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
 
 Technical Training: Recapping TDD and Testing along the spectrum
 
-A 1.5 day in person boot camp aimed to build confidence in 'test driven development' using different tools across different areas of teating. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
+A 1.5 day in person boot camp aimed to build confidence in 'test driven development' using different tools across different areas of testing. This programme is delivered throughout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
 
 What is Consulting and How I should do it at Made Tech. 
 
-A one day in person bootcamp covering the consulting market, how Made tech fits into that market, how to approach account strategy and influence your client. This course is suitable for all roles at Made tech. This programme is delivered througout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
+A one day in person bootcamp covering the consulting market, how Made tech fits into that market, how to approach account strategy and influence your client. This course is suitable for all roles at Made tech. This programme is delivered throughout the year - more information can be found at https://learn.madetech.com/technology/calendar/ 
 
 
 ### When joining Made Tech
