@@ -4,7 +4,7 @@ We've signed up to TechScheme which is accessible through Made Benefits to make 
 
 TechScheme lets you get the latest tech, such as Smart Phones, Smart Watches and/or Game Consoles, up to a maximum value of £2,000. You apply for an eCertificate worth the value of your shopping basket - so decide what you want to buy before you apply for this perk. You then repay this amount via your salary across 12 months. Powered by Currys to allow you to choose from thousands of products, and take advantage of the sales! Your voucher is valid for up to two years, so no need to spend it all at once!
 
-You can now shop at Ikea for all your furtiture, flat pack & meatball needs! The process works the exact same, simply select Ikea as your chosen retailer at check out.
+You can now shop at Ikea for all your furniture, flat pack & meatball needs! The process works the exact same, simply select Ikea as your chosen retailer at check out.
 
 ## TechScheme FAQs
 
