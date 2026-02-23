@@ -18,6 +18,7 @@ This is a community-lead effort - if you own or have knowledge about an AI-theme
 ### Business initiatives
 
 - Project Turing `#project-mt-turing`
+- Technical Architectire Handbook [AI Learning Path](https://madetech.github.io/architecture-handbook/learning_paths/ai/)
 
 ### Runbooks
 
