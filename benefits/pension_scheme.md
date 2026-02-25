@@ -2,7 +2,7 @@
 
 We have introduced a much-improved pension offering for all employees (as of May 2022). The workplace pension scheme is run by Scottish Widows and follows a contribution matching model where Made Tech matches the level of contribution you decide to make.
 
-The pension contribution available to you is aligned to your SFIA level:
+The pension contribution available to you is aligned to your grade:
 - Grade 8: 4% employer matched
 - Grade 9 - 10: 6% employer matched
 - Grade 11 - 12: 7% employer matched
