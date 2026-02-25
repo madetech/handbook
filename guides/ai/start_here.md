@@ -13,6 +13,7 @@ This is a community-lead effort - if you own or have knowledge about an AI-theme
 Read the [Working Safer with AI Guidance](https://docs.google.com/document/d/1-1RaRTzsMwdYoh3qgEj73HPT3BHRZ7bPLRQETMNPhhw/edit?usp=sharing) to ensure you stay compliant as you explore further AI topics.
 
 ## Key Resources
+- Technical Architecture Handbook [AI Learning Path](https://madetech.github.io/architecture-handbook/learning_paths/ai/)
 
 ### Communities
 
