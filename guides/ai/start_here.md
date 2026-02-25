@@ -23,3 +23,10 @@ This is a community-lead effort - if you own or have knowledge about an AI-theme
 ### Runbooks
 
 - [How to set up the Claude API for individual use](guides/claude_api_setup.md)
+- [Working Safer with AI Guidance](https://docs.google.com/document/d/1-1RaRTzsMwdYoh3qgEj73HPT3BHRZ7bPLRQETMNPhhw/edit?usp=sharing)
+- Project Turing `#project-mt-turing`
+- AI Solutions Advisory Board `#ai-solutions-advisory-board`
+
+### Runbooks
+
+- [How to set up the Claude API for individual use](https://docs.google.com/document/d/10dS6PdCXS7teF7XJs5-FGVUqkrESLQqxAbqWFgiIvB0/edit?usp=sharing)
