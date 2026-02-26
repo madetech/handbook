@@ -16,14 +16,14 @@ Read the [Working Safer with AI Guidance](https://docs.google.com/document/d/1-1
 
 ### Communities
 
-- AI Guild `#guild-ai`
-- Data and AI Community-of-Practice `#cop-data-and-ai`
+- AI Guild - [`#guild-ai`](https://madetechteam.slack.com/archives/C08HKGH9VMY)
+- Data and AI Community of Practice - [`#cop-data`](https://madetechteam.slack.com/archives/C01PTEPED6G)
 
 ### Business initiatives
 
 - [Working Safer with AI Guidance](https://docs.google.com/document/d/1-1RaRTzsMwdYoh3qgEj73HPT3BHRZ7bPLRQETMNPhhw/edit?usp=sharing)
-- Project Turing `#project-mt-turing`
-- AI Solutions Advisory Board `#ai-solutions-advisory-board`
+- Project Turing [`#project-mt-turing`](https://madetechteam.slack.com/archives/C09FB0103ND)
+- AI Solutions Advisory Board [`#ai-solutions-advisory-board`](https://madetechteam.slack.com/archives/C09L2CW8HT7)
 
 ### Runbooks
 
