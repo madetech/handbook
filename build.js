@@ -41,7 +41,7 @@ function checkFile (fileName) {
           { pattern: /www.aws.training/ },
           { pattern: /www.certmetrics.com/ },
           { pattern: /www.glassdoor.co.uk/ }, // glassdoor returns 503 status to circle ci hosts
-          { pattern: /partner.microsoft.com/ } // keeps returning 0
+          { pattern: /partner.microsoft.com/ } // keeps returning 0, will always fail due to an auth redirect
         ]
       }
 
