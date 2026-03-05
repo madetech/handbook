@@ -11,7 +11,7 @@ The pension contribution available to you is aligned to your grade:
 
 The minimum contribution in every level is 4% (employer matched).
 There is no maximum contribution, however your salary must remain above the national minimum wage thresholds set by HMRC.
-If you’d like to adjust your contributions, please [submit a request via Made Benefits]([https://madetech.happl.com/]).
+If you’d like to adjust your contributions, please [submit a request via Made Benefits](https://madetech.happl.com/).
 
 Pension contributions are deferred for your first 90 days, if you want to opt in early add the date into the "Pension Scheme" section of your Hibob profile where you will be enrolled on a 4% contribution scheme which you can adjust after your probationary period.
 
