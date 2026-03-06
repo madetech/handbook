@@ -25,7 +25,7 @@ Software
 Virtual games 
 Travel and expenses 
 
-Where you spend your individual learning budget is not restricted, we would just ask that you use a reputable site if you are purchasing online so you know you are making a safe purchase. Further information on individual learning budgets and how to acccess in Bob can be found in the team member guidance document. 
+Where you spend your individual learning budget is not restricted, we would just ask that you use a reputable site if you are purchasing online so you know you are making a safe purchase. Further information on individual learning budgets and how to access in Bob can be found in the team member guidance document. 
 
 There is also a variety of learning content developed and shared by people at Made Tech, plus partnerships with external providers for anything that we can't deliver in-house, like certifications and specialised courses.
 
