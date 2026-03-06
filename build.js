@@ -1,19 +1,18 @@
-const glob = require('glob')
-const fs = require('fs')
-const path = require('path')
-const markdownLinkCheck = require('markdown-link-check')
-const chalk = require('chalk')
+import path from 'node:path';
+import markdownLinkCheck from 'markdown-link-check';
+import { glob, readFile } from "node:fs";
+import { styleText } from "node:util";
 
 function handleError (err) {
   if (err) {
-    console.error(chalk.red('%s'), err)
+    console.error(styleText('red', err))
     process.exit(1)
   }
 }
 
 function checkFile (fileName) {
   return new Promise((resolve, reject) => {
-    fs.readFile(fileName, 'utf8', (err, md) => {
+    readFile(fileName, 'utf8', (err, md) => {
       handleError(err)
 
       const baseUrl = `file://${path.dirname(path.resolve(fileName))}`
@@ -42,6 +41,7 @@ function checkFile (fileName) {
           { pattern: /www.aws.training/ },
           { pattern: /www.certmetrics.com/ },
           { pattern: /www.glassdoor.co.uk/ }, // glassdoor returns 503 status to circle ci hosts
+          { pattern: /partner.microsoft.com/ } // keeps returning 0, will always fail due to an auth redirect
         ]
       }
 
@@ -55,7 +55,7 @@ function checkFile (fileName) {
 
         results.forEach(function (result) {
           if (result.status === 'dead') {
-            console.error(chalk.gray(' [' + chalk.red('%s') + '(%s)] %s in %s'), result.status, result.statusCode, result.link, fileName)
+            console.error(`${styleText('gray', "[")}${styleText('red', result.status)}${styleText('gray',`(${result.statusCode})] ${result.link} in ${fileName}`)}`)
             hasErrored = true
           }
         })
@@ -81,7 +81,7 @@ glob('**/*.md', (err, fileNames) => {
 
   allChecks.then((results) => {
     if (results.some(({ status }) => status === 'rejected')) {
-      console.error(chalk.red('Broken links found'))
+      console.error(styleText('red', 'Broken links found'))
       console.log('See https://github.com/madetech/handbook/blob/main/guides/contributing_to_the_handbook.md#checking-for-broken-links for more information')
       process.exit(1)
     } else {
