@@ -14,6 +14,10 @@ Read the [Working Safer with AI Guidance](https://docs.google.com/document/d/1-1
 
 ## Key Resources
 
+### Learning Resources
+
+- Technical Architecture Handbook [AI Learning Path](https://madetech.github.io/architecture-handbook/learning_paths/ai/)
+
 ### Communities
 
 - AI Guild - [`#guild-ai`](https://madetechteam.slack.com/archives/C08HKGH9VMY)
