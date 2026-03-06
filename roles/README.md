@@ -2,21 +2,28 @@
 
 This is a list of roles at Made Tech including details on the skills and seniority level they operate at.
 
-We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://madetech.com/careers).
+We have listed roles here so that you can learn about what roles we have and how we are organised. If you are looking for open vacancies, visit the [careers page on our website](https://madetech.com/careers). Our roles will show their associated grade and salary.
 
 ## Seniority levels
 
-We use the SFIA Framework to indicate seniority. We use prefixes in role titles to indicate their SFIA level.
+We use an external job evaluation scheme to determine grading alongside a job descriptor framework to indicate seniority. We use prefixes in role titles to indicate their position in the structure - following as examples.
 
-| SFIA Level | Role prefix | Examples |
-| :- | :- | :- |
-| [SFIA 1](https://sfia-online.org/en/sfia-8/responsibilities/level-1) | Academy | Academy Designer, Academy Software Engineer |
-| [SFIA 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2) | Associate | Associate Designer, Associate Software Engineer |
-| [SFIA 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3) | Mid | Designer, Software Engineer |
-| [SFIA 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4) | Senior | Senior Designer, Senior Software Engineer |
-| [SFIA 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5) | Lead | Lead Designer, Lead Software Engineer |
-| [SFIA 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6) | Principal | Principal Designer, Principal Software Engineer, Head of Capability Practice |
-| [SFIA 7](https://sfia-online.org/en/sfia-8/responsibilities/level-7) | Director | Director of Capability Practice |
+| Role prefix | Examples |
+
+| Academy | Academy Designer, Academy Software Engineer |
+
+| Associate | Associate Designer, Associate Software Engineer |
+
+| Mid | Designer, Software Engineer |
+
+| Senior | Senior Designer, Senior Software Engineer |
+
+| Lead | Lead Designer, Lead Software Engineer |
+
+| Principal | Principal Designer, Principal Software Engineer, Principal Data Analyst, Head of Capability Practice |
+
+| Head of Service Line |
+| Director | Industry Director | Chief Delivery Officer  
 
 ## Role teams
 
@@ -57,31 +64,31 @@ Business Analysis
 - [Principal Business Analyst](principal_business_analyst.md)
 
 Content Design
-- [Senior Content Designer](senior_content_designer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
-- [Lead Content Designer](lead_content_designer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [Senior Content Designer](senior_content_designer.md) 
+- [Lead Content Designer](lead_content_designer.md) 
+- [User-Centred Design Principal](principal_ucp.md) 
 
 User Research
-- [User Researcher](mid_user_researcher.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
-- [Senior User Researcher](senior_user_researcher.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
-- [Lead User Researcher](lead_user_researcher.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [User Researcher](mid_user_researcher.md) 
+- [Senior User Researcher](senior_user_researcher.md) 
+- [Lead User Researcher](lead_user_researcher.md) 
+- [User-Centred Design Principal](principal_ucp.md)
 
 Design including interaction and service design
-- [Associate Designer](associate_designer.md) ([SFIA Level 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2))
-- [Designer](mid_designer.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
-- [Senior Designer](senior_designer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
-- [Lead Designer](lead_designer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
-- [User-Centred Design Principal](principal_ucp.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+- [Associate Designer](associate_designer.md) 
+- [Designer](mid_designer.md) 
+- [Senior Designer](senior_designer.md) 
+- [Lead Designer](lead_designer.md) 
+- [User-Centred Design Principal](principal_ucp.md) 
 
 ## Cloud & Engineering Practice
 
 Software Engineering
- - [Associate Software Engineer](associate_software_engineer.md) ([SFIA Level 2](https://sfia-online.org/en/sfia-8/responsibilities/level-2))
- - [Software Engineer](mid_software_engineer.md) ([SFIA Level 3](https://sfia-online.org/en/sfia-8/responsibilities/level-3))
- - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](https://sfia-online.org/en/sfia-8/responsibilities/level-4))
- - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](https://sfia-online.org/en/sfia-8/responsibilities/level-5))
- - [Principal Software Engineer](principal_technologist.md) ([SFIA Level 6](https://sfia-online.org/en/sfia-8/responsibilities/level-6))
+ - [Associate Software Engineer](associate_software_engineer.md) 
+ - [Software Engineer](mid_software_engineer.md) 
+ - [Senior Software Engineer](senior_software_engineer.md) 
+ - [Lead Software Engineer](lead_software_engineer.md) 
+ - [Principal Software Engineer](principal_technologist.md) 
 
 Technical Architecture
  - Lead Technical Architect
