@@ -94,3 +94,64 @@ This includes spelling mistakes, poorly worded sections, and writing something d
 3. Address feedback
 4. Wait for an approval
 5. Merge
+
+## Getting permission to contribute to the Handbook
+
+You may find that you don't have write permissions on the handbook. Here is how to contribute:
+
+### Made Tech employees
+
+If you are a Made Tech employee, it is as simple as asking the IT service team for access to the GitHub Made Tech Software team (you should be able to access IT Services on Slack or on your Desktop). 
+
+Once you're part of the MT Software Team, it is as simple as following the instructions above. When you create the PR, if you're not asked to create a fork of this repo, then you're on the good path. If you are asked to create a fork, please speak to IT services to ensure you have write access to the handbook.
+
+### Non Made Tech folks
+
+Hello! 👋 Thank you for taking the time to contribute to the handbook! However, once you get to the PR phase, you may find your PR is stuck waiting for the CI/CD pipeline to trigger. This is intentional - to get your changes merged, you'll need to request access to a MT employee with write permissions on this repo.
+
+If you are a MT employee with write permisssions, here is how to trigger the CI/CD process for forks:
+
+1. Go to the fork's repository and grab the repo URL (e.g. `git@github.com:sohebmahmood-madetech/handbook.git`)
+2. On your machine, navigate to the handbook git repo, and add the URL as an additional remote repo
+
+```bash
+git remote add <user friendly repo name> <repo>
+```
+
+e.g.
+```bash
+git remote add sohebmahmood-mt git@github.com:sohebmahmood-madetech/handbook.git
+```
+
+3. Fetch the newly added remote
+
+```bash
+git fetch <user friendly repo name>
+```
+
+e.g.
+```bash
+git fetch sohebmahmood-mt
+```
+
+4. Checkout the branch
+
+```bash
+git checkout sohebmahmood-madetech/patch-1
+```
+
+5. Rename it locally to a branch name that is less likely to cause conflicts when pushed into the `origin` remote
+
+```bash
+git checkout -b sohebmahmood-mt-patch-1
+```
+
+6. Push into `origin`
+
+```bash
+git push origin sohebmahmood-mt-patch-1
+```
+
+This **should** be enough to trigger the CI/CD pipeline to do the build locally. If the build fails, any new changes will most likely need to be pulled in and pushed into the `origin` branch until the build passes. 
+
+Once the build passes and you get the relevant approvals, feel free to merge the changes into the handbook. Once the PR is merged, _please_ delete the branch from `origin` (it is as simple as going to the Handbook home page, click on _Branches_, finding the new branch and pressing the delete icon next to it).
