@@ -87,7 +87,7 @@ From there, you may end up at Martin Fowler’s website reading about [TestDoubl
 
 Here are some extra docs about [Test Smells](https://blog.xnsio.com/2009/02/01/smells-in-test-that-indicate-design-problems/) to go through at a high level.
 
-While **Uncle Bob** will always remind us to keep [trying](https://www.youtube.com/watch?v=tL89VP3nuwc) and [trying](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) with TDD \- as it is a way of working/skill to learn and build up. You probably won’t grasp it in one setting, and perhaps not even on your own \- paired programming is always encouraged at Made Tech.
+While **Uncle Bob** will always remind us to keep [trying](https://www.youtube.com/watch?v=tL89VP3nuwc) and [trying](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) with TDD \- as it is a way of working/skill to learn and build up. You probably won’t grasp it in one sitting, and perhaps not even on your own \- paired programming is always encouraged at Made Tech.
 
 ## **Katas**
 
@@ -116,7 +116,7 @@ To help grow your familiarity, here are some channels you can join (or may have 
 [\#guild-systems-design :](https://madetechteam.slack.com/archives/C06LVRLBY3E)   
 This channel is about building your system design knowledge, primarily through a weekly meeting on Monday to test your knowledge through various challenges. Feel free to come along and try your best at the challenge and expand the scope of your experiences. Why not try hosting a session and create a challenge to intrigue and invigorate others? New hosts are always welcome\! Just ask in the channel if you want more guidance.
 
-\#cop-your-cop:  
+\#cop-{your-cop}:  
 We’ve already spoken about this, but the one for your service line is very useful to join. Like the guild system they have a weekly (or so) session that you can join and host as well, very useful for getting to know your colleagues.
 
 [\#guild-ai](https://madetechteam.slack.com/archives/C08HKGH9VMY):  
