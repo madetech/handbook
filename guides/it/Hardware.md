@@ -4,15 +4,13 @@ Aura look after all the laptops and other IT infrastructure in the offices. For 
 For accessories such as monitors, keyboards, etc. take a look [here](https://github.com/madetech/handbook/blob/main/benefits/work_ready.md).
 
 ### Laptops
-Everyone at Made Tech will be given a laptop aligned to the role they do. The Linux users in Made Tech would like to specifically highlight that Engineers can request Linux machines :)
-
-The current standard laptop specs for new purchases are:
+Everyone at Made Tech will be given a laptop aligned to the role they do. The current standard laptop specs for new purchases are:
 
 **Technology, Software Division, Strategy & Design, and Managed Services Engineers**
 - MacBook Pro (14inch standard display)
-- Apple M4 with 10-core CPU, 10-core GPU, 16-core Neural Engine
+- Apple M5 with 10-core CPU, 10-core GPU, 10-core Neural Engine
 - 32GB unified memory
-- 512GB SSD storage
+- 512GB - 1TB SSD storage
 
 OR
 
@@ -24,15 +22,18 @@ OR
 
 (Gen, processor, memory and overall spec can vary on the ThinkPads - we'll talk to you individually about options.)
 
+If you're a new starter you will automatically get a MacBook. If you would like to use Linux we'll happily swap you over a couple of months into your new role.
+This is because we are unable to support the setup of Linxu machines for new starters.
+
 **All other roles**
-- Air M4 (13 inch)
-- Apple M4 chip with 8‐core CPU, 8‐core GPU
+- Air M5 (13 inch)
+- Apple M5 chip with 10‐core CPU, 8‐core GPU
 - 16GB unified memory
-- 256GB SSD storage
+- 512GB SSD storage
 
 You may have or receive a laptop with a slightly different spec - these are older machines which are still within the 3 or 4 year replacement period (see below).
 
-Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was January 2025.
+Standard laptop specs will be reviewed annually, and as and when Apple change their specs. The last review was March 2026.
 
 If there is an issue with your laptop please email [it@madetech.com](mailto:it@madetech.com)
 
@@ -46,4 +47,4 @@ Please note - the replacement is due on the date the laptop was bought by Made T
 
 When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one. You do not have to have a replacement - if you're perfectly happy with the laptop you currently have then great. You can request a replacement at any point after the 3 or 4 year mark, whichever is applicable. New laptops will be whatever the standard spec is for your role at that time.
 
-As of July 2025 we are running 6 months behind on replacements for Pros. We're working through in date order.
+As of May 2025 we are running 3 months behind on replacements for Pros. We're working through in date order.
