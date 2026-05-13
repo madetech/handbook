@@ -47,4 +47,4 @@ Please note - the replacement is due on the date the laptop was bought by Made T
 
 When your laptop is due for replacement you'll be contacted by Aura to arrange for a new one to be given to you and return of the old one. You do not have to have a replacement - if you're perfectly happy with the laptop you currently have then great. You can request a replacement at any point after the 3 or 4 year mark, whichever is applicable. New laptops will be whatever the standard spec is for your role at that time.
 
-As of May 2025 we are running 3 months behind on replacements for Pros. We're working through in date order.
+As of May 2026 we are running 3 months behind on replacements for Pros. We're working through in date order.
