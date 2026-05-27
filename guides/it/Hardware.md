@@ -23,7 +23,7 @@ OR
 (Gen, processor, memory and overall spec can vary on the ThinkPads - we'll talk to you individually about options.)
 
 If you're a new starter you will automatically get a MacBook. If you would like to use Linux we'll happily swap you over a couple of months into your new role.
-This is because we are unable to support the setup of Linxu machines for new starters.
+This is because we are unable to support the setup of Linux machines for new starters.
 
 **All other roles**
 - Air M5 (13 inch)
