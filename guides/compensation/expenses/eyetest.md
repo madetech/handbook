@@ -1,19 +1,19 @@
-# Eye Test Expenses
+# Eye Tests
 
-Everyone is able to claim back the costs of an annual eye test. You need to:
+Made Tech have a corporate eyecare scheme with Specsavers. Your voucher covers:
+- A full eye examination at any Specsavers store
+- £20 discount off glasses from the £100 range and above
 
-- Book the eye test yourself and get a receipt
-- Submit the receipt for the eye test through Xero, using the category 'Staff discrentionary benefit'.
+If your optician confirms that your prescription is is needed purely for screen/VDU use only, you'll also be entitled to either:
+- A free pair of single-vision glasses from the £50 range, or
+- A £50 contribution toward another pair
 
-## Claiming for Lenses and Frames
+Please note that this additional entitlement does not apply if your glasses could also be used for other tasks such as reading or driving, even if VDU use is their primary purpose. This extra support is specifically for people whose eyes require a dedicated pair of screen glasses. If your glasses can be used more generally, including at a screen, no additional contribution will apply.
 
-If the outcome of the eye test is that you require glasses for the use of Display Screen Equipment (DSE) or (visual/video display unit (VDU), where an ordinary prescription is not suitable, then Made Tech will make a contribution towards the costs of a pair of glasses.
+#### A note on using other opticians
+Specsavers is Made Tech's nominated eyecare provider, and we're not able to reimburse the cost of eye tests or glasses obtained elsewhere. To make sure you're covered, please use your Specsavers voucher rather than booking independently.
 
-- Made Tech will pay for the lenses plus an additional £60 toward any frames that you choose.
-- After you purchase your frames and lenses, submit the receipts through Xero.
+## How to request your voucher
+Raise a request via Ask Made Tech to the Business Operations team and a voucher will be sent over to you.
 
-Please request that the optician provides a report/copy of the prescription indicating these are required specifically for DSE or VDU use.
 
-**Note:** If you use Westfield Health you may want to reclaim the cost using their service instead, especially if you wish to purchase more expensive frames.
-
-If you have any questions on this please contact #ops
