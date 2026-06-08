@@ -2,8 +2,7 @@
 
 - Location: mainly remote with occasional office and client visits
 - Offices: London, Bristol, Manchester, and Swansea
-- Salary: £38,250 - £72,250 with a London-weighting of £40,162 - £75,862
-- SFIA: Level 4
+- Grade:  10
 
 Senior Designers at Made Tech are senior specialists in their design discipline(s). In this case, we’re looking for an expert practitioner in Interaction and Service Design who is able to coach, mentor and supervise other designers within the Interaction and Service Design discipline at Made Tech. Success in this role means guiding the work of other designers within the Interaction and Service Design disciplines to deliver positive outcomes. 
 
