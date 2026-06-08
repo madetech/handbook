@@ -22,8 +22,6 @@ We mainly work remotely but you may need to visit clients or go to the office oc
 
 We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
-
 ## Applying
 
 We don't hire directly for Associate Software Engineer roles at Made Tech. We prioritise our hiring opportunities towards our Software Engineering Academy. You’ll need to complete our 12-week academy programme. After your first 6 months at Made Tech, you’ll be in a position to pass probation and become an Associate Software Engineer with us. Learn more about our academy and find out when we’re accepting applications at https://www.madetech.com/careers/academy. We’d still love to hear from you if you feel our academy or more senior engineering roles aren’t a good fit for you. If you have any questions, drop us a line at [careers@madetech.com](mailto:careers@madetech.com).
