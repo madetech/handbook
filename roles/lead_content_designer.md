@@ -3,7 +3,7 @@
 * Location: mainly remote with occasional office and client visits
 * Offices: London, Bristol, Manchester, and Swansea
 * Salary: Please refer to the add when the job is live
-* SFIA: Level 5
+* Grade: 11
 
 
 ## Summary
