@@ -67,7 +67,5 @@ We adopt a hybrid approach and anticipate that most roles will spend a mixture o
 
 We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
-
 ## Work perks and benefits
 Take a look at the Benefits & Perks section of the Made Tech Handbook to see what we can offer you.
