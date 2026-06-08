@@ -3,7 +3,7 @@
 - Location: mainly remote with occasional office and client visits
 - Offices: London, Bristol, Manchester, and Swansea
 - Salary: Please refer to the job advert when this role is live
-- SFIA: Level 2
+- Grade: 8
 
 ## Summary
 
@@ -56,7 +56,6 @@ Take a look at the Benefits & Perks section of the [Made Tech Handbook](https://
 
 We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
 
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 
