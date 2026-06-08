@@ -2,8 +2,7 @@
 
 - Location: mainly remote with occasional office and client visits
 - Offices: London, Bristol, Manchester, and Swansea
-- Salary: £29,750 - £42,500 with a London-weighting of £31,237 - £44,625
-- SFIA: Level 3
+- Grade: 9
 
 Designers might already be a Product Designer, UX Designer, Service Designer or Interaction Designer.
 
