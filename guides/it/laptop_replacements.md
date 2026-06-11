@@ -23,15 +23,9 @@ SO40 3WX
 </pre>
 
 We recommend using the following method to send the laptop and charger to Aura as this both tracks and insures the laptop, and you can arrange to have the parcel collected from your home:
-
 [Special Next Day Delivery](https://www.royalmail.com/sending/uk/special-delivery-guaranteed-1pm)
 
-You can expense the postage by claiming back via Xero ([guide](../compensation/expenses.md) and [policy](https://docs.google.com/document/d/1NthAC1xepzAI07o40c6WxXHbPttNxaCidhJ22eJHD-k/edit#)), completing the following fields:
-- Description: "Returning laptop to Aura for replacement"
-- Account: "Postage, Freight & Courier"
-- Industry: If it's a client laptop then it will depend on the client. If it's a Made Tech laptop then "Group"
-- Capabilities: Your own capability
-- Assign to customer: If it's a client laptop then it will depend on the client. If it's a Made Tech laptop then leave blank
-- Label: Leave blank
+You can expense the postage by claiming back via Kantata (formerly Kimble)
+- **Activity** - select **Staff Operations // Postage**
 
 We do not offer an option to purchase your laptop.
