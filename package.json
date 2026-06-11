@@ -16,6 +16,9 @@
     "url": "https://github.com/madetech/handbook/issues"
   },
   "homepage": "https://github.com/madetech/handbook#readme",
+  "dependencies": {
+    "glob": "^11.0.0"
+  },
   "devDependencies": {
     "markdown-link-check": "^3.14.2"
   },
