@@ -15,11 +15,11 @@ If you are posting the laptop you need to ensure it’s suitably packaged and ha
 
 <pre>
 Aura Technology
-1-2 Trinity Court
-Brunel Road
-Totton
-Southampton
-SO40 3WX
+Grange Business Park, 
+The Pavillion Botleigh, 
+Hedge End, 
+Southampton, 
+SO30 2AF
 </pre>
 
 We recommend using the following method to send the laptop and charger to Aura as this both tracks and insures the laptop, and you can arrange to have the parcel collected from your home:
