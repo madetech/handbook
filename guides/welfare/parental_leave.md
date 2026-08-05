@@ -37,7 +37,7 @@ See the government guidelines: [www.gov.uk/paternity-pay-leave](https://www.gov.
 
 You may be eligible for Neonatal Care Leave in addition to your parental leave should your child require further hospital care when born. There are two tiers of Neonatal Care Leave, and accrual can be from a minimum of 1 week up to a maximum of 12 weeks, but it will depend on individual circumstances. 
 
-As we appreciate that any need for this type of leave will likely arise during sensitive and stressful moments, please contact your People Partner to discuss this in more detail. They will work closely with you to manage any leave needs in the best way possible.
+As we appreciate that any need for this type of leave will likely arise during sensitive and stressful moments, please contact your People Manager or member of the People Team to discuss this in more detail. They will work closely with you to manage any leave needs in the best way possible.
 
 ## Other Considerations
 
