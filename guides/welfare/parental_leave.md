@@ -1,46 +1,37 @@
 # Maternity, paternity, adoption and shared parental leave
 
-Whether you or your partner are having a baby, you're adopting a child or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so you can welcome the new child (or children!) into your family. Our paid parental leave is the same for all!
+Whether you or your partner are having a baby, you're adopting a child, or having a baby through a surrogacy arrangement, Made Tech encourages you to take leave so you can welcome the new child (or children!) into your family. 
 
 **Note:** You will have to have worked at Made Tech for at least 26 weeks at the point of the child/children's birth to be eligible for these benefits.
 
 ## Maternity and adoption leave
 
-We provide 12 weeks maternity/adoption leave at full pay. [If you’re eligible](https://www.gov.uk/employers-maternity-pay-leave), you’ll get statutory pay for a further 39 weeks. You can take up to a total of 52 weeks.
+We provide 16 weeks maternity/adoption leave at full pay. [If you’re eligible](https://www.gov.uk/employers-maternity-pay-leave), you’ll get statutory pay for a further 39 weeks. You can take up to a total of 52 weeks.
 
 For adoption leave, only one parent can take this type of leave. The other parent will need to take paternity leave or shared parental leave.
 
 The breakdown of pay is:
-
-- 12 weeks at 100% pay (from Made Tech)
-- 6 weeks at 90% pay (statutory maternity/adoption pay)
-- 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
-- return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
+- Weeks 1–16: Full Pay (90% SMP + Made Tech Top-Up)
+- Weeks 17–22: 90% Pay (SMP + Made Tech Top-Up)
+- Weeks 23–39: Statutory Maternity Pay (SMP) only
+- Weeks 40–51: Made Tech equivalent of SMP
+- Week 52: Unpaid
+- Return to work on reduced hours (80%) for 4 weeks on full pay to phase back into full-time work
 
 See the detailed government guidelines: [www.gov.uk/employers-maternity-pay-leave](https://www.gov.uk/employers-maternity-pay-leave) and [https://www.gov.uk/employers-adoption-pay-leave](https://www.gov.uk/employers-adoption-pay-leave).
 
+The rules around SPL are fairly complex. See the government guidelines: [https://www.gov.uk/shared-parental-leave-and-pay](https://www.gov.uk/shared-parental-leave-and-pay).
+
 ## Paternity leave
-We provide 12 weeks paternity leave at full pay and the option of shared parental leave.
+We provide 10 weeks paternity leave at full pay and the option of shared parental leave.
 
 The breakdown of pay is:
+- Weeks 1–10: Full Pay 
+- Return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full-time work
 
-- 12 weeks at 100% pay
-- return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
 
 See the government guidelines: [www.gov.uk/paternity-pay-leave](https://www.gov.uk/paternity-pay-leave).
 
-## Shared parental leave
-
-We provide 12 weeks shared parental leave at full pay and up to 39 weeks at statutory pay.
-
-The breakdown of pay is as follows if you qualify for SPL:
-
-- 12 weeks at 100% pay (from Made Tech)
-- 6 weeks at 90% pay (statutory shared parental pay)
-- 33 weeks at statutory or 90% pay whichever is lower (statutory maternity/adoption pay)
-- return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full time work
-
-The rules around SPL are fairly complex. See the government guidelines: [https://www.gov.uk/shared-parental-leave-and-pay](https://www.gov.uk/shared-parental-leave-and-pay).
 
 ## Neonatal Care Leave
 
