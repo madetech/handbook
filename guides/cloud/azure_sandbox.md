@@ -20,5 +20,6 @@ The Azure sandbox is managed by Made Tech's IT Helpdesk provider. Any security i
 
 1. Login via [Azure Portal](https://portal.azure.com/). You should be able to authenticate via SSO using your Made Tech email address.
 
-If you do not have sufficient privileges to deploy resources please raise an [IT Helpdesk ticket](mailto:it@madetech.com).
+If you do not have sufficient privileges to deploy resources please raise an [IT Helpdesk ticket](mailto:it@madetech.com), and ask for developer access.  
+
 
