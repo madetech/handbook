@@ -27,7 +27,7 @@ We provide 10 weeks paternity leave at full pay and the option of shared parenta
 
 The breakdown of pay is:
 - Weeks 1–10: Full Pay 
-- Return to work on reduced hours (30 hours) for 4 weeks on full pay to phase back into full-time work
+- Return to work on reduced hours (80%) for 4 weeks on full pay to phase back into full-time work
 
 
 See the government guidelines: [www.gov.uk/paternity-pay-leave](https://www.gov.uk/paternity-pay-leave).
