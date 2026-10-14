@@ -1,8 +1,8 @@
 Here is a list of the time off types in HiBob and some examples of what they should be booked for :
 
 ## Holiday 
-We have adopted a flexible holiday policy, where each team member is given the flexibility to take whatever holiday they need.  
-Please see our [flexible holiday page](https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md)
+All team members have 38 days of leave available between June and May, inclusive of public and bank holidays.
+Please see our [taking holiday page](https://github.com/madetech/handbook/blob/main/benefits/taking_holiday.md)
 
 ## Sick 
 We recognise that for our team to perform at the highest possible level, they need to be healthy in mind and body. 
